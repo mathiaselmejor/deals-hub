@@ -1,0 +1,28 @@
+import type { MetadataRoute } from "next";
+import { getCatalog, getTopLists } from "@/lib/products";
+
+export const dynamic = "force-static";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const catalog = getCatalog();
+  const lists = getTopLists();
+  const base = "https://dealshub.es";
+
+  return [
+    { url: base, lastModified: catalog.lastUpdated, changeFrequency: "daily", priority: 1 },
+    { url: `${base}/rankings`, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${base}/guia-afiliados`, changeFrequency: "monthly", priority: 0.6 },
+    { url: `${base}/videos`, changeFrequency: "weekly", priority: 0.7 },
+    ...catalog.products.map((p) => ({
+      url: `${base}/producto/${p.id}`,
+      lastModified: catalog.lastUpdated,
+      changeFrequency: "daily" as const,
+      priority: 0.9,
+    })),
+    ...lists.map((l) => ({
+      url: `${base}/rankings/${l.slug}`,
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    })),
+  ];
+}

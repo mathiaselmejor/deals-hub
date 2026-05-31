@@ -1,0 +1,65 @@
+{
+  "market": "ES",
+  "currency": "EUR",
+  "locale": "es-ES",
+  "disclaimer": "Como afiliado, ganamos una comisión por compras cualificadas sin coste extra para ti.",
+  "networks": {
+    "amazon": {
+      "name": "Amazon Afiliados",
+      "signupUrl": "https://afiliados.amazon.es/",
+      "tagPlaceholder": "TU-TAG-21",
+      "tagEnvKey": "NEXT_PUBLIC_AMAZON_TAG",
+      "active": false
+    },
+    "awin": {
+      "name": "Awin",
+      "signupUrl": "https://www.awin.com/es",
+      "publisherIdPlaceholder": "TU_PUBLISHER_ID",
+      "tagEnvKey": "NEXT_PUBLIC_AWIN_PUBLISHER_ID",
+      "active": false
+    },
+    "admitad": {
+      "name": "Admitad",
+      "signupUrl": "https://www.admitad.com/es/",
+      "tagEnvKey": "NEXT_PUBLIC_ADMITAD_ID",
+      "active": false
+    },
+    "tradetracker": {
+      "name": "TradeTracker",
+      "signupUrl": "https://tradetracker.com/es/",
+      "tagEnvKey": "NEXT_PUBLIC_TRADETRACKER_ID",
+      "active": false
+    },
+    "ebay": {
+      "name": "eBay Partner Network",
+      "signupUrl": "https://partnernetwork.ebay.es/",
+      "campaignIdPlaceholder": "TU_CAMPAIGN_ID",
+      "tagEnvKey": "NEXT_PUBLIC_EBAY_CAMPAIGN_ID",
+      "active": false
+    },
+    "aliexpress": {
+      "name": "AliExpress Portals",
+      "signupUrl": "https://portals.aliexpress.com/",
+      "tagEnvKey": "NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID",
+      "active": false
+    },
+    "booking": {
+      "name": "Booking.com Afiliados",
+      "signupUrl": "https://www.booking.com/affiliate-program/v2/index.html",
+      "tagEnvKey": "NEXT_PUBLIC_BOOKING_AID",
+      "active": false
+    }
+  },
+  "stores": {
+    "amazon": { "label": "Amazon", "color": "#FF9900", "network": "amazon" },
+    "pccomponentes": { "label": "PcComponentes", "color": "#FF6600", "network": "awin" },
+    "mediamarkt": { "label": "MediaMarkt", "color": "#DF0000", "network": "awin" },
+    "elcorteingles": { "label": "El Corte Inglés", "color": "#006633", "network": "awin" },
+    "fnac": { "label": "Fnac", "color": "#E4A800", "network": "awin" },
+    "ebay": { "label": "eBay", "color": "#0064D2", "network": "ebay" },
+    "aliexpress": { "label": "AliExpress", "color": "#E43225", "network": "aliexpress" },
+    "booking": { "label": "Booking.com", "color": "#003580", "network": "booking" },
+    "decathlon": { "label": "Decathlon", "color": "#0082C3", "network": "awin" },
+    "ikea": { "label": "IKEA", "color": "#0058A3", "network": "awin" }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "lists": [
+    {
+      "slug": "mejores-air-fryers-2026",
+      "title": "Mejores freidoras de aire 2026",
+      "description": "Comparativa de las freidoras sin aceite más vendidas en España, con precios actualizados en múltiples tiendas.",
+      "productIds": ["ninja-airfryer", "cosori-airfryer"]
+    },
+    {
+      "slug": "mejores-auriculares-bluetooth",
+      "title": "Mejores auriculares Bluetooth 2026",
+      "description": "Desde AirPods hasta alternativas económicas. Comparamos precios en Amazon, MediaMarkt y Fnac.",
+      "productIds": ["airpods-4", "sony-wh1000xm5"]
+    },
+    {
+      "slug": "regalos-tech-menos-50",
+      "title": "Regalos tech por menos de 50€",
+      "description": "Ideas de regalo con buena relación calidad-precio para cumpleaños, Reyes o San Valentín.",
+      "productIds": ["stanley-quencher", "camara-seguridad", "kindle", "creatina"]
+    },
+    {
+      "slug": "setup-gaming-teletrabajo",
+      "title": "Setup gaming y teletrabajo",
+      "description": "Silla, portátil y periféricos para montar tu espacio de trabajo o gaming sin gastar de más.",
+      "productIds": ["silla-gaming", "portatil-lenovo", "teclado-logitech"]
+    }
+  ]
+}

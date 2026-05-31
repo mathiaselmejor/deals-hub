@@ -13,7 +13,7 @@ function LoginForm() {
   const [email, setEmail] = useState("");
   const [emailSent, setEmailSent] = useState(false);
 
-  const signIn = async (provider: "google" | "facebook") => {
+  const signIn = async (provider: "google" | "facebook" | "github") => {
     setLoading(provider);
     const supabase = createClient();
     const origin = window.location.origin;
@@ -62,7 +62,7 @@ function LoginForm() {
         ) : (
           <form onSubmit={signInWithEmail} className="mt-6 space-y-3">
             <p className="text-xs font-semibold uppercase tracking-wider text-slate-500">
-              O con tu email
+              Con tu email
             </p>
             <input
               type="email"
@@ -89,6 +89,14 @@ function LoginForm() {
         </div>
 
         <div className="space-y-3">
+          <button
+            onClick={() => signIn("github")}
+            disabled={!!loading}
+            className="flex w-full items-center justify-center gap-3 rounded-xl border border-white/10 bg-white/5 py-3.5 font-medium transition hover:bg-white/10 disabled:opacity-50"
+          >
+            {loading === "github" ? "..." : "🐙"} Continuar con GitHub
+          </button>
+
           <button
             onClick={() => signIn("google")}
             disabled={!!loading}

@@ -15,7 +15,7 @@ export function TopListsSection() {
           Ver todos →
         </Link>
       </div>
-      <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {lists.map((list) => (
           <Link
             key={list.slug}
@@ -43,8 +43,8 @@ export function TrustBar() {
         {[
           { icon: "🏪", n: "10+", l: "Tiendas comparadas" },
           { icon: "📦", n: `${catalog.products.length}`, l: "Productos activos" },
-          { icon: "💰", n: "Hasta 38%", l: "Descuento máximo" },
-          { icon: "🇪🇸", n: "100%", l: "Mercado español" },
+          { icon: "🏷️", n: `${catalog.categories.length - 1}`, l: "Categorías" },
+          { icon: "💰", n: "Hasta 40%", l: "Descuento máximo" },
         ].map((s) => (
           <div key={s.l} className="rounded-xl border border-white/5 bg-card/50 p-4 text-center">
             <p className="text-xl">{s.icon}</p>

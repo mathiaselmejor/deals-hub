@@ -1,11 +1,27 @@
 import affiliateConfig from "../../data/affiliate-config.json";
 import productsData from "../../data/products.json";
+import extraProductsData from "../../data/extra-products.json";
 import topListsData from "../../data/top-lists.json";
-import type { AffiliateConfig, Product, ProductsData, ProductOffer, SortOption, TopList } from "./types";
+import type { AffiliateConfig, Category, Product, ProductsData, ProductOffer, SortOption, TopList } from "./types";
 
 const config = affiliateConfig as AffiliateConfig;
-const catalog = productsData as ProductsData;
 const topLists = topListsData.lists as TopList[];
+
+function mergeCatalog(): ProductsData {
+  const base = productsData as ProductsData;
+  const extra = extraProductsData as { products: Product[]; categories: Category[]; lastUpdated?: string };
+  const categoryMap = new Map<string, Category>();
+  for (const c of base.categories) categoryMap.set(c.id, c);
+  for (const c of extra.categories) categoryMap.set(c.id, c);
+
+  return {
+    lastUpdated: extra.lastUpdated ?? base.lastUpdated,
+    products: [...base.products, ...extra.products],
+    categories: Array.from(categoryMap.values()),
+  };
+}
+
+const catalog = mergeCatalog();
 
 export function getCatalog(): ProductsData {
   return catalog;
@@ -95,17 +111,41 @@ export function getSearchSuggestions(query: string, limit = 6): string[] {
   return [...suggestions].slice(0, limit);
 }
 
+export function getCategoryById(id: string): Category | undefined {
+  return catalog.categories.find((c) => c.id === id);
+}
+
+export function getCategoriesWithCounts(): (Category & { count: number })[] {
+  return catalog.categories
+    .filter((c) => c.id !== "all")
+    .map((c) => ({
+      ...c,
+      count: catalog.products.filter((p) => p.category === c.id).length,
+    }))
+    .sort((a, b) => b.count - a.count);
+}
+
 export const POPULAR_SEARCHES = [
   "zapatillas nike",
   "sudadera",
-  "vaqueros",
   "air fryer",
   "iphone",
   "ps5",
-  "auriculares",
+  "lego",
+  "padel",
+  "mascotas",
+  "nespresso",
+  "televisor",
+  "deportes",
   "ropa",
+  "gaming",
+  "bebe",
+  "coche",
+  "proteina",
+  "samsung",
   "north face",
   "adidas samba",
+  "cafetera",
 ];
 
 export function getPopularSearches(): string[] {

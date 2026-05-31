@@ -3,38 +3,86 @@
     {
       "slug": "mejores-air-fryers-2026",
       "title": "Mejores freidoras de aire 2026",
-      "description": "Comparativa de las freidoras sin aceite más vendidas en España, con precios actualizados en múltiples tiendas.",
+      "description": "Comparativa de las freidoras sin aceite más vendidas en España.",
       "productIds": ["ninja-airfryer", "cosori-airfryer"]
     },
     {
       "slug": "mejores-auriculares-bluetooth",
       "title": "Mejores auriculares Bluetooth 2026",
-      "description": "Desde AirPods hasta alternativas económicas. Comparamos precios en Amazon, MediaMarkt y Fnac.",
-      "productIds": ["airpods-4", "sony-wh1000xm5"]
+      "description": "AirPods, Sony, Samsung Galaxy Buds — comparativa completa.",
+      "productIds": ["airpods-4", "sony-wh1000xm5", "samsung-galaxy-buds3"]
     },
     {
       "slug": "regalos-tech-menos-50",
       "title": "Regalos tech por menos de 50€",
-      "description": "Ideas de regalo con buena relación calidad-precio para cumpleaños, Reyes o San Valentín.",
-      "productIds": ["stanley-quencher", "camara-seguridad", "kindle", "creatina"]
+      "description": "Ideas de regalo con buena relación calidad-precio.",
+      "productIds": ["stanley-quencher", "camara-seguridad", "kindle", "nerf-elite", "pack-ropa-interior-hanes"]
     },
     {
       "slug": "setup-gaming-teletrabajo",
       "title": "Setup gaming y teletrabajo",
-      "description": "Silla, portátil y periféricos para montar tu espacio de trabajo o gaming sin gastar de más.",
-      "productIds": ["silla-gaming", "portatil-lenovo", "teclado-logitech"]
+      "description": "Silla, portátil, monitor y periféricos.",
+      "productIds": ["silla-gaming", "portatil-lenovo", "teclado-logitech", "monitor-27-gaming", "raton-logitech-g502"]
     },
     {
       "slug": "mejores-zapatillas-2026",
       "title": "Mejores zapatillas 2026",
-      "description": "Nike Air Force, Adidas Samba, New Balance y más — comparativa de sneakers trending en España.",
+      "description": "Nike, Adidas, New Balance, Asics — sneakers trending.",
       "productIds": ["nike-air-force-1", "adidas-samba", "new-balance-574", "asics-gel-nimbus"]
     },
     {
       "slug": "ropa-moda-ofertas",
       "title": "Mejores ofertas en ropa y moda",
-      "description": "Sudaderas, vaqueros, chaquetas y calzado con los mejores descuentos del momento.",
+      "description": "Sudaderas, vaqueros, chaquetas y calzado.",
       "productIds": ["nike-tech-fleece", "levis-501", "north-face-nuptse", "nike-air-force-1"]
+    },
+    {
+      "slug": "deportes-fitness-2026",
+      "title": "Top deportes y fitness 2026",
+      "description": "Running, gym en casa, pádel y outdoor.",
+      "productIds": ["garmin-forerunner-265", "mancuernas-ajustables", "pala-padel-head", "bici-estatica", "theragun-mini"]
+    },
+    {
+      "slug": "mascotas-esenciales",
+      "title": "Esenciales para mascotas",
+      "description": "Piensos, camas y accesorios con mejor valoración.",
+      "productIds": ["purina-pro-plan", "arenero-gatos-automatico", "cama-perro-ortopedica"]
+    },
+    {
+      "slug": "bebes-mas-vendidos",
+      "title": "Lo más vendido para bebés",
+      "description": "Pañales, monitor y silla de paseo.",
+      "productIds": ["pampers-premium", "monitor-bebe", "silla-paseo-ligera"]
+    },
+    {
+      "slug": "juguetes-regalo-ninos",
+      "title": "Juguetes y regalos para niños",
+      "description": "LEGO, Nerf, Nintendo Switch — regalos que aciertan.",
+      "productIds": ["lego-classic", "nintendo-switch-oled", "nerf-elite", "ps5-slim"]
+    },
+    {
+      "slug": "coche-accesorios",
+      "title": "Accesorios de coche imprescindibles",
+      "description": "Dash cam, aspirador y seguridad en carretera.",
+      "productIds": ["dash-cam-70mai", "aspirador-coche"]
+    },
+    {
+      "slug": "cafe-cocina",
+      "title": "Café y cocina — los más vendidos",
+      "description": "Nespresso, DeLonghi, Bialetti y freidoras.",
+      "productIds": ["nespresso-vertuo", "delonghi-dedica", "cafetera-moka", "ninja-airfryer"]
+    },
+    {
+      "slug": "tv-cine-casa",
+      "title": "Cine en casa — TV y audio",
+      "description": "OLED, Fire Stick y barras de sonido.",
+      "productIds": ["samsung-tv-oled", "fire-tv-stick-4k", "barra-sonido-samsung"]
+    },
+    {
+      "slug": "smart-home-2026",
+      "title": "Smart Home esencial 2026",
+      "description": "Cámaras, timbre Ring, Philips Hue y robots.",
+      "productIds": ["camara-seguridad", "ring-doorbell", "philips-hue-starter", "robot-aspirador"]
     }
   ]
 }

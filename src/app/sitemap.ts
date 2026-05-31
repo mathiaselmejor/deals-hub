@@ -20,6 +20,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "daily" as const,
       priority: 0.9,
     })),
+    ...catalog.categories
+      .filter((c) => c.id !== "all")
+      .map((c) => ({
+        url: `${base}/categoria/${c.id}`,
+        changeFrequency: "daily" as const,
+        priority: 0.85,
+      })),
     ...lists.map((l) => ({
       url: `${base}/rankings/${l.slug}`,
       changeFrequency: "weekly" as const,

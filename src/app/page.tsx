@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { CategoryExplorer } from "@/components/CategoryExplorer";
 import { DealOfDayBanner } from "@/components/DealOfDayBanner";
 import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
@@ -76,6 +77,10 @@ export default function HomePage() {
       <StoreMarquee />
       <DealOfDayBanner />
       <TrustBar />
+
+      <div id="categorias">
+        <CategoryExplorer />
+      </div>
 
       {/* Trending carousel */}
       <section className="mx-auto max-w-7xl px-4 py-12">

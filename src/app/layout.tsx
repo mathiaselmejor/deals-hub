@@ -4,6 +4,7 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { MobileNav } from "@/components/MobileNav";
+import { AnalyticsTracker } from "@/components/AnalyticsTracker";
 import { getAffiliateConfig } from "@/lib/products";
 
 const jakarta = Plus_Jakarta_Sans({
@@ -43,6 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="es" className={jakarta.variable}>
       <body className="min-h-screen flex flex-col pb-20 md:pb-0">
+        <AnalyticsTracker />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer disclaimer={config.disclaimer} />

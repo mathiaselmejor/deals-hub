@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { Breadcrumbs, RelatedProducts } from "@/components/RelatedProducts";
 import { JsonLd } from "@/components/JsonLd";
+import { AffiliateLink } from "@/components/AffiliateLink";
 import {
   buildAffiliateUrl,
   formatPrice,
@@ -182,11 +183,11 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                     ? offer.price - product.price
                     : 0;
                   return (
-                    <a
+                    <AffiliateLink
                       key={offer.store}
                       href={buildAffiliateUrl(offer)}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
+                      productId={product.id}
+                      store={offer.store}
                       className={`group flex items-center justify-between rounded-xl border p-4 transition hover:border-indigo-500/50 ${
                         i === 0 && offer.price > 0
                           ? "border-emerald-500/40 bg-emerald-500/5"
@@ -223,7 +224,7 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                           Ir →
                         </span>
                       </div>
-                    </a>
+                    </AffiliateLink>
                   );
                 })}
               </div>

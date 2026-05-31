@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { getPopularSearches, getSearchSuggestions } from "@/lib/products";
+import { trackEvent } from "@/components/AnalyticsTracker";
 
 interface SearchBarProps {
   defaultValue?: string;
@@ -45,6 +46,7 @@ export function SearchBar({
     const q = term.trim();
     if (!q) return;
     setOpen(false);
+    trackEvent("search", { query: q });
     router.push(`/buscar?q=${encodeURIComponent(q)}`);
   };
 

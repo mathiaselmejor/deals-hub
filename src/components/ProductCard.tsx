@@ -9,6 +9,7 @@ import {
   getSavings,
 } from "@/lib/products";
 import type { Product } from "@/lib/types";
+import { AffiliateLink } from "@/components/AffiliateLink";
 
 export function ProductCard({ product, featured = false }: { product: Product; featured?: boolean }) {
   const config = getAffiliateConfig();
@@ -95,14 +96,14 @@ export function ProductCard({ product, featured = false }: { product: Product; f
             )}
           </div>
           {best && (
-            <a
+            <AffiliateLink
               href={buildAffiliateUrl(best)}
-              target="_blank"
-              rel="noopener noreferrer sponsored"
+              productId={product.id}
+              store={best.store}
               className="rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 px-4 py-2.5 text-xs font-bold shadow-lg shadow-indigo-500/20 transition hover:opacity-90"
             >
               Comprar →
-            </a>
+            </AffiliateLink>
           )}
         </div>
       </div>

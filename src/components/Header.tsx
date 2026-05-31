@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { SearchBar } from "@/components/SearchBar";
+import { AuthButton } from "@/components/AuthButton";
 
 const nav = [
   { href: "/", label: "Ofertas", icon: "🔥" },
@@ -49,6 +50,7 @@ export function Header() {
           </nav>
 
           <div className="ml-auto flex items-center gap-2">
+            <AuthButton />
             <Link
               href="/buscar"
               className="rounded-lg p-2 text-lg md:hidden"

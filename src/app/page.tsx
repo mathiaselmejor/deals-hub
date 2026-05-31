@@ -4,12 +4,14 @@ import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductCard } from "@/components/ProductCard";
 import { ProductGrid } from "@/components/ProductGrid";
+import { SearchBar } from "@/components/SearchBar";
 import { StoreMarquee } from "@/components/StoreMarquee";
 import { TopListsSection, TrustBar } from "@/components/TopListsSection";
 import {
   formatPrice,
   getCatalog,
   getFeaturedProducts,
+  getProductsByCategory,
   getTrendingProducts,
 } from "@/lib/products";
 
@@ -17,6 +19,7 @@ export default function HomePage() {
   const catalog = getCatalog();
   const trending = getTrendingProducts();
   const featured = getFeaturedProducts();
+  const ropa = getProductsByCategory("ropa");
 
   return (
     <>
@@ -45,7 +48,15 @@ export default function HomePage() {
             y más — para que no pagues de más nunca.
           </p>
 
-          <div className="mt-8 flex flex-wrap gap-4">
+          {/* Buscador principal */}
+          <div className="mt-8 max-w-2xl">
+            <SearchBar size="large" placeholder="¿Qué buscas? zapatillas, sudadera, nike, air fryer..." />
+            <p className="mt-3 text-xs text-slate-500">
+              Encuentra todas las ofertas de un producto al instante — sin revisar uno por uno
+            </p>
+          </div>
+
+          <div className="mt-6 flex flex-wrap gap-4">
             <a
               href="#ofertas"
               className="rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 px-8 py-3.5 font-bold shadow-xl shadow-indigo-500/25 transition hover:opacity-90"
@@ -107,6 +118,28 @@ export default function HomePage() {
       )}
 
       <TopListsSection />
+
+      {/* Ropa & Moda */}
+      {ropa.length > 0 && (
+        <section className="mx-auto max-w-7xl px-4 py-12">
+          <div className="flex items-end justify-between">
+            <div>
+              <h2 className="text-2xl font-bold">👕 Ropa & Moda</h2>
+              <p className="mt-1 text-sm text-slate-400">
+                Zapatillas, sudaderas, vaqueros y chaquetas con los mejores precios
+              </p>
+            </div>
+            <Link href="/buscar?q=ropa" className="text-sm text-indigo-400 hover:underline">
+              Ver toda la ropa →
+            </Link>
+          </div>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {ropa.slice(0, 4).map((p) => (
+              <ProductCard key={p.id} product={p} featured />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Main catalog */}
       <section id="ofertas" className="mx-auto max-w-7xl px-4 pb-20">

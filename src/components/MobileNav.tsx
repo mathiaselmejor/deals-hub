@@ -5,9 +5,9 @@ import { usePathname } from "next/navigation";
 
 const items = [
   { href: "/", label: "Ofertas", icon: "🔥" },
+  { href: "/buscar", label: "Buscar", icon: "🔍" },
   { href: "/rankings", label: "Rankings", icon: "🏆" },
   { href: "/guia-afiliados", label: "Guía", icon: "💰" },
-  { href: "/videos", label: "Vídeos", icon: "🎬" },
 ];
 
 export function MobileNav() {
@@ -20,8 +20,10 @@ export function MobileNav() {
           <Link
             key={item.href}
             href={item.href}
-            className={`flex flex-col items-center gap-0.5 px-3 py-1 text-[10px] font-medium ${
-              pathname === item.href ? "text-indigo-400" : "text-slate-500"
+            className={`flex flex-col items-center gap-0.5 px-2 py-1 text-[10px] font-medium ${
+              pathname === item.href || (item.href === "/buscar" && pathname.startsWith("/buscar"))
+                ? "text-indigo-400"
+                : "text-slate-500"
             }`}
           >
             <span className="text-lg">{item.icon}</span>

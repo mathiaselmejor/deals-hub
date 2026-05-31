@@ -23,6 +23,18 @@
       "title": "Setup gaming y teletrabajo",
       "description": "Silla, portátil y periféricos para montar tu espacio de trabajo o gaming sin gastar de más.",
       "productIds": ["silla-gaming", "portatil-lenovo", "teclado-logitech"]
+    },
+    {
+      "slug": "mejores-zapatillas-2026",
+      "title": "Mejores zapatillas 2026",
+      "description": "Nike Air Force, Adidas Samba, New Balance y más — comparativa de sneakers trending en España.",
+      "productIds": ["nike-air-force-1", "adidas-samba", "new-balance-574", "asics-gel-nimbus"]
+    },
+    {
+      "slug": "ropa-moda-ofertas",
+      "title": "Mejores ofertas en ropa y moda",
+      "description": "Sudaderas, vaqueros, chaquetas y calzado con los mejores descuentos del momento.",
+      "productIds": ["nike-tech-fleece", "levis-501", "north-face-nuptse", "nike-air-force-1"]
     }
   ]
 }

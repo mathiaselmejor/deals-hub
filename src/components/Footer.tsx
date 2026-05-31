@@ -31,6 +31,7 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
           <div>
             <p className="text-sm font-semibold text-white">Explorar</p>
             <ul className="mt-4 space-y-2 text-sm text-slate-400">
+              <li><Link href="/buscar" className="hover:text-indigo-400">Buscar ofertas</Link></li>
               <li><Link href="/#ofertas" className="hover:text-indigo-400">Todas las ofertas</Link></li>
               <li><Link href="/rankings" className="hover:text-indigo-400">Rankings 2026</Link></li>
               <li><Link href="/videos" className="hover:text-indigo-400">Guiones de vídeo</Link></li>

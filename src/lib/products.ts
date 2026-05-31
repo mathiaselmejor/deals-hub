@@ -53,13 +53,63 @@ export function getRelatedProducts(product: Product, limit = 4): Product[] {
 export function searchProducts(query: string): Product[] {
   const q = query.toLowerCase().trim();
   if (!q) return catalog.products;
-  return catalog.products.filter(
-    (p) =>
-      p.name.toLowerCase().includes(q) ||
-      p.description.toLowerCase().includes(q) ||
-      p.keywords.some((k) => k.toLowerCase().includes(q)) ||
-      p.badge.toLowerCase().includes(q)
-  );
+
+  const terms = q.split(/\s+/).filter(Boolean);
+
+  return catalog.products.filter((p) => {
+    const categoryLabel = getCategoryLabel(p.category).toLowerCase();
+    const haystack = [
+      p.name,
+      p.description,
+      p.longDescription ?? "",
+      p.badge,
+      categoryLabel,
+      ...p.keywords,
+    ]
+      .join(" ")
+      .toLowerCase();
+
+    return terms.every((term) => haystack.includes(term));
+  });
+}
+
+export function getSearchSuggestions(query: string, limit = 6): string[] {
+  const q = query.toLowerCase().trim();
+  if (!q) return getPopularSearches();
+
+  const suggestions = new Set<string>();
+
+  for (const p of catalog.products) {
+    if (p.name.toLowerCase().includes(q)) suggestions.add(p.name);
+    for (const kw of p.keywords) {
+      if (kw.toLowerCase().includes(q)) suggestions.add(kw);
+    }
+  }
+
+  for (const cat of catalog.categories) {
+    if (cat.id !== "all" && cat.label.toLowerCase().includes(q)) {
+      suggestions.add(cat.label);
+    }
+  }
+
+  return [...suggestions].slice(0, limit);
+}
+
+export const POPULAR_SEARCHES = [
+  "zapatillas nike",
+  "sudadera",
+  "vaqueros",
+  "air fryer",
+  "iphone",
+  "ps5",
+  "auriculares",
+  "ropa",
+  "north face",
+  "adidas samba",
+];
+
+export function getPopularSearches(): string[] {
+  return POPULAR_SEARCHES;
 }
 
 export function sortProducts(products: Product[], sort: SortOption): Product[] {

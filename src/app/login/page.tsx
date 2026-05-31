@@ -10,6 +10,8 @@ function LoginForm() {
   const redirect = searchParams.get("redirect") ?? "/cuenta";
   const error = searchParams.get("error");
   const [loading, setLoading] = useState<string | null>(null);
+  const [email, setEmail] = useState("");
+  const [emailSent, setEmailSent] = useState(false);
 
   const signIn = async (provider: "google" | "facebook") => {
     setLoading(provider);
@@ -21,6 +23,22 @@ function LoginForm() {
         redirectTo: `${origin}/auth/callback?next=${encodeURIComponent(redirect)}`,
       },
     });
+  };
+
+  const signInWithEmail = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!email.trim()) return;
+    setLoading("email");
+    const supabase = createClient();
+    const origin = window.location.origin;
+    const { error: err } = await supabase.auth.signInWithOtp({
+      email: email.trim(),
+      options: {
+        emailRedirectTo: `${origin}/auth/callback?next=${encodeURIComponent(redirect)}`,
+      },
+    });
+    setLoading(null);
+    if (!err) setEmailSent(true);
   };
 
   return (
@@ -37,7 +55,40 @@ function LoginForm() {
           </p>
         )}
 
-        <div className="mt-8 space-y-3">
+        {emailSent ? (
+          <p className="mt-6 rounded-lg bg-emerald-500/10 px-4 py-3 text-sm text-emerald-300">
+            Te enviamos un enlace a <strong>{email}</strong>. Ábrelo para entrar.
+          </p>
+        ) : (
+          <form onSubmit={signInWithEmail} className="mt-6 space-y-3">
+            <p className="text-xs font-semibold uppercase tracking-wider text-slate-500">
+              O con tu email
+            </p>
+            <input
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="tu@gmail.com"
+              required
+              className="w-full rounded-xl border border-white/10 bg-white/5 px-4 py-3 text-sm focus:border-indigo-500/50 focus:outline-none"
+            />
+            <button
+              type="submit"
+              disabled={!!loading}
+              className="w-full rounded-xl bg-indigo-500/20 py-3 text-sm font-semibold text-indigo-300 transition hover:bg-indigo-500/30 disabled:opacity-50"
+            >
+              {loading === "email" ? "Enviando..." : "Enviar enlace mágico"}
+            </button>
+          </form>
+        )}
+
+        <div className="my-6 flex items-center gap-3">
+          <div className="h-px flex-1 bg-white/10" />
+          <span className="text-xs text-slate-600">redes sociales</span>
+          <div className="h-px flex-1 bg-white/10" />
+        </div>
+
+        <div className="space-y-3">
           <button
             onClick={() => signIn("google")}
             disabled={!!loading}

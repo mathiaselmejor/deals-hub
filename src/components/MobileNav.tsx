@@ -7,7 +7,6 @@ const items = [
   { href: "/", label: "Ofertas", icon: "🔥" },
   { href: "/buscar", label: "Buscar", icon: "🔍" },
   { href: "/rankings", label: "Rankings", icon: "🏆" },
-  { href: "/guia-afiliados", label: "Guía", icon: "💰" },
 ];
 
 export function MobileNav() {

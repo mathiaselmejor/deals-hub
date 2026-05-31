@@ -1,5 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getCatalog } from "@/lib/products";
+
+export const metadata: Metadata = {
+  title: "Panel privado — Guiones de vídeo",
+  robots: { index: false, follow: false },
+};
 
 export default function VideosPage() {
   const catalog = getCatalog();

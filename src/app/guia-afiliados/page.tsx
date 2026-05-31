@@ -1,5 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import affiliatePrograms from "../../../data/affiliate-programs.json";
+
+export const metadata: Metadata = {
+  title: "Panel privado — Guía afiliados",
+  robots: { index: false, follow: false },
+};
 
 const programs = [
   {

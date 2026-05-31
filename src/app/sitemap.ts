@@ -12,8 +12,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: base, lastModified: catalog.lastUpdated, changeFrequency: "daily", priority: 1 },
     { url: `${base}/buscar`, changeFrequency: "daily", priority: 0.95 },
     { url: `${base}/rankings`, changeFrequency: "weekly", priority: 0.8 },
-    { url: `${base}/guia-afiliados`, changeFrequency: "monthly", priority: 0.6 },
-    { url: `${base}/videos`, changeFrequency: "weekly", priority: 0.7 },
     ...catalog.products.map((p) => ({
       url: `${base}/producto/${p.id}`,
       lastModified: catalog.lastUpdated,

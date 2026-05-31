@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { Breadcrumbs, RelatedProducts } from "@/components/RelatedProducts";
@@ -228,18 +227,6 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                   );
                 })}
               </div>
-            </div>
-
-            {/* Video CTA */}
-            <div className="mt-8 rounded-2xl border border-purple-500/30 bg-gradient-to-r from-purple-500/10 to-indigo-500/10 p-6">
-              <p className="text-sm font-bold text-purple-300">🎬 Promoción en redes</p>
-              <p className="mt-2 text-lg italic text-white">&ldquo;{product.videoHook}&rdquo;</p>
-              <Link
-                href="/videos"
-                className="mt-4 inline-flex items-center gap-2 rounded-xl bg-purple-500/20 px-4 py-2 text-sm font-semibold text-purple-300 transition hover:bg-purple-500/30"
-              >
-                Ver guión completo para TikTok →
-              </Link>
             </div>
           </div>
         </div>

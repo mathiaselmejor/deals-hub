@@ -1,4 +1,5 @@
 import Link from "next/link";
+import affiliatePrograms from "../../../data/affiliate-programs.json";
 
 const programs = [
   {
@@ -89,6 +90,21 @@ const programs = [
   },
 ];
 
+const affiliateData = affiliatePrograms as {
+  networks: Array<{
+    id: string;
+    name: string;
+    signupUrl: string;
+    commission: string;
+    payment: string;
+    stores: string[];
+    bestFor: string;
+    priority: number;
+  }>;
+  directPrograms: Array<{ store: string; note: string; url: string | null }>;
+  recommendedOrder: string[];
+};
+
 export default function GuiaAfiliadosPage() {
   return (
     <div className="mx-auto max-w-4xl px-4 py-12">
@@ -109,7 +125,108 @@ export default function GuiaAfiliadosPage() {
         </ul>
       </div>
 
-      <h2 className="mt-12 text-2xl font-bold">Redes de afiliados en España</h2>
+      {/* Mapa completo de empresas */}
+      <h2 className="mt-16 text-2xl font-bold">🏪 Todas las empresas donde puedes ganar dinero</h2>
+      <p className="mt-2 text-slate-400">
+        Igual que Amazon, estas tiendas y servicios pagan comisión por cada venta que refieras.
+        La mayoría se gestionan desde <strong className="text-white">1–3 cuentas</strong> (Awin + Admitad + Amazon).
+      </p>
+
+      <div className="mt-6 rounded-xl border border-emerald-500/30 bg-emerald-500/10 p-5">
+        <p className="font-semibold text-emerald-300">✅ Orden recomendado para registrarte</p>
+        <ol className="mt-3 space-y-2 text-sm text-slate-300">
+          {affiliateData.recommendedOrder.map((step, i) => (
+            <li key={i}>{step}</li>
+          ))}
+        </ol>
+      </div>
+
+      <div className="mt-8 space-y-6">
+        {affiliateData.networks
+          .sort((a, b) => a.priority - b.priority)
+          .map((net) => (
+            <div key={net.id} className="rounded-2xl border border-white/10 bg-card p-6">
+              <div className="flex flex-wrap items-start justify-between gap-4">
+                <div>
+                  <h3 className="text-xl font-semibold">{net.name}</h3>
+                  <p className="mt-1 text-sm text-indigo-400">{net.bestFor}</p>
+                </div>
+                <a
+                  href={net.signupUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="shrink-0 rounded-lg bg-indigo-500 px-4 py-2 text-sm font-semibold hover:bg-indigo-400"
+                >
+                  Registrarme →
+                </a>
+              </div>
+              <div className="mt-3 flex flex-wrap gap-4 text-sm text-slate-400">
+                <span>💰 {net.commission}</span>
+                <span>💳 {net.payment}</span>
+              </div>
+              <div className="mt-4">
+                <p className="text-xs font-semibold uppercase tracking-wider text-slate-500">
+                  Tiendas incluidas ({net.stores.length})
+                </p>
+                <div className="mt-2 flex flex-wrap gap-2">
+                  {net.stores.map((store) => (
+                    <span
+                      key={store}
+                      className="rounded-full bg-white/5 px-3 py-1 text-xs text-slate-300"
+                    >
+                      {store}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          ))}
+      </div>
+
+      <h2 className="mt-12 text-2xl font-bold">Tiendas con programa propio o especial</h2>
+      <div className="mt-4 overflow-x-auto rounded-xl border border-white/10">
+        <table className="w-full min-w-[500px] text-sm">
+          <thead>
+            <tr className="border-b border-white/10 bg-white/5 text-left">
+              <th className="p-4 font-semibold">Empresa</th>
+              <th className="p-4 font-semibold">Cómo acceder</th>
+              <th className="p-4 font-semibold">Acción</th>
+            </tr>
+          </thead>
+          <tbody>
+            {affiliateData.directPrograms.map((d) => (
+              <tr key={d.store} className="border-b border-white/5">
+                <td className="p-4 font-medium">{d.store}</td>
+                <td className="p-4 text-slate-400">{d.note}</td>
+                <td className="p-4">
+                  {d.url ? (
+                    <a
+                      href={d.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-indigo-400 hover:underline"
+                    >
+                      Ir →
+                    </a>
+                  ) : (
+                    <span className="text-slate-600">—</span>
+                  )}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+
+      <div className="mt-8 rounded-xl border border-rose-500/30 bg-rose-500/10 p-5 text-sm text-slate-300">
+        <p className="font-semibold text-rose-300">❌ Empresas SIN programa afiliado (de momento)</p>
+        <p className="mt-2">
+          Zara, Bershka, Pull&Bear, Primark, Mercadona, Lidl — no tienen afiliados públicos en España.
+          Para moda low-cost usa <strong>Shein/Temu via Admitad</strong> o promociona marcas en Amazon/Awin.
+        </p>
+      </div>
+
+      <h2 className="mt-12 text-2xl font-bold">Redes de afiliados — guía paso a paso</h2>
       <div className="mt-6 space-y-6">
         {programs.map((prog) => (
           <div

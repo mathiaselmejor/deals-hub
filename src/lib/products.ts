@@ -1,6 +1,7 @@
 import affiliateConfig from "../../data/affiliate-config.json";
 import productsData from "../../data/products.json";
 import extraProductsData from "../../data/extra-products.json";
+import extraProducts2Data from "../../data/extra-products-2.json";
 import topListsData from "../../data/top-lists.json";
 import type { AffiliateConfig, Category, Product, ProductsData, ProductOffer, SortOption, TopList } from "./types";
 
@@ -10,13 +11,14 @@ const topLists = topListsData.lists as TopList[];
 function mergeCatalog(): ProductsData {
   const base = productsData as ProductsData;
   const extra = extraProductsData as { products: Product[]; categories: Category[]; lastUpdated?: string };
+  const extra2 = extraProducts2Data as { products: Product[] };
   const categoryMap = new Map<string, Category>();
   for (const c of base.categories) categoryMap.set(c.id, c);
   for (const c of extra.categories) categoryMap.set(c.id, c);
 
   return {
     lastUpdated: extra.lastUpdated ?? base.lastUpdated,
-    products: [...base.products, ...extra.products],
+    products: [...base.products, ...extra.products, ...extra2.products],
     categories: Array.from(categoryMap.values()),
   };
 }

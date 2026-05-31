@@ -1,0 +1,150 @@
+{
+  "networks": [
+    {
+      "id": "amazon",
+      "name": "Amazon Afiliados",
+      "signupUrl": "https://afiliados.amazon.es/",
+      "commission": "1% – 12%",
+      "payment": "Transferencia bancaria (mín. 25€)",
+      "stores": ["Amazon.es"],
+      "bestFor": "De todo: electrónica, hogar, ropa, libros, belleza",
+      "priority": 1
+    },
+    {
+      "id": "awin",
+      "name": "Awin",
+      "signupUrl": "https://www.awin.com/es",
+      "commission": "0,5% – 15% según tienda",
+      "payment": "Transferencia (mín. 20€)",
+      "stores": [
+        "MediaMarkt", "PcComponentes", "El Corte Inglés", "Fnac", "Decathlon",
+        "IKEA", "Booking.com", "HelloFresh", "NordVPN", "Mango", "Zalando",
+        "Worten", "Sprinter", "HP Store", "Lenovo", "Samsung Shop", "Dyson",
+        "Bosch", "Philips", "Adidas (selectivo)", "Reebok", "Under Armour",
+        "Carrefour (online)", "Tiendanimal", "Kiwoko", "Perfumes Club"
+      ],
+      "bestFor": "Una sola cuenta = cientos de tiendas españolas",
+      "priority": 1
+    },
+    {
+      "id": "admitad",
+      "name": "Admitad",
+      "signupUrl": "https://www.admitad.com/es/",
+      "commission": "Variable, hasta 50% en digital",
+      "payment": "Transferencia, PayPal, Payoneer",
+      "stores": [
+        "AliExpress", "Shein", "Temu", "iHerb", "Banggood", "LightInTheBox",
+        "Hostinger", "NordVPN", "Surfshark", "Adobe", "Microsoft",
+        "Bang & Olufsen", "Farfetch", "Yoox", "Groupon"
+      ],
+      "bestFor": "Moda low-cost, China, servicios digitales",
+      "priority": 2
+    },
+    {
+      "id": "tradetracker",
+      "name": "TradeTracker",
+      "signupUrl": "https://tradetracker.com/es/",
+      "commission": "Variable",
+      "payment": "Transferencia bancaria",
+      "stores": [
+        "Orange", "Vodafone", "MásMóvil", "Yoigo", "Telefónica",
+        "Hipotecas.com", "Bankinter", "ING", "Rastreator",
+        "Seguros", "Viajes El Corte Inglés", "Iberia", "Renfe",
+        "Desigual", "Tous", "Swarovski", "Parfois"
+      ],
+      "bestFor": "Marcas españolas, telco, finanzas, viajes",
+      "priority": 2
+    },
+    {
+      "id": "ebay",
+      "name": "eBay Partner Network",
+      "signupUrl": "https://partnernetwork.ebay.es/",
+      "commission": "50–70% comisión eBay",
+      "payment": "PayPal",
+      "stores": ["eBay.es"],
+      "bestFor": "Segunda mano, outlet, coleccionables, reacondicionados",
+      "priority": 2
+    },
+    {
+      "id": "booking",
+      "name": "Booking.com Partners",
+      "signupUrl": "https://www.booking.com/affiliate-program/v2/index.html",
+      "commission": "25–40% comisión Booking",
+      "payment": "Transferencia",
+      "stores": ["Booking.com"],
+      "bestFor": "Hoteles, apartamentos, escapadas — sin vender producto físico",
+      "priority": 2
+    },
+    {
+      "id": "aliexpress",
+      "name": "AliExpress Portals",
+      "signupUrl": "https://portals.aliexpress.com/",
+      "commission": "3–9%",
+      "payment": "Transferencia internacional",
+      "stores": ["AliExpress"],
+      "bestFor": "Productos baratos, gadgets, accesorios",
+      "priority": 3
+    },
+    {
+      "id": "cj",
+      "name": "CJ Affiliate (Commission Junction)",
+      "signupUrl": "https://www.cj.com/es",
+      "commission": "Variable",
+      "payment": "Transferencia, Payoneer",
+      "stores": [
+        "Office Depot", "HP", "Logitech", "Canon", "Epson",
+        "Verizon", "Expedia", "TripAdvisor", "Grammarly"
+      ],
+      "bestFor": "Marcas internacionales grandes",
+      "priority": 3
+    },
+    {
+      "id": "rakuten",
+      "name": "Rakuten Advertising",
+      "signupUrl": "https://rakutenadvertising.com/",
+      "commission": "Variable",
+      "payment": "Transferencia, cheque",
+      "stores": [
+        "Walmart (internacional)", "Best Buy", "Sephora US",
+        "Hilton", "Marriott", "Virgin Atlantic"
+      ],
+      "bestFor": "Marcas USA/internacionales",
+      "priority": 3
+    },
+    {
+      "id": "impact",
+      "name": "Impact.com",
+      "signupUrl": "https://impact.com/",
+      "commission": "Variable",
+      "payment": "Transferencia",
+      "stores": [
+        "Canva", "Fiverr", "Upwork", "HubSpot", "Shopify",
+        "Trello", "AppSumo", "Skillshare"
+      ],
+      "bestFor": "SaaS, herramientas online, B2B",
+      "priority": 3
+    }
+  ],
+  "directPrograms": [
+    { "store": "Nike", "note": "Programa directo limitado — usa Awin/Impact o enlaces Amazon", "url": "https://www.nike.com/es/" },
+    { "store": "Zara / Inditex", "note": "Sin programa afiliado público en España", "url": null },
+    { "store": "Shein", "note": "Via Admitad — comisiones 10–20%", "url": "https://www.admitad.com/es/" },
+    { "store": "Temu", "note": "Via Admitad — comisiones altas en lanzamiento", "url": "https://www.admitad.com/es/" },
+    { "store": "PcComponentes", "note": "Directo via Awin — hasta 7% en cables/consumibles", "url": "https://www.awin.com/es" },
+    { "store": "MediaMarkt", "note": "Via Awin — 1–3% según categoría", "url": "https://www.awin.com/es" },
+    { "store": "Decathlon", "note": "Via Awin — bueno para deportes", "url": "https://www.awin.com/es" },
+    { "store": "Expedia", "note": "Via Awin o CJ — comisión por reserva", "url": "https://www.awin.com/es" },
+    { "store": "Udemy", "note": "Programa directo udemy.com/affiliate — 15–50% por curso", "url": "https://www.udemy.com/affiliate/" },
+    { "store": "Domestika", "note": "Programa directo — comisión por suscripción Plus", "url": "https://www.domestika.org/es/affiliates" },
+    { "store": "Hostinger", "note": "Via Admitad — 60%+ por hosting (alta comisión)", "url": "https://www.admitad.com/es/" }
+  ],
+  "recommendedOrder": [
+    "1. Amazon Afiliados — imprescindible, aprueba rápido",
+    "2. Awin — registra MediaMarkt, PcComponentes, El Corte Inglés, Decathlon, Fnac",
+    "3. Admitad — AliExpress, Shein, servicios digitales",
+    "4. Booking.com — si promocionas viajes",
+    "5. eBay — segunda mano y outlet",
+    "6. TradeTracker — marcas españolas extra",
+    "7. AliExpress Portals — si tienes tráfico de gadgets baratos"
+  ]
+}

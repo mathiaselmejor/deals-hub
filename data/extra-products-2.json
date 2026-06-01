@@ -1,474 +1,1434 @@
 {
-  "lastUpdated": "2026-05-29",
+  "lastUpdated": "2026-06-01",
   "products": [
     {
       "id": "crocs-classic",
       "name": "Crocs Classic Clog — Unisex",
       "category": "ropa",
       "description": "Los zuecos más vendidos del mundo. Comodidad extrema y tendencia global.",
-      "price": 39.99, "originalPrice": 49.99, "discount": 20, "rating": 4.6, "reviews": 52000,
-      "badge": "Viral", "trending": true,
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 52000,
+      "badge": "Viral",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1627225924765-945d698845a6?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=crocs+classic+clog", "price": 39.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=crocs+classic", "price": 44.95 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=crocs", "price": 42.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0014BYHHE",
+          "price": 39.99,
+          "asin": "B0014BYHHE",
+          "directUrl": "https://www.amazon.es/dp/B0014BYHHE",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Crocs%20Classic%20Clog",
+          "price": 44.95,
+          "asin": "B0014BYHHE",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Crocs%20Classic%20Clog",
+          "price": 42.99,
+          "asin": "B0014BYHHE",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Crocs en 2026 — ¿moda o cómodos de verdad?",
-      "keywords": ["crocs", "zuecos", "ropa", "calzado"]
+      "keywords": [
+        "crocs",
+        "zuecos",
+        "ropa",
+        "calzado"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "converse-chuck",
       "name": "Converse Chuck Taylor All Star — Zapatillas",
       "category": "ropa",
       "description": "Clásico atemporal desde 1917. Imprescindible en cualquier armario.",
-      "price": 54.99, "originalPrice": 69.99, "discount": 21, "rating": 4.7, "reviews": 31000,
-      "badge": "Clásico", "trending": true,
+      "price": 54.99,
+      "originalPrice": 69.99,
+      "discount": 21,
+      "rating": 4.7,
+      "reviews": 31000,
+      "badge": "Clásico",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1607522370275-f14206abe10d?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=converse+chuck+taylor+all+star", "price": 54.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=converse+chuck", "price": 59.95 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=converse", "price": 57.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FDHX693D",
+          "price": 54.99,
+          "asin": "B0FDHX693D",
+          "directUrl": "https://www.amazon.es/dp/B0FDHX693D",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Converse%20Chuck%20Taylor%20All%20Star",
+          "price": 59.95,
+          "asin": "B0FDHX693D",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Converse%20Chuck%20Taylor%20All%20Star",
+          "price": 57.99,
+          "asin": "B0FDHX693D",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Converse originales vs fake — cómo distinguirlas",
-      "keywords": ["converse", "chuck taylor", "zapatillas", "ropa"]
+      "keywords": [
+        "converse",
+        "chuck taylor",
+        "zapatillas",
+        "ropa"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "casio-a168",
       "name": "Casio A168WA — Reloj retro digital",
       "category": "ropa",
       "description": "Reloj vintage trending. Barato, resistente y estilo ochentero.",
-      "price": 19.99, "originalPrice": 29.99, "discount": 33, "rating": 4.7, "reviews": 28000,
-      "badge": "Chollo moda", "trending": true,
+      "price": 19.99,
+      "originalPrice": 29.99,
+      "discount": 33,
+      "rating": 4.7,
+      "reviews": 28000,
+      "badge": "Chollo moda",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=casio+a168wa", "price": 19.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=casio+a168", "price": 24.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=casio+a168", "price": 22.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B000LAKYW8",
+          "price": 19.99,
+          "asin": "B000LAKYW8",
+          "directUrl": "https://www.amazon.es/dp/B000LAKYW8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Casio%20A168WA",
+          "price": 24.99,
+          "asin": "B000LAKYW8",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Casio%20A168WA",
+          "price": 22.95,
+          "asin": "B000LAKYW8",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Reloj de 20€ que parece de 200€",
-      "keywords": ["casio", "reloj", "retro", "ropa", "accesorios"]
+      "keywords": [
+        "casio",
+        "reloj",
+        "retro",
+        "ropa",
+        "accesorios"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "zalando-gift-card-style",
       "name": "Zapatillas Puma Suede Classic",
       "category": "ropa",
       "description": "Suede Classic de Puma — icono del hip-hop y streetwear desde los 60.",
-      "price": 64.99, "originalPrice": 84.99, "discount": 24, "rating": 4.5, "reviews": 8900,
-      "badge": "Streetwear", "trending": false,
+      "price": 64.99,
+      "originalPrice": 84.99,
+      "discount": 24,
+      "rating": 4.5,
+      "reviews": 8900,
+      "badge": "Streetwear",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1606107557195-0f41cbcd2ccd?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=puma+suede+classic", "price": 64.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=puma+suede", "price": 69.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=puma+suede", "price": 74.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D674JDZZ",
+          "price": 64.99,
+          "asin": "B0D674JDZZ",
+          "directUrl": "https://www.amazon.es/dp/B0D674JDZZ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Zapatillas%20Puma%20Suede%20Classic",
+          "price": 69.99,
+          "asin": "B0D674JDZZ",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Zapatillas%20Puma%20Suede%20Classic",
+          "price": 74.95,
+          "asin": "B0D674JDZZ",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Puma Suede — el sneaker que no pasa de moda",
-      "keywords": ["puma suede", "zapatillas", "streetwear", "ropa"]
+      "keywords": [
+        "puma suede",
+        "zapatillas",
+        "streetwear",
+        "ropa"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "cinta-correr-plegable",
       "name": "Cinta de correr plegable — 12 km/h",
       "category": "deportes",
       "description": "Corre en casa sin ocupar espacio. Plegable y con inclinación.",
-      "price": 249.99, "originalPrice": 349.99, "discount": 29, "rating": 4.3, "reviews": 4200,
-      "badge": "Home cardio", "trending": true,
+      "price": 249.99,
+      "originalPrice": 349.99,
+      "discount": 29,
+      "rating": 4.3,
+      "reviews": 4200,
+      "badge": "Home cardio",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=cinta+correr+plegable", "price": 249.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=cinta+correr", "price": 299.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=cinta+correr", "price": 279.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0F8BHZR9J",
+          "price": 249.99,
+          "asin": "B0F8BHZR9J",
+          "directUrl": "https://www.amazon.es/dp/B0F8BHZR9J",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Cinta%20de%20correr%20plegable",
+          "price": 299.99,
+          "asin": "B0F8BHZR9J",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Cinta%20de%20correr%20plegable",
+          "price": 279,
+          "asin": "B0F8BHZR9J",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Cinta plegable en un piso pequeño — ¿funciona?",
-      "keywords": ["cinta correr", "cardio", "deportes", "fitness"]
+      "keywords": [
+        "cinta correr",
+        "cardio",
+        "deportes",
+        "fitness"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "kettlebell-16kg",
       "name": "Kettlebell 16kg — Pesa rusa hierro fundido",
       "category": "deportes",
       "description": "Entrenamiento funcional en casa. Esencial para CrossFit y fuerza.",
-      "price": 34.99, "originalPrice": 49.99, "discount": 30, "rating": 4.6, "reviews": 6700,
-      "badge": "CrossFit", "trending": true,
+      "price": 34.99,
+      "originalPrice": 49.99,
+      "discount": 30,
+      "rating": 4.6,
+      "reviews": 6700,
+      "badge": "CrossFit",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=kettlebell+16kg", "price": 34.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=kettlebell", "price": 39.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BSX7R31K",
+          "price": 34.99,
+          "asin": "B0BSX7R31K",
+          "directUrl": "https://www.amazon.es/dp/B0BSX7R31K",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Kettlebell%2016kg",
+          "price": 39.99,
+          "asin": "B0BSX7R31K",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "5 ejercicios con una kettlebell de 35€",
-      "keywords": ["kettlebell", "pesas", "crossfit", "deportes"]
+      "keywords": [
+        "kettlebell",
+        "pesas",
+        "crossfit",
+        "deportes"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "gopro-hero13",
       "name": "GoPro HERO13 Black — Cámara acción",
       "category": "deportes",
       "description": "La cámara de acción #1 para deportes extremos, viajes y vlogs.",
-      "price": 349.00, "originalPrice": 429.00, "discount": 19, "rating": 4.6, "reviews": 2100,
-      "badge": "Acción", "trending": true, "featured": true,
+      "price": 349,
+      "originalPrice": 429,
+      "discount": 19,
+      "rating": 4.6,
+      "reviews": 2100,
+      "badge": "Acción",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=gopro+hero13+black", "price": 349.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=gopro+hero13", "price": 359.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=gopro+hero13", "price": 354.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GWFKMJYG",
+          "price": 349,
+          "asin": "B0GWFKMJYG",
+          "directUrl": "https://www.amazon.es/dp/B0GWFKMJYG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=GoPro%20HERO13%20Black",
+          "price": 359,
+          "asin": "B0GWFKMJYG",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=GoPro%20HERO13%20Black",
+          "price": 354.99,
+          "asin": "B0GWFKMJYG",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "GoPro HERO13 — la probé haciendo surf",
-      "keywords": ["gopro", "camara accion", "deportes", "vlog"]
+      "keywords": [
+        "gopro",
+        "camara accion",
+        "deportes",
+        "vlog"
+      ],
+      "dealOfDay": false
     },
     {
       "id": "la-roche-posay",
       "name": "La Roche-Posay Effaclar Duo+ — Anti imperfecciones",
       "category": "belleza",
       "description": "Tratamiento #1 farmacia para acné e imperfecciones en España.",
-      "price": 18.99, "originalPrice": 24.99, "discount": 24, "rating": 4.6, "reviews": 24000,
-      "badge": "Farmacia top", "trending": true,
+      "price": 18.99,
+      "originalPrice": 24.99,
+      "discount": 24,
+      "rating": 4.6,
+      "reviews": 24000,
+      "badge": "Farmacia top",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=la+roche+posay+effaclar+duo", "price": 18.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=la+roche+posay+effaclar", "price": 21.95 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=la+roche+posay", "price": 20.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B01HDGHLB4",
+          "price": 18.99,
+          "asin": "B01HDGHLB4",
+          "directUrl": "https://www.amazon.es/dp/B01HDGHLB4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=La%20Roche-Posay%20Effaclar%20Duo%2B",
+          "price": 21.95,
+          "asin": "B01HDGHLB4",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=La%20Roche-Posay%20Effaclar%20Duo%2B",
+          "price": 20.99,
+          "asin": "B01HDGHLB4",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Effaclar Duo — 2 semanas en mi piel grasa",
-      "keywords": ["la roche posay", "effaclar", "skincare", "belleza", "acne"]
+      "keywords": [
+        "la roche posay",
+        "effaclar",
+        "skincare",
+        "belleza",
+        "acne"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "perfume-armani",
       "name": "Armani Stronger With You — Eau de Toilette 100ml",
       "category": "belleza",
       "description": "Uno de los perfumes masculinos más vendidos en España.",
-      "price": 59.99, "originalPrice": 89.99, "discount": 33, "rating": 4.7, "reviews": 18000,
-      "badge": "Perfume #1", "trending": true,
+      "price": 59.99,
+      "originalPrice": 89.99,
+      "discount": 33,
+      "rating": 4.7,
+      "reviews": 18000,
+      "badge": "Perfume #1",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=armani+stronger+with+you+100ml", "price": 59.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=armani+stronger+with+you", "price": 69.95 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=armani+stronger", "price": 64.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07JZFBJ9P",
+          "price": 59.99,
+          "asin": "B07JZFBJ9P",
+          "directUrl": "https://www.amazon.es/dp/B07JZFBJ9P",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Armani%20Stronger%20With%20You",
+          "price": 69.95,
+          "asin": "B07JZFBJ9P",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Armani%20Stronger%20With%20You",
+          "price": 64.99,
+          "asin": "B07JZFBJ9P",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Perfume de 60€ que dura todo el día",
-      "keywords": ["perfume", "armani", "belleza", "fragancia"]
+      "keywords": [
+        "perfume",
+        "armani",
+        "belleza",
+        "fragancia"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "playmobil-city",
       "name": "Playmobil City Life — Estación de bomberos",
       "category": "juguetes",
       "description": "Playmobil sigue siendo rey en juguetes educativos en Europa.",
-      "price": 49.99, "originalPrice": 64.99, "discount": 23, "rating": 4.8, "reviews": 3400,
-      "badge": "Educativo", "trending": false,
+      "price": 49.99,
+      "originalPrice": 64.99,
+      "discount": 23,
+      "rating": 4.8,
+      "reviews": 3400,
+      "badge": "Educativo",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=playmobil+bomberos", "price": 49.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=playmobil", "price": 54.95 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=playmobil", "price": 52.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 49.99,
+          "asin": "B0BKQX79WM",
+          "directUrl": "https://www.amazon.es/dp/B0BKQX79WM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Playmobil%20City%20Life",
+          "price": 54.95,
+          "asin": "B0BKQX79WM",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Playmobil%20City%20Life",
+          "price": 52.99,
+          "asin": "B0BKQX79WM",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Playmobil vs LEGO — cuál regalar en 2026",
-      "keywords": ["playmobil", "juguetes", "regalo ninos"]
+      "keywords": [
+        "playmobil",
+        "juguetes",
+        "regalo ninos"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "hot-wheels-track",
       "name": "Hot Wheels — Pista Super Speed Blastway",
       "category": "juguetes",
       "description": "Pista de coches Hot Wheels, regalo económico que triunfa siempre.",
-      "price": 24.99, "originalPrice": 34.99, "discount": 29, "rating": 4.5, "reviews": 5600,
-      "badge": "Regalo niños", "trending": true,
+      "price": 24.99,
+      "originalPrice": 34.99,
+      "discount": 29,
+      "rating": 4.5,
+      "reviews": 5600,
+      "badge": "Regalo niños",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558060370-539486472bf7?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=hot+wheels+pista", "price": 24.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=hot+wheels+pista", "price": 29.95 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=hot+wheels", "price": 27.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DPHB51XY",
+          "price": 24.99,
+          "asin": "B0DPHB51XY",
+          "directUrl": "https://www.amazon.es/dp/B0DPHB51XY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Hot%20Wheels",
+          "price": 29.95,
+          "asin": "B0DPHB51XY",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Hot%20Wheels",
+          "price": 27.99,
+          "asin": "B0DPHB51XY",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Regalo Hot Wheels por 25€ — reacción de un niño de 6 años",
-      "keywords": ["hot wheels", "juguetes", "regalo", "coches"]
+      "keywords": [
+        "hot wheels",
+        "juguetes",
+        "regalo",
+        "coches"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "cargador-coche-elec",
       "name": "Wallbox Pulsar Plus — Cargador coche eléctrico",
       "category": "automovil",
       "description": "Cargador wallbox para EV. Mercado en explosión en España.",
-      "price": 599.00, "originalPrice": 749.00, "discount": 20, "rating": 4.5, "reviews": 890,
-      "badge": "Coche eléctrico", "trending": true, "featured": true,
+      "price": 599,
+      "originalPrice": 749,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 890,
+      "badge": "Coche eléctrico",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1593941707874-ef6529b5a559?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=wallbox+pulsar+plus", "price": 599.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=wallbox+pulsar", "price": 619.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=wallbox", "price": 629.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B095B29DFH",
+          "price": 599,
+          "asin": "B095B29DFH",
+          "directUrl": "https://www.amazon.es/dp/B095B29DFH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Wallbox%20Pulsar%20Plus",
+          "price": 619.99,
+          "asin": "B095B29DFH",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Wallbox%20Pulsar%20Plus",
+          "price": 629,
+          "asin": "B095B29DFH",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Instalé un cargador EV en casa — cuánto cuesta de verdad",
-      "keywords": ["cargador electrico", "wallbox", "coche electrico", "automovil"]
+      "keywords": [
+        "cargador electrico",
+        "wallbox",
+        "coche electrico",
+        "automovil"
+      ],
+      "dealOfDay": false
     },
     {
       "id": "piscina-hinchable",
       "name": "Intex Easy Set — Piscina hinchable 366cm",
       "category": "jardin",
       "description": "Piscina desmontable bestseller verano. La más vendida en Amazon hogar.",
-      "price": 89.99, "originalPrice": 129.99, "discount": 31, "rating": 4.4, "reviews": 22000,
-      "badge": "Verano", "trending": true,
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "discount": 31,
+      "rating": 4.4,
+      "reviews": 22000,
+      "badge": "Verano",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=intex+easy+set+366", "price": 89.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=piscina+intex", "price": 99.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=piscina+intex", "price": 109.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B01ARVBS3E",
+          "price": 89.99,
+          "asin": "B01ARVBS3E",
+          "directUrl": "https://www.amazon.es/dp/B01ARVBS3E",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Intex%20Easy%20Set",
+          "price": 99.99,
+          "asin": "B01ARVBS3E",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Intex%20Easy%20Set",
+          "price": 109.95,
+          "asin": "B01ARVBS3E",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Montamos piscina en el jardín por 90€",
-      "keywords": ["piscina", "intex", "jardin", "verano"]
+      "keywords": [
+        "piscina",
+        "intex",
+        "jardin",
+        "verano"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "robot-cocina-moulinex",
       "name": "Moulinex Companion XL — Robot de cocina",
       "category": "hogar-cocina",
       "description": "Robot de cocina todo-en-uno. Alternativa accesible a Thermomix.",
-      "price": 299.00, "originalPrice": 399.00, "discount": 25, "rating": 4.5, "reviews": 3400,
-      "badge": "Cocina smart", "trending": true,
+      "price": 299,
+      "originalPrice": 399,
+      "discount": 25,
+      "rating": 4.5,
+      "reviews": 3400,
+      "badge": "Cocina smart",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=moulinex+companion+xl", "price": 299.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=moulinex+companion", "price": 319.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=moulinex+companion", "price": 329.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B084ZP1H7Z",
+          "price": 299,
+          "asin": "B084ZP1H7Z",
+          "directUrl": "https://www.amazon.es/dp/B084ZP1H7Z",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Moulinex%20Companion%20XL",
+          "price": 319,
+          "asin": "B084ZP1H7Z",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Moulinex%20Companion%20XL",
+          "price": 329,
+          "asin": "B084ZP1H7Z",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Robot de cocina de 300€ vs Thermomix de 1200€",
-      "keywords": ["robot cocina", "moulinex", "hogar-cocina", "thermomix"]
+      "keywords": [
+        "robot cocina",
+        "moulinex",
+        "hogar-cocina",
+        "thermomix"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "macbook-air-m3",
       "name": "MacBook Air 13\" M3 — 256GB",
       "category": "informatica",
       "description": "Portátil Apple más vendido. Silencioso, ligero y batería de 18h.",
-      "price": 999.00, "originalPrice": 1199.00, "discount": 17, "rating": 4.8, "reviews": 4500,
-      "badge": "Apple top", "trending": true, "featured": true,
+      "price": 999,
+      "originalPrice": 1199,
+      "discount": 17,
+      "rating": 4.8,
+      "reviews": 4500,
+      "badge": "Apple top",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=macbook+air+m3+256", "price": 999.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=macbook+air+m3", "price": 999.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=macbook+air+m3", "price": 1029.99 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=macbook+air+m3", "price": 999.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DZDCL2XV",
+          "price": 999,
+          "asin": "B0DZDCL2XV",
+          "directUrl": "https://www.amazon.es/dp/B0DZDCL2XV",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=MacBook%20Air%2013%22%20M3",
+          "price": 999,
+          "asin": "B0DZDCL2XV",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=MacBook%20Air%2013%22%20M3",
+          "price": 1029.99,
+          "asin": "B0DZDCL2XV",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=MacBook%20Air%2013%22%20M3",
+          "price": 999,
+          "asin": "B0DZDCL2XV",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "MacBook Air M3 para estudiantes — ¿vale la pena vs Windows?",
-      "keywords": ["macbook air", "apple", "portatil", "informatica", "m3"]
+      "keywords": [
+        "macbook air",
+        "apple",
+        "portatil",
+        "informatica",
+        "m3"
+      ],
+      "dealOfDay": false
     },
     {
       "id": "ssd-samsung-990",
       "name": "Samsung 990 PRO 1TB — SSD NVMe",
       "category": "informatica",
       "description": "SSD más rápido del mercado. Upgrade esencial para PC gaming.",
-      "price": 89.99, "originalPrice": 129.99, "discount": 31, "rating": 4.8, "reviews": 12000,
-      "badge": "PC upgrade", "trending": true,
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "discount": 31,
+      "rating": 4.8,
+      "reviews": 12000,
+      "badge": "PC upgrade",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1597872200963-2b35d8fd7f9c?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=samsung+990+pro+1tb", "price": 89.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=samsung+990+pro", "price": 94.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=samsung+990+pro", "price": 99.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BXX2PBXP",
+          "price": 89.99,
+          "asin": "B0BXX2PBXP",
+          "directUrl": "https://www.amazon.es/dp/B0BXX2PBXP",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20990%20PRO%201TB",
+          "price": 94.99,
+          "asin": "B0BXX2PBXP",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20990%20PRO%201TB",
+          "price": 99.99,
+          "asin": "B0BXX2PBXP",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "SSD de 90€ que hace volar tu PC",
-      "keywords": ["ssd", "samsung 990", "informatica", "pc", "gaming"]
+      "keywords": [
+        "ssd",
+        "samsung 990",
+        "informatica",
+        "pc",
+        "gaming"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "steam-deck-oled",
       "name": "Steam Deck OLED 512GB — Consola portátil PC",
       "category": "gaming",
       "description": "Juega tu biblioteca Steam en cualquier sitio. La handheld PC del momento.",
-      "price": 549.00, "originalPrice": 579.00, "discount": 5, "rating": 4.7, "reviews": 2800,
-      "badge": "Handheld PC", "trending": true, "featured": true,
+      "price": 549,
+      "originalPrice": 579,
+      "discount": 5,
+      "rating": 4.7,
+      "reviews": 2800,
+      "badge": "Handheld PC",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1612287230202-1ff1d85c1bdf?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=steam+deck+oled+512", "price": 549.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=steam+deck+oled", "price": 559.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=steam+deck", "price": 569.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "price": 549,
+          "asin": "B0CP2YVFD4",
+          "directUrl": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Steam%20Deck%20OLED%20512GB",
+          "price": 559.99,
+          "asin": "B0CP2YVFD4",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Steam%20Deck%20OLED%20512GB",
+          "price": 569,
+          "asin": "B0CP2YVFD4",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Steam Deck OLED — ¿mata a la Nintendo Switch?",
-      "keywords": ["steam deck", "gaming", "consola portatil", "valve"]
+      "keywords": [
+        "steam deck",
+        "gaming",
+        "consola portatil",
+        "valve"
+      ],
+      "dealOfDay": false
     },
     {
       "id": "mochila-viaje-cabin",
       "name": "Cabin Zero 36L — Mochila viaje cabina",
       "category": "viajes",
       "description": "Mochila aprobada como equipaje de mano. Bestseller mochileros low cost.",
-      "price": 39.99, "originalPrice": 49.99, "discount": 20, "rating": 4.6, "reviews": 7800,
-      "badge": "Low cost travel", "trending": true,
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 7800,
+      "badge": "Low cost travel",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=cabin+zero+36l", "price": 39.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=mochila+viaje+cabina", "price": 44.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=mochila+viaje+cabina", "price": 49.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "price": 39.99,
+          "asin": "B01M7UBL11",
+          "directUrl": "https://www.amazon.es/dp/B01M7UBL11",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Cabin%20Zero%2036L",
+          "price": 44.99,
+          "asin": "B01M7UBL11",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Cabin%20Zero%2036L",
+          "price": 49.95,
+          "asin": "B01M7UBL11",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Viajar solo con mochila cabina — 7 días con 36 litros",
-      "keywords": ["mochila viaje", "cabina", "viajes", "ryanair"]
+      "keywords": [
+        "mochila viaje",
+        "cabina",
+        "viajes",
+        "ryanair"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "expedia-viajes",
       "name": "Vuelos + Hotel — Expedia España",
       "category": "viajes",
       "description": "Paquetes vacacionales con comisión de afiliado por reserva.",
-      "price": 0, "originalPrice": 0, "discount": 0, "rating": 4.4, "reviews": 0,
-      "badge": "Servicio", "trending": true,
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "rating": 4.4,
+      "reviews": 0,
+      "badge": "Servicio",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "booking", "url": "https://www.expedia.es/", "price": 0, "note": "Comisión por reserva (via Awin/TradeTracker)" }
+        {
+          "store": "booking",
+          "url": "https://www.booking.com/searchresults.es.html?ss=Vuelos%20%2B%20Hotel",
+          "price": 0,
+          "note": "Comisión por reserva (via Awin/TradeTracker)",
+          "asin": "B0D5V3JPPQ",
+          "directUrl": "https://www.booking.com/searchresults.es.html?ss=Vuelos%20%2B%20Hotel",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
       ],
       "videoHook": "Cómo encontré vuelo + hotel por 150€",
-      "keywords": ["expedia", "vuelos", "viajes", "vacaciones", "hoteles"]
+      "keywords": [
+        "expedia",
+        "vuelos",
+        "viajes",
+        "vacaciones",
+        "hoteles"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "shein-cupon-style",
       "name": "Set 3 camisetas básicas algodón — Unisex",
       "category": "ropa",
       "description": "Básicos de armario económicos. Alta rotación en moda low-cost.",
-      "price": 14.99, "originalPrice": 24.99, "discount": 40, "rating": 4.3, "reviews": 34000,
-      "badge": "Básicos baratos", "trending": true,
+      "price": 14.99,
+      "originalPrice": 24.99,
+      "discount": 40,
+      "rating": 4.3,
+      "reviews": 34000,
+      "badge": "Básicos baratos",
+      "trending": true,
       "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=camisetas+basicas+algodon+pack+3", "price": 14.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=camisetas+basicas+pack", "price": 19.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CSHHSVL2",
+          "price": 14.99,
+          "asin": "B0CSHHSVL2",
+          "directUrl": "https://www.amazon.es/dp/B0CSHHSVL2",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Set%203%20camisetas%20b%C3%A1sicas%20algod%C3%B3n",
+          "price": 19.95,
+          "asin": "B0CSHHSVL2",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Básicos de 15€ vs Shein — calidad real",
-      "keywords": ["camisetas", "basicos", "ropa", "moda barata"]
+      "keywords": [
+        "camisetas",
+        "basicos",
+        "ropa",
+        "moda barata"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "aliexpress-buds",
       "name": "Xiaomi Redmi Buds 6 — Auriculares TWS",
       "category": "electronica",
       "description": "Auriculares económicos con ANC. Bestseller calidad-precio.",
-      "price": 29.99, "originalPrice": 39.99, "discount": 25, "rating": 4.4, "reviews": 8900,
-      "badge": "Calidad-precio", "trending": true,
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
+      "rating": 4.4,
+      "reviews": 8900,
+      "badge": "Calidad-precio",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=redmi+buds+6", "price": 29.99 },
-        { "store": "aliexpress", "url": "https://es.aliexpress.com/w/wholesale-redmi-buds-6.html", "price": 24.99, "note": "Directo fábrica" },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=redmi+buds+6", "price": 34.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "price": 29.99,
+          "asin": "B0DPXSW5PH",
+          "directUrl": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/wholesale?SearchText=Xiaomi%20Redmi%20Buds%206",
+          "price": 24.99,
+          "note": "Directo fábrica",
+          "asin": "B0DPXSW5PH",
+          "directUrl": "https://es.aliexpress.com/wholesale?SearchText=Xiaomi%20Redmi%20Buds%206",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Xiaomi%20Redmi%20Buds%206",
+          "price": 34.99,
+          "asin": "B0DPXSW5PH",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Auriculares de 30€ vs AirPods — sorpresa",
-      "keywords": ["xiaomi", "redmi buds", "auriculares", "electronica", "aliexpress"]
+      "keywords": [
+        "xiaomi",
+        "redmi buds",
+        "auriculares",
+        "electronica",
+        "aliexpress"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "nordvpn-sub",
       "name": "NordVPN — Suscripción 2 años",
       "category": "informatica",
       "description": "VPN #1 del mundo. Comisión alta por suscripción de afiliado.",
-      "price": 2.99, "originalPrice": 11.99, "discount": 75, "rating": 4.5, "reviews": 56000,
-      "badge": "Digital", "trending": true,
+      "price": 2.99,
+      "originalPrice": 11.99,
+      "discount": 75,
+      "rating": 4.5,
+      "reviews": 56000,
+      "badge": "Digital",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=nordvpn", "price": 0, "note": "Suscripción en nordvpn.com (afiliado)" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 0,
+          "note": "Suscripción en nordvpn.com (afiliado)",
+          "asin": "B0D7FFRHG5",
+          "directUrl": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
       ],
       "videoHook": "VPN en 2026 — ¿NordVPN merece la pena?",
-      "keywords": ["nordvpn", "vpn", "seguridad", "informatica", "digital"]
+      "keywords": [
+        "nordvpn",
+        "vpn",
+        "seguridad",
+        "informatica",
+        "digital"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "comida-hellofresh",
       "name": "HelloFresh — Kit comidas semana (1ª caja)",
       "category": "alimentacion",
       "description": "Comida a domicilio con ingredientes. Comisión por alta de afiliado.",
-      "price": 19.99, "originalPrice": 49.99, "discount": 60, "rating": 4.3, "reviews": 12000,
-      "badge": "1ª caja -60%", "trending": true,
+      "price": 19.99,
+      "originalPrice": 49.99,
+      "discount": 60,
+      "rating": 4.3,
+      "reviews": 12000,
+      "badge": "1ª caja -60%",
+      "trending": true,
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.hellofresh.es/", "price": 19.99, "note": "Oferta afiliado Awin" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 19.99,
+          "note": "Oferta afiliado Awin",
+          "asin": "1784724653",
+          "directUrl": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
       ],
       "videoHook": "HelloFresh vs cocinar — 1 semana de prueba",
-      "keywords": ["hellofresh", "comida", "alimentacion", "meal kit"]
+      "keywords": [
+        "hellofresh",
+        "comida",
+        "alimentacion",
+        "meal kit"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "sprinter-zapatillas",
       "name": "Fila Disruptor 2 — Zapatillas chunky",
       "category": "ropa",
       "description": "Sneakers chunky trending. Muy populares en Sprinter y Amazon.",
-      "price": 49.99, "originalPrice": 69.99, "discount": 29, "rating": 4.4, "reviews": 6700,
-      "badge": "Chunky", "trending": true,
+      "price": 49.99,
+      "originalPrice": 69.99,
+      "discount": 29,
+      "rating": 4.4,
+      "reviews": 6700,
+      "badge": "Chunky",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=fila+disruptor+2", "price": 49.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=fila+disruptor", "price": 54.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=fila+disruptor", "price": 59.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B08D11R67B",
+          "price": 49.99,
+          "asin": "B08D11R67B",
+          "directUrl": "https://www.amazon.es/dp/B08D11R67B",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Fila%20Disruptor%202",
+          "price": 54.99,
+          "asin": "B08D11R67B",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Fila%20Disruptor%202",
+          "price": 59.95,
+          "asin": "B08D11R67B",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Fila Disruptor — el chunky que arrasa en TikTok",
-      "keywords": ["fila disruptor", "zapatillas", "chunky", "ropa", "sprinter"]
+      "keywords": [
+        "fila disruptor",
+        "zapatillas",
+        "chunky",
+        "ropa",
+        "sprinter"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "worten-tv-deal",
       "name": "LG UHD AI 55\" 4K Smart TV — 55UR73006LA",
       "category": "tv-audio",
       "description": "Smart TV 4K económica. Bestseller gama media en Worten y MediaMarkt.",
-      "price": 399.00, "originalPrice": 549.00, "discount": 27, "rating": 4.5, "reviews": 3400,
-      "badge": "TV gama media", "trending": true,
+      "price": 399,
+      "originalPrice": 549,
+      "discount": 27,
+      "rating": 4.5,
+      "reviews": 3400,
+      "badge": "TV gama media",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=lg+55ur73006la", "price": 399.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=lg+55+4k+smart+tv", "price": 409.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=lg+55+4k", "price": 419.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GTRP9673",
+          "price": 399,
+          "asin": "B0GTRP9673",
+          "directUrl": "https://www.amazon.es/dp/B0GTRP9673",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=LG%20UHD%20AI%2055%22%204K%20Smart%20TV",
+          "price": 409,
+          "asin": "B0GTRP9673",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=LG%20UHD%20AI%2055%22%204K%20Smart%20TV",
+          "price": 419.99,
+          "asin": "B0GTRP9673",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "TV de 400€ vs OLED de 1200€ — ¿nota la diferencia?",
-      "keywords": ["lg tv", "smart tv", "televisor", "tv-audio", "worten"]
+      "keywords": [
+        "lg tv",
+        "smart tv",
+        "televisor",
+        "tv-audio",
+        "worten"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "arnes-perro-ruffwear",
       "name": "Ruffwear Front Range — Arnés perro",
       "category": "mascotas",
       "description": "Arnés premium para perros activos. Top en accesorios pet.",
-      "price": 39.99, "originalPrice": 49.99, "discount": 20, "rating": 4.8, "reviews": 5600,
-      "badge": "Pet premium", "trending": true,
+      "price": 24.99,
+      "originalPrice": 49.99,
+      "discount": 50,
+      "rating": 4.8,
+      "reviews": 5600,
+      "badge": "Pet premium",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=ruffwear+front+range", "price": 39.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=arnes+perro", "price": 24.99, "note": "Alternativa" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CLB6VL59",
+          "price": 39.99,
+          "asin": "B0CLB6VL59",
+          "directUrl": "https://www.amazon.es/dp/B0CLB6VL59",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Ruffwear%20Front%20Range",
+          "price": 24.99,
+          "note": "Alternativa",
+          "asin": "B0CLB6VL59",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "El arnés que no roza a mi perro — Ruffwear review",
-      "keywords": ["arnes perro", "ruffwear", "mascotas", "perro"]
+      "keywords": [
+        "arnes perro",
+        "ruffwear",
+        "mascotas",
+        "perro"
+      ],
+      "featured": true,
+      "dealOfDay": false
     },
     {
       "id": "thermomix-tm6",
       "name": "Thermomix TM6 — Robot de cocina Vorwerk",
       "category": "hogar-cocina",
       "description": "El robot de cocina más vendido en España. Ticket altísimo = comisión grande.",
-      "price": 1229.00, "originalPrice": 1299.00, "discount": 5, "rating": 4.7, "reviews": 8900,
-      "badge": "Premium cocina", "trending": true, "featured": true,
+      "price": 1229,
+      "originalPrice": 1299,
+      "discount": 5,
+      "rating": 4.7,
+      "reviews": 8900,
+      "badge": "Premium cocina",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=thermomix+tm6", "price": 1229.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=thermomix+tm6", "price": 1299.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CQ3PR17V",
+          "price": 1229,
+          "asin": "B0CQ3PR17V",
+          "directUrl": "https://www.amazon.es/dp/B0CQ3PR17V",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Thermomix%20TM6",
+          "price": 1299,
+          "asin": "B0CQ3PR17V",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Thermomix TM6 — ¿1200€ por un robot de cocina?",
-      "keywords": ["thermomix", "robot cocina", "vorwerk", "hogar-cocina"]
+      "keywords": [
+        "thermomix",
+        "robot cocina",
+        "vorwerk",
+        "hogar-cocina"
+      ],
+      "dealOfDay": false
     },
     {
       "id": "bombillas-led-pack",
       "name": "Philips LED Pack 10 bombillas E27",
       "category": "hogar",
       "description": "Pack ahorro energético. Producto de alta rotación en hogar.",
-      "price": 19.99, "originalPrice": 29.99, "discount": 33, "rating": 4.6, "reviews": 18000,
-      "badge": "Hogar básico", "trending": false,
+      "price": 19.99,
+      "originalPrice": 29.99,
+      "discount": 33,
+      "rating": 4.6,
+      "reviews": 18000,
+      "badge": "Hogar básico",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=philips+led+e27+pack+10", "price": 19.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=philips+led+pack", "price": 24.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=philips+led+pack", "price": 22.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 19.99,
+          "asin": "B09ZBKRMG1",
+          "directUrl": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Philips%20LED%20Pack%2010%20bombillas%20E27",
+          "price": 24.99,
+          "asin": "B09ZBKRMG1",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Philips%20LED%20Pack%2010%20bombillas%20E27",
+          "price": 22.95,
+          "asin": "B09ZBKRMG1",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Pack 10 bombillas LED por 20€ — ahorro real",
-      "keywords": ["bombillas led", "philips", "hogar", "ahorro"]
+      "keywords": [
+        "bombillas led",
+        "philips",
+        "hogar",
+        "ahorro"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "domestika-cursos",
       "name": "Domestika — Cursos online creativos",
       "category": "informatica",
       "description": "Plataforma de cursos (diseño, foto, ilustración). Comisión por suscripción afiliado.",
-      "price": 9.99, "originalPrice": 49.99, "discount": 80, "rating": 4.6, "reviews": 0,
-      "badge": "Digital", "trending": true,
+      "price": 9.99,
+      "originalPrice": 49.99,
+      "discount": 80,
+      "rating": 4.6,
+      "reviews": 0,
+      "badge": "Digital",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.domestika.org/", "price": 9.99, "note": "Plus anual via afiliado" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00EFE2QFY",
+          "price": 9.99,
+          "note": "Plus anual via afiliado",
+          "asin": "B00EFE2QFY",
+          "directUrl": "https://www.amazon.es/dp/B00EFE2QFY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
       ],
       "videoHook": "Domestika Plus — ¿merece la pena en 2026?",
-      "keywords": ["domestika", "cursos", "online", "formacion", "digital"]
+      "keywords": [
+        "domestika",
+        "cursos",
+        "online",
+        "formacion",
+        "digital"
+      ],
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "carrefour-robot",
       "name": "Rowenta X-Clean 4 — Aspirador fregasuelos",
       "category": "hogar",
       "description": "Aspirador que friega a la vez. Top ventas en electrodomésticos hogar.",
-      "price": 199.00, "originalPrice": 299.00, "discount": 33, "rating": 4.4, "reviews": 4500,
-      "badge": "Limpieza pro", "trending": true,
+      "price": 199,
+      "originalPrice": 299,
+      "discount": 33,
+      "rating": 4.4,
+      "reviews": 4500,
+      "badge": "Limpieza pro",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=rowenta+x-clean+4", "price": 199.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=rowenta+x-clean", "price": 219.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=rowenta+x-clean", "price": 229.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 199,
+          "asin": "B0FJGFPWSS",
+          "directUrl": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Rowenta%20X-Clean%204",
+          "price": 219,
+          "asin": "B0FJGFPWSS",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Rowenta%20X-Clean%204",
+          "price": 229,
+          "asin": "B0FJGFPWSS",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
       ],
       "videoHook": "Aspirador que friega — adiós fregona",
-      "keywords": ["rowenta", "aspirador", "fregasuelos", "hogar", "carrefour"]
+      "keywords": [
+        "rowenta",
+        "aspirador",
+        "fregasuelos",
+        "hogar",
+        "carrefour"
+      ],
+      "featured": false,
+      "dealOfDay": false
     }
   ]
 }

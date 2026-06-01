@@ -55,7 +55,7 @@ export function DealOfDayBanner() {
             </Link>
             {best && (
               <a
-                href={buildAffiliateUrl(best)}
+                href={buildAffiliateUrl(best, deal.id)}
                 target="_blank"
                 rel="noopener noreferrer sponsored"
                 className="rounded-xl bg-gradient-to-r from-amber-500 to-orange-500 px-5 py-3 text-sm font-bold text-black shadow-lg transition hover:opacity-90"

@@ -1,13 +1,19 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import Image from "next/image";
 import { Breadcrumbs, RelatedProducts } from "@/components/RelatedProducts";
 import { JsonLd } from "@/components/JsonLd";
-import { AffiliateLink } from "@/components/AffiliateLink";
+import { ProductActions } from "@/components/ProductActions";
+import { DealScoreBadgeForProduct } from "@/components/DealScoreBadge";
+import { StickyBuyBar } from "@/components/StickyBuyBar";
+import { ProductDetailExtras } from "@/components/ProductDetailExtras";
+import { ProductTransparency } from "@/components/ProductTransparency";
+import { StoreOffersPanel } from "@/components/StoreOffersPanel";
+import { InteractionTracker } from "@/components/InteractionTracker";
+import { computeDealScore } from "@/lib/algorithms";
 import {
-  buildAffiliateUrl,
   formatPrice,
   formatReviews,
-  getAffiliateConfig,
   getCatalog,
   getCategoryLabel,
   getProductById,
@@ -27,10 +33,17 @@ export async function generateMetadata({
   const { id } = await params;
   const product = getProductById(id);
   if (!product) return {};
+  const title = `${product.name} — Mejor precio en España`;
+  const description = `${product.description} Compara precios en ${product.offers.length} tiendas. Desde ${formatPrice(product.price)}.`;
   return {
-    title: `${product.name} — Mejor precio en España`,
-    description: `${product.description} Compara precios en ${product.offers.length} tiendas. Desde ${formatPrice(product.price)}.`,
+    title,
+    description,
     keywords: product.keywords,
+    openGraph: {
+      title,
+      description,
+      images: product.image ? [{ url: product.image, alt: product.name }] : undefined,
+    },
   };
 }
 
@@ -39,23 +52,18 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
   const product = getProductById(id);
   if (!product) notFound();
 
-  const config = getAffiliateConfig();
   const related = getRelatedProducts(product);
   const savings = getSavings(product);
-  const sortedOffers = [...product.offers].sort((a, b) => {
-    if (a.price === 0) return 1;
-    if (b.price === 0) return -1;
-    return a.price - b.price;
-  });
-
   return (
     <>
       <JsonLd product={product} />
-      <div className="mx-auto max-w-7xl px-4 py-8">
+      <InteractionTracker productId={product.id} />
+      <StickyBuyBar product={product} />
+      <div className="mx-auto max-w-7xl px-4 py-8 pb-28 lg:pb-8">
         <Breadcrumbs
           items={[
             { label: "Inicio", href: "/" },
-            { label: getCategoryLabel(product.category), href: "/#ofertas" },
+            { label: getCategoryLabel(product.category), href: `/categoria/${product.category}` },
             { label: product.name },
           ]}
         />
@@ -63,11 +71,14 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
         <div className="grid gap-10 lg:grid-cols-2">
           {/* Image */}
           <div className="space-y-4">
-            <div className="relative overflow-hidden rounded-2xl border border-white/10">
-              <img
+            <div className="relative aspect-square overflow-hidden rounded-2xl border border-white/10">
+              <Image
                 src={product.image}
                 alt={product.name}
-                className="aspect-square w-full object-cover"
+                fill
+                priority
+                sizes="(max-width: 1024px) 100vw, 50vw"
+                className="object-cover"
               />
               {product.discount > 0 && (
                 <span className="absolute left-4 top-4 rounded-xl bg-gradient-to-r from-rose-500 to-orange-500 px-4 py-2 text-sm font-bold shadow-lg">
@@ -112,6 +123,15 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
 
             <h1 className="mt-4 text-3xl font-bold leading-tight sm:text-4xl">{product.name}</h1>
 
+            <div className="mt-4 flex flex-wrap items-center gap-4">
+              <DealScoreBadgeForProduct product={product} />
+              {computeDealScore(product) >= 75 && (
+                <span className="rounded-lg bg-emerald-500/15 px-3 py-1 text-xs font-semibold text-emerald-400">
+                  ⚡ Alta probabilidad de ahorro
+                </span>
+              )}
+            </div>
+
             <div className="mt-4 flex items-center gap-4">
               <div className="flex items-center gap-1">
                 <span className="text-amber-400">{"★".repeat(Math.round(product.rating))}</span>
@@ -147,6 +167,10 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
               </div>
             )}
 
+            <div className="mt-6">
+              <ProductActions productId={product.id} currentPrice={product.price} />
+            </div>
+
             {/* Pros & Cons */}
             {(product.pros || product.cons) && (
               <div className="mt-6 grid gap-4 sm:grid-cols-2">
@@ -173,64 +197,13 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
               </div>
             )}
 
-            {/* Store comparison */}
-            <div className="mt-8">
-              <h2 className="text-lg font-bold">Comparar tiendas ({sortedOffers.length})</h2>
-              <div className="mt-4 space-y-3">
-                {sortedOffers.map((offer, i) => {
-                  const store = config.stores[offer.store];
-                  const priceDiff = offer.price > 0 && product.price > 0
-                    ? offer.price - product.price
-                    : 0;
-                  return (
-                    <AffiliateLink
-                      key={offer.store}
-                      href={buildAffiliateUrl(offer)}
-                      productId={product.id}
-                      store={offer.store}
-                      className={`group flex items-center justify-between rounded-xl border p-4 transition hover:border-indigo-500/50 ${
-                        i === 0 && offer.price > 0
-                          ? "border-emerald-500/40 bg-emerald-500/5"
-                          : "border-white/10 bg-card"
-                      }`}
-                    >
-                      <div className="flex items-center gap-3">
-                        <span
-                          className="flex h-10 w-10 items-center justify-center rounded-lg text-xs font-bold"
-                          style={{ backgroundColor: `${store.color}20`, color: store.color }}
-                        >
-                          {store.label.slice(0, 2).toUpperCase()}
-                        </span>
-                        <div>
-                          <span className="font-semibold" style={{ color: store.color }}>
-                            {store.label}
-                          </span>
-                          {offer.note && (
-                            <p className="text-xs text-slate-500">{offer.note}</p>
-                          )}
-                          {i === 0 && offer.price > 0 && (
-                            <p className="text-xs font-medium text-emerald-400">✓ Mejor precio</p>
-                          )}
-                          {priceDiff > 0 && i > 0 && (
-                            <p className="text-xs text-rose-400/80">+{formatPrice(priceDiff)} vs mejor</p>
-                          )}
-                        </div>
-                      </div>
-                      <div className="flex items-center gap-3">
-                        <span className="text-lg font-bold">
-                          {offer.price > 0 ? formatPrice(offer.price) : "Reservar"}
-                        </span>
-                        <span className="rounded-lg bg-indigo-500/20 px-3 py-1.5 text-xs font-bold text-indigo-300 transition group-hover:bg-indigo-500 group-hover:text-white">
-                          Ir →
-                        </span>
-                      </div>
-                    </AffiliateLink>
-                  );
-                })}
-              </div>
-            </div>
+            <ProductTransparency product={product} />
+
+            <StoreOffersPanel product={product} />
           </div>
         </div>
+
+        <ProductDetailExtras product={product} />
 
         <RelatedProducts products={related} />
       </div>

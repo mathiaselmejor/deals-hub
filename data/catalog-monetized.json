@@ -1,0 +1,4626 @@
+{
+  "lastUpdated": "2026-06-01",
+  "categories": [],
+  "products": [
+    {
+      "id": "apple-airpods-pro-2-usb-c",
+      "name": "Apple AirPods Pro 2 USB-C",
+      "category": "electronica",
+      "description": "Auriculares ANC referencia Apple.",
+      "price": 249,
+      "originalPrice": 249,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CHWRXH8B",
+          "price": 249,
+          "condition": "new",
+          "asin": "B0CHWRXH8B",
+          "directUrl": "https://www.amazon.es/dp/B0CHWRXH8B",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:51.162Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20AirPods%20Pro%202%20USB-C",
+          "price": 258.96,
+          "condition": "new",
+          "asin": "B0CHWRXH8B",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:51.162Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Apple%20AirPods%20Pro%202%20USB-C",
+          "price": 268.92,
+          "condition": "new",
+          "asin": "B0CHWRXH8B",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:51.162Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Apple%20AirPods%20Pro%202%20USB-C",
+          "price": 278.88,
+          "condition": "new",
+          "asin": "B0CHWRXH8B",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:51.162Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Apple AirPods Pro 2 USB-C más barato",
+      "keywords": [
+        "apple airpods pro 2 usb-c",
+        "electronica",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:51.162Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "apple-ipad-pro-m4-11-",
+      "name": "Apple iPad Pro M4 11\"",
+      "category": "tablets",
+      "description": "Tablet profesional chip M4.",
+      "price": 1199,
+      "originalPrice": 1199,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D3J8Z6RS",
+          "price": 1199,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:52.061Z",
+          "asin": "B0D3J8Z6RS",
+          "directUrl": "https://www.amazon.es/dp/B0D3J8Z6RS"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20iPad%20Pro%20M4%2011%22",
+          "price": 1246.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.061Z",
+          "asin": "B0D3J8Z6RS"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Apple%20iPad%20Pro%20M4%2011%22",
+          "price": 1294.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.061Z",
+          "asin": "B0D3J8Z6RS"
+        }
+      ],
+      "videoHook": "Dónde comprar Apple iPad Pro M4 11\" más barato",
+      "keywords": [
+        "apple ipad pro m4 11\"",
+        "tablets",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:52.061Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "samsung-galaxy-s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "category": "telefonia",
+      "description": "Flagship Android cámara 200MP.",
+      "price": 1099,
+      "originalPrice": 1099,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CMD1F7T6",
+          "price": 1099,
+          "condition": "new",
+          "asin": "B0CMD1F7T6",
+          "directUrl": "https://www.amazon.es/dp/B0CMD1F7T6",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:52.061Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Galaxy%20S24%20Ultra",
+          "price": 1142.96,
+          "condition": "new",
+          "asin": "B0CMD1F7T6",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.061Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Galaxy%20S24%20Ultra",
+          "price": 1186.92,
+          "condition": "new",
+          "asin": "B0CMD1F7T6",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.061Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Samsung Galaxy S24 Ultra más barato",
+      "keywords": [
+        "samsung galaxy s24 ultra",
+        "telefonia",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:52.061Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "google-pixel-9-pro",
+      "name": "Google Pixel 9 Pro",
+      "category": "telefonia",
+      "description": "IA Gemini y fotografía top.",
+      "price": 999,
+      "originalPrice": 999,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D7TZ5YDV",
+          "price": 999,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:52.945Z",
+          "asin": "B0D7TZ5YDV",
+          "directUrl": "https://www.amazon.es/dp/B0D7TZ5YDV"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Google%20Pixel%209%20Pro",
+          "price": 1038.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.945Z",
+          "asin": "B0D7TZ5YDV"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Google%20Pixel%209%20Pro",
+          "price": 1078.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.945Z",
+          "asin": "B0D7TZ5YDV"
+        }
+      ],
+      "videoHook": "Dónde comprar Google Pixel 9 Pro más barato",
+      "keywords": [
+        "google pixel 9 pro",
+        "telefonia",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:52.945Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "bose-quietcomfort-ultra",
+      "name": "Bose QuietComfort Ultra",
+      "category": "tv-audio",
+      "description": "Auriculares ANC premium.",
+      "price": 329,
+      "originalPrice": 329,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CCZ1RG5S",
+          "price": 329,
+          "condition": "new",
+          "asin": "B0CCZ1RG5S",
+          "directUrl": "https://www.amazon.es/dp/B0CCZ1RG5S",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:52.945Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Bose%20QuietComfort%20Ultra",
+          "price": 342.16,
+          "condition": "new",
+          "asin": "B0CCZ1RG5S",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.945Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Bose%20QuietComfort%20Ultra",
+          "price": 355.32,
+          "condition": "new",
+          "asin": "B0CCZ1RG5S",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.945Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Bose%20QuietComfort%20Ultra",
+          "price": 368.48,
+          "condition": "new",
+          "asin": "B0CCZ1RG5S",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:52.945Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Bose QuietComfort Ultra más barato",
+      "keywords": [
+        "bose quietcomfort ultra",
+        "tv-audio",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:52.945Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "sony-wh-1000xm5",
+      "name": "Sony WH-1000XM5",
+      "category": "tv-audio",
+      "description": "Referencia cancelación ruido.",
+      "price": 240,
+      "originalPrice": 299,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09XS7JWHH",
+          "price": 240,
+          "condition": "new",
+          "asin": "B09XS7JWHH",
+          "directUrl": "https://www.amazon.es/dp/B09XS7JWHH",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:53.834Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Sony%20WH-1000XM5",
+          "price": 310.96,
+          "condition": "new",
+          "asin": "B09XS7JWHH",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:53.834Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Sony%20WH-1000XM5",
+          "price": 322.92,
+          "condition": "new",
+          "asin": "B09XS7JWHH",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:53.834Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Sony WH-1000XM5 más barato",
+      "keywords": [
+        "sony wh-1000xm5",
+        "tv-audio",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:53.834Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "lg-gram-16-ultraligero",
+      "name": "LG Gram 16 ultraligero",
+      "category": "informatica",
+      "description": "Portátil 16 pulgadas ligero.",
+      "price": 1299,
+      "originalPrice": 1299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FX2X9BB4",
+          "price": 1299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FX2X9BB4",
+          "directUrl": "https://www.amazon.es/dp/B0FX2X9BB4"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=LG%20Gram%2016%20ultraligero",
+          "price": 1350.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FX2X9BB4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=LG%20Gram%2016%20ultraligero",
+          "price": 1402.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FX2X9BB4"
+        }
+      ],
+      "videoHook": "Dónde comprar LG Gram 16 ultraligero más barato",
+      "keywords": [
+        "lg gram 16 ultraligero",
+        "informatica",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "hp-pavilion-plus-14-oled",
+      "name": "HP Pavilion Plus 14 OLED",
+      "category": "informatica",
+      "description": "Portátil OLED equilibrado.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CP62THQD",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0CP62THQD",
+          "directUrl": "https://www.amazon.es/dp/B0CP62THQD"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=HP%20Pavilion%20Plus%2014%20OLED",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0CP62THQD"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=HP%20Pavilion%20Plus%2014%20OLED",
+          "price": 970.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0CP62THQD"
+        }
+      ],
+      "videoHook": "Dónde comprar HP Pavilion Plus 14 OLED más barato",
+      "keywords": [
+        "hp pavilion plus 14 oled",
+        "informatica",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "asus-rog-zephyrus-g14",
+      "name": "ASUS ROG Zephyrus G14",
+      "category": "informatica",
+      "description": "Gaming portátil potente.",
+      "price": 1799,
+      "originalPrice": 1799,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FC4T1R3K",
+          "price": 1799,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FC4T1R3K",
+          "directUrl": "https://www.amazon.es/dp/B0FC4T1R3K"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=ASUS%20ROG%20Zephyrus%20G14",
+          "price": 1870.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FC4T1R3K"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=ASUS%20ROG%20Zephyrus%20G14",
+          "price": 1942.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FC4T1R3K"
+        }
+      ],
+      "videoHook": "Dónde comprar ASUS ROG Zephyrus G14 más barato",
+      "keywords": [
+        "asus rog zephyrus g14",
+        "informatica",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "msi-stealth-16-ai-studio",
+      "name": "MSI Stealth 16 AI Studio",
+      "category": "informatica",
+      "description": "Laptop creator RTX.",
+      "price": 2199,
+      "originalPrice": 2199,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CQRM4NBM",
+          "price": 2199,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0CQRM4NBM",
+          "directUrl": "https://www.amazon.es/dp/B0CQRM4NBM"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=MSI%20Stealth%2016%20AI%20Studio",
+          "price": 2286.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0CQRM4NBM"
+        }
+      ],
+      "videoHook": "Dónde comprar MSI Stealth 16 AI Studio más barato",
+      "keywords": [
+        "msi stealth 16 ai studio",
+        "informatica",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "logitech-mx-keys-s",
+      "name": "Logitech MX Keys S",
+      "category": "perifericos",
+      "description": "Teclado inalámbrico premium.",
+      "price": 109,
+      "originalPrice": 109,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07W6JF66R",
+          "price": 109,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B07W6JF66R",
+          "directUrl": "https://www.amazon.es/dp/B07W6JF66R"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Logitech%20MX%20Keys%20S",
+          "price": 113.36,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B07W6JF66R"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Logitech%20MX%20Keys%20S",
+          "price": 117.72,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B07W6JF66R"
+        }
+      ],
+      "videoHook": "Dónde comprar Logitech MX Keys S más barato",
+      "keywords": [
+        "logitech mx keys s",
+        "perifericos",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "samsung-odyssey-g9-49",
+      "name": "Samsung Odyssey G9 49",
+      "category": "informatica",
+      "description": "Monitor ultrawide curvo.",
+      "price": 999,
+      "originalPrice": 999,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DCGCWZZF",
+          "price": 999,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0DCGCWZZF",
+          "directUrl": "https://www.amazon.es/dp/B0DCGCWZZF"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Odyssey%20G9%2049",
+          "price": 1038.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0DCGCWZZF"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Odyssey%20G9%2049",
+          "price": 1078.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0DCGCWZZF"
+        }
+      ],
+      "videoHook": "Dónde comprar Samsung Odyssey G9 49 más barato",
+      "keywords": [
+        "samsung odyssey g9 49",
+        "informatica",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "philips-hue-play-hdmi-sync",
+      "name": "Philips Hue Play HDMI Sync",
+      "category": "smart-home",
+      "description": "Luces sincronizadas con TV.",
+      "price": 199,
+      "originalPrice": 199,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DGQSY3ZT",
+          "price": 199,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0DGQSY3ZT",
+          "directUrl": "https://www.amazon.es/dp/B0DGQSY3ZT"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Philips%20Hue%20Play%20HDMI%20Sync",
+          "price": 206.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0DGQSY3ZT"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Philips%20Hue%20Play%20HDMI%20Sync",
+          "price": 214.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0DGQSY3ZT"
+        }
+      ],
+      "videoHook": "Dónde comprar Philips Hue Play HDMI Sync más barato",
+      "keywords": [
+        "philips hue play hdmi sync",
+        "smart-home",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "ring-alarm-pro-kit-8-piezas",
+      "name": "Ring Alarm Pro kit 8 piezas",
+      "category": "smart-home",
+      "description": "Alarma inteligente.",
+      "price": 349,
+      "originalPrice": 349,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BVNWDQP4",
+          "price": 349,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0BVNWDQP4",
+          "directUrl": "https://www.amazon.es/dp/B0BVNWDQP4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Ring%20Alarm%20Pro%20kit%208%20piezas",
+          "price": 362.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0BVNWDQP4"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Ring%20Alarm%20Pro%20kit%208%20piezas",
+          "price": 376.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0BVNWDQP4"
+        }
+      ],
+      "videoHook": "Dónde comprar Ring Alarm Pro kit 8 piezas más barato",
+      "keywords": [
+        "ring alarm pro kit 8 piezas",
+        "smart-home",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "tado-termostato-v3-plus",
+      "name": "Tado Termostato V3 Plus",
+      "category": "smart-home",
+      "description": "Ahorro calefacción.",
+      "price": 179,
+      "originalPrice": 179,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D9BMQKM8",
+          "price": 179,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0D9BMQKM8",
+          "directUrl": "https://www.amazon.es/dp/B0D9BMQKM8"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Tado%20Termostato%20V3%20Plus",
+          "price": 186.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0D9BMQKM8"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Tado%20Termostato%20V3%20Plus",
+          "price": 193.32,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0D9BMQKM8"
+        }
+      ],
+      "videoHook": "Dónde comprar Tado Termostato V3 Plus más barato",
+      "keywords": [
+        "tado termostato v3 plus",
+        "smart-home",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "dyson-v12-detect-slim",
+      "name": "Dyson V12 Detect Slim",
+      "category": "aspiracion-limpieza",
+      "description": "Aspirador sin cable.",
+      "price": 449,
+      "originalPrice": 449,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0B1PCD8SN",
+          "price": 449,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0B1PCD8SN",
+          "directUrl": "https://www.amazon.es/dp/B0B1PCD8SN"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Dyson%20V12%20Detect%20Slim",
+          "price": 466.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0B1PCD8SN"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Dyson%20V12%20Detect%20Slim",
+          "price": 484.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0B1PCD8SN"
+        }
+      ],
+      "videoHook": "Dónde comprar Dyson V12 Detect Slim más barato",
+      "keywords": [
+        "dyson v12 detect slim",
+        "aspiracion-limpieza",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "miele-complete-c3",
+      "name": "Miele Complete C3",
+      "category": "aspiracion-limpieza",
+      "description": "Aspirador trineo premium.",
+      "price": 299,
+      "originalPrice": 299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D74KPXR6",
+          "price": 299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0D74KPXR6",
+          "directUrl": "https://www.amazon.es/dp/B0D74KPXR6"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Miele%20Complete%20C3",
+          "price": 310.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0D74KPXR6"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Miele%20Complete%20C3",
+          "price": 322.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0D74KPXR6"
+        }
+      ],
+      "videoHook": "Dónde comprar Miele Complete C3 más barato",
+      "keywords": [
+        "miele complete c3",
+        "aspiracion-limpieza",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "kitchenaid-artisan-mini",
+      "name": "KitchenAid Artisan Mini",
+      "category": "pequeno-electro",
+      "description": "Batidora diseño.",
+      "price": 349,
+      "originalPrice": 349,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FYGTWBF4",
+          "price": 349,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FYGTWBF4",
+          "directUrl": "https://www.amazon.es/dp/B0FYGTWBF4"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=KitchenAid%20Artisan%20Mini",
+          "price": 362.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FYGTWBF4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=KitchenAid%20Artisan%20Mini",
+          "price": 376.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B0FYGTWBF4"
+        }
+      ],
+      "videoHook": "Dónde comprar KitchenAid Artisan Mini más barato",
+      "keywords": [
+        "kitchenaid artisan mini",
+        "pequeno-electro",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "smeg-tostadora-retro",
+      "name": "Smeg tostadora retro",
+      "category": "pequeno-electro",
+      "description": "Estilo años 50.",
+      "price": 169,
+      "originalPrice": 169,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00L5G12DW",
+          "price": 169,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B00L5G12DW",
+          "directUrl": "https://www.amazon.es/dp/B00L5G12DW"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Smeg%20tostadora%20retro",
+          "price": 175.76,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B00L5G12DW"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Smeg%20tostadora%20retro",
+          "price": 182.52,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.127Z",
+          "asin": "B00L5G12DW"
+        }
+      ],
+      "videoHook": "Dónde comprar Smeg tostadora retro más barato",
+      "keywords": [
+        "smeg tostadora retro",
+        "pequeno-electro",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.127Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "tempur-original-almohada",
+      "name": "Tempur Original almohada",
+      "category": "colchones",
+      "description": "Viscoelástica original.",
+      "price": 149,
+      "originalPrice": 149,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00UVQPD28",
+          "price": 149,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B00UVQPD28",
+          "directUrl": "https://www.amazon.es/dp/B00UVQPD28"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Tempur%20Original%20almohada",
+          "price": 154.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B00UVQPD28"
+        }
+      ],
+      "videoHook": "Dónde comprar Tempur Original almohada más barato",
+      "keywords": [
+        "tempur original almohada",
+        "colchones",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "emma-original-colchon-150",
+      "name": "Emma Original colchón 150",
+      "category": "colchones",
+      "description": "Colchón en caja.",
+      "price": 399,
+      "originalPrice": 399,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GT1XWBR5",
+          "price": 399,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0GT1XWBR5",
+          "directUrl": "https://www.amazon.es/dp/B0GT1XWBR5"
+        }
+      ],
+      "videoHook": "Dónde comprar Emma Original colchón 150 más barato",
+      "keywords": [
+        "emma original colchón 150",
+        "colchones",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "estanteria-modular-4x4",
+      "name": "Estantería modular 4x4",
+      "category": "hogar",
+      "description": "Organización salón.",
+      "price": 89,
+      "originalPrice": 89,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "ikea",
+          "url": "https://www.ikea.com/es/es/search/?q=Estanter%C3%ADa%20modular%204x4",
+          "price": 89,
+          "condition": "new",
+          "directUrl": "https://www.ikea.com/es/es/search/?q=Estanter%C3%ADa%20modular%204x4",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0CTT2M3PF"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CTT2M3PF",
+          "price": 92.56,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0CTT2M3PF",
+          "directUrl": "https://www.amazon.es/dp/B0CTT2M3PF"
+        }
+      ],
+      "videoHook": "Dónde comprar Estantería modular 4x4 más barato",
+      "keywords": [
+        "estantería modular 4x4",
+        "hogar",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "cama-matrimonio-160-lacada",
+      "name": "Cama matrimonio 160 lacada",
+      "category": "hogar",
+      "description": "Dormitorio minimalista.",
+      "price": 199,
+      "originalPrice": 199,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "ikea",
+          "url": "https://www.ikea.com/es/es/search/?q=Cama%20matrimonio%20160%20lacada",
+          "price": 199,
+          "condition": "new",
+          "directUrl": "https://www.ikea.com/es/es/search/?q=Cama%20matrimonio%20160%20lacada",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0FY3GJX1Q"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FY3GJX1Q",
+          "price": 206.96,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0FY3GJX1Q",
+          "directUrl": "https://www.amazon.es/dp/B0FY3GJX1Q"
+        }
+      ],
+      "videoHook": "Dónde comprar Cama matrimonio 160 lacada más barato",
+      "keywords": [
+        "cama matrimonio 160 lacada",
+        "hogar",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "sabanas-algodon-300-hilos",
+      "name": "Sábanas algodón 300 hilos",
+      "category": "hogar",
+      "description": "Ropa de cama premium.",
+      "price": 79,
+      "originalPrice": 79,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=S%C3%A1banas%20algod%C3%B3n%20300%20hilos",
+          "price": 79,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0GGVBMMML"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GGVBMMML",
+          "price": 82.16,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0GGVBMMML",
+          "directUrl": "https://www.amazon.es/dp/B0GGVBMMML"
+        }
+      ],
+      "videoHook": "Dónde comprar Sábanas algodón 300 hilos más barato",
+      "keywords": [
+        "sábanas algodón 300 hilos",
+        "hogar",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "dyson-purifier-hot-cool",
+      "name": "Dyson Purifier Hot Cool",
+      "category": "climatizacion",
+      "description": "Purifica y climatiza.",
+      "price": 599,
+      "originalPrice": 599,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0F7RPDTJ5",
+          "price": 599,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0F7RPDTJ5",
+          "directUrl": "https://www.amazon.es/dp/B0F7RPDTJ5"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Dyson%20Purifier%20Hot%20Cool",
+          "price": 622.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0F7RPDTJ5"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Dyson%20Purifier%20Hot%20Cool",
+          "price": 646.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0F7RPDTJ5"
+        }
+      ],
+      "videoHook": "Dónde comprar Dyson Purifier Hot Cool más barato",
+      "keywords": [
+        "dyson purifier hot cool",
+        "climatizacion",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "lavavajillas-integrable-serie-6",
+      "name": "Lavavajillas integrable Serie 6",
+      "category": "lavado-planchado",
+      "description": "Silencioso integrable.",
+      "price": 649,
+      "originalPrice": 649,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CGRHZDK9",
+          "price": 649,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0CGRHZDK9",
+          "directUrl": "https://www.amazon.es/dp/B0CGRHZDK9"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Lavavajillas%20integrable%20Serie%206",
+          "price": 674.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0CGRHZDK9"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Lavavajillas%20integrable%20Serie%206",
+          "price": 700.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0CGRHZDK9"
+        }
+      ],
+      "videoHook": "Dónde comprar Lavavajillas integrable Serie 6 más barato",
+      "keywords": [
+        "lavavajillas integrable serie 6",
+        "lavado-planchado",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "horno-pirolitico-iq700",
+      "name": "Horno pirolítico iQ700",
+      "category": "hogar-cocina",
+      "description": "Multifunción premium.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DJBPL5C8",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0DJBPL5C8",
+          "directUrl": "https://www.amazon.es/dp/B0DJBPL5C8"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Horno%20pirol%C3%ADtico%20iQ700",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0DJBPL5C8"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Horno%20pirol%C3%ADtico%20iQ700",
+          "price": 970.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z",
+          "asin": "B0DJBPL5C8"
+        }
+      ],
+      "videoHook": "Dónde comprar Horno pirolítico iQ700 más barato",
+      "keywords": [
+        "horno pirolítico iq700",
+        "hogar-cocina",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "adidas-ultraboost-24",
+      "name": "Adidas Ultraboost 24",
+      "category": "ropa",
+      "description": "Running Boost.",
+      "price": 159,
+      "originalPrice": 159,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C5QRZ47P",
+          "price": 159,
+          "condition": "new",
+          "asin": "B0C5QRZ47P",
+          "directUrl": "https://www.amazon.es/dp/B0C5QRZ47P",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:56.128Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Adidas%20Ultraboost%2024",
+          "price": 165.36,
+          "condition": "new",
+          "asin": "B0C5QRZ47P",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Adidas%20Ultraboost%2024",
+          "price": 171.72,
+          "condition": "new",
+          "asin": "B0C5QRZ47P",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:56.128Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Adidas Ultraboost 24 más barato",
+      "keywords": [
+        "adidas ultraboost 24",
+        "ropa",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:56.128Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "nike-air-max-90",
+      "name": "Nike Air Max 90",
+      "category": "ropa",
+      "description": "Lifestyle clásica.",
+      "price": 129,
+      "originalPrice": 129,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C5QRZ47P",
+          "price": 129,
+          "condition": "new",
+          "asin": "B0C5QRZ47P",
+          "directUrl": "https://www.amazon.es/dp/B0C5QRZ47P",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.015Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Nike%20Air%20Max%2090",
+          "price": 134.16,
+          "condition": "new",
+          "asin": "B0C5QRZ47P",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.015Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nike%20Air%20Max%2090",
+          "price": 139.32,
+          "condition": "new",
+          "asin": "B0C5QRZ47P",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.015Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Nike Air Max 90 más barato",
+      "keywords": [
+        "nike air max 90",
+        "ropa",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.015Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "plumas-nuptse-700",
+      "name": "Plumas Nuptse 700",
+      "category": "ropa",
+      "description": "Abrigo montaña.",
+      "price": 279,
+      "originalPrice": 279,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CNC4F4R1",
+          "price": 279,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNC4F4R1",
+          "directUrl": "https://www.amazon.es/dp/B0CNC4F4R1"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Plumas%20Nuptse%20700",
+          "price": 290.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNC4F4R1"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Plumas%20Nuptse%20700",
+          "price": 301.32,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNC4F4R1"
+        }
+      ],
+      "videoHook": "Dónde comprar Plumas Nuptse 700 más barato",
+      "keywords": [
+        "plumas nuptse 700",
+        "ropa",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "forro-polar-better-sweater",
+      "name": "Forro polar Better Sweater",
+      "category": "ropa",
+      "description": "Outdoor sostenible.",
+      "price": 119,
+      "originalPrice": 119,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D4C4RZT8",
+          "price": 119,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0D4C4RZT8",
+          "directUrl": "https://www.amazon.es/dp/B0D4C4RZT8"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Forro%20polar%20Better%20Sweater",
+          "price": 123.76,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0D4C4RZT8"
+        }
+      ],
+      "videoHook": "Dónde comprar Forro polar Better Sweater más barato",
+      "keywords": [
+        "forro polar better sweater",
+        "ropa",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "garmin-fenix-7-pro",
+      "name": "Garmin Fenix 7 Pro",
+      "category": "deportes",
+      "description": "Multisport GPS.",
+      "price": 799,
+      "originalPrice": 799,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C3WCGVQ3",
+          "price": 799,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0C3WCGVQ3",
+          "directUrl": "https://www.amazon.es/dp/B0C3WCGVQ3"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Garmin%20Fenix%207%20Pro",
+          "price": 830.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0C3WCGVQ3"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Garmin%20Fenix%207%20Pro",
+          "price": 862.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0C3WCGVQ3"
+        }
+      ],
+      "videoHook": "Dónde comprar Garmin Fenix 7 Pro más barato",
+      "keywords": [
+        "garmin fenix 7 pro",
+        "deportes",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "rodillo-wahoo-kickr-core",
+      "name": "Rodillo Wahoo KICKR Core",
+      "category": "deportes",
+      "description": "Ciclismo indoor smart.",
+      "price": 549,
+      "originalPrice": 549,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FLQDCR7X",
+          "price": 549,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0FLQDCR7X",
+          "directUrl": "https://www.amazon.es/dp/B0FLQDCR7X"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Rodillo%20Wahoo%20KICKR%20Core",
+          "price": 570.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0FLQDCR7X"
+        }
+      ],
+      "videoHook": "Dónde comprar Rodillo Wahoo KICKR Core más barato",
+      "keywords": [
+        "rodillo wahoo kickr core",
+        "deportes",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "remo-concept2-model-d",
+      "name": "Remo Concept2 Model D",
+      "category": "deportes",
+      "description": "Indoor rowing pro.",
+      "price": 1099,
+      "originalPrice": 1099,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00NH9WEUA",
+          "price": 1099,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B00NH9WEUA",
+          "directUrl": "https://www.amazon.es/dp/B00NH9WEUA"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Remo%20Concept2%20Model%20D",
+          "price": 1142.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B00NH9WEUA"
+        }
+      ],
+      "videoHook": "Dónde comprar Remo Concept2 Model D más barato",
+      "keywords": [
+        "remo concept2 model d",
+        "deportes",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "bici-hibrida-urbana",
+      "name": "Bici híbrida urbana",
+      "category": "deportes",
+      "description": "Movilidad ciudad.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Bici%20h%C3%ADbrida%20urbana",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0GWJ36QK5"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GWJ36QK5",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0GWJ36QK5",
+          "directUrl": "https://www.amazon.es/dp/B0GWJ36QK5"
+        }
+      ],
+      "videoHook": "Dónde comprar Bici híbrida urbana más barato",
+      "keywords": [
+        "bici híbrida urbana",
+        "deportes",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "cofre-techo-320-litros",
+      "name": "Cofre techo 320 litros",
+      "category": "automovil",
+      "description": "Portaequipajes.",
+      "price": 449,
+      "originalPrice": 449,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B01066I7JI",
+          "price": 449,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B01066I7JI",
+          "directUrl": "https://www.amazon.es/dp/B01066I7JI"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Cofre%20techo%20320%20litros",
+          "price": 466.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B01066I7JI"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Cofre%20techo%20320%20litros",
+          "price": 484.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B01066I7JI"
+        }
+      ],
+      "videoHook": "Dónde comprar Cofre techo 320 litros más barato",
+      "keywords": [
+        "cofre techo 320 litros",
+        "automovil",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "gps-tomtom-go-discover-7",
+      "name": "GPS TomTom GO Discover 7",
+      "category": "automovil",
+      "description": "Navegación tráfico real.",
+      "price": 249,
+      "originalPrice": 249,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C2HP5S6F",
+          "price": 249,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0C2HP5S6F",
+          "directUrl": "https://www.amazon.es/dp/B0C2HP5S6F"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=GPS%20TomTom%20GO%20Discover%207",
+          "price": 258.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0C2HP5S6F"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=GPS%20TomTom%20GO%20Discover%207",
+          "price": 268.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0C2HP5S6F"
+        }
+      ],
+      "videoHook": "Dónde comprar GPS TomTom GO Discover 7 más barato",
+      "keywords": [
+        "gps tomtom go discover 7",
+        "automovil",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "lego-icons-torre-eiffel",
+      "name": "LEGO Icons Torre Eiffel",
+      "category": "juguetes",
+      "description": "Coleccionista grande.",
+      "price": 549,
+      "originalPrice": 549,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BMQJXNQ7",
+          "price": 549,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0BMQJXNQ7",
+          "directUrl": "https://www.amazon.es/dp/B0BMQJXNQ7"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=LEGO%20Icons%20Torre%20Eiffel",
+          "price": 570.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0BMQJXNQ7"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=LEGO%20Icons%20Torre%20Eiffel",
+          "price": 592.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0BMQJXNQ7"
+        }
+      ],
+      "videoHook": "Dónde comprar LEGO Icons Torre Eiffel más barato",
+      "keywords": [
+        "lego icons torre eiffel",
+        "juguetes",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "playstation-portal",
+      "name": "PlayStation Portal",
+      "category": "gaming",
+      "description": "Remote Play PS5.",
+      "price": 219,
+      "originalPrice": 219,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CNXJ6XK4",
+          "price": 219,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNXJ6XK4",
+          "directUrl": "https://www.amazon.es/dp/B0CNXJ6XK4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=PlayStation%20Portal",
+          "price": 227.76,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNXJ6XK4"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=PlayStation%20Portal",
+          "price": 236.52,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNXJ6XK4"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=PlayStation%20Portal",
+          "price": 245.28,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CNXJ6XK4"
+        }
+      ],
+      "videoHook": "Dónde comprar PlayStation Portal más barato",
+      "keywords": [
+        "playstation portal",
+        "gaming",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "teclado-razer-blackwidow-v4-pro",
+      "name": "Teclado Razer BlackWidow V4 Pro",
+      "category": "gaming",
+      "description": "Mecánico gaming.",
+      "price": 229,
+      "originalPrice": 229,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DBHKXM6D",
+          "price": 229,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DBHKXM6D",
+          "directUrl": "https://www.amazon.es/dp/B0DBHKXM6D"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Teclado%20Razer%20BlackWidow%20V4%20Pro",
+          "price": 238.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DBHKXM6D"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Teclado%20Razer%20BlackWidow%20V4%20Pro",
+          "price": 247.32,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DBHKXM6D"
+        }
+      ],
+      "videoHook": "Dónde comprar Teclado Razer BlackWidow V4 Pro más barato",
+      "keywords": [
+        "teclado razer blackwidow v4 pro",
+        "gaming",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "elgato-stream-deck-mk2",
+      "name": "Elgato Stream Deck MK2",
+      "category": "perifericos",
+      "description": "Control streaming.",
+      "price": 149,
+      "originalPrice": 149,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07RL8H55Z",
+          "price": 149,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B07RL8H55Z",
+          "directUrl": "https://www.amazon.es/dp/B07RL8H55Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Elgato%20Stream%20Deck%20MK2",
+          "price": 154.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B07RL8H55Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Elgato%20Stream%20Deck%20MK2",
+          "price": 160.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B07RL8H55Z"
+        }
+      ],
+      "videoHook": "Dónde comprar Elgato Stream Deck MK2 más barato",
+      "keywords": [
+        "elgato stream deck mk2",
+        "perifericos",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "canon-eos-r6-mark-ii-body",
+      "name": "Canon EOS R6 Mark II body",
+      "category": "foto-video",
+      "description": "Full frame híbrido.",
+      "price": 2299,
+      "originalPrice": 2299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BLJNVXK4",
+          "price": 2299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0BLJNVXK4",
+          "directUrl": "https://www.amazon.es/dp/B0BLJNVXK4"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Canon%20EOS%20R6%20Mark%20II%20body",
+          "price": 2390.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0BLJNVXK4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Canon%20EOS%20R6%20Mark%20II%20body",
+          "price": 2482.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0BLJNVXK4"
+        }
+      ],
+      "videoHook": "Dónde comprar Canon EOS R6 Mark II body más barato",
+      "keywords": [
+        "canon eos r6 mark ii body",
+        "foto-video",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "sony-a7-iv-body",
+      "name": "Sony A7 IV body",
+      "category": "foto-video",
+      "description": "33MP foto vídeo.",
+      "price": 2399,
+      "originalPrice": 2399,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09JPCB3WR",
+          "price": 2399,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B09JPCB3WR",
+          "directUrl": "https://www.amazon.es/dp/B09JPCB3WR"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Sony%20A7%20IV%20body",
+          "price": 2494.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B09JPCB3WR"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Sony%20A7%20IV%20body",
+          "price": 2590.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B09JPCB3WR"
+        }
+      ],
+      "videoHook": "Dónde comprar Sony A7 IV body más barato",
+      "keywords": [
+        "sony a7 iv body",
+        "foto-video",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "dji-mini-4-pro-fly-more",
+      "name": "DJI Mini 4 Pro Fly More",
+      "category": "drones-rc",
+      "description": "Drone 4K compacto.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DP2321G5",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DP2321G5",
+          "directUrl": "https://www.amazon.es/dp/B0DP2321G5"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DP2321G5"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 970.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DP2321G5"
+        }
+      ],
+      "videoHook": "Dónde comprar DJI Mini 4 Pro Fly More más barato",
+      "keywords": [
+        "dji mini 4 pro fly more",
+        "drones-rc",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "kindle-scribe-64gb",
+      "name": "Kindle Scribe 64GB",
+      "category": "tablets",
+      "description": "E-ink con lápiz.",
+      "price": 399,
+      "originalPrice": 399,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CZ9T8H8N",
+          "price": 399,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CZ9T8H8N",
+          "directUrl": "https://www.amazon.es/dp/B0CZ9T8H8N"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Kindle%20Scribe%2064GB",
+          "price": 414.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CZ9T8H8N"
+        }
+      ],
+      "videoHook": "Dónde comprar Kindle Scribe 64GB más barato",
+      "keywords": [
+        "kindle scribe 64gb",
+        "tablets",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "afeitadora-braun-series-9-pro-plus",
+      "name": "Afeitadora Braun Series 9 Pro Plus",
+      "category": "belleza",
+      "description": "Afeitado premium.",
+      "price": 279,
+      "originalPrice": 279,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B08F7T1KDS",
+          "price": 279,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B08F7T1KDS",
+          "directUrl": "https://www.amazon.es/dp/B08F7T1KDS"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Afeitadora%20Braun%20Series%209%20Pro%20Plus",
+          "price": 290.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B08F7T1KDS"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Afeitadora%20Braun%20Series%209%20Pro%20Plus",
+          "price": 301.32,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B08F7T1KDS"
+        }
+      ],
+      "videoHook": "Dónde comprar Afeitadora Braun Series 9 Pro Plus más barato",
+      "keywords": [
+        "afeitadora braun series 9 pro plus",
+        "belleza",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "cepillo-oral-b-io-series-10",
+      "name": "Cepillo Oral-B iO Series 10",
+      "category": "belleza",
+      "description": "Limpieza dental iO.",
+      "price": 299,
+      "originalPrice": 299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DP1MRNXM",
+          "price": 299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DP1MRNXM",
+          "directUrl": "https://www.amazon.es/dp/B0DP1MRNXM"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Cepillo%20Oral-B%20iO%20Series%2010",
+          "price": 310.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DP1MRNXM"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Cepillo%20Oral-B%20iO%20Series%2010",
+          "price": 322.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0DP1MRNXM"
+        }
+      ],
+      "videoHook": "Dónde comprar Cepillo Oral-B iO Series 10 más barato",
+      "keywords": [
+        "cepillo oral-b io series 10",
+        "belleza",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "microfono-estudio-neumann-tlm-103",
+      "name": "Micrófono estudio Neumann TLM 103",
+      "category": "instrumentos",
+      "description": "Condensador vocal.",
+      "price": 999,
+      "originalPrice": 999,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B000CZ0R42",
+          "price": 999,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B000CZ0R42",
+          "directUrl": "https://www.amazon.es/dp/B000CZ0R42"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Micr%C3%B3fono%20estudio%20Neumann%20TLM%20103",
+          "price": 1038.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B000CZ0R42"
+        }
+      ],
+      "videoHook": "Dónde comprar Micrófono estudio Neumann TLM 103 más barato",
+      "keywords": [
+        "micrófono estudio neumann tlm 103",
+        "instrumentos",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.902Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "tarjeta-grafica-rtx-4070-super",
+      "name": "Tarjeta gráfica RTX 4070 Super",
+      "category": "componentes-pc",
+      "description": "GPU 1440p gaming.",
+      "price": 599,
+      "originalPrice": 599,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CRYXR9SQ",
+          "price": 599,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CRYXR9SQ",
+          "directUrl": "https://www.amazon.es/dp/B0CRYXR9SQ"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Tarjeta%20gr%C3%A1fica%20RTX%204070%20Super",
+          "price": 622.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.902Z",
+          "asin": "B0CRYXR9SQ"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Tarjeta%20gr%C3%A1fica%20RTX%204070%20Super",
+          "price": 646.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CRYXR9SQ"
+        }
+      ],
+      "videoHook": "Dónde comprar Tarjeta gráfica RTX 4070 Super más barato",
+      "keywords": [
+        "tarjeta gráfica rtx 4070 super",
+        "componentes-pc",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "procesador-amd-ryzen-7-7800x3d",
+      "name": "Procesador AMD Ryzen 7 7800X3D",
+      "category": "componentes-pc",
+      "description": "Gaming AM5.",
+      "price": 349,
+      "originalPrice": 349,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BTZB7F88",
+          "price": 349,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0BTZB7F88",
+          "directUrl": "https://www.amazon.es/dp/B0BTZB7F88"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Procesador%20AMD%20Ryzen%207%207800X3D",
+          "price": 362.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0BTZB7F88"
+        }
+      ],
+      "videoHook": "Dónde comprar Procesador AMD Ryzen 7 7800X3D más barato",
+      "keywords": [
+        "procesador amd ryzen 7 7800x3d",
+        "componentes-pc",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "placa-base-b650-msi",
+      "name": "Placa base B650 MSI",
+      "category": "componentes-pc",
+      "description": "AM5 DDR5.",
+      "price": 179,
+      "originalPrice": 179,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C3R2TXHJ",
+          "price": 179,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0C3R2TXHJ",
+          "directUrl": "https://www.amazon.es/dp/B0C3R2TXHJ"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Placa%20base%20B650%20MSI",
+          "price": 186.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0C3R2TXHJ"
+        }
+      ],
+      "videoHook": "Dónde comprar Placa base B650 MSI más barato",
+      "keywords": [
+        "placa base b650 msi",
+        "componentes-pc",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "nas-synology-ds224-",
+      "name": "NAS Synology DS224+",
+      "category": "componentes-pc",
+      "description": "Almacenamiento red 2 bahías.",
+      "price": 399,
+      "originalPrice": 399,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CBYZWF3Z",
+          "price": 399,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CBYZWF3Z",
+          "directUrl": "https://www.amazon.es/dp/B0CBYZWF3Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=NAS%20Synology%20DS224%2B",
+          "price": 414.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CBYZWF3Z"
+        }
+      ],
+      "videoHook": "Dónde comprar NAS Synology DS224+ más barato",
+      "keywords": [
+        "nas synology ds224+",
+        "componentes-pc",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "impresora-brother-hl-l2350dw",
+      "name": "Impresora Brother HL-L2350DW",
+      "category": "impresion",
+      "description": "Láser monocromo WiFi.",
+      "price": 129,
+      "originalPrice": 129,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00F328AFW",
+          "price": 129,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B00F328AFW",
+          "directUrl": "https://www.amazon.es/dp/B00F328AFW"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Impresora%20Brother%20HL-L2350DW",
+          "price": 134.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B00F328AFW"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Impresora%20Brother%20HL-L2350DW",
+          "price": 139.32,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B00F328AFW"
+        }
+      ],
+      "videoHook": "Dónde comprar Impresora Brother HL-L2350DW más barato",
+      "keywords": [
+        "impresora brother hl-l2350dw",
+        "impresion",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "maleta-samsonite-proxis-cabina",
+      "name": "Maleta Samsonite Proxis cabina",
+      "category": "maletas-viaje",
+      "description": "Cabina premium.",
+      "price": 279,
+      "originalPrice": 279,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CX51SNRW",
+          "price": 279,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CX51SNRW",
+          "directUrl": "https://www.amazon.es/dp/B0CX51SNRW"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Maleta%20Samsonite%20Proxis%20cabina",
+          "price": 290.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CX51SNRW"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Maleta%20Samsonite%20Proxis%20cabina",
+          "price": 301.32,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CX51SNRW"
+        }
+      ],
+      "videoHook": "Dónde comprar Maleta Samsonite Proxis cabina más barato",
+      "keywords": [
+        "maleta samsonite proxis cabina",
+        "maletas-viaje",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "cafetera-sage-barista-express",
+      "name": "Cafetera Sage Barista Express",
+      "category": "cafe-te",
+      "description": "Espresso manual.",
+      "price": 599,
+      "originalPrice": 599,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07B2X1VXZ",
+          "price": 599,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B07B2X1VXZ",
+          "directUrl": "https://www.amazon.es/dp/B07B2X1VXZ"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Cafetera%20Sage%20Barista%20Express",
+          "price": 622.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B07B2X1VXZ"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Cafetera%20Sage%20Barista%20Express",
+          "price": 646.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B07B2X1VXZ"
+        }
+      ],
+      "videoHook": "Dónde comprar Cafetera Sage Barista Express más barato",
+      "keywords": [
+        "cafetera sage barista express",
+        "cafe-te",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "pack-vino-rioja-reserva-6-botellas",
+      "name": "Pack vino Rioja reserva 6 botellas",
+      "category": "vinos-gourmet",
+      "description": "Selección D.O.Ca.",
+      "price": 54,
+      "originalPrice": 54,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CJJHYH96",
+          "price": 54,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CJJHYH96",
+          "directUrl": "https://www.amazon.es/dp/B0CJJHYH96"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Pack%20vino%20Rioja%20reserva%206%20botellas",
+          "price": 56.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CJJHYH96"
+        }
+      ],
+      "videoHook": "Dónde comprar Pack vino Rioja reserva 6 botellas más barato",
+      "keywords": [
+        "pack vino rioja reserva 6 botellas",
+        "vinos-gourmet",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "oximetro-y-tensiometro-kit-salud",
+      "name": "Oxímetro y tensiómetro kit salud",
+      "category": "salud-hogar",
+      "description": "Monitorización hogar.",
+      "price": 59,
+      "originalPrice": 59,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00B80JEGC",
+          "price": 59,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B00B80JEGC",
+          "directUrl": "https://www.amazon.es/dp/B00B80JEGC"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Ox%C3%ADmetro%20y%20tensi%C3%B3metro%20kit%20salud",
+          "price": 61.36,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B00B80JEGC"
+        }
+      ],
+      "videoHook": "Dónde comprar Oxímetro y tensiómetro kit salud más barato",
+      "keywords": [
+        "oxímetro y tensiómetro kit salud",
+        "salud-hogar",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "patinete-xiaomi-4-pro",
+      "name": "Patinete Xiaomi 4 Pro",
+      "category": "movilidad",
+      "description": "Movilidad urbana.",
+      "price": 449,
+      "originalPrice": 449,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GGZH916D",
+          "price": 449,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0GGZH916D",
+          "directUrl": "https://www.amazon.es/dp/B0GGZH916D"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Patinete%20Xiaomi%204%20Pro",
+          "price": 466.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0GGZH916D"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Patinete%20Xiaomi%204%20Pro",
+          "price": 484.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0GGZH916D"
+        }
+      ],
+      "videoHook": "Dónde comprar Patinete Xiaomi 4 Pro más barato",
+      "keywords": [
+        "patinete xiaomi 4 pro",
+        "movilidad",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "reloj-apple-watch-ultra-2",
+      "name": "Reloj Apple Watch Ultra 2",
+      "category": "relojes-accesorios",
+      "description": "Outdoor GPS titanium.",
+      "price": 799,
+      "originalPrice": 799,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D81H7GN8",
+          "price": 799,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0D81H7GN8",
+          "directUrl": "https://www.amazon.es/dp/B0D81H7GN8"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Reloj%20Apple%20Watch%20Ultra%202",
+          "price": 830.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0D81H7GN8"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Reloj%20Apple%20Watch%20Ultra%202",
+          "price": 862.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0D81H7GN8"
+        }
+      ],
+      "videoHook": "Dónde comprar Reloj Apple Watch Ultra 2 más barato",
+      "keywords": [
+        "reloj apple watch ultra 2",
+        "relojes-accesorios",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "gafas-meta-ray-ban-wayfarer",
+      "name": "Gafas meta Ray-Ban Wayfarer",
+      "category": "relojes-accesorios",
+      "description": "Smart glasses.",
+      "price": 299,
+      "originalPrice": 299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FLYJM9DC",
+          "price": 299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0FLYJM9DC",
+          "directUrl": "https://www.amazon.es/dp/B0FLYJM9DC"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Gafas%20meta%20Ray-Ban%20Wayfarer",
+          "price": 310.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0FLYJM9DC"
+        }
+      ],
+      "videoHook": "Dónde comprar Gafas meta Ray-Ban Wayfarer más barato",
+      "keywords": [
+        "gafas meta ray-ban wayfarer",
+        "relojes-accesorios",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "pienso-royal-canin-perro-15kg",
+      "name": "Pienso Royal Canin perro 15kg",
+      "category": "mascotas",
+      "description": "Nutrición perro adulto.",
+      "price": 69,
+      "originalPrice": 69,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B000VJZRJE",
+          "price": 69,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B000VJZRJE",
+          "directUrl": "https://www.amazon.es/dp/B000VJZRJE"
+        }
+      ],
+      "videoHook": "Dónde comprar Pienso Royal Canin perro 15kg más barato",
+      "keywords": [
+        "pienso royal canin perro 15kg",
+        "mascotas",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "cochecito-uppababy-vista-v2",
+      "name": "Cochecito Uppababy Vista V2",
+      "category": "bebes-ninos",
+      "description": "Sistema paseo premium.",
+      "price": 999,
+      "originalPrice": 999,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CYP41DHJ",
+          "price": 999,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CYP41DHJ",
+          "directUrl": "https://www.amazon.es/dp/B0CYP41DHJ"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Cochecito%20Uppababy%20Vista%20V2",
+          "price": 1038.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CYP41DHJ"
+        }
+      ],
+      "videoHook": "Dónde comprar Cochecito Uppababy Vista V2 más barato",
+      "keywords": [
+        "cochecito uppababy vista v2",
+        "bebes-ninos",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "monitor-bebe-nanit-pro",
+      "name": "Monitor bebé Nanit Pro",
+      "category": "bebes-ninos",
+      "description": "Vídeo HD sueño.",
+      "price": 299,
+      "originalPrice": 299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BVCMR75K",
+          "price": 299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0BVCMR75K",
+          "directUrl": "https://www.amazon.es/dp/B0BVCMR75K"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Monitor%20beb%C3%A9%20Nanit%20Pro",
+          "price": 310.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0BVCMR75K"
+        }
+      ],
+      "videoHook": "Dónde comprar Monitor bebé Nanit Pro más barato",
+      "keywords": [
+        "monitor bebé nanit pro",
+        "bebes-ninos",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "barbacoa-weber-genesis-ii",
+      "name": "Barbacoa Weber Genesis II",
+      "category": "jardin",
+      "description": "Gas 3 quemadores.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B01IF1GV4E",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B01IF1GV4E",
+          "directUrl": "https://www.amazon.es/dp/B01IF1GV4E"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Barbacoa%20Weber%20Genesis%20II",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B01IF1GV4E"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Barbacoa%20Weber%20Genesis%20II",
+          "price": 970.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B01IF1GV4E"
+        }
+      ],
+      "videoHook": "Dónde comprar Barbacoa Weber Genesis II más barato",
+      "keywords": [
+        "barbacoa weber genesis ii",
+        "jardin",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "cortacesped-robot-gardena-sileno",
+      "name": "Cortacésped robot Gardena SILENO",
+      "category": "jardin",
+      "description": "Jardín automático.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0G1Z9KBVD",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0G1Z9KBVD",
+          "directUrl": "https://www.amazon.es/dp/B0G1Z9KBVD"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Cortac%C3%A9sped%20robot%20Gardena%20SILENO",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0G1Z9KBVD"
+        }
+      ],
+      "videoHook": "Dónde comprar Cortacésped robot Gardena SILENO más barato",
+      "keywords": [
+        "cortacésped robot gardena sileno",
+        "jardin",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "taladro-makita-18v-kit-2-baterias",
+      "name": "Taladro Makita 18V kit 2 baterías",
+      "category": "bricolaje",
+      "description": "Profesional inalámbrico.",
+      "price": 249,
+      "originalPrice": 249,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0846L1CTX",
+          "price": 249,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0846L1CTX",
+          "directUrl": "https://www.amazon.es/dp/B0846L1CTX"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Taladro%20Makita%2018V%20kit%202%20bater%C3%ADas",
+          "price": 258.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0846L1CTX"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Taladro%20Makita%2018V%20kit%202%20bater%C3%ADas",
+          "price": 268.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0846L1CTX"
+        }
+      ],
+      "videoHook": "Dónde comprar Taladro Makita 18V kit 2 baterías más barato",
+      "keywords": [
+        "taladro makita 18v kit 2 baterías",
+        "bricolaje",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "silla-oficina-herman-miller-aeron",
+      "name": "Silla oficina Herman Miller Aeron",
+      "category": "oficina",
+      "description": "Ergonomía referencia.",
+      "price": 1299,
+      "originalPrice": 1299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B077GHT4LX",
+          "price": 1299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B077GHT4LX",
+          "directUrl": "https://www.amazon.es/dp/B077GHT4LX"
+        },
+        {
+          "store": "ikea",
+          "url": "https://www.ikea.com/es/es/search/?q=Silla%20oficina%20Herman%20Miller%20Aeron",
+          "price": 1350.96,
+          "condition": "new",
+          "directUrl": "https://www.ikea.com/es/es/search/?q=Silla%20oficina%20Herman%20Miller%20Aeron",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B077GHT4LX"
+        }
+      ],
+      "videoHook": "Dónde comprar Silla oficina Herman Miller Aeron más barato",
+      "keywords": [
+        "silla oficina herman miller aeron",
+        "oficina",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "mochila-portatil-tumi-alpha-3",
+      "name": "Mochila portátil Tumi Alpha 3",
+      "category": "oficina",
+      "description": "Business travel.",
+      "price": 495,
+      "originalPrice": 495,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09N8XX73V",
+          "price": 495,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B09N8XX73V",
+          "directUrl": "https://www.amazon.es/dp/B09N8XX73V"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Mochila%20port%C3%A1til%20Tumi%20Alpha%203",
+          "price": 514.8,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B09N8XX73V"
+        }
+      ],
+      "videoHook": "Dónde comprar Mochila portátil Tumi Alpha 3 más barato",
+      "keywords": [
+        "mochila portátil tumi alpha 3",
+        "oficina",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "ebay-refurbished-iphone-14-pro",
+      "name": "eBay refurbished iPhone 14 Pro",
+      "category": "telefonia",
+      "description": "Comparar reacondicionados eBay.",
+      "price": 649,
+      "originalPrice": 649,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "ebay",
+          "url": "https://www.ebay.es/sch/i.html?_nkw=eBay%20refurbished%20iPhone%2014%20Pro",
+          "price": 649,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0BNM15X2R"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BNM15X2R",
+          "price": 674.96,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0BNM15X2R",
+          "directUrl": "https://www.amazon.es/dp/B0BNM15X2R"
+        }
+      ],
+      "videoHook": "Dónde comprar eBay refurbished iPhone 14 Pro más barato",
+      "keywords": [
+        "ebay refurbished iphone 14 pro",
+        "telefonia",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "aliexpress-gadgets-hogar-pack",
+      "name": "AliExpress gadgets hogar pack",
+      "category": "smart-home",
+      "description": "Accesorios smart económicos.",
+      "price": 29,
+      "originalPrice": 29,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C338CHTG",
+          "price": 29,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0C338CHTG",
+          "directUrl": "https://www.amazon.es/dp/B0C338CHTG"
+        },
+        {
+          "store": "ebay",
+          "url": "https://www.ebay.es/sch/i.html?_nkw=AliExpress%20gadgets%20hogar%20pack",
+          "price": 30.16,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0C338CHTG"
+        }
+      ],
+      "videoHook": "Dónde comprar AliExpress gadgets hogar pack más barato",
+      "keywords": [
+        "aliexpress gadgets hogar pack",
+        "smart-home",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "booking-escapada-rural-fin-de-semana",
+      "name": "Booking escapada rural fin de semana",
+      "category": "viajes",
+      "description": "Alojamientos comparados.",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09J24T3G3",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B09J24T3G3",
+          "directUrl": "https://www.amazon.es/dp/B09J24T3G3"
+        }
+      ],
+      "videoHook": "Dónde comprar Booking escapada rural fin de semana más barato",
+      "keywords": [
+        "booking escapada rural fin de semana",
+        "viajes",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "pccomponentes-montaje-pc-a-medida",
+      "name": "PcComponentes montaje PC a medida",
+      "category": "componentes-pc",
+      "description": "Configura tu torre.",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=PcComponentes%20montaje%20PC%20a%20medida",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CB5DNF8F"
+        }
+      ],
+      "videoHook": "Dónde comprar PcComponentes montaje PC a medida más barato",
+      "keywords": [
+        "pccomponentes montaje pc a medida",
+        "componentes-pc",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "fnac-suscripcion-cultura-libros",
+      "name": "Fnac suscripción cultura libros",
+      "category": "libros",
+      "description": "Libros música cine.",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Fnac%20suscripci%C3%B3n%20cultura%20libros",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B074K5W639"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B074K5W639",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B074K5W639",
+          "directUrl": "https://www.amazon.es/dp/B074K5W639"
+        }
+      ],
+      "videoHook": "Dónde comprar Fnac suscripción cultura libros más barato",
+      "keywords": [
+        "fnac suscripción cultura libros",
+        "libros",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "decathlon-tienda-campana-6-personas",
+      "name": "Decathlon tienda campaña 6 personas",
+      "category": "jardin",
+      "description": "Camping familia.",
+      "price": 129,
+      "originalPrice": 129,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Decathlon%20tienda%20campa%C3%B1a%206%20personas",
+          "price": 129,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0DY7GVBR8"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DY7GVBR8",
+          "price": 134.16,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0DY7GVBR8",
+          "directUrl": "https://www.amazon.es/dp/B0DY7GVBR8"
+        }
+      ],
+      "videoHook": "Dónde comprar Decathlon tienda campaña 6 personas más barato",
+      "keywords": [
+        "decathlon tienda campaña 6 personas",
+        "jardin",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "mediamarkt-tv-samsung-qled-65",
+      "name": "MediaMarkt TV Samsung QLED 65",
+      "category": "tv-audio",
+      "description": "Televisor smart 65.",
+      "price": 899,
+      "originalPrice": 899,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=MediaMarkt%20TV%20Samsung%20QLED%2065",
+          "price": 899,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F2FLB4ZX"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0F2FLB4ZX",
+          "price": 934.96,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F2FLB4ZX",
+          "directUrl": "https://www.amazon.es/dp/B0F2FLB4ZX"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=MediaMarkt%20TV%20Samsung%20QLED%2065",
+          "price": 970.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F2FLB4ZX"
+        }
+      ],
+      "videoHook": "Dónde comprar MediaMarkt TV Samsung QLED 65 más barato",
+      "keywords": [
+        "mediamarkt tv samsung qled 65",
+        "tv-audio",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "el-corte-ingles-electrodomesticos-bosch",
+      "name": "El Corte Inglés electrodomésticos Bosch",
+      "category": "hogar-cocina",
+      "description": "Línea blanca premium.",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=El%20Corte%20Ingl%C3%A9s%20electrodom%C3%A9sticos%20Bosch",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0DJBRG14X"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DJBRG14X",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0DJBRG14X",
+          "directUrl": "https://www.amazon.es/dp/B0DJBRG14X"
+        }
+      ],
+      "videoHook": "Dónde comprar El Corte Inglés electrodomésticos Bosch más barato",
+      "keywords": [
+        "el corte inglés electrodomésticos bosch",
+        "hogar-cocina",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "ikea-cocina-metod-modulo-base",
+      "name": "IKEA cocina METOD módulo base",
+      "category": "hogar",
+      "description": "Mueble cocina modular.",
+      "price": 89,
+      "originalPrice": 89,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "ikea",
+          "url": "https://www.ikea.com/es/es/search/?q=IKEA%20cocina%20METOD%20m%C3%B3dulo%20base",
+          "price": 89,
+          "condition": "new",
+          "directUrl": "https://www.ikea.com/es/es/search/?q=IKEA%20cocina%20METOD%20m%C3%B3dulo%20base",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0DNYSPPWY"
+        }
+      ],
+      "videoHook": "Dónde comprar IKEA cocina METOD módulo base más barato",
+      "keywords": [
+        "ikea cocina metod módulo base",
+        "hogar",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "sudadera-h-m-oversize-algodon",
+      "name": "Sudadera H&M oversize algodón",
+      "category": "ropa",
+      "description": "Básico moda diaria.",
+      "price": 25,
+      "originalPrice": 25,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CGKM1GVY",
+          "price": 25,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CGKM1GVY",
+          "directUrl": "https://www.amazon.es/dp/B0CGKM1GVY"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Sudadera%20H%26M%20oversize%20algod%C3%B3n",
+          "price": 26,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0CGKM1GVY"
+        }
+      ],
+      "videoHook": "Dónde comprar Sudadera H&M oversize algodón más barato",
+      "keywords": [
+        "sudadera h&m oversize algodón",
+        "ropa",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "crema-anti-edad-la-roche-posay",
+      "name": "Crema anti-edad La Roche-Posay",
+      "category": "belleza",
+      "description": "Dermatológica bestseller.",
+      "price": 32,
+      "originalPrice": 32,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B06XDS7J69",
+          "price": 32,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B06XDS7J69",
+          "directUrl": "https://www.amazon.es/dp/B06XDS7J69"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Crema%20anti-edad%20La%20Roche-Posay",
+          "price": 33.28,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B06XDS7J69"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Crema%20anti-edad%20La%20Roche-Posay",
+          "price": 34.56,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B06XDS7J69"
+        }
+      ],
+      "videoHook": "Dónde comprar Crema anti-edad La Roche-Posay más barato",
+      "keywords": [
+        "crema anti-edad la roche-posay",
+        "belleza",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "proteina-optimum-nutrition-2-2kg",
+      "name": "Proteína Optimum Nutrition 2.2kg",
+      "category": "alimentacion",
+      "description": "Whey gold standard.",
+      "price": 59,
+      "originalPrice": 59,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07Z78QDTV",
+          "price": 59,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B07Z78QDTV",
+          "directUrl": "https://www.amazon.es/dp/B07Z78QDTV"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Prote%C3%ADna%20Optimum%20Nutrition%202.2kg",
+          "price": 61.36,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B07Z78QDTV"
+        }
+      ],
+      "videoHook": "Dónde comprar Proteína Optimum Nutrition 2.2kg más barato",
+      "keywords": [
+        "proteína optimum nutrition 2.2kg",
+        "alimentacion",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "set-cuchillos-wusthof-classic",
+      "name": "Set cuchillos Wüsthof Classic",
+      "category": "hogar-cocina",
+      "description": "Cuchillería alemana.",
+      "price": 299,
+      "originalPrice": 299,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B085V5PB9R",
+          "price": 299,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B085V5PB9R",
+          "directUrl": "https://www.amazon.es/dp/B085V5PB9R"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Set%20cuchillos%20W%C3%BCsthof%20Classic",
+          "price": 310.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B085V5PB9R"
+        }
+      ],
+      "videoHook": "Dónde comprar Set cuchillos Wüsthof Classic más barato",
+      "keywords": [
+        "set cuchillos wüsthof classic",
+        "hogar-cocina",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "aspirador-rowenta-x-force-flex",
+      "name": "Aspirador Rowenta X-Force Flex",
+      "category": "aspiracion-limpieza",
+      "description": "Sin cable flexible.",
+      "price": 199,
+      "originalPrice": 199,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GPQMMJSC",
+          "price": 199,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0GPQMMJSC",
+          "directUrl": "https://www.amazon.es/dp/B0GPQMMJSC"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Aspirador%20Rowenta%20X-Force%20Flex",
+          "price": 206.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0GPQMMJSC"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Aspirador%20Rowenta%20X-Force%20Flex",
+          "price": 214.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0GPQMMJSC"
+        }
+      ],
+      "videoHook": "Dónde comprar Aspirador Rowenta X-Force Flex más barato",
+      "keywords": [
+        "aspirador rowenta x-force flex",
+        "aspiracion-limpieza",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "freidora-ninja-foodi-max-9-5l",
+      "name": "Freidora Ninja Foodi MAX 9.5L",
+      "category": "hogar-cocina",
+      "description": "Dual zone XL.",
+      "price": 199,
+      "originalPrice": 199,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09ZYLM43B",
+          "price": 199,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B09ZYLM43B",
+          "directUrl": "https://www.amazon.es/dp/B09ZYLM43B"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Freidora%20Ninja%20Foodi%20MAX%209.5L",
+          "price": 206.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B09ZYLM43B"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Freidora%20Ninja%20Foodi%20MAX%209.5L",
+          "price": 214.92,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B09ZYLM43B"
+        }
+      ],
+      "videoHook": "Dónde comprar Freidora Ninja Foodi MAX 9.5L más barato",
+      "keywords": [
+        "freidora ninja foodi max 9.5l",
+        "hogar-cocina",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "echo-show-15-pantalla-alexa",
+      "name": "Echo Show 15 pantalla Alexa",
+      "category": "smart-home",
+      "description": "Pantalla hogar conectado.",
+      "price": 249,
+      "originalPrice": 249,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C7XHY6YS",
+          "price": 249,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0C7XHY6YS",
+          "directUrl": "https://www.amazon.es/dp/B0C7XHY6YS"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Echo%20Show%2015%20pantalla%20Alexa",
+          "price": 258.96,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0C7XHY6YS"
+        }
+      ],
+      "videoHook": "Dónde comprar Echo Show 15 pantalla Alexa más barato",
+      "keywords": [
+        "echo show 15 pantalla alexa",
+        "smart-home",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "chromecast-con-google-tv-4k",
+      "name": "Chromecast con Google TV 4K",
+      "category": "tv-audio",
+      "description": "Streaming 4K.",
+      "price": 39,
+      "originalPrice": 39,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0B91WQYB4",
+          "price": 39,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0B91WQYB4",
+          "directUrl": "https://www.amazon.es/dp/B0B91WQYB4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Chromecast%20con%20Google%20TV%204K",
+          "price": 40.56,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0B91WQYB4"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Chromecast%20con%20Google%20TV%204K",
+          "price": 42.12,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0B91WQYB4"
+        }
+      ],
+      "videoHook": "Dónde comprar Chromecast con Google TV 4K más barato",
+      "keywords": [
+        "chromecast con google tv 4k",
+        "tv-audio",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    },
+    {
+      "id": "switch-2-reserva-lanzamiento",
+      "name": "Switch 2 reserva lanzamiento",
+      "category": "gaming",
+      "description": "Consola Nintendo nueva gen.",
+      "price": 0,
+      "originalPrice": 0,
+      "discount": 0,
+      "rating": 4.5,
+      "reviews": 3000,
+      "badge": "Catálogo",
+      "trending": false,
+      "listingKind": "catalog",
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0F49DHSHJ",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F49DHSHJ",
+          "directUrl": "https://www.amazon.es/dp/B0F49DHSHJ"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Switch%202%20reserva%20lanzamiento",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F49DHSHJ"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Switch%202%20reserva%20lanzamiento",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F49DHSHJ"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Switch%202%20reserva%20lanzamiento",
+          "price": 0,
+          "condition": "new",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:08:57.903Z",
+          "asin": "B0F49DHSHJ"
+        }
+      ],
+      "videoHook": "Dónde comprar Switch 2 reserva lanzamiento más barato",
+      "keywords": [
+        "switch 2 reserva lanzamiento",
+        "gaming",
+        "comprar",
+        "precio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:08:57.903Z",
+      "featured": false,
+      "dealOfDay": false
+    }
+  ]
+}

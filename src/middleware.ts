@@ -5,7 +5,19 @@ export async function middleware(request: NextRequest) {
   const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
+  const protectedPath =
+    request.nextUrl.pathname.startsWith("/admin") ||
+    request.nextUrl.pathname.startsWith("/guia-afiliados") ||
+    request.nextUrl.pathname.startsWith("/videos") ||
+    request.nextUrl.pathname.startsWith("/cuenta");
+
   if (!supabaseUrl || !supabaseAnonKey) {
+    if (protectedPath && process.env.NODE_ENV === "production") {
+      const url = request.nextUrl.clone();
+      url.pathname = "/login";
+      url.searchParams.set("redirect", request.nextUrl.pathname);
+      return NextResponse.redirect(url);
+    }
     return NextResponse.next({ request });
   }
 

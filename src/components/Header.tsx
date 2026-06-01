@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import { BrandMark } from "@/components/BrandMark";
 import { SearchBar } from "@/components/SearchBar";
 import { AuthButton } from "@/components/AuthButton";
 
@@ -10,6 +11,7 @@ const nav = [
   { href: "/", label: "Ofertas", icon: "🔥" },
   { href: "/buscar", label: "Buscar", icon: "🔍" },
   { href: "/rankings", label: "Rankings", icon: "🏆" },
+  { href: "/referidos", label: "Referidos", icon: "🎁" },
 ];
 
 export function Header() {
@@ -20,11 +22,9 @@ export function Header() {
     <header className="sticky top-0 z-50 glass">
       <div className="mx-auto max-w-7xl px-4 py-3">
         <div className="flex items-center gap-4">
-          <Link href="/" className="flex shrink-0 items-center gap-2.5">
-            <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-500 to-purple-600 text-lg shadow-lg shadow-indigo-500/25">
-              🔥
-            </div>
-            <span className="hidden text-lg font-bold tracking-tight sm:inline">
+          <Link href="/" className="flex shrink-0 items-center gap-2.5" title="DealsHub España">
+            <BrandMark size={36} className="shadow-lg shadow-indigo-500/25" aria-label="DealsHub" />
+            <span className="text-lg font-bold tracking-tight">
               Deals<span className="text-indigo-400">Hub</span>
             </span>
           </Link>

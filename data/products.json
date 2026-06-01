@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29",
+  "lastUpdated": "2026-06-01",
   "products": [
     {
       "id": "ninja-airfryer",
@@ -12,34 +12,65 @@
       "rating": 4.7,
       "reviews": 12400,
       "badge": "Más vendido",
-      "trending": true,
-      "featured": true,
-      "dealOfDay": true,
+      "trending": false,
+      "featured": false,
+      "dealOfDay": false,
       "longDescription": "La Ninja Foodi Dual Zone es la freidora de aire más vendida en Amazon España. Cocina dos platos a la vez con temperaturas independientes — perfecta para familias. Ahorra hasta un 75% de aceite respecto a freír tradicional.",
-      "pros": ["Dos zonas de cocción independientes", "Fácil de limpiar", "Recetas incluidas en app", "Capacidad 7.6L"],
-      "cons": ["Ocupa bastante en la encimera", "Algo ruidosa al máximo"],
-      "specs": { "Capacidad": "7.6 litros", "Potencia": "2470W", "Programas": "6 modos", "Garantía": "2 años" },
+      "pros": [
+        "Dos zonas de cocción independientes",
+        "Fácil de limpiar",
+        "Recetas incluidas en app",
+        "Capacidad 7.6L"
+      ],
+      "cons": [
+        "Ocupa bastante en la encimera",
+        "Algo ruidosa al máximo"
+      ],
+      "specs": {
+        "Capacidad": "7.6 litros",
+        "Potencia": "2470W",
+        "Programas": "6 modos",
+        "Garantía": "2 años"
+      },
       "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=ninja+foodi+dual+zone+air+fryer",
+          "url": "https://www.amazon.es/dp/B0BCHFMC6D",
+          "asin": "B0BCHFMC6D",
+          "directUrl": "https://www.amazon.es/dp/B0BCHFMC6D",
+          "linkKind": "direct",
           "price": 179.99,
-          "note": "Envío Prime"
+          "note": "Envío Prime — ficha producto",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:44.955Z"
         },
         {
           "store": "mediamarkt",
-          "url": "https://www.mediamarkt.es/es/search.html?query=ninja+air+fryer",
-          "price": 189.99
+          "url": "https://www.mediamarkt.es/es/search.html?query=Ninja%20Foodi%20Dual%20Zone%20Air%20Fryer",
+          "price": 189.99,
+          "asin": "B0BCHFMC6D",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:44.955Z"
         },
         {
           "store": "elcorteingles",
-          "url": "https://www.elcorteingles.es/search/?s=ninja+air+fryer",
-          "price": 199.99
+          "url": "https://www.elcorteingles.es/search/?s=Ninja%20Foodi%20Dual%20Zone%20Air%20Fryer",
+          "price": 199.99,
+          "asin": "B0BCHFMC6D",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:44.955Z"
         }
       ],
       "videoHook": "¿Sigues friendo con aceite? Mira esto...",
-      "keywords": ["freidora sin aceite", "air fryer", "cocina saludable"]
+      "keywords": [
+        "freidora sin aceite",
+        "air fryer",
+        "cocina saludable"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:42:44.955Z"
     },
     {
       "id": "stanley-quencher",
@@ -52,22 +83,38 @@
       "rating": 4.8,
       "reviews": 8900,
       "badge": "Tendencia",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=stanley+quencher+h2.0",
-          "price": 44.95
+          "url": "https://www.amazon.es/dp/B0C8YBXMYK",
+          "price": 44.95,
+          "asin": "B0C8YBXMYK",
+          "directUrl": "https://www.amazon.es/dp/B0C8YBXMYK",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:46.020Z"
         },
         {
           "store": "decathlon",
-          "url": "https://www.decathlon.es/search?query=stanley+quencher",
-          "price": 46.99
+          "url": "https://www.decathlon.es/search?query=Stanley%20Quencher%20H2.0%20FlowState%201.2L",
+          "price": 46.99,
+          "asin": "B0C8YBXMYK",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:46.020Z"
         }
       ],
       "videoHook": "La botella que arrasa en redes — ¿merece la pena?",
-      "keywords": ["stanley", "botella termica", "regalo"]
+      "keywords": [
+        "stanley",
+        "botella termica",
+        "regalo"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:46.020Z"
     },
     {
       "id": "cerave-rutina",
@@ -80,106 +127,170 @@
       "rating": 4.6,
       "reviews": 15600,
       "badge": "Top belleza",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=cerave+pack+rutina+facial",
-          "price": 32.99
+          "url": "https://www.amazon.es/dp/B07RHGYMQS",
+          "price": 32.99,
+          "asin": "B07RHGYMQS",
+          "directUrl": "https://www.amazon.es/dp/B07RHGYMQS",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:46.915Z"
         },
         {
           "store": "elcorteingles",
-          "url": "https://www.elcorteingles.es/search/?s=cerave",
-          "price": 34.95
+          "url": "https://www.elcorteingles.es/search/?s=Pack%20CeraVe%20Rutina%20Facial%20Completa",
+          "price": 34.95,
+          "asin": "B07RHGYMQS",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:46.916Z"
         },
         {
           "store": "fnac",
-          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=cerave",
-          "price": 35.99
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Pack%20CeraVe%20Rutina%20Facial%20Completa",
+          "price": 35.99,
+          "asin": "B07RHGYMQS",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:46.916Z"
         }
       ],
       "videoHook": "La rutina de 3 pasos que cambió mi piel en 2 semanas",
-      "keywords": ["skincare", "cerave", "rutina facial"]
+      "keywords": [
+        "skincare",
+        "cerave",
+        "rutina facial"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:46.916Z"
     },
     {
       "id": "airpods-4",
       "name": "Apple AirPods 4 con cancelación activa",
       "category": "electronica",
       "description": "Auriculares inalámbricos con audio espacial y cancelación de ruido. Bestseller en electrónica.",
-      "price": 179.00,
-      "originalPrice": 199.00,
-      "discount": 10,
+      "price": 169,
+      "originalPrice": 199,
+      "discount": 15,
       "rating": 4.5,
       "reviews": 4200,
       "badge": "Bestseller",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=airpods+4",
-          "price": 179.00
+          "url": "https://www.amazon.es/dp/B0DGHYDYJL",
+          "price": 169,
+          "asin": "B0DGHYDYJL",
+          "directUrl": "https://www.amazon.es/dp/B0DGHYDYJL",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:47.800Z"
         },
         {
           "store": "mediamarkt",
-          "url": "https://www.mediamarkt.es/es/search.html?query=airpods+4",
-          "price": 179.00
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20AirPods%204%20con%20cancelaci%C3%B3n%20activa",
+          "price": 179,
+          "asin": "B0DGHYDYJL",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:47.800Z"
         },
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=airpods+4",
-          "price": 184.99
+          "url": "https://www.pccomponentes.com/search/?query=Apple%20AirPods%204%20con%20cancelaci%C3%B3n%20activa",
+          "price": 184.99,
+          "asin": "B0DGHYDYJL",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:47.800Z"
         },
         {
           "store": "fnac",
-          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=airpods+4",
-          "price": 179.00
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Apple%20AirPods%204%20con%20cancelaci%C3%B3n%20activa",
+          "price": 179,
+          "asin": "B0DGHYDYJL",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:47.800Z"
         }
       ],
       "videoHook": "AirPods 4 vs los baratos de AliExpress — la verdad",
-      "keywords": ["airpods", "auriculares", "apple"]
+      "keywords": [
+        "airpods",
+        "auriculares",
+        "apple"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:47.800Z"
     },
     {
       "id": "robot-aspirador",
       "name": "Roborock Qrevo S Robot Aspirador",
       "category": "hogar",
       "description": "Robot aspirador con estación de autovaciado. El más buscado para ahorrar tiempo limpiando.",
-      "price": 549.00,
-      "originalPrice": 699.00,
-      "discount": 21,
+      "price": 499.99,
+      "originalPrice": 699,
+      "discount": 28,
       "rating": 4.6,
       "reviews": 2100,
       "badge": "Oferta flash",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=roborock+qrevo+s",
-          "price": 549.00
+          "url": "https://www.amazon.es/dp/B0GHN3V6BP",
+          "price": 499.99,
+          "asin": "B0GHN3V6BP",
+          "directUrl": "https://www.amazon.es/dp/B0GHN3V6BP",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:50.267Z"
         },
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=roborock+qrevo",
-          "price": 559.00
+          "url": "https://www.pccomponentes.com/search/?query=Roborock%20Qrevo%20S%20Robot%20Aspirador",
+          "price": 559,
+          "asin": "B0GHN3V6BP",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:50.267Z"
         },
         {
           "store": "mediamarkt",
-          "url": "https://www.mediamarkt.es/es/search.html?query=roborock",
-          "price": 569.00
+          "url": "https://www.mediamarkt.es/es/search.html?query=Roborock%20Qrevo%20S%20Robot%20Aspirador",
+          "price": 569,
+          "asin": "B0GHN3V6BP",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:50.267Z"
         }
       ],
       "videoHook": "Llevé 30 días sin fregar — esto es lo que pasó",
-      "keywords": ["robot aspirador", "limpieza", "smart home"]
+      "keywords": [
+        "robot aspirador",
+        "limpieza",
+        "smart home"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:50.267Z"
     },
     {
       "id": "silla-gaming",
       "name": "Secretlab Titan Evo Silla Gaming Ergonómica",
       "category": "gaming",
       "description": "Silla ergonómica premium para gaming y teletrabajo. Alta comisión en PcComponentes.",
-      "price": 399.00,
-      "originalPrice": 449.00,
+      "price": 399,
+      "originalPrice": 449,
       "discount": 11,
       "rating": 4.7,
       "reviews": 1800,
@@ -189,54 +300,86 @@
       "offers": [
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=secretlab+titan",
-          "price": 399.00
+          "url": "https://www.pccomponentes.com/search/?query=Secretlab%20Titan%20Evo%20Silla%20Gaming%20Ergon%C3%B3mica",
+          "price": 399,
+          "asin": "B0B3RH59X8",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:52.434Z"
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=secretlab+titan+evo",
-          "price": 419.00
+          "url": "https://www.amazon.es/dp/B0B3RH59X8",
+          "price": 659,
+          "asin": "B0B3RH59X8",
+          "directUrl": "https://www.amazon.es/dp/B0B3RH59X8",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:52.434Z"
         }
       ],
       "videoHook": "Tu espalda te lo agradecerá — silla gaming vs oficina barata",
-      "keywords": ["silla gaming", "ergonomia", "teletrabajo"]
+      "keywords": [
+        "silla gaming",
+        "ergonomia",
+        "teletrabajo"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:52.435Z"
     },
     {
       "id": "creatina",
       "name": "Optimum Nutrition Creatina Monohidrato 500g",
       "category": "salud-deporte",
       "description": "Creatina micronizada #1 en suplementos deportivos. Compra recurrente = ingresos pasivos.",
-      "price": 24.99,
+      "price": 26.99,
       "originalPrice": 32.99,
-      "discount": 24,
+      "discount": 18,
       "rating": 4.8,
       "reviews": 22000,
       "badge": "Alta rotación",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989f?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=optimum+nutrition+creatina",
-          "price": 24.99
+          "url": "https://www.amazon.es/dp/B00T7L20EC",
+          "price": 33.99,
+          "asin": "B00T7L20EC",
+          "directUrl": "https://www.amazon.es/dp/B00T7L20EC",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:54.626Z"
         },
         {
           "store": "decathlon",
-          "url": "https://www.decathlon.es/search?query=creatina",
-          "price": 26.99
+          "url": "https://www.decathlon.es/search?query=Optimum%20Nutrition%20Creatina%20Monohidrato%20500g",
+          "price": 26.99,
+          "asin": "B00T7L20EC",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:54.626Z"
         }
       ],
       "videoHook": "El suplemento más barato que realmente funciona",
-      "keywords": ["creatina", "gym", "suplementos"]
+      "keywords": [
+        "creatina",
+        "gym",
+        "suplementos"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:54.626Z"
     },
     {
       "id": "kindle",
       "name": "Amazon Kindle (16 GB) — Modelo 2024",
       "category": "electronica",
       "description": "E-reader más vendido. Perfecto para regalo y compras impulsivas de bajo ticket.",
-      "price": 99.99,
+      "price": 109.99,
       "originalPrice": 119.99,
-      "discount": 17,
+      "discount": 8,
       "rating": 4.6,
       "reviews": 9800,
       "badge": "Regalo ideal",
@@ -245,93 +388,149 @@
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=kindle+2024",
-          "price": 99.99
+          "url": "https://www.amazon.es/dp/B0CP32JG8B",
+          "price": 119,
+          "asin": "B0CP32JG8B",
+          "directUrl": "https://www.amazon.es/dp/B0CP32JG8B",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:57.261Z"
         },
         {
           "store": "fnac",
-          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=kindle",
-          "price": 109.99
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Amazon%20Kindle%20(16%20GB)",
+          "price": 109.99,
+          "asin": "B0CP32JG8B",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:57.261Z"
         }
       ],
       "videoHook": "Dejé el móvil por esto — leo 3x más ahora",
-      "keywords": ["kindle", "lectura", "regalo"]
+      "keywords": [
+        "kindle",
+        "lectura",
+        "regalo"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:57.261Z"
     },
     {
       "id": "camara-seguridad",
       "name": "TP-Link Tapo C200 Cámara WiFi 360°",
       "category": "smart-home",
       "description": "Cámara de vigilancia económica con app móvil. Producto estrella en seguridad doméstica.",
-      "price": 29.99,
+      "price": 18.99,
       "originalPrice": 39.99,
-      "discount": 25,
+      "discount": 53,
       "rating": 4.5,
       "reviews": 31000,
       "badge": "Precio imbatible",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1557324232-74ae61698fcf?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=tapo+c200",
-          "price": 29.99
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 18.99,
+          "asin": "B0DS6D837F",
+          "directUrl": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:42:59.624Z"
         },
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=tapo+c200",
-          "price": 31.99
+          "url": "https://www.pccomponentes.com/search/?query=TP-Link%20Tapo%20C200%20C%C3%A1mara%20WiFi%20360%C2%B0",
+          "price": 31.99,
+          "asin": "B0DS6D837F",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:59.624Z"
         },
         {
           "store": "mediamarkt",
-          "url": "https://www.mediamarkt.es/es/search.html?query=tapo+c200",
-          "price": 32.99
+          "url": "https://www.mediamarkt.es/es/search.html?query=TP-Link%20Tapo%20C200%20C%C3%A1mara%20WiFi%20360%C2%B0",
+          "price": 32.99,
+          "asin": "B0DS6D837F",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:42:59.624Z"
         }
       ],
       "videoHook": "Vigila tu casa por menos de 30€ — instalación en 5 min",
-      "keywords": ["camara wifi", "seguridad", "tapo"]
+      "keywords": [
+        "camara wifi",
+        "seguridad",
+        "tapo"
+      ],
+      "featured": true,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:42:59.624Z"
     },
     {
       "id": "maleta-cabina",
       "name": "Samsonite S'Cure Maleta Cabina 55cm",
       "category": "viajes",
       "description": "Maleta cabina resistente, ideal para temporada de vacaciones y viajes de fin de semana.",
-      "price": 119.00,
-      "originalPrice": 159.00,
-      "discount": 25,
+      "price": 95,
+      "originalPrice": 159,
+      "discount": 40,
       "rating": 4.7,
       "reviews": 5400,
       "badge": "Temporada viajes",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=samsonite+scure+cabina",
-          "price": 119.00
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 129,
+          "asin": "B009SIVCNE",
+          "directUrl": "https://www.amazon.es/dp/B009SIVCNE",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:01.980Z"
         },
         {
           "store": "elcorteingles",
-          "url": "https://www.elcorteingles.es/search/?s=samsonite+scure",
-          "price": 129.00
+          "url": "https://www.elcorteingles.es/search/?s=Samsonite%20S'Cure%20Maleta%20Cabina%2055cm",
+          "price": 129,
+          "asin": "B009SIVCNE",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:01.981Z"
         },
         {
           "store": "ebay",
-          "url": "https://www.ebay.es/sch/i.html?_nkw=samsonite+scure+cabina",
-          "price": 95.00,
-          "note": "Segunda mano / outlet"
+          "url": "https://www.ebay.es/sch/i.html?_nkw=Samsonite%20S'Cure%20Maleta%20Cabina%2055cm",
+          "price": 95,
+          "note": "Segunda mano / outlet",
+          "asin": "B009SIVCNE",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:01.981Z"
         }
       ],
       "videoHook": "Esta maleta sobrevivió 47 vuelos — review honesto",
-      "keywords": ["maleta cabina", "viajes", "samsonite"]
+      "keywords": [
+        "maleta cabina",
+        "viajes",
+        "samsonite"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:01.981Z"
     },
     {
       "id": "portatil-lenovo",
       "name": "Lenovo IdeaPad Slim 5 16\" Ryzen 7 16GB",
       "category": "informatica",
       "description": "Portátil equilibrado para estudio y trabajo. Ticket alto = comisión interesante en PcComponentes.",
-      "price": 649.00,
-      "originalPrice": 799.00,
-      "discount": 19,
+      "price": 599,
+      "originalPrice": 799,
+      "discount": 25,
       "rating": 4.4,
       "reviews": 890,
       "badge": "Mejor relación calidad-precio",
@@ -340,22 +539,42 @@
       "offers": [
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=lenovo+ideapad+slim+5",
-          "price": 649.00
+          "url": "https://www.pccomponentes.com/search/?query=Lenovo%20IdeaPad%20Slim%205%2016%22%20Ryzen%207%2016GB",
+          "price": 649,
+          "asin": "B0G59NF4R4",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:04.358Z"
         },
         {
           "store": "mediamarkt",
-          "url": "https://www.mediamarkt.es/es/search.html?query=lenovo+ideapad+slim+5",
-          "price": 669.00
+          "url": "https://www.mediamarkt.es/es/search.html?query=Lenovo%20IdeaPad%20Slim%205%2016%22%20Ryzen%207%2016GB",
+          "price": 669,
+          "asin": "B0G59NF4R4",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:04.358Z"
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=lenovo+ideapad+slim+5",
-          "price": 679.00
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 599,
+          "asin": "B0G59NF4R4",
+          "directUrl": "https://www.amazon.es/dp/B0G59NF4R4",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:04.358Z"
         }
       ],
       "videoHook": "El portátil de 650€ que compite con MacBook",
-      "keywords": ["portatil", "lenovo", "estudiantes"]
+      "keywords": [
+        "portatil",
+        "lenovo",
+        "estudiantes"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:04.358Z"
     },
     {
       "id": "hotel-booking",
@@ -368,18 +587,30 @@
       "rating": 4.5,
       "reviews": 0,
       "badge": "Servicio",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=600&fit=crop",
       "offers": [
         {
           "store": "booking",
-          "url": "https://www.booking.com/searchresults.es.html?ss=Espa%C3%B1a",
+          "url": "https://www.booking.com/searchresults.es.html?ss=Escapadas%20de%20fin%20de%20semana",
           "price": 0,
-          "note": "Comisión por reserva (~25-40%)"
+          "note": "Comisión por reserva (~25-40%)",
+          "asin": "B07Z5LC8CB",
+          "directUrl": "https://www.booking.com/searchresults.es.html?ss=Escapadas%20de%20fin%20de%20semana",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:06.506Z"
         }
       ],
       "videoHook": "Escapada de 2 días por menos de 80€ — así la encontré",
-      "keywords": ["hoteles baratos", "escapadas", "viajes españa"]
+      "keywords": [
+        "hoteles baratos",
+        "escapadas",
+        "viajes españa"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:06.506Z"
     },
     {
       "id": "cosori-airfryer",
@@ -387,24 +618,60 @@
       "category": "hogar-cocina",
       "description": "Alternativa top a Ninja con excelente relación calidad-precio. 13 funciones y app con recetas.",
       "longDescription": "La COSORI Premium es la opción inteligente si buscas freidora de aire sin pagar de más. 5.5 litros, pantalla táctil y más de 100 recetas en la app.",
-      "price": 89.99,
+      "price": 84.99,
       "originalPrice": 129.99,
-      "discount": 31,
+      "discount": 35,
       "rating": 4.6,
       "reviews": 9800,
       "badge": "Mejor precio",
-      "trending": true,
-      "featured": true,
-      "pros": ["Precio imbatible", "App con recetas", "Compacta", "13 programas"],
-      "cons": ["Una sola zona", "Capacidad menor que Dual Zone"],
-      "specs": { "Capacidad": "5.5 litros", "Potencia": "1700W", "Peso": "4.8 kg" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Precio imbatible",
+        "App con recetas",
+        "Compacta",
+        "13 programas"
+      ],
+      "cons": [
+        "Una sola zona",
+        "Capacidad menor que Dual Zone"
+      ],
+      "specs": {
+        "Capacidad": "5.5 litros",
+        "Potencia": "1700W",
+        "Peso": "4.8 kg"
+      },
       "image": "https://images.unsplash.com/photo-1626087927383-2074d2c7684a?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=cosori+freidora+aire+5.5", "price": 89.99, "note": "Envío Prime" },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=cosori+air+fryer", "price": 99.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "price": 84.99,
+          "note": "Envío Prime",
+          "asin": "B07N8N6C85",
+          "directUrl": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:06.506Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=COSORI%20Freidora%20de%20Aire%205.5L%20Premium",
+          "price": 99.99,
+          "asin": "B07N8N6C85",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:06.506Z"
+        }
       ],
       "videoHook": "Freidora de 90€ que hace lo mismo que una de 200€",
-      "keywords": ["cosori", "air fryer barata", "freidora sin aceite"]
+      "keywords": [
+        "cosori",
+        "air fryer barata",
+        "freidora sin aceite"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:06.506Z"
     },
     {
       "id": "sony-wh1000xm5",
@@ -412,76 +679,215 @@
       "category": "electronica",
       "description": "Los auriculares over-ear con mejor cancelación de ruido del mercado. Referencia absoluta.",
       "longDescription": "Los Sony WH-1000XM5 dominan las listas de mejores auriculares desde su lanzamiento. 30h de batería, cancelación líder y comodidad premium para viajes y teletrabajo.",
-      "price": 279.00,
-      "originalPrice": 399.00,
+      "price": 279,
+      "originalPrice": 399,
       "discount": 30,
       "rating": 4.8,
       "reviews": 6700,
       "badge": "Editor's Choice",
-      "trending": true,
-      "featured": true,
-      "pros": ["Mejor ANC del mercado", "30h batería", "Multipoint Bluetooth", "Ligeros"],
-      "cons": ["No plegables del todo", "Estuche algo grande"],
-      "specs": { "Batería": "30 horas", "Peso": "250g", "Bluetooth": "5.2", "Carga rápida": "3 min = 3h" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Mejor ANC del mercado",
+        "30h batería",
+        "Multipoint Bluetooth",
+        "Ligeros"
+      ],
+      "cons": [
+        "No plegables del todo",
+        "Estuche algo grande"
+      ],
+      "specs": {
+        "Batería": "30 horas",
+        "Peso": "250g",
+        "Bluetooth": "5.2",
+        "Carga rápida": "3 min = 3h"
+      },
       "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=sony+wh1000xm5", "price": 279.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=sony+wh1000xm5", "price": 289.00 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=sony+wh1000xm5", "price": 299.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=sony+wh1000xm5", "price": 284.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BTJD6LCL",
+          "price": 279,
+          "asin": "B0BTJD6LCL",
+          "directUrl": "https://www.amazon.es/dp/B0BTJD6LCL",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:08.932Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Sony%20WH-1000XM5",
+          "price": 289,
+          "asin": "B0BTJD6LCL",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:08.932Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Sony%20WH-1000XM5",
+          "price": 299,
+          "asin": "B0BTJD6LCL",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:08.932Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Sony%20WH-1000XM5",
+          "price": 284.99,
+          "asin": "B0BTJD6LCL",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:08.932Z"
+        }
       ],
       "videoHook": "Probé 5 auriculares premium — solo uno vale la pena",
-      "keywords": ["sony xm5", "cancelacion ruido", "auriculares premium"]
+      "keywords": [
+        "sony xm5",
+        "cancelacion ruido",
+        "auriculares premium"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:08.932Z"
     },
     {
       "id": "teclado-logitech",
       "name": "Logitech MX Keys S — Teclado inalámbrico",
       "category": "informatica",
       "description": "Teclado premium para productividad. Retroiluminación inteligente y multi-dispositivo.",
-      "price": 89.99,
+      "price": 94.99,
       "originalPrice": 109.99,
-      "discount": 18,
+      "discount": 14,
       "rating": 4.7,
       "reviews": 3200,
       "badge": "Teletrabajo",
       "trending": false,
-      "featured": true,
-      "pros": ["Teclas perfectas", "Multi-dispositivo", "Batería 10 días", "Retroiluminación"],
-      "cons": ["No mecánico", "Precio elevado vs básicos"],
-      "specs": { "Conexión": "Bluetooth + USB", "Batería": "Hasta 10 días", "Layout": "Español QWERTY" },
+      "featured": false,
+      "pros": [
+        "Teclas perfectas",
+        "Multi-dispositivo",
+        "Batería 10 días",
+        "Retroiluminación"
+      ],
+      "cons": [
+        "No mecánico",
+        "Precio elevado vs básicos"
+      ],
+      "specs": {
+        "Conexión": "Bluetooth + USB",
+        "Batería": "Hasta 10 días",
+        "Layout": "Español QWERTY"
+      },
       "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=logitech+mx+keys+s", "price": 89.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=logitech+mx+keys+s", "price": 94.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=logitech+mx+keys", "price": 99.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07W6JF66R",
+          "price": 169,
+          "asin": "B07W6JF66R",
+          "directUrl": "https://www.amazon.es/dp/B07W6JF66R",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:11.511Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Logitech%20MX%20Keys%20S",
+          "price": 94.99,
+          "asin": "B07W6JF66R",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:11.511Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Logitech%20MX%20Keys%20S",
+          "price": 99.99,
+          "asin": "B07W6JF66R",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:11.511Z"
+        }
       ],
       "videoHook": "El teclado que usan los que trabajan 8h al día",
-      "keywords": ["teclado logitech", "teletrabajo", "mx keys"]
+      "keywords": [
+        "teclado logitech",
+        "teletrabajo",
+        "mx keys"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:11.511Z"
     },
     {
       "id": "dyson-v15",
       "name": "Dyson V15 Detect Absolute",
       "category": "hogar",
       "description": "Aspirador inalámbrico top con láser para detectar polvo. Inversión a largo plazo.",
-      "price": 599.00,
-      "originalPrice": 749.00,
+      "price": 599,
+      "originalPrice": 749,
       "discount": 20,
       "rating": 4.7,
       "reviews": 4100,
       "badge": "Premium",
-      "trending": true,
-      "featured": true,
-      "pros": ["Láser detect polvo", "Potencia 240AW", "Filtra 99.99%", "Sin cables"],
-      "cons": ["Precio alto", "Batería limitada en max potencia"],
-      "specs": { "Potencia": "240 AW", "Autonomía": "60 min", "Peso": "3 kg", "Depósito": "0.76L" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Láser detect polvo",
+        "Potencia 240AW",
+        "Filtra 99.99%",
+        "Sin cables"
+      ],
+      "cons": [
+        "Precio alto",
+        "Batería limitada en max potencia"
+      ],
+      "specs": {
+        "Potencia": "240 AW",
+        "Autonomía": "60 min",
+        "Peso": "3 kg",
+        "Depósito": "0.76L"
+      },
       "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=dyson+v15+detect", "price": 599.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=dyson+v15", "price": 649.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=dyson+v15", "price": 629.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DGXGJD9H",
+          "price": 599,
+          "asin": "B0DGXGJD9H",
+          "directUrl": "https://www.amazon.es/dp/B0DGXGJD9H",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:14.027Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Dyson%20V15%20Detect%20Absolute",
+          "price": 649,
+          "asin": "B0DGXGJD9H",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:14.028Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Dyson%20V15%20Detect%20Absolute",
+          "price": 629,
+          "asin": "B0DGXGJD9H",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:14.028Z"
+        }
       ],
       "videoHook": "Aspirador de 600€ vs robot de 300€ — ganador claro",
-      "keywords": ["dyson v15", "aspirador sin cable", "hogar"]
+      "keywords": [
+        "dyson v15",
+        "aspirador sin cable",
+        "hogar"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:14.028Z"
     },
     {
       "id": "ps5-slim",
@@ -494,69 +900,211 @@
       "rating": 4.8,
       "reviews": 12500,
       "badge": "Stock limitado",
-      "trending": true,
-      "featured": true,
-      "pros": ["Más compacta", "SSD ultrarrápido", "DualSense incluido", "Catálogo exclusivos"],
-      "cons": ["Sin lector Blu-ray", "Almacenamiento justo (825GB)"],
-      "specs": { "Almacenamiento": "825GB SSD", "Resolución": "4K 120fps", "RAM": "16GB GDDR6" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Más compacta",
+        "SSD ultrarrápido",
+        "DualSense incluido",
+        "Catálogo exclusivos"
+      ],
+      "cons": [
+        "Sin lector Blu-ray",
+        "Almacenamiento justo (825GB)"
+      ],
+      "specs": {
+        "Almacenamiento": "825GB SSD",
+        "Resolución": "4K 120fps",
+        "RAM": "16GB GDDR6"
+      },
       "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=ps5+slim+digital", "price": 399.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=ps5+slim", "price": 399.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=ps5+slim", "price": 409.99 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=ps5+slim", "price": 399.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CLT54ZNZ",
+          "price": 614,
+          "asin": "B0CLT54ZNZ",
+          "directUrl": "https://www.amazon.es/dp/B0CLT54ZNZ",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:16.294Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=PlayStation%205%20Slim",
+          "price": 399.99,
+          "asin": "B0CLT54ZNZ",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:16.294Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=PlayStation%205%20Slim",
+          "price": 409.99,
+          "asin": "B0CLT54ZNZ",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:16.294Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=PlayStation%205%20Slim",
+          "price": 399.99,
+          "asin": "B0CLT54ZNZ",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:16.294Z"
+        }
       ],
       "videoHook": "PS5 Slim vs PS5 original — ¿merece la pena cambiar?",
-      "keywords": ["ps5", "playstation 5", "consola", "gaming"]
+      "keywords": [
+        "ps5",
+        "playstation 5",
+        "consola",
+        "gaming"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:16.294Z"
     },
     {
       "id": "colchon-emma",
       "name": "Emma Colchón Original — 135x190",
       "category": "hogar",
       "description": "Colchón viscoelástico más vendido online en España. 100 noches de prueba.",
-      "price": 249.00,
-      "originalPrice": 399.00,
-      "discount": 38,
+      "price": 269,
+      "originalPrice": 399,
+      "discount": 33,
       "rating": 4.5,
       "reviews": 8900,
       "badge": "Super oferta",
-      "trending": true,
-      "pros": ["100 noches prueba", "Envío gratis", "7 zonas confort", "Transpirable"],
-      "cons": ["Olor inicial (off-gassing)", "Pesado de mover"],
-      "specs": { "Tamaño": "135x190 cm", "Altura": "25 cm", "Firmeza": "Media", "Garantía": "10 años" },
+      "trending": false,
+      "pros": [
+        "100 noches prueba",
+        "Envío gratis",
+        "7 zonas confort",
+        "Transpirable"
+      ],
+      "cons": [
+        "Olor inicial (off-gassing)",
+        "Pesado de mover"
+      ],
+      "specs": {
+        "Tamaño": "135x190 cm",
+        "Altura": "25 cm",
+        "Firmeza": "Media",
+        "Garantía": "10 años"
+      },
       "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=emma+colchon+original", "price": 249.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=emma+colchon", "price": 269.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0C85VLXLF",
+          "price": 299.99,
+          "asin": "B0C85VLXLF",
+          "directUrl": "https://www.amazon.es/dp/B0C85VLXLF",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:18.818Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Emma%20Colch%C3%B3n%20Original",
+          "price": 269,
+          "asin": "B0C85VLXLF",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:18.818Z"
+        }
       ],
       "videoHook": "Colchón de 250€ vs uno de 800€ — dormí 30 noches en cada uno",
-      "keywords": ["colchon emma", "colchon online", "descanso"]
+      "keywords": [
+        "colchon emma",
+        "colchon online",
+        "descanso"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:18.818Z"
     },
     {
       "id": "iphone-16",
       "name": "Apple iPhone 16 128GB",
       "category": "electronica",
       "description": "El smartphone más vendido en España. Botón Camera Control y chip A18.",
-      "price": 859.00,
-      "originalPrice": 959.00,
-      "discount": 10,
+      "price": 725,
+      "originalPrice": 959,
+      "discount": 24,
       "rating": 4.6,
       "reviews": 3400,
       "badge": "Nuevo",
-      "trending": true,
-      "featured": true,
-      "pros": ["Chip A18 potente", "Cámara mejorada", "5 años actualizaciones", "Camera Control"],
-      "cons": ["Carga lenta vs Android", "Precio elevado"],
-      "specs": { "Pantalla": "6.1\" OLED", "Almacenamiento": "128GB", "Chip": "A18", "Batería": "Hasta 22h vídeo" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Chip A18 potente",
+        "Cámara mejorada",
+        "5 años actualizaciones",
+        "Camera Control"
+      ],
+      "cons": [
+        "Carga lenta vs Android",
+        "Precio elevado"
+      ],
+      "specs": {
+        "Pantalla": "6.1\" OLED",
+        "Almacenamiento": "128GB",
+        "Chip": "A18",
+        "Batería": "Hasta 22h vídeo"
+      },
       "image": "https://images.unsplash.com/photo-1726010323923-221f7702a4a1?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=iphone+16+128gb", "price": 859.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=iphone+16", "price": 859.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=iphone+16", "price": 869.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=iphone+16", "price": 869.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DGJJXBM5",
+          "price": 725,
+          "asin": "B0DGJJXBM5",
+          "directUrl": "https://www.amazon.es/dp/B0DGJJXBM5",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:20.986Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20iPhone%2016%20128GB",
+          "price": 859,
+          "asin": "B0DGJJXBM5",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:20.986Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Apple%20iPhone%2016%20128GB",
+          "price": 869,
+          "asin": "B0DGJJXBM5",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:20.986Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Apple%20iPhone%2016%20128GB",
+          "price": 869.99,
+          "asin": "B0DGJJXBM5",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:20.986Z"
+        }
       ],
       "videoHook": "iPhone 16 vs Samsung S25 — 30 días después",
-      "keywords": ["iphone 16", "apple", "movil", "smartphone"]
+      "keywords": [
+        "iphone 16",
+        "apple",
+        "movil",
+        "smartphone"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:20.986Z"
     },
     {
       "id": "nike-air-force-1",
@@ -564,208 +1112,634 @@
       "category": "ropa",
       "description": "Las zapatillas más icónicas del mundo. Bestseller absoluto en moda urbana en España.",
       "longDescription": "Las Nike Air Force 1 son un básico de armario. Combina con todo, cómodas para el día a día y siempre en tendencia. Una de las zapatillas más vendidas en Amazon España.",
-      "price": 89.99,
+      "price": 75,
       "originalPrice": 109.99,
-      "discount": 18,
+      "discount": 32,
       "rating": 4.7,
       "reviews": 28400,
       "badge": "Bestseller moda",
-      "trending": true,
-      "featured": true,
-      "pros": ["Estilo atemporal", "Muy versátiles", "Suela Air amortiguada", "Unisex"],
-      "cons": ["Tallan algo grandes", "Se marcan con el uso"],
-      "specs": { "Material": "Piel y sintético", "Suela": "Goma con Air", "Cierre": "Cordones" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Estilo atemporal",
+        "Muy versátiles",
+        "Suela Air amortiguada",
+        "Unisex"
+      ],
+      "cons": [
+        "Tallan algo grandes",
+        "Se marcan con el uso"
+      ],
+      "specs": {
+        "Material": "Piel y sintético",
+        "Suela": "Goma con Air",
+        "Cierre": "Cordones"
+      },
       "image": "https://images.unsplash.com/photo-1606107557195-0f41cbcd2ccd?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=nike+air+force+1+07", "price": 89.99, "note": "Envío Prime" },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=nike+air+force+1", "price": 99.95 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=nike+air+force", "price": 94.99 },
-        { "store": "ebay", "url": "https://www.ebay.es/sch/i.html?_nkw=nike+air+force+1", "price": 75.00, "note": "Outlet / reacondicionado" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
+          "price": 95.95,
+          "note": "Envío Prime",
+          "asin": "B08Q8SW7NW",
+          "directUrl": "https://www.amazon.es/dp/B08Q8SW7NW",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:23.315Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nike%20Air%20Force%201%20'07",
+          "price": 99.95,
+          "asin": "B08Q8SW7NW",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:23.315Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Nike%20Air%20Force%201%20'07",
+          "price": 94.99,
+          "asin": "B08Q8SW7NW",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:23.315Z"
+        },
+        {
+          "store": "ebay",
+          "url": "https://www.ebay.es/sch/i.html?_nkw=Nike%20Air%20Force%201%20'07",
+          "price": 75,
+          "note": "Outlet / reacondicionado",
+          "asin": "B08Q8SW7NW",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:23.315Z"
+        }
       ],
       "videoHook": "Las zapatillas que todo el mundo tiene — ¿merecen la fama?",
-      "keywords": ["nike air force", "zapatillas nike", "sneakers", "moda urbana", "ropa"]
+      "keywords": [
+        "nike air force",
+        "zapatillas nike",
+        "sneakers",
+        "moda urbana",
+        "ropa"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:23.315Z"
     },
     {
       "id": "adidas-samba",
       "name": "Adidas Samba OG — Zapatillas retro",
       "category": "ropa",
       "description": "El comeback del año. Las Samba arrasan en moda streetwear y redes sociales.",
-      "price": 79.99,
+      "price": 84.99,
       "originalPrice": 99.99,
-      "discount": 20,
+      "discount": 15,
       "rating": 4.6,
       "reviews": 15600,
       "badge": "Tendencia 2026",
-      "trending": true,
-      "featured": true,
-      "pros": ["Estilo retro viral", "Ligeras", "Goma resistente", "Unisex"],
-      "cons": ["Difícil encontrar talla en oferta", "Suela fina para mucho uso"],
-      "specs": { "Material": "Piel premium", "Estilo": "Retro / Terrace", "Origen": "Clásico Adidas" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "Estilo retro viral",
+        "Ligeras",
+        "Goma resistente",
+        "Unisex"
+      ],
+      "cons": [
+        "Difícil encontrar talla en oferta",
+        "Suela fina para mucho uso"
+      ],
+      "specs": {
+        "Material": "Piel premium",
+        "Estilo": "Retro / Terrace",
+        "Origen": "Clásico Adidas"
+      },
       "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=adidas+samba+og", "price": 79.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=adidas+samba", "price": 89.95 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=adidas+samba", "price": 84.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B079YWZYB9",
+          "price": 116.22,
+          "asin": "B079YWZYB9",
+          "directUrl": "https://www.amazon.es/dp/B079YWZYB9",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:25.776Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Adidas%20Samba%20OG",
+          "price": 89.95,
+          "asin": "B079YWZYB9",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:25.776Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Adidas%20Samba%20OG",
+          "price": 84.99,
+          "asin": "B079YWZYB9",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:25.776Z"
+        }
       ],
       "videoHook": "Adidas Samba vs Nike Dunk — cuál comprar en 2026",
-      "keywords": ["adidas samba", "zapatillas retro", "streetwear", "ropa", "sneakers"]
+      "keywords": [
+        "adidas samba",
+        "zapatillas retro",
+        "streetwear",
+        "ropa",
+        "sneakers"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:25.776Z"
     },
     {
       "id": "levis-501",
       "name": "Levi's 501 Original — Vaqueros rectos",
       "category": "ropa",
       "description": "El vaquero original desde 1873. El pantalón más vendido de la historia.",
-      "price": 69.99,
+      "price": 55,
       "originalPrice": 99.99,
-      "discount": 30,
+      "discount": 45,
       "rating": 4.5,
       "reviews": 22100,
       "badge": "Clásico",
-      "trending": true,
-      "pros": ["Corte icónico", "Denim resistente", "Mejora con lavados", "Varios lavados"],
-      "cons": ["Talla inconsistente entre modelos", "Algo rígidos al principio"],
-      "specs": { "Corte": "Recto original", "Material": "100% algodón", "Cierre": "Botones" },
+      "trending": false,
+      "pros": [
+        "Corte icónico",
+        "Denim resistente",
+        "Mejora con lavados",
+        "Varios lavados"
+      ],
+      "cons": [
+        "Talla inconsistente entre modelos",
+        "Algo rígidos al principio"
+      ],
+      "specs": {
+        "Corte": "Recto original",
+        "Material": "100% algodón",
+        "Cierre": "Botones"
+      },
       "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=levis+501+original", "price": 69.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=levis+501", "price": 79.95 },
-        { "store": "ebay", "url": "https://www.ebay.es/sch/i.html?_nkw=levis+501", "price": 55.00, "note": "Outlet" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DNNZ2NMF",
+          "price": 66,
+          "asin": "B0DNNZ2NMF",
+          "directUrl": "https://www.amazon.es/dp/B0DNNZ2NMF",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:28.390Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Levi's%20501%20Original",
+          "price": 79.95,
+          "asin": "B0DNNZ2NMF",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:28.390Z"
+        },
+        {
+          "store": "ebay",
+          "url": "https://www.ebay.es/sch/i.html?_nkw=Levi's%20501%20Original",
+          "price": 55,
+          "note": "Outlet",
+          "asin": "B0DNNZ2NMF",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:28.390Z"
+        }
       ],
       "videoHook": "501 vs 511 vs 502 — cuál Levi's te queda mejor",
-      "keywords": ["levis 501", "vaqueros", "jeans", "pantalones", "ropa"]
+      "keywords": [
+        "levis 501",
+        "vaqueros",
+        "jeans",
+        "pantalones",
+        "ropa"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:28.390Z"
     },
     {
       "id": "north-face-nuptse",
       "name": "The North Face Nuptse 1996 — Plumas",
       "category": "ropa",
       "description": "La chaqueta acolchada más deseada del invierno. Abrigo premium con 700 fill power.",
-      "price": 249.00,
-      "originalPrice": 329.00,
-      "discount": 24,
+      "price": 204.64,
+      "originalPrice": 329,
+      "discount": 38,
       "rating": 4.8,
       "reviews": 7800,
       "badge": "Top invierno",
-      "trending": true,
-      "featured": true,
-      "pros": ["700 fill power", "Muy cálida", "Icono de moda", "Comprimible"],
-      "cons": ["Precio alto", "Algo voluminosa"],
-      "specs": { "Relleno": "Pluma de ganso 700", "Impermeable": "DWR", "Peso": "620g" },
+      "trending": false,
+      "featured": false,
+      "pros": [
+        "700 fill power",
+        "Muy cálida",
+        "Icono de moda",
+        "Comprimible"
+      ],
+      "cons": [
+        "Precio alto",
+        "Algo voluminosa"
+      ],
+      "specs": {
+        "Relleno": "Pluma de ganso 700",
+        "Impermeable": "DWR",
+        "Peso": "620g"
+      },
       "image": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=north+face+nuptse+1996", "price": 249.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=north+face+nuptse", "price": 269.00 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=north+face+plumas", "price": 259.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CNJJDJNY",
+          "price": 204.64,
+          "asin": "B0CNJJDJNY",
+          "directUrl": "https://www.amazon.es/dp/B0CNJJDJNY",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:30.892Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=The%20North%20Face%20Nuptse%201996",
+          "price": 269,
+          "asin": "B0CNJJDJNY",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:30.892Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=The%20North%20Face%20Nuptse%201996",
+          "price": 259.99,
+          "asin": "B0CNJJDJNY",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:30.892Z"
+        }
       ],
       "videoHook": "North Face Nuptse vs Decathlon — ¿300€ de diferencia?",
-      "keywords": ["north face", "plumas", "chaqueta invierno", "abrigo", "ropa"]
+      "keywords": [
+        "north face",
+        "plumas",
+        "chaqueta invierno",
+        "abrigo",
+        "ropa"
+      ],
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:30.892Z"
     },
     {
       "id": "nike-tech-fleece",
       "name": "Nike Tech Fleece — Sudadera con capucha",
       "category": "ropa",
       "description": "La sudadera premium más buscada. Tejido Tech Fleece ligero y cálido.",
-      "price": 89.95,
+      "price": 70,
       "originalPrice": 119.95,
-      "discount": 25,
+      "discount": 42,
       "rating": 4.6,
       "reviews": 11200,
       "badge": "Más buscada",
-      "trending": true,
-      "pros": ["Tejido Tech Fleece único", "Ligera pero caliente", "Bolsillos funcionales", "Estilo premium"],
-      "cons": ["Caro para una sudadera", "Pelusa con el tiempo"],
-      "specs": { "Tejido": "Tech Fleece", "Capucha": "Sí", "Temporada": "Otoño / Invierno" },
+      "trending": false,
+      "pros": [
+        "Tejido Tech Fleece único",
+        "Ligera pero caliente",
+        "Bolsillos funcionales",
+        "Estilo premium"
+      ],
+      "cons": [
+        "Caro para una sudadera",
+        "Pelusa con el tiempo"
+      ],
+      "specs": {
+        "Tejido": "Tech Fleece",
+        "Capucha": "Sí",
+        "Temporada": "Otoño / Invierno"
+      },
       "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=nike+tech+fleece+sudadera", "price": 89.95 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=nike+tech+fleece", "price": 99.95 },
-        { "store": "ebay", "url": "https://www.ebay.es/sch/i.html?_nkw=nike+tech+fleece", "price": 70.00, "note": "Outlet" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "price": 98.3,
+          "asin": "B0DNHSZG1Z",
+          "directUrl": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:32.918Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nike%20Tech%20Fleece",
+          "price": 99.95,
+          "asin": "B0DNHSZG1Z",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:32.919Z"
+        },
+        {
+          "store": "ebay",
+          "url": "https://www.ebay.es/sch/i.html?_nkw=Nike%20Tech%20Fleece",
+          "price": 70,
+          "note": "Outlet",
+          "asin": "B0DNHSZG1Z",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:32.919Z"
+        }
       ],
       "videoHook": "Nike Tech Fleece vs sudadera de 20€ del chino",
-      "keywords": ["nike tech fleece", "sudadera", "hoodie", "ropa", "moda"]
+      "keywords": [
+        "nike tech fleece",
+        "sudadera",
+        "hoodie",
+        "ropa",
+        "moda"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:32.919Z"
     },
     {
       "id": "new-balance-574",
       "name": "New Balance 574 — Zapatillas clásicas",
       "category": "ropa",
       "description": "Comodidad legendaria y estilo retro. Perfectas para el día a día.",
-      "price": 74.99,
+      "price": 75.59,
       "originalPrice": 99.99,
-      "discount": 25,
+      "discount": 24,
       "rating": 4.7,
       "reviews": 18900,
       "badge": "Comfort top",
-      "trending": true,
-      "pros": ["Máxima comodidad", "Suela ENCAP", "Estilo retro", "Buena relación calidad-precio"],
-      "cons": ["Algo anchas", "Colores limitados en oferta"],
-      "specs": { "Tecnología": "ENCAP midsole", "Material": "Suede y malla", "Uso": "Casual / lifestyle" },
+      "trending": false,
+      "pros": [
+        "Máxima comodidad",
+        "Suela ENCAP",
+        "Estilo retro",
+        "Buena relación calidad-precio"
+      ],
+      "cons": [
+        "Algo anchas",
+        "Colores limitados en oferta"
+      ],
+      "specs": {
+        "Tecnología": "ENCAP midsole",
+        "Material": "Suede y malla",
+        "Uso": "Casual / lifestyle"
+      },
       "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=new+balance+574", "price": 74.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=new+balance+574", "price": 79.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=new+balance+574", "price": 84.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B093R4T9BR",
+          "price": 75.59,
+          "asin": "B093R4T9BR",
+          "directUrl": "https://www.amazon.es/dp/B093R4T9BR",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:35.272Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=New%20Balance%20574",
+          "price": 79.99,
+          "asin": "B093R4T9BR",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:35.272Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=New%20Balance%20574",
+          "price": 84.95,
+          "asin": "B093R4T9BR",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:35.272Z"
+        }
       ],
       "videoHook": "Las zapatillas más cómodas que he probado — New Balance 574",
-      "keywords": ["new balance 574", "zapatillas", "sneakers", "ropa", "calzado"]
+      "keywords": [
+        "new balance 574",
+        "zapatillas",
+        "sneakers",
+        "ropa",
+        "calzado"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:35.272Z"
     },
     {
       "id": "pack-ropa-interior-hanes",
       "name": "Pack Hanes Boxer Brief — 6 unidades",
       "category": "ropa",
       "description": "#1 en ropa interior masculina en Amazon España. Pack económico de alta rotación.",
-      "price": 19.99,
+      "price": 24.95,
       "originalPrice": 29.99,
-      "discount": 33,
+      "discount": 17,
       "rating": 4.5,
       "reviews": 45000,
       "badge": "Amazon #1 ropa",
-      "trending": true,
-      "pros": ["Precio imbatible", "Algodón cómodo", "Pack x6", "Alta rotación = recompra"],
-      "cons": ["Calidad básica", "Se deforman con lavados"],
-      "specs": { "Unidades": "6", "Material": "Algodón", "Tipo": "Boxer brief" },
+      "trending": false,
+      "pros": [
+        "Precio imbatible",
+        "Algodón cómodo",
+        "Pack x6",
+        "Alta rotación = recompra"
+      ],
+      "cons": [
+        "Calidad básica",
+        "Se deforman con lavados"
+      ],
+      "specs": {
+        "Unidades": "6",
+        "Material": "Algodón",
+        "Tipo": "Boxer brief"
+      },
       "image": "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=hanes+boxer+brief+pack+6", "price": 19.99, "note": "Envío Prime" },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=hanes+boxer", "price": 24.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 41.17,
+          "note": "Envío Prime",
+          "asin": "B09FCCHNSG",
+          "directUrl": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:37.517Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Pack%20Hanes%20Boxer%20Brief",
+          "price": 24.95,
+          "asin": "B09FCCHNSG",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:37.517Z"
+        }
       ],
       "videoHook": "Pack de 6 boxers por 20€ — ¿valen la pena?",
-      "keywords": ["ropa interior", "boxer", "hanes", "pack", "ropa hombre"]
+      "keywords": [
+        "ropa interior",
+        "boxer",
+        "hanes",
+        "pack",
+        "ropa hombre"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:37.517Z"
     },
     {
       "id": "asics-gel-nimbus",
       "name": "Asics Gel-Nimbus 26 — Zapatillas running",
       "category": "ropa",
       "description": "Máxima amortiguación para correr. Bestseller en calzado deportivo.",
-      "price": 139.95,
+      "price": 53.95,
       "originalPrice": 179.95,
-      "discount": 22,
+      "discount": 70,
       "rating": 4.7,
       "reviews": 5600,
       "badge": "Running top",
-      "trending": true,
-      "pros": ["Amortiguación Gel top", "Ideal largas distancias", "Buena ventilación", "Estabilidad"],
-      "cons": ["No para pronadores severos", "Algo pesadas"],
-      "specs": { "Drop": "8mm", "Peso": "290g", "Uso": "Running neutro", "Tecnología": "FF BLAST+ ECO" },
+      "trending": false,
+      "pros": [
+        "Amortiguación Gel top",
+        "Ideal largas distancias",
+        "Buena ventilación",
+        "Estabilidad"
+      ],
+      "cons": [
+        "No para pronadores severos",
+        "Algo pesadas"
+      ],
+      "specs": {
+        "Drop": "8mm",
+        "Peso": "290g",
+        "Uso": "Running neutro",
+        "Tecnología": "FF BLAST+ ECO"
+      },
       "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=asics+gel+nimbus+26", "price": 139.95 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=asics+gel+nimbus", "price": 149.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=asics+gel+nimbus", "price": 154.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 53.95,
+          "asin": "B0G2MMBLCB",
+          "directUrl": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:39.818Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Asics%20Gel-Nimbus%2026",
+          "price": 149.99,
+          "asin": "B0G2MMBLCB",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:39.818Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Asics%20Gel-Nimbus%2026",
+          "price": 154.95,
+          "asin": "B0G2MMBLCB",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:39.818Z"
+        }
       ],
       "videoHook": "Las zapatillas de running que usan los maratonianos amateur",
-      "keywords": ["asics", "running", "zapatillas correr", "gel nimbus", "ropa deportiva"]
+      "keywords": [
+        "asics",
+        "running",
+        "zapatillas correr",
+        "gel nimbus",
+        "ropa deportiva"
+      ],
+      "featured": false,
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-01T18:43:39.818Z"
     }
   ],
   "categories": [
-    { "id": "all", "label": "Todos", "icon": "🔥", "description": "Todas las ofertas activas" },
-    { "id": "ropa", "label": "Ropa & Moda", "icon": "👕", "description": "Zapatillas, sudaderas, vaqueros y más" },
-    { "id": "hogar-cocina", "label": "Hogar & Cocina", "icon": "🍳", "description": "Electrodomésticos y cocina" },
-    { "id": "hogar", "label": "Hogar", "icon": "🏡", "description": "Limpieza, descanso y organización" },
-    { "id": "electronica", "label": "Electrónica", "icon": "📱", "description": "Móviles, audio y gadgets" },
-    { "id": "belleza", "label": "Belleza", "icon": "✨", "description": "Skincare y cuidado personal" },
-    { "id": "gaming", "label": "Gaming", "icon": "🎮", "description": "Consolas, sillas y accesorios" },
-    { "id": "salud-deporte", "label": "Salud & Deporte", "icon": "💪", "description": "Fitness y bienestar" },
-    { "id": "informatica", "label": "Informática", "icon": "💻", "description": "Portátiles y periféricos" },
-    { "id": "viajes", "label": "Viajes", "icon": "✈️", "description": "Maletas, hoteles y escapadas" },
-    { "id": "smart-home", "label": "Smart Home", "icon": "🏠", "description": "Domótica y seguridad" }
+    {
+      "id": "all",
+      "label": "Todos",
+      "icon": "🔥",
+      "description": "Todas las ofertas activas"
+    },
+    {
+      "id": "ropa",
+      "label": "Ropa & Moda",
+      "icon": "👕",
+      "description": "Zapatillas, sudaderas, vaqueros y más"
+    },
+    {
+      "id": "hogar-cocina",
+      "label": "Hogar & Cocina",
+      "icon": "🍳",
+      "description": "Electrodomésticos y cocina"
+    },
+    {
+      "id": "hogar",
+      "label": "Hogar",
+      "icon": "🏡",
+      "description": "Limpieza, descanso y organización"
+    },
+    {
+      "id": "electronica",
+      "label": "Electrónica",
+      "icon": "📱",
+      "description": "Móviles, audio y gadgets"
+    },
+    {
+      "id": "belleza",
+      "label": "Belleza",
+      "icon": "✨",
+      "description": "Skincare y cuidado personal"
+    },
+    {
+      "id": "gaming",
+      "label": "Gaming",
+      "icon": "🎮",
+      "description": "Consolas, sillas y accesorios"
+    },
+    {
+      "id": "salud-deporte",
+      "label": "Salud & Deporte",
+      "icon": "💪",
+      "description": "Fitness y bienestar"
+    },
+    {
+      "id": "informatica",
+      "label": "Informática",
+      "icon": "💻",
+      "description": "Portátiles y periféricos"
+    },
+    {
+      "id": "viajes",
+      "label": "Viajes",
+      "icon": "✈️",
+      "description": "Maletas, hoteles y escapadas"
+    },
+    {
+      "id": "smart-home",
+      "label": "Smart Home",
+      "icon": "🏠",
+      "description": "Domótica y seguridad"
+    }
   ]
 }

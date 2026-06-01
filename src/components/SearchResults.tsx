@@ -1,10 +1,13 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import { ProductCard } from "@/components/ProductCard";
 import { SearchBar } from "@/components/SearchBar";
-import { getPopularSearches, searchProducts, sortProducts } from "@/lib/products";
+import { trackSearch } from "@/components/InteractionTracker";
+import { sortProducts } from "@/lib/products";
+import { getPopularSearches } from "@/lib/search-constants";
+import { searchProductsRanked, rankProductsByDealScore } from "@/lib/algorithms";
 import type { Product, SortOption } from "@/lib/types";
 
 const sortOptions: { value: SortOption; label: string }[] = [
@@ -21,9 +24,13 @@ export function SearchResults({ allProducts }: { allProducts: Product[] }) {
   const [sort, setSort] = useState<SortOption>("discount");
 
   const results = useMemo(() => {
-    const found = q.trim() ? searchProducts(q) : allProducts;
-    return sortProducts(found, sort);
+    const found = q.trim() ? searchProductsRanked(q) : rankProductsByDealScore(allProducts);
+    return sort === "discount" && q.trim() ? found : sortProducts(found, sort);
   }, [q, sort, allProducts]);
+
+  useEffect(() => {
+    if (q.trim()) trackSearch(q.trim());
+  }, [q]);
 
   const popular = getPopularSearches();
 

@@ -1,4 +1,5 @@
 import { createClient } from "@/lib/supabase/server";
+import { createServiceClient } from "@/lib/supabase/admin";
 
 export async function getSessionUser() {
   const supabase = await createClient();
@@ -6,13 +7,19 @@ export async function getSessionUser() {
   return user;
 }
 
-export async function isUserAdmin(userId: string): Promise<boolean> {
-  const adminEmails = (process.env.ADMIN_EMAILS ?? "")
+function adminEmailsFromEnv(): string[] {
+  return (process.env.ADMIN_EMAILS ?? "")
     .split(",")
     .map((e) => e.trim().toLowerCase())
     .filter(Boolean);
+}
 
-  const supabase = await createClient();
+export async function isUserAdmin(userId: string, userEmail?: string | null): Promise<boolean> {
+  const adminEmails = adminEmailsFromEnv();
+  const email = userEmail?.toLowerCase();
+  if (email && adminEmails.includes(email)) return true;
+
+  const supabase = createServiceClient();
   const { data: profile } = await supabase
     .from("profiles")
     .select("is_admin, email")
@@ -28,6 +35,6 @@ export async function isUserAdmin(userId: string): Promise<boolean> {
 export async function requireAdmin() {
   const user = await getSessionUser();
   if (!user) return { user: null, admin: false as const };
-  const admin = await isUserAdmin(user.id);
+  const admin = await isUserAdmin(user.id, user.email);
   return { user, admin };
 }

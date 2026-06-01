@@ -2,7 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { getPopularSearches, getSearchSuggestions } from "@/lib/products";
+import { getPopularSearches } from "@/lib/search-constants";
 import { trackEvent } from "@/components/AnalyticsTracker";
 
 interface SearchBarProps {
@@ -39,7 +39,16 @@ export function SearchBar({
   }, []);
 
   const updateSuggestions = useCallback((value: string) => {
-    setSuggestions(value.trim() ? getSearchSuggestions(value) : getPopularSearches());
+    if (!value.trim()) {
+      setSuggestions(getPopularSearches());
+      return;
+    }
+    const ac = new AbortController();
+    fetch(`/api/search/suggest?q=${encodeURIComponent(value)}`, { signal: ac.signal })
+      .then((r) => r.json())
+      .then((d) => setSuggestions(d.suggestions ?? []))
+      .catch(() => setSuggestions([]));
+    return () => ac.abort();
   }, []);
 
   const goSearch = (term: string) => {

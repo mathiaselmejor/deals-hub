@@ -1,4 +1,5 @@
 import { createServiceClient } from "@/lib/supabase/admin";
+import { getAffiliateStatus, isAffiliateConfigured } from "@/lib/affiliate";
 
 export const dynamic = "force-dynamic";
 
@@ -14,6 +15,101 @@ function StatCard({ label, value, sub }: { label: string; value: string | number
       <p className="mt-2 text-3xl font-bold">{value}</p>
       {sub && <p className="mt-1 text-xs text-slate-500">{sub}</p>}
     </div>
+  );
+}
+
+function AffiliateSetupPanel({
+  configured,
+  status,
+  clicks,
+}: {
+  configured: boolean;
+  status: Record<string, boolean>;
+  clicks: number;
+}) {
+  const networks = [
+    {
+      key: "amazon",
+      label: "Amazon",
+      env: "NEXT_PUBLIC_AMAZON_TAG",
+      signup: "https://afiliados.amazon.es/",
+      idHint: "Store ID (ej. jere0f7-21)",
+      done: status.amazon,
+    },
+    {
+      key: "awin",
+      label: "Awin (PcComponentes, MediaMarkt…)",
+      env: "NEXT_PUBLIC_AWIN_PUBLISHER_ID",
+      signup: "https://ui.awin.com/publisher-signup",
+      idHint: "Publisher ID (número en Account)",
+      done: status.awin,
+    },
+    {
+      key: "ebay",
+      label: "eBay",
+      env: "NEXT_PUBLIC_EBAY_CAMPAIGN_ID",
+      signup: "https://partnernetwork.ebay.es/",
+      idHint: "Campaign ID (EPN)",
+      done: status.ebay,
+    },
+    {
+      key: "aliexpress",
+      label: "AliExpress",
+      env: "NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID",
+      signup: "https://portals.aliexpress.com/",
+      idHint: "Tracking ID",
+      done: status.aliexpress,
+    },
+  ];
+
+  return (
+    <section
+      className={`mb-10 rounded-2xl border p-6 ${
+        configured ? "border-emerald-500/30 bg-emerald-500/5" : "border-amber-500/30 bg-amber-500/5"
+      }`}
+    >
+      <h2 className="text-lg font-bold">
+        {configured ? "💰 Monetización activa" : "⚠️ Monetización pendiente"}
+      </h2>
+      <p className="mt-2 text-sm text-slate-400">
+        {configured
+          ? `Enlaces afiliados activos. ${clicks} clics registrados esta semana.`
+          : "Los clics llevan UTM tracking pero sin comisión hasta configurar IDs en Vercel."}
+      </p>
+      <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+        {networks.map((n) => (
+          <li key={n.key} className="rounded-lg bg-black/20 px-3 py-3 text-sm">
+            <div className="flex items-center justify-between gap-2">
+              <span className="font-medium">{n.label}</span>
+              <span className={n.done ? "text-emerald-400" : "text-slate-500"}>
+                {n.done ? "✓ Configurado" : "○ Pendiente"}
+              </span>
+            </div>
+            {!n.done && (
+              <div className="mt-2 space-y-1 text-xs text-slate-500">
+                <a
+                  href={n.signup}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-indigo-400 hover:underline"
+                >
+                  Registrarse →
+                </a>
+                <span>Pega {n.idHint} en {n.env}</span>
+              </div>
+            )}
+          </li>
+        ))}
+      </ul>
+      {!configured && (
+        <a
+          href="/guia-afiliados"
+          className="mt-4 inline-block text-sm font-semibold text-amber-300 hover:underline"
+        >
+          Ver guía de registro →
+        </a>
+      )}
+    </section>
   );
 }
 
@@ -115,6 +211,8 @@ export default async function AdminPage() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
+      <AffiliateSetupPanel configured={isAffiliateConfigured()} status={getAffiliateStatus()} clicks={stats.affiliateClicks} />
+
       <p className="mb-6 text-sm text-slate-500">Últimos 7 días</p>
 
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">

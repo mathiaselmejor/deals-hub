@@ -6,7 +6,19 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "update-products": "node scripts/update-products.mjs"
+    "update-products": "node scripts/update-products.mjs",
+    "sync-asins": "node scripts/sync-direct-asins.mjs",
+    "resolve-asins": "python scripts/resolve_all_asins.py",
+    "apply-direct-links": "node scripts/apply-direct-links.mjs",
+    "catalog:dedupe": "node scripts/dedupe-catalog-files.mjs",
+    "catalog:fix-asins": "node scripts/fix-asin-collisions.mjs && python scripts/resolve_all_asins.py",
+    "catalog:index": "node scripts/generate-search-index.mjs",
+    "catalog:maintain": "node scripts/dedupe-catalog-files.mjs && node scripts/sync-direct-asins.mjs && node scripts/apply-direct-links.mjs && node scripts/generate-search-index.mjs && node scripts/offer-engine.mjs",
+    "setup:automate": "node scripts/automate-all.mjs",
+    "setup:vercel": "node scripts/vercel-env-api.mjs",
+    "setup:sql": "node scripts/apply-sql-file.mjs",
+    "offer-engine": "node scripts/offer-engine.mjs",
+    "refresh-catalog": "node scripts/sync-direct-asins.mjs && node scripts/offer-engine.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.10.3",

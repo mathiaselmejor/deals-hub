@@ -10,12 +10,27 @@ export type StoreId =
   | "decathlon"
   | "ikea";
 
+export type OfferCondition = "new" | "refurbished";
+
 export interface ProductOffer {
   store: StoreId;
   url: string;
   price: number;
   note?: string;
+  /** Por defecto: nuevo. Reacondicionado = segunda mano / renovado. */
+  condition?: OfferCondition;
+  /** Amazon ASIN → enlace /dp/ directo */
+  asin?: string;
+  /** URL de ficha de producto (prioritaria) */
+  directUrl?: string;
+  /** direct = ficha producto; search = listado (precio orientativo) */
+  linkKind?: "direct" | "search";
+  /** true si el precio no viene verificado en ficha */
+  priceEstimated?: boolean;
+  lastChecked?: string;
 }
+
+export type ListingKind = "deal" | "catalog";
 
 export interface Product {
   id: string;
@@ -32,6 +47,13 @@ export interface Product {
   trending: boolean;
   featured?: boolean;
   dealOfDay?: boolean;
+  /** deal = chollo/marketing; catalog = producto de tienda afiliada sin foco en descuento */
+  listingKind?: ListingKind;
+  priceUpdatedAt?: string;
+  /** Consejos de compra / contexto extra */
+  buyingGuide?: string[];
+  /** Preguntas frecuentes del producto */
+  faq?: { q: string; a: string }[];
   image: string;
   offers: ProductOffer[];
   videoHook: string;

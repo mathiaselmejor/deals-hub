@@ -1,0 +1,60 @@
+name: Refresh catalog (prices & rotation)
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  offer-engine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Sync ASINs from catalog URLs
+        run: node scripts/sync-direct-asins.mjs
+
+      - name: Apply direct Amazon links
+        run: node scripts/apply-direct-links.mjs
+
+      - name: Update search index
+        run: node scripts/generate-search-index.mjs
+
+      - name: Run offer engine
+        run: npm run offer-engine
+        env:
+          NEXT_PUBLIC_AMAZON_TAG: ${{ secrets.NEXT_PUBLIC_AMAZON_TAG || '' }}
+
+      - name: Trigger Vercel production deploy
+        if: success()
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$VERCEL_DEPLOY_HOOK" ]; then
+            curl -fsS -X POST "$VERCEL_DEPLOY_HOOK"
+            echo "Vercel deploy hook triggered"
+          else
+            echo "VERCEL_DEPLOY_HOOK not set — push will deploy if Vercel Git integration is on"
+          fi
+
+      - name: Commit catalog updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No catalog changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh prices and homepage rotation"
+          git push

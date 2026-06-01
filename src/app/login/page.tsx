@@ -123,8 +123,11 @@ function LoginForm() {
         </div>
 
         <p className="mt-6 text-center text-xs text-slate-600">
-          Al entrar aceptas nuestra política de privacidad. No compartimos tus datos con terceros
-          excepto para autenticación.
+          Al entrar aceptas nuestra{" "}
+          <Link href="/privacidad" className="text-indigo-400 hover:underline">
+            política de privacidad
+          </Link>
+          . No compartimos tus datos con terceros excepto para autenticación.
         </p>
 
         <Link href="/" className="mt-6 block text-center text-sm text-indigo-400 hover:underline">

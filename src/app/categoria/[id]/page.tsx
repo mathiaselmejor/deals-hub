@@ -37,6 +37,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ id: s
   if (!cat || id === "all") notFound();
 
   const products = sortProducts(getProductsByCategory(id), "discount");
+  const topDiscount = products[0]?.discount ?? 0;
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
@@ -56,7 +57,17 @@ export default async function CategoryPage({ params }: { params: Promise<{ id: s
             <p className="mt-2 text-slate-400">{cat.description}</p>
           )}
           <p className="mt-2 text-sm text-indigo-400">{products.length} ofertas activas</p>
+          {topDiscount > 0 && (
+            <p className="mt-1 text-sm text-emerald-400">
+              Hasta -{topDiscount}% de descuento en esta categoría
+            </p>
+          )}
         </div>
+      </div>
+
+      <div className="mt-6 rounded-xl border border-indigo-500/20 bg-indigo-500/5 px-5 py-4 text-sm text-slate-300">
+        Comparamos precios en varias tiendas para {cat.label.toLowerCase()}. Elige un
+        producto, revisa todas las ofertas y compra donde más te convenga — sin pagar de más.
       </div>
 
       <div className="mt-8 max-w-xl">

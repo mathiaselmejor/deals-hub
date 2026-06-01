@@ -1,14 +1,54 @@
 {
-  "lastUpdated": "2026-05-29",
+  "lastUpdated": "2026-06-01",
   "categories": [
-    { "id": "deportes", "label": "Deportes", "icon": "⚽", "description": "Fitness, running, outdoor y equipamiento" },
-    { "id": "mascotas", "label": "Mascotas", "icon": "🐾", "description": "Perros, gatos y accesorios" },
-    { "id": "bebes-ninos", "label": "Bebés & Niños", "icon": "👶", "description": "Paseo, cuidado y primeros años" },
-    { "id": "juguetes", "label": "Juguetes", "icon": "🧸", "description": "LEGO, juegos y regalos infantiles" },
-    { "id": "automovil", "label": "Coche", "icon": "🚗", "description": "Accesorios, cámaras y mantenimiento" },
-    { "id": "jardin", "label": "Jardín & Camping", "icon": "⛺", "description": "Exterior, barbacoa y camping" },
-    { "id": "alimentacion", "label": "Alimentación", "icon": "☕", "description": "Café, suplementos y gourmet" },
-    { "id": "tv-audio", "label": "TV & Audio", "icon": "📺", "description": "Televisores, barras de sonido y streaming" }
+    {
+      "id": "deportes",
+      "label": "Deportes",
+      "icon": "⚽",
+      "description": "Fitness, running, outdoor y equipamiento"
+    },
+    {
+      "id": "mascotas",
+      "label": "Mascotas",
+      "icon": "🐾",
+      "description": "Perros, gatos y accesorios"
+    },
+    {
+      "id": "bebes-ninos",
+      "label": "Bebés & Niños",
+      "icon": "👶",
+      "description": "Paseo, cuidado y primeros años"
+    },
+    {
+      "id": "juguetes",
+      "label": "Juguetes",
+      "icon": "🧸",
+      "description": "LEGO, juegos y regalos infantiles"
+    },
+    {
+      "id": "automovil",
+      "label": "Coche",
+      "icon": "🚗",
+      "description": "Accesorios, cámaras y mantenimiento"
+    },
+    {
+      "id": "jardin",
+      "label": "Jardín & Camping",
+      "icon": "⛺",
+      "description": "Exterior, barbacoa y camping"
+    },
+    {
+      "id": "alimentacion",
+      "label": "Alimentación",
+      "icon": "☕",
+      "description": "Café, suplementos y gourmet"
+    },
+    {
+      "id": "tv-audio",
+      "label": "TV & Audio",
+      "icon": "📺",
+      "description": "Televisores, barras de sonido y streaming"
+    }
   ],
   "products": [
     {
@@ -16,650 +56,2179 @@
       "name": "Garmin Forerunner 265 — GPS Running",
       "category": "deportes",
       "description": "Reloj GPS top para correr con pantalla AMOLED y métricas avanzadas.",
-      "price": 399.00, "originalPrice": 449.00, "discount": 11, "rating": 4.7, "reviews": 3200,
-      "badge": "Running GPS", "trending": true, "featured": true,
+      "price": 399,
+      "originalPrice": 449,
+      "discount": 11,
+      "rating": 4.7,
+      "reviews": 3200,
+      "badge": "Running GPS",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=garmin+forerunner+265", "price": 399.00 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=garmin+forerunner+265", "price": 409.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=garmin+forerunner+265", "price": 419.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BSFRDFK6",
+          "price": 399,
+          "asin": "B0BSFRDFK6",
+          "directUrl": "https://www.amazon.es/dp/B0BSFRDFK6",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:42.060Z"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Garmin%20Forerunner%20265",
+          "price": 409.99,
+          "asin": "B0BSFRDFK6",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:42.060Z"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Garmin%20Forerunner%20265",
+          "price": 419,
+          "asin": "B0BSFRDFK6",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:42.060Z"
+        }
       ],
       "videoHook": "El reloj que usan los runners serios — review Garmin 265",
-      "keywords": ["garmin", "running", "reloj gps", "deportes", "fitness"]
+      "keywords": [
+        "garmin",
+        "running",
+        "reloj gps",
+        "deportes",
+        "fitness"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:42.060Z",
+      "dealOfDay": false
     },
     {
       "id": "mancuernas-ajustables",
       "name": "Mancuernas Ajustables 2x20kg — Set",
       "category": "deportes",
       "description": "Set de mancuernas regulables para entrenar en casa sin ocupar espacio.",
-      "price": 149.99, "originalPrice": 199.99, "discount": 25, "rating": 4.5, "reviews": 4800,
-      "badge": "Home gym", "trending": true,
+      "price": 149.99,
+      "originalPrice": 199.99,
+      "discount": 25,
+      "rating": 4.5,
+      "reviews": 4800,
+      "badge": "Home gym",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=mancuernas+ajustables+20kg", "price": 149.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=mancuernas+ajustables", "price": 159.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=mancuernas+ajustables", "price": 169.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07BLVML5W",
+          "price": 149.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:42.950Z",
+          "asin": "B07BLVML5W",
+          "directUrl": "https://www.amazon.es/dp/B07BLVML5W"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Mancuernas%20Ajustables%202x20kg",
+          "price": 159.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:42.950Z",
+          "asin": "B07BLVML5W"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Mancuernas%20Ajustables%202x20kg",
+          "price": 169,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:42.950Z",
+          "asin": "B07BLVML5W"
+        }
       ],
       "videoHook": "Gym en casa por 150€ — mancuernas ajustables review",
-      "keywords": ["mancuernas", "pesas", "gym casa", "deportes", "fitness"]
+      "keywords": [
+        "mancuernas",
+        "pesas",
+        "gym casa",
+        "deportes",
+        "fitness"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:42.950Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "esterilla-yoga",
       "name": "Liforme Yoga Mat — Esterilla premium antideslizante",
       "category": "deportes",
       "description": "Esterilla de yoga de alta gama, la favorita de instructores profesionales.",
-      "price": 119.00, "originalPrice": 140.00, "discount": 15, "rating": 4.8, "reviews": 2100,
-      "badge": "Yoga top", "trending": false,
+      "price": 49.99,
+      "originalPrice": 140,
+      "discount": 64,
+      "rating": 4.8,
+      "reviews": 2100,
+      "badge": "Yoga top",
+      "trending": true,
       "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=liforme+yoga+mat", "price": 119.00 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=esterilla+yoga+premium", "price": 49.99, "note": "Alternativa Domyos" }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09NDKFYKD",
+          "price": 119,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:45.168Z",
+          "asin": "B09NDKFYKD",
+          "directUrl": "https://www.amazon.es/dp/B09NDKFYKD"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Liforme%20Yoga%20Mat",
+          "price": 49.99,
+          "note": "Alternativa Domyos",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:45.168Z",
+          "asin": "B09NDKFYKD"
+        }
       ],
       "videoHook": "¿Merece la pena una esterilla de 120€?",
-      "keywords": ["yoga", "esterilla", "pilates", "deportes"]
+      "keywords": [
+        "yoga",
+        "esterilla",
+        "pilates",
+        "deportes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:45.168Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "pelota-futbol-select",
       "name": "Select Numero 10 — Balón de fútbol oficial",
       "category": "deportes",
       "description": "Balón de fútbol top para entrenamiento y partidos. Muy vendido en España.",
-      "price": 34.99, "originalPrice": 44.99, "discount": 22, "rating": 4.7, "reviews": 8900,
-      "badge": "Fútbol", "trending": true,
+      "price": 36.99,
+      "originalPrice": 44.99,
+      "discount": 18,
+      "rating": 4.7,
+      "reviews": 8900,
+      "badge": "Fútbol",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1614632537423-1e6c0f3c4a0e?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=select+numero+10+ball", "price": 34.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=balon+futbol+select", "price": 36.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "price": 65,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:47.265Z",
+          "asin": "B0DPRBPZ1R",
+          "directUrl": "https://www.amazon.es/dp/B0DPRBPZ1R"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Select%20Numero%2010",
+          "price": 36.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:47.265Z",
+          "asin": "B0DPRBPZ1R"
+        }
       ],
       "videoHook": "El balón que usan en los campos de España",
-      "keywords": ["balon futbol", "select", "futbol", "deportes"]
+      "keywords": [
+        "balon futbol",
+        "select",
+        "futbol",
+        "deportes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:47.265Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "pala-padel-head",
       "name": "Head Evo Speed — Pala de pádel iniciación",
       "category": "deportes",
       "description": "Pádel es el deporte que más crece en España. Pala perfecta para empezar.",
-      "price": 59.99, "originalPrice": 79.99, "discount": 25, "rating": 4.6, "reviews": 3400,
-      "badge": "Pádel boom", "trending": true, "featured": true,
+      "price": 61.9,
+      "originalPrice": 79.99,
+      "discount": 23,
+      "rating": 4.6,
+      "reviews": 3400,
+      "badge": "Pádel boom",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1554068865-24cecd4e217b?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=head+evo+speed+padel", "price": 59.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=pala+padel+head", "price": 64.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=pala+padel", "price": 69.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "price": 61.9,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:49.447Z",
+          "asin": "B0DNTTDKKB",
+          "directUrl": "https://www.amazon.es/dp/B0DNTTDKKB"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Head%20Evo%20Speed",
+          "price": 64.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:49.447Z",
+          "asin": "B0DNTTDKKB"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Head%20Evo%20Speed",
+          "price": 69.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:49.447Z",
+          "asin": "B0DNTTDKKB"
+        }
       ],
       "videoHook": "Empecé pádel con esta pala de 60€ — review honesto",
-      "keywords": ["padel", "pala padel", "head", "deportes"]
+      "keywords": [
+        "padel",
+        "pala padel",
+        "head",
+        "deportes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:49.447Z",
+      "dealOfDay": false
     },
     {
       "id": "bici-estatica",
       "name": "Ultrasport F-Bike 150B — Bici estática plegable",
       "category": "deportes",
       "description": "Bicicleta estática plegable para cardio en casa sin gastar una fortuna.",
-      "price": 129.99, "originalPrice": 179.99, "discount": 28, "rating": 4.3, "reviews": 15600,
-      "badge": "Cardio casa", "trending": true,
+      "price": 118,
+      "originalPrice": 179.99,
+      "discount": 34,
+      "rating": 4.3,
+      "reviews": 15600,
+      "badge": "Cardio casa",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=ultrasport+bike+150b", "price": 129.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=bici+estatica", "price": 149.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=bici+estatica", "price": 159.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B003FSTA0U",
+          "price": 118,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:51.914Z",
+          "asin": "B003FSTA0U",
+          "directUrl": "https://www.amazon.es/dp/B003FSTA0U"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Ultrasport%20F-Bike%20150B",
+          "price": 149.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:51.914Z",
+          "asin": "B003FSTA0U"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Ultrasport%20F-Bike%20150B",
+          "price": 159,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:51.914Z",
+          "asin": "B003FSTA0U"
+        }
       ],
       "videoHook": "Bici estática de 130€ vs gym — 30 días de prueba",
-      "keywords": ["bici estatica", "cardio", "fitness", "deportes"]
+      "keywords": [
+        "bici estatica",
+        "cardio",
+        "fitness",
+        "deportes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:51.914Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "tienda-campana-quechua",
       "name": "Quechua Arpenaz 2 Fresh & Black — Tienda 2 personas",
       "category": "jardin",
       "description": "Tienda de camping más vendida en Decathlon. Oscura y fresca.",
-      "price": 79.99, "originalPrice": 99.99, "discount": 20, "rating": 4.6, "reviews": 9800,
-      "badge": "Camping #1", "trending": true,
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 9800,
+      "badge": "Camping #1",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1478131143278-f3021733e144?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=arpenaz+2+fresh+black", "price": 79.99 },
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=quechua+arpenaz+2", "price": 89.99 }
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Quechua%20Arpenaz%202%20Fresh%20%26%20Black",
+          "price": 79.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:54.275Z",
+          "asin": "B084WVRL44"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B084WVRL44",
+          "price": 99.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:54.275Z",
+          "asin": "B084WVRL44",
+          "directUrl": "https://www.amazon.es/dp/B084WVRL44"
+        }
       ],
       "videoHook": "Tienda de camping por 80€ — montaje en 5 minutos",
-      "keywords": ["tienda camping", "quechua", "camping", "jardin", "outdoor"]
+      "keywords": [
+        "tienda camping",
+        "quechua",
+        "camping",
+        "jardin",
+        "outdoor"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:54.275Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "barbacoa-weber",
       "name": "Weber Smokey Joe — Barbacoa de carbón portátil",
       "category": "jardin",
       "description": "Barbacoa compacta ideal para terraza y jardín. Icono de verano en España.",
-      "price": 69.99, "originalPrice": 89.99, "discount": 22, "rating": 4.7, "reviews": 6700,
-      "badge": "Verano", "trending": true,
+      "price": 74.99,
+      "originalPrice": 89.99,
+      "discount": 17,
+      "rating": 4.7,
+      "reviews": 6700,
+      "badge": "Verano",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=weber+smokey+joe", "price": 69.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=weber+barbacoa", "price": 79.95 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=weber+barbacoa", "price": 74.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "price": 89.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:56.483Z",
+          "asin": "B002S2S9PQ",
+          "directUrl": "https://www.amazon.es/dp/B002S2S9PQ"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Weber%20Smokey%20Joe",
+          "price": 79.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:56.483Z",
+          "asin": "B002S2S9PQ"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Weber%20Smokey%20Joe",
+          "price": 74.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:56.483Z",
+          "asin": "B002S2S9PQ"
+        }
       ],
       "videoHook": "La barbacoa perfecta para terraza pequeña",
-      "keywords": ["barbacoa", "weber", "jardin", "verano"]
+      "keywords": [
+        "barbacoa",
+        "weber",
+        "jardin",
+        "verano"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:56.483Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "purina-pro-plan",
       "name": "Purina Pro Plan Adult — Pienso perros 14kg",
       "category": "mascotas",
       "description": "Pienso premium para perros adultos. Compra recurrente, alta demanda.",
-      "price": 54.99, "originalPrice": 69.99, "discount": 21, "rating": 4.7, "reviews": 12400,
-      "badge": "Top mascotas", "trending": true,
+      "price": 55.97,
+      "originalPrice": 69.99,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 12400,
+      "badge": "Top mascotas",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=purina+pro+plan+14kg", "price": 54.99, "note": "Envío Prime" },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=purina+pro+plan", "price": 59.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0178JR2UQ",
+          "price": 55.97,
+          "note": "Envío Prime",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:43:58.769Z",
+          "asin": "B0178JR2UQ",
+          "directUrl": "https://www.amazon.es/dp/B0178JR2UQ"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Purina%20Pro%20Plan%20Adult",
+          "price": 59.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:43:58.769Z",
+          "asin": "B0178JR2UQ"
+        }
       ],
       "videoHook": "El pienso que recomiendan los veterinarios — ¿vale la pena?",
-      "keywords": ["pienso perro", "purina", "mascotas", "perro"]
+      "keywords": [
+        "pienso perro",
+        "purina",
+        "mascotas",
+        "perro"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:43:58.769Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "arenero-gatos-automatico",
       "name": "Arenero Automático para Gatos — Autolimpieza",
       "category": "mascotas",
       "description": "Arenero self-cleaning trending para gatos. Producto estrella en accesorios pet.",
-      "price": 189.99, "originalPrice": 249.99, "discount": 24, "rating": 4.4, "reviews": 3200,
-      "badge": "Trending pet", "trending": true, "featured": true,
+      "price": 189.99,
+      "originalPrice": 249.99,
+      "discount": 24,
+      "rating": 4.4,
+      "reviews": 3200,
+      "badge": "Trending pet",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=arenero+automatico+gatos", "price": 189.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=arenero+automatico+gatos", "price": 219.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D9QGW2M6",
+          "price": 189.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:01.161Z",
+          "asin": "B0D9QGW2M6",
+          "directUrl": "https://www.amazon.es/dp/B0D9QGW2M6"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Arenero%20Autom%C3%A1tico%20para%20Gatos",
+          "price": 219,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:01.161Z",
+          "asin": "B0D9QGW2M6"
+        }
       ],
       "videoHook": "Arenero automático — adiós olor y limpieza diaria",
-      "keywords": ["arenero gatos", "mascotas", "gato", "automatico"]
+      "keywords": [
+        "arenero gatos",
+        "mascotas",
+        "gato",
+        "automatico"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:01.161Z",
+      "dealOfDay": false
     },
     {
       "id": "cama-perro-ortopedica",
       "name": "Cama Ortopédica para Perros Grandes — Memory foam",
       "category": "mascotas",
       "description": "Cama ergonómica para perros medianos y grandes. Bestseller en accesorios pet.",
-      "price": 39.99, "originalPrice": 59.99, "discount": 33, "rating": 4.6, "reviews": 8900,
-      "badge": "Super precio", "trending": true,
+      "price": 38.99,
+      "originalPrice": 59.99,
+      "discount": 35,
+      "rating": 4.6,
+      "reviews": 8900,
+      "badge": "Super precio",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=cama+ortopedica+perro+grande", "price": 39.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=cama+perro", "price": 44.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GGBJD59H",
+          "price": 38.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:03.370Z",
+          "asin": "B0GGBJD59H",
+          "directUrl": "https://www.amazon.es/dp/B0GGBJD59H"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Cama%20Ortop%C3%A9dica%20para%20Perros%20Grandes",
+          "price": 44.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:03.370Z",
+          "asin": "B0GGBJD59H"
+        }
       ],
       "videoHook": "Mi perro no se levanta de esta cama",
-      "keywords": ["cama perro", "mascotas", "perro", "accesorios pet"]
+      "keywords": [
+        "cama perro",
+        "mascotas",
+        "perro",
+        "accesorios pet"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:03.370Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "pampers-premium",
       "name": "Pampers Premium Protection — Pack 174 pañales T4",
       "category": "bebes-ninos",
       "description": "Pañales más vendidos en España. Pack ahorro para familias.",
-      "price": 34.99, "originalPrice": 44.99, "discount": 22, "rating": 4.7, "reviews": 32000,
-      "badge": "Alta rotación", "trending": true,
+      "price": 23.9,
+      "originalPrice": 44.99,
+      "discount": 47,
+      "rating": 4.7,
+      "reviews": 32000,
+      "badge": "Alta rotación",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1515488042361-ee00e17ddd4f?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=pampers+premium+protection+t4+174", "price": 34.99, "note": "Suscríbete y ahorra" },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=pampers+premium", "price": 38.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B08P71V7L8",
+          "price": 23.9,
+          "note": "Suscríbete y ahorra",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:05.447Z",
+          "asin": "B08P71V7L8",
+          "directUrl": "https://www.amazon.es/dp/B08P71V7L8"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Pampers%20Premium%20Protection",
+          "price": 38.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:05.447Z",
+          "asin": "B08P71V7L8"
+        }
       ],
       "videoHook": "Cuánto gastamos en pañales al mes — pack ahorro",
-      "keywords": ["pampers", "pañales", "bebe", "bebes", "ninos"]
+      "keywords": [
+        "pampers",
+        "pañales",
+        "bebe",
+        "bebes",
+        "ninos"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:05.447Z",
+      "featured": true,
+      "dealOfDay": false
     },
     {
       "id": "monitor-bebe",
       "name": "Motorola VM855 — Monitor de bebé con vídeo HD",
       "category": "bebes-ninos",
       "description": "Monitor vídeo para vigilar al bebé. Imprescindible para padres primerizos.",
-      "price": 89.99, "originalPrice": 119.99, "discount": 25, "rating": 4.5, "reviews": 4500,
-      "badge": "Padres top", "trending": true,
+      "price": 99.99,
+      "originalPrice": 119.99,
+      "discount": 17,
+      "rating": 4.5,
+      "reviews": 4500,
+      "badge": "Padres top",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=motorola+vm855+monitor+bebe", "price": 89.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=monitor+bebe", "price": 99.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=monitor+bebe", "price": 109.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09R4SJFDY",
+          "price": 106.77,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:07.800Z",
+          "asin": "B09R4SJFDY",
+          "directUrl": "https://www.amazon.es/dp/B09R4SJFDY"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Motorola%20VM855",
+          "price": 99.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:07.800Z",
+          "asin": "B09R4SJFDY"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Motorola%20VM855",
+          "price": 109.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:07.800Z",
+          "asin": "B09R4SJFDY"
+        }
       ],
       "videoHook": "Monitor de bebé — ¿cámara o audio basta?",
-      "keywords": ["monitor bebe", "bebes", "ninos", "motorola"]
+      "keywords": [
+        "monitor bebe",
+        "bebes",
+        "ninos",
+        "motorola"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:07.800Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "silla-paseo-ligera",
       "name": "Chicco Liteway — Silla de paseo ligera",
       "category": "bebes-ninos",
       "description": "Silla paseo ultraligera y compacta. Perfecta para viajar y ciudad.",
-      "price": 129.00, "originalPrice": 169.00, "discount": 24, "rating": 4.6, "reviews": 2800,
-      "badge": "Viajes bebé", "trending": false,
+      "price": 99.99,
+      "originalPrice": 169,
+      "discount": 41,
+      "rating": 4.6,
+      "reviews": 2800,
+      "badge": "Viajes bebé",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1596464716127-f2a8298de408?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=chicco+liteway+silla+paseo", "price": 129.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=chicco+liteway", "price": 149.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
+          "price": 99.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:10.087Z",
+          "asin": "B0DLWK3LKH",
+          "directUrl": "https://www.amazon.es/dp/B0DLWK3LKH"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Chicco%20Liteway",
+          "price": 149,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:10.087Z",
+          "asin": "B0DLWK3LKH"
+        }
       ],
       "videoHook": "Silla de paseo ligera — la probamos en el avión",
-      "keywords": ["silla paseo", "bebe", "bebes", "chicco"]
+      "keywords": [
+        "silla paseo",
+        "bebe",
+        "bebes",
+        "chicco"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:10.087Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "lego-classic",
       "name": "LEGO Classic Caja Extra Grande 10698",
       "category": "juguetes",
       "description": "LEGO clásico, el regalo que nunca falla. 790 piezas de creatividad pura.",
-      "price": 39.99, "originalPrice": 49.99, "discount": 20, "rating": 4.9, "reviews": 22000,
-      "badge": "Regalo seguro", "trending": true, "featured": true,
+      "price": 42.99,
+      "originalPrice": 49.99,
+      "discount": 14,
+      "rating": 4.9,
+      "reviews": 22000,
+      "badge": "Regalo seguro",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1587654780291-39c9404c746b?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=lego+classic+10698", "price": 39.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=lego+classic+10698", "price": 44.95 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=lego+classic", "price": 42.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B00PY3EYQO",
+          "price": 48.53,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:12.513Z",
+          "asin": "B00PY3EYQO",
+          "directUrl": "https://www.amazon.es/dp/B00PY3EYQO"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=LEGO%20Classic%20Caja%20Extra%20Grande%2010698",
+          "price": 44.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:12.513Z",
+          "asin": "B00PY3EYQO"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=LEGO%20Classic%20Caja%20Extra%20Grande%2010698",
+          "price": 42.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:12.513Z",
+          "asin": "B00PY3EYQO"
+        }
       ],
       "videoHook": "LEGO vs imitaciones — la diferencia es brutal",
-      "keywords": ["lego", "juguetes", "regalo ninos", "juego"]
+      "keywords": [
+        "lego",
+        "juguetes",
+        "regalo ninos",
+        "juego"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:12.513Z",
+      "dealOfDay": false
     },
     {
       "id": "nintendo-switch-oled",
       "name": "Nintendo Switch OLED — Consola portátil",
       "category": "juguetes",
       "description": "La consola familiar #1. Pantalla OLED mejorada, ideal para niños y adultos.",
-      "price": 299.99, "originalPrice": 349.99, "discount": 14, "rating": 4.8, "reviews": 18500,
-      "badge": "Familia #1", "trending": true, "featured": true,
+      "price": 299.99,
+      "originalPrice": 349.99,
+      "discount": 14,
+      "rating": 4.8,
+      "reviews": 18500,
+      "badge": "Familia #1",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1578303512597-81e2694a63c4?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=nintendo+switch+oled", "price": 299.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=nintendo+switch+oled", "price": 299.99 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=nintendo+switch+oled", "price": 309.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=nintendo+switch+oled", "price": 304.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B098RKWHHZ",
+          "price": 319.99,
+          "asin": "B098RKWHHZ",
+          "directUrl": "https://www.amazon.es/dp/B098RKWHHZ",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:15.250Z"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Nintendo%20Switch%20OLED",
+          "price": 299.99,
+          "asin": "B098RKWHHZ",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:15.250Z"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Nintendo%20Switch%20OLED",
+          "price": 309.99,
+          "asin": "B098RKWHHZ",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:15.250Z"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Nintendo%20Switch%20OLED",
+          "price": 304.99,
+          "asin": "B098RKWHHZ",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:15.250Z"
+        }
       ],
       "videoHook": "Switch OLED vs Switch normal — ¿merece el upgrade?",
-      "keywords": ["nintendo switch", "consola", "juguetes", "gaming", "regalo"]
+      "keywords": [
+        "nintendo switch",
+        "consola",
+        "juguetes",
+        "gaming",
+        "regalo"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:15.250Z",
+      "dealOfDay": false
     },
     {
       "id": "nerf-elite",
       "name": "Nerf Elite 2.0 Commander — Bláster RD-6",
       "category": "juguetes",
       "description": "Nerf bestseller para niños 8+. Diversión garantizada en cumpleaños.",
-      "price": 14.99, "originalPrice": 24.99, "discount": 40, "rating": 4.6, "reviews": 9800,
-      "badge": "Chollo juguete", "trending": true,
+      "price": 12.99,
+      "originalPrice": 24.99,
+      "discount": 48,
+      "rating": 4.6,
+      "reviews": 9800,
+      "badge": "Chollo juguete",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558060370-539486472bf7?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=nerf+elite+commander", "price": 14.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=nerf+elite", "price": 19.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
+          "price": 12.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:17.350Z",
+          "asin": "B09Q8CK8YX",
+          "directUrl": "https://www.amazon.es/dp/B09Q8CK8YX"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nerf%20Elite%202.0%20Commander",
+          "price": 19.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:17.350Z",
+          "asin": "B09Q8CK8YX"
+        }
       ],
       "videoHook": "Regalo por 15€ que flipan los niños",
-      "keywords": ["nerf", "juguetes", "regalo ninos", "juego"]
+      "keywords": [
+        "nerf",
+        "juguetes",
+        "regalo ninos",
+        "juego"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:17.350Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "dash-cam-70mai",
       "name": "70mai Dash Cam A510 — Cámara coche 1944P",
       "category": "automovil",
       "description": "Dash cam 2K con visión nocturna. Imprescindible para protegerte en carretera.",
-      "price": 79.99, "originalPrice": 99.99, "discount": 20, "rating": 4.5, "reviews": 5600,
-      "badge": "Seguridad", "trending": true,
+      "price": 84.99,
+      "originalPrice": 99.99,
+      "discount": 15,
+      "rating": 4.5,
+      "reviews": 5600,
+      "badge": "Seguridad",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=70mai+a510+dash+cam", "price": 79.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=70mai+dash+cam", "price": 84.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=dash+cam", "price": 89.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FC68MRZC",
+          "price": 159.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:19.711Z",
+          "asin": "B0FC68MRZC",
+          "directUrl": "https://www.amazon.es/dp/B0FC68MRZC"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=70mai%20Dash%20Cam%20A510",
+          "price": 84.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:19.711Z",
+          "asin": "B0FC68MRZC"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=70mai%20Dash%20Cam%20A510",
+          "price": 89.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:19.711Z",
+          "asin": "B0FC68MRZC"
+        }
       ],
       "videoHook": "Esta cámara me salvó en un accidente — dash cam review",
-      "keywords": ["dash cam", "camara coche", "automovil", "coche"]
+      "keywords": [
+        "dash cam",
+        "camara coche",
+        "automovil",
+        "coche"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:19.711Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "aspirador-coche",
       "name": "Black+Decker Aspirador de Coche 12V — Flex Auto",
       "category": "automovil",
       "description": "Aspirador potente para coche conectado al mechero. Bestseller accesorios auto.",
-      "price": 29.99, "originalPrice": 39.99, "discount": 25, "rating": 4.4, "reviews": 14200,
-      "badge": "Bestseller auto", "trending": true,
+      "price": 32.95,
+      "originalPrice": 39.99,
+      "discount": 18,
+      "rating": 4.4,
+      "reviews": 14200,
+      "badge": "Bestseller auto",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=black+decker+aspirador+coche", "price": 29.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=aspirador+coche", "price": 34.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=aspirador+coche", "price": 32.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 45.39,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:22.177Z",
+          "asin": "B017COMWTS",
+          "directUrl": "https://www.amazon.es/dp/B017COMWTS"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Black%2BDecker%20Aspirador%20de%20Coche%2012V",
+          "price": 34.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:22.177Z",
+          "asin": "B017COMWTS"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Black%2BDecker%20Aspirador%20de%20Coche%2012V",
+          "price": 32.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:22.177Z",
+          "asin": "B017COMWTS"
+        }
       ],
       "videoHook": "Aspirador de coche por 30€ — ¿funciona de verdad?",
-      "keywords": ["aspirador coche", "automovil", "accesorios coche"]
+      "keywords": [
+        "aspirador coche",
+        "automovil",
+        "accesorios coche"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:22.177Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "nespresso-vertuo",
       "name": "Nespresso Vertuo Pop — Cafetera cápsulas",
       "category": "alimentacion",
       "description": "Cafetera cápsulas más vendida en España. Diseño compacto y café excelente.",
-      "price": 79.99, "originalPrice": 99.99, "discount": 20, "rating": 4.6, "reviews": 8900,
-      "badge": "Café top", "trending": true, "featured": true,
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 8900,
+      "badge": "Café top",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=nespresso+vertuo+pop", "price": 79.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=nespresso+vertuo", "price": 89.95 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=nespresso+vertuo", "price": 84.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FRS4CNYF",
+          "price": 79.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.699Z",
+          "asin": "B0FRS4CNYF",
+          "directUrl": "https://www.amazon.es/dp/B0FRS4CNYF"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nespresso%20Vertuo%20Pop",
+          "price": 89.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0FRS4CNYF"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Nespresso%20Vertuo%20Pop",
+          "price": 84.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0FRS4CNYF"
+        }
       ],
       "videoHook": "Nespresso Vertuo vs Dolce Gusto — cuál gana",
-      "keywords": ["nespresso", "cafetera", "cafe", "alimentacion"]
+      "keywords": [
+        "nespresso",
+        "cafetera",
+        "cafe",
+        "alimentacion"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "dealOfDay": false
     },
     {
       "id": "proteina-myprotein",
       "name": "MyProtein Impact Whey — Proteína 2.5kg",
       "category": "alimentacion",
       "description": "Proteína whey más vendida online. Sabores infinitos, precio imbatible.",
-      "price": 34.99, "originalPrice": 49.99, "discount": 30, "rating": 4.5, "reviews": 28000,
-      "badge": "Gym essential", "trending": true,
+      "price": 34.99,
+      "originalPrice": 49.99,
+      "discount": 30,
+      "rating": 4.5,
+      "reviews": 28000,
+      "badge": "Gym essential",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989f?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=myprotein+impact+whey+2.5kg", "price": 34.99 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=proteina+whey", "price": 39.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B008BH7KKM",
+          "price": 34.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B008BH7KKM",
+          "directUrl": "https://www.amazon.es/dp/B008BH7KKM"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=MyProtein%20Impact%20Whey",
+          "price": 39.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B008BH7KKM"
+        }
       ],
       "videoHook": "Proteína barata que no sabe a cartón — MyProtein review",
-      "keywords": ["proteina", "whey", "myprotein", "suplementos", "alimentacion", "deportes"]
+      "keywords": [
+        "proteina",
+        "whey",
+        "myprotein",
+        "suplementos",
+        "alimentacion",
+        "deportes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "delonghi-dedica",
       "name": "De'Longhi Dedica Style — Cafetera espresso",
       "category": "alimentacion",
       "description": "Cafetera espresso compacta para baristas caseros. Bestseller hogar.",
-      "price": 149.00, "originalPrice": 199.00, "discount": 25, "rating": 4.5, "reviews": 7600,
-      "badge": "Espresso home", "trending": true,
+      "price": 149,
+      "originalPrice": 199,
+      "discount": 25,
+      "rating": 4.5,
+      "reviews": 7600,
+      "badge": "Espresso home",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1495474472287-4d7162651f9e?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=delonghi+dedica+style", "price": 149.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=delonghi+dedica", "price": 159.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=delonghi+dedica", "price": 169.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "price": 149,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B06WGTZ874",
+          "directUrl": "https://www.amazon.es/dp/B06WGTZ874"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=De'Longhi%20Dedica%20Style",
+          "price": 159,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B06WGTZ874"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=De'Longhi%20Dedica%20Style",
+          "price": 169,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B06WGTZ874"
+        }
       ],
       "videoHook": "Café de bar en casa por 150€",
-      "keywords": ["delonghi", "cafetera", "espresso", "alimentacion", "cafe"]
+      "keywords": [
+        "delonghi",
+        "cafetera",
+        "espresso",
+        "alimentacion",
+        "cafe"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "samsung-tv-oled",
       "name": "Samsung OLED S90D 55\" — Smart TV 4K",
       "category": "tv-audio",
       "description": "TV OLED top para cine en casa. Uno de los más vendidos en electrónica premium.",
-      "price": 1199.00, "originalPrice": 1599.00, "discount": 25, "rating": 4.8, "reviews": 2100,
-      "badge": "Cine en casa", "trending": true, "featured": true,
+      "price": 1199,
+      "originalPrice": 1599,
+      "discount": 25,
+      "rating": 4.8,
+      "reviews": 2100,
+      "badge": "Cine en casa",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=samsung+oled+s90d+55", "price": 1199.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=samsung+oled+s90d", "price": 1249.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=samsung+oled+s90d", "price": 1229.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=samsung+oled+55", "price": 1299.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D6RZGC3P",
+          "price": 1199,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0D6RZGC3P",
+          "directUrl": "https://www.amazon.es/dp/B0D6RZGC3P"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20OLED%20S90D%2055%22",
+          "price": 1249,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0D6RZGC3P"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20OLED%20S90D%2055%22",
+          "price": 1229,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0D6RZGC3P"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsung%20OLED%20S90D%2055%22",
+          "price": 1299,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0D6RZGC3P"
+        }
       ],
       "videoHook": "OLED vs QLED — lo probé 30 días en mi salón",
-      "keywords": ["samsung oled", "tv", "televisor", "tv-audio", "smart tv"]
+      "keywords": [
+        "samsung oled",
+        "tv",
+        "televisor",
+        "tv-audio",
+        "smart tv"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "dealOfDay": false
     },
     {
       "id": "fire-tv-stick-4k",
       "name": "Amazon Fire TV Stick 4K Max — Streaming",
       "category": "tv-audio",
       "description": "El dispositivo streaming más vendido. Convierte cualquier TV en Smart TV.",
-      "price": 39.99, "originalPrice": 59.99, "discount": 33, "rating": 4.6, "reviews": 45000,
-      "badge": "Amazon #1", "trending": true,
+      "price": 39.99,
+      "originalPrice": 59.99,
+      "discount": 33,
+      "rating": 4.6,
+      "reviews": 45000,
+      "badge": "Amazon #1",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=fire+tv+stick+4k+max", "price": 39.99, "note": "Prime Day deal" },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=fire+tv+stick+4k", "price": 49.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=fire+tv+stick", "price": 44.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CW4HD359",
+          "price": 39.99,
+          "note": "Prime Day deal",
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0CW4HD359",
+          "directUrl": "https://www.amazon.es/dp/B0CW4HD359"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Amazon%20Fire%20TV%20Stick%204K%20Max",
+          "price": 49.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0CW4HD359"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Amazon%20Fire%20TV%20Stick%204K%20Max",
+          "price": 44.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0CW4HD359"
+        }
       ],
       "videoHook": "Fire Stick vs Chromecast vs Apple TV — cuál comprar",
-      "keywords": ["fire tv stick", "streaming", "smart tv", "tv-audio", "amazon"]
+      "keywords": [
+        "fire tv stick",
+        "streaming",
+        "smart tv",
+        "tv-audio",
+        "amazon"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "barra-sonido-samsung",
       "name": "Samsung HW-Q990D — Barra de sonido Dolby Atmos",
       "category": "tv-audio",
       "description": "Barra de sonido flagship con Dolby Atmos. Experiencia cine real.",
-      "price": 899.00, "originalPrice": 1199.00, "discount": 25, "rating": 4.7, "reviews": 890,
-      "badge": "Premium audio", "trending": false,
+      "price": 899,
+      "originalPrice": 1199,
+      "discount": 25,
+      "rating": 4.7,
+      "reviews": 890,
+      "badge": "Premium audio",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=samsung+hw-q990d", "price": 899.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=samsung+barra+sonido", "price": 949.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=samsung+barra+sonido", "price": 999.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0F1D9PZ98",
+          "price": 899,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0F1D9PZ98",
+          "directUrl": "https://www.amazon.es/dp/B0F1D9PZ98"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20HW-Q990D",
+          "price": 949,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0F1D9PZ98"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsung%20HW-Q990D",
+          "price": 999,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0F1D9PZ98"
+        }
       ],
       "videoHook": "Barra de sonido de 900€ — ¿suena como cine?",
-      "keywords": ["barra sonido", "dolby atmos", "samsung", "tv-audio"]
+      "keywords": [
+        "barra sonido",
+        "dolby atmos",
+        "samsung",
+        "tv-audio"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "samsung-galaxy-s25",
       "name": "Samsung Galaxy S25 256GB",
       "category": "electronica",
       "description": "Android flagship más esperado. IA Galaxy, cámara top y pantalla AMOLED.",
-      "price": 799.00, "originalPrice": 909.00, "discount": 12, "rating": 4.6, "reviews": 1800,
-      "badge": "Android #1", "trending": true, "featured": true,
+      "price": 799,
+      "originalPrice": 909,
+      "discount": 12,
+      "rating": 4.6,
+      "reviews": 1800,
+      "badge": "Android #1",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1610945265064-0e34e5515987?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=samsung+galaxy+s25+256", "price": 799.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=samsung+galaxy+s25", "price": 799.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=samsung+galaxy+s25", "price": 809.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=samsung+galaxy+s25", "price": 819.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
+          "price": 799,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DPXMJNV7",
+          "directUrl": "https://www.amazon.es/dp/B0DPXMJNV7"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Galaxy%20S25%20256GB",
+          "price": 799,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DPXMJNV7"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Galaxy%20S25%20256GB",
+          "price": 809.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DPXMJNV7"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsung%20Galaxy%20S25%20256GB",
+          "price": 819,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DPXMJNV7"
+        }
       ],
       "videoHook": "Galaxy S25 vs iPhone 16 — la batalla definitiva",
-      "keywords": ["samsung s25", "galaxy", "movil", "android", "electronica"]
+      "keywords": [
+        "samsung s25",
+        "galaxy",
+        "movil",
+        "android",
+        "electronica"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "dealOfDay": false
     },
     {
       "id": "ipad-11-2024",
       "name": "Apple iPad 11\" (2024) — 128GB WiFi",
       "category": "electronica",
       "description": "iPad más vendido para estudio y ocio. Chip A16, pantalla Liquid Retina.",
-      "price": 399.00, "originalPrice": 449.00, "discount": 11, "rating": 4.7, "reviews": 5600,
-      "badge": "Estudiantes", "trending": true,
+      "price": 399,
+      "originalPrice": 449,
+      "discount": 11,
+      "rating": 4.7,
+      "reviews": 5600,
+      "badge": "Estudiantes",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=ipad+11+2024+128gb", "price": 399.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=ipad+11+2024", "price": 399.00 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=ipad+11", "price": 409.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=ipad+11", "price": 404.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DZ75RKZH",
+          "price": 399,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DZ75RKZH",
+          "directUrl": "https://www.amazon.es/dp/B0DZ75RKZH"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20iPad%2011%22%20(2024)",
+          "price": 399,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DZ75RKZH"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Apple%20iPad%2011%22%20(2024)",
+          "price": 409.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DZ75RKZH"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Apple%20iPad%2011%22%20(2024)",
+          "price": 404.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DZ75RKZH"
+        }
       ],
       "videoHook": "iPad vs portátil barato para la uni — ganador claro",
-      "keywords": ["ipad", "tablet", "apple", "electronica", "estudiantes"]
+      "keywords": [
+        "ipad",
+        "tablet",
+        "apple",
+        "electronica",
+        "estudiantes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "apple-watch-10",
       "name": "Apple Watch Series 10 — GPS 46mm",
       "category": "salud-deporte",
       "description": "Smartwatch más vendido del mundo. Salud, fitness y notificaciones.",
-      "price": 399.00, "originalPrice": 449.00, "discount": 11, "rating": 4.7, "reviews": 4200,
-      "badge": "Smartwatch #1", "trending": true,
+      "price": 399,
+      "originalPrice": 449,
+      "discount": 11,
+      "rating": 4.7,
+      "reviews": 4200,
+      "badge": "Smartwatch #1",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=apple+watch+series+10", "price": 399.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=apple+watch+10", "price": 399.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=apple+watch+series+10", "price": 419.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DW4KHND4",
+          "price": 399,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DW4KHND4",
+          "directUrl": "https://www.amazon.es/dp/B0DW4KHND4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20Watch%20Series%2010",
+          "price": 399,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DW4KHND4"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Apple%20Watch%20Series%2010",
+          "price": 419,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DW4KHND4"
+        }
       ],
       "videoHook": "Apple Watch 10 — ¿merece la pena si tienes el 8?",
-      "keywords": ["apple watch", "smartwatch", "salud", "deportes", "fitness"]
+      "keywords": [
+        "apple watch",
+        "smartwatch",
+        "salud",
+        "deportes",
+        "fitness"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "dyson-airwrap",
       "name": "Dyson Airwrap Complete Long — Moldeador",
       "category": "belleza",
       "description": "El producto de belleza más deseado. Seca y moldea sin calor extremo.",
-      "price": 449.00, "originalPrice": 549.00, "discount": 18, "rating": 4.6, "reviews": 8900,
-      "badge": "Lujo belleza", "trending": true, "featured": true,
+      "price": 449,
+      "originalPrice": 549,
+      "discount": 18,
+      "rating": 4.6,
+      "reviews": 8900,
+      "badge": "Lujo belleza",
+      "trending": false,
+      "featured": false,
       "image": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=dyson+airwrap+complete", "price": 449.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=dyson+airwrap", "price": 499.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=dyson+airwrap", "price": 479.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "price": 449,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0FXXNWXV4",
+          "directUrl": "https://www.amazon.es/dp/B0FXXNWXV4"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Dyson%20Airwrap%20Complete%20Long",
+          "price": 499,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0FXXNWXV4"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Dyson%20Airwrap%20Complete%20Long",
+          "price": 479,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0FXXNWXV4"
+        }
       ],
       "videoHook": "Dyson Airwrap — ¿550€ por un secador?",
-      "keywords": ["dyson airwrap", "belleza", "pelo", "secador"]
+      "keywords": [
+        "dyson airwrap",
+        "belleza",
+        "pelo",
+        "secador"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "dealOfDay": false
     },
     {
       "id": "oral-b-io9",
       "name": "Oral-B iO Series 9 — Cepillo eléctrico",
       "category": "belleza",
       "description": "Cepillo de dientes eléctrico premium. #1 recomendado por dentistas.",
-      "price": 199.00, "originalPrice": 299.00, "discount": 33, "rating": 4.7, "reviews": 11200,
-      "badge": "Salud dental", "trending": true,
+      "price": 199,
+      "originalPrice": 299,
+      "discount": 33,
+      "rating": 4.7,
+      "reviews": 11200,
+      "badge": "Salud dental",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1598256986780-3e0e5111502e?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=oral+b+io+series+9", "price": 199.00 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=oral+b+io+9", "price": 219.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=oral+b+io+9", "price": 209.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DP1MRNXM",
+          "price": 199,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DP1MRNXM",
+          "directUrl": "https://www.amazon.es/dp/B0DP1MRNXM"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Oral-B%20iO%20Series%209",
+          "price": 219,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DP1MRNXM"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Oral-B%20iO%20Series%209",
+          "price": 209,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DP1MRNXM"
+        }
       ],
       "videoHook": "Cepillo de 200€ vs manual — visita al dentista",
-      "keywords": ["oral-b", "cepillo electrico", "belleza", "dientes"]
+      "keywords": [
+        "oral-b",
+        "cepillo electrico",
+        "belleza",
+        "dientes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "xbox-series-x",
       "name": "Xbox Series X — 1TB",
       "category": "gaming",
       "description": "Consola Microsoft más potente. 4K 120fps y Game Pass.",
-      "price": 449.99, "originalPrice": 499.99, "discount": 10, "rating": 4.8, "reviews": 9800,
-      "badge": "4K gaming", "trending": true,
+      "price": 449.99,
+      "originalPrice": 499.99,
+      "discount": 10,
+      "rating": 4.8,
+      "reviews": 9800,
+      "badge": "4K gaming",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1621259182978-fbf931544153?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=xbox+series+x", "price": 449.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=xbox+series+x", "price": 449.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=xbox+series+x", "price": 459.99 },
-        { "store": "fnac", "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=xbox+series+x", "price": 449.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "price": 449.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B08H75RTZ8",
+          "directUrl": "https://www.amazon.es/dp/B08H75RTZ8"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Xbox%20Series%20X",
+          "price": 449.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B08H75RTZ8"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Xbox%20Series%20X",
+          "price": 459.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B08H75RTZ8"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Xbox%20Series%20X",
+          "price": 449.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B08H75RTZ8"
+        }
       ],
       "videoHook": "Xbox Series X vs PS5 — cuál elegir en 2026",
-      "keywords": ["xbox series x", "consola", "gaming", "microsoft"]
+      "keywords": [
+        "xbox series x",
+        "consola",
+        "gaming",
+        "microsoft"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "monitor-27-gaming",
       "name": "ASUS ROG Strix 27\" 1440p 165Hz — Monitor gaming",
       "category": "gaming",
       "description": "Monitor gaming QHD más recomendado. 165Hz para competitivo.",
-      "price": 279.00, "originalPrice": 349.00, "discount": 20, "rating": 4.6, "reviews": 3400,
-      "badge": "Gaming display", "trending": true,
+      "price": 279,
+      "originalPrice": 349,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 3400,
+      "badge": "Gaming display",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=asus+rog+strix+27+165hz", "price": 279.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=asus+rog+strix+27", "price": 289.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=monitor+gaming+27", "price": 299.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "price": 279,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09CD32DNH",
+          "directUrl": "https://www.amazon.es/dp/B09CD32DNH"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=ASUS%20ROG%20Strix%2027%22%201440p%20165Hz",
+          "price": 289.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09CD32DNH"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=ASUS%20ROG%20Strix%2027%22%201440p%20165Hz",
+          "price": 299,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09CD32DNH"
+        }
       ],
       "videoHook": "165Hz cambió mi forma de jugar — monitor review",
-      "keywords": ["monitor gaming", "asus", "1440p", "gaming"]
+      "keywords": [
+        "monitor gaming",
+        "asus",
+        "1440p",
+        "gaming"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "purificador-xiaomi",
       "name": "Xiaomi Smart Air Purifier 4 — Purificador",
       "category": "hogar",
       "description": "Purificador de aire inteligente. Bestseller alergias y calidad del aire.",
-      "price": 149.00, "originalPrice": 199.00, "discount": 25, "rating": 4.5, "reviews": 6700,
-      "badge": "Alergias", "trending": true,
+      "price": 149,
+      "originalPrice": 199,
+      "discount": 25,
+      "rating": 4.5,
+      "reviews": 6700,
+      "badge": "Alergias",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1585771724684-38269b66362c?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=xiaomi+air+purifier+4", "price": 149.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=xiaomi+purificador", "price": 159.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=xiaomi+purificador", "price": 154.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09QX6JN98",
+          "price": 149,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09QX6JN98",
+          "directUrl": "https://www.amazon.es/dp/B09QX6JN98"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Xiaomi%20Smart%20Air%20Purifier%204",
+          "price": 159,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09QX6JN98"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Xiaomi%20Smart%20Air%20Purifier%204",
+          "price": 154.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09QX6JN98"
+        }
       ],
       "videoHook": "Purificador de aire — ¿noté diferencia en 7 días?",
-      "keywords": ["purificador aire", "xiaomi", "hogar", "alergias"]
+      "keywords": [
+        "purificador aire",
+        "xiaomi",
+        "hogar",
+        "alergias"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "cafetera-moka",
       "name": "Bialetti Moka Express 6 tazas — Cafetera italiana",
       "category": "hogar-cocina",
       "description": "Icono italiano desde 1933. Café auténtico por menos de 30€.",
-      "price": 24.99, "originalPrice": 34.99, "discount": 29, "rating": 4.8, "reviews": 34000,
-      "badge": "Clásico", "trending": true,
+      "price": 24.99,
+      "originalPrice": 34.99,
+      "discount": 29,
+      "rating": 4.8,
+      "reviews": 34000,
+      "badge": "Clásico",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1497935586761-b13a59608a2a?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=bialetti+moka+express+6", "price": 24.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=bialetti+moka", "price": 29.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "price": 24.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DBHLTH1Q",
+          "directUrl": "https://www.amazon.es/dp/B0DBHLTH1Q"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Bialetti%20Moka%20Express%206%20tazas",
+          "price": 29.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0DBHLTH1Q"
+        }
       ],
       "videoHook": "Café italiano real por 25€ — Bialetti Moka",
-      "keywords": ["bialetti", "moka", "cafe", "hogar-cocina", "cafetera"]
+      "keywords": [
+        "bialetti",
+        "moka",
+        "cafe",
+        "hogar-cocina",
+        "cafetera"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "theragun-mini",
       "name": "Theragun Mini 2 — Masajeador muscular",
       "category": "salud-deporte",
       "description": "Pistola de masaje portátil. Recuperación muscular post-entreno.",
-      "price": 149.00, "originalPrice": 199.00, "discount": 25, "rating": 4.6, "reviews": 4500,
-      "badge": "Recovery", "trending": true,
+      "price": 79.99,
+      "originalPrice": 199,
+      "discount": 60,
+      "rating": 4.6,
+      "reviews": 4500,
+      "badge": "Recovery",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=theragun+mini+2", "price": 149.00 },
-        { "store": "decathlon", "url": "https://www.decathlon.es/search?query=pistola+masaje", "price": 79.99, "note": "Alternativa" },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=theragun", "price": 169.00 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 149,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0BMJKDBVR",
+          "directUrl": "https://www.amazon.es/dp/B0BMJKDBVR"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Theragun%20Mini%202",
+          "price": 79.99,
+          "note": "Alternativa",
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0BMJKDBVR"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Theragun%20Mini%202",
+          "price": 169,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0BMJKDBVR"
+        }
       ],
       "videoHook": "Pistola de masaje — ¿marketing o funciona?",
-      "keywords": ["theragun", "masaje", "recuperacion", "salud-deporte", "deportes"]
+      "keywords": [
+        "theragun",
+        "masaje",
+        "recuperacion",
+        "salud-deporte",
+        "deportes"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "bascula-withings",
       "name": "Withings Body+ — Báscula inteligente",
       "category": "salud-deporte",
       "description": "Báscula WiFi con composición corporal. Sincroniza con Apple Health.",
-      "price": 79.95, "originalPrice": 99.95, "discount": 20, "rating": 4.5, "reviews": 8900,
-      "badge": "Smart health", "trending": false,
+      "price": 79.95,
+      "originalPrice": 99.95,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 8900,
+      "badge": "Smart health",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=withings+body+plus", "price": 79.95 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=withings+body", "price": 89.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=withings+bascula", "price": 94.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0GKB7DYHV",
+          "price": 79.95,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0GKB7DYHV",
+          "directUrl": "https://www.amazon.es/dp/B0GKB7DYHV"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Withings%20Body%2B",
+          "price": 89.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0GKB7DYHV"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Withings%20Body%2B",
+          "price": 94.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0GKB7DYHV"
+        }
       ],
       "videoHook": "Báscula inteligente — datos que realmente uso",
-      "keywords": ["bascula inteligente", "withings", "salud", "fitness"]
+      "keywords": [
+        "bascula inteligente",
+        "withings",
+        "salud",
+        "fitness"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "raton-logitech-g502",
       "name": "Logitech G502 X — Ratón gaming",
       "category": "gaming",
       "description": "Ratón gaming más vendido del mundo. Sensor HERO 25K.",
-      "price": 49.99, "originalPrice": 69.99, "discount": 29, "rating": 4.7, "reviews": 15600,
-      "badge": "Gaming #1", "trending": true,
+      "price": 49.99,
+      "originalPrice": 69.99,
+      "discount": 29,
+      "rating": 4.7,
+      "reviews": 15600,
+      "badge": "Gaming #1",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=logitech+g502+x", "price": 49.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=logitech+g502+x", "price": 54.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=logitech+g502", "price": 59.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07W7L4RBX",
+          "price": 49.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B07W7L4RBX",
+          "directUrl": "https://www.amazon.es/dp/B07W7L4RBX"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Logitech%20G502%20X",
+          "price": 54.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B07W7L4RBX"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Logitech%20G502%20X",
+          "price": 59.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B07W7L4RBX"
+        }
       ],
       "videoHook": "El ratón que usan los pro players — G502 review",
-      "keywords": ["logitech g502", "raton gaming", "gaming", "perifericos"]
+      "keywords": [
+        "logitech g502",
+        "raton gaming",
+        "gaming",
+        "perifericos"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "samsung-galaxy-buds3",
       "name": "Samsung Galaxy Buds3 Pro — Auriculares",
       "category": "electronica",
       "description": "Auriculares TWS premium Android. ANC y audio Hi-Fi.",
-      "price": 179.00, "originalPrice": 229.00, "discount": 22, "rating": 4.5, "reviews": 2800,
-      "badge": "Android audio", "trending": true,
+      "price": 179,
+      "originalPrice": 229,
+      "discount": 22,
+      "rating": 4.5,
+      "reviews": 2800,
+      "badge": "Android audio",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=samsung+galaxy+buds3+pro", "price": 179.00 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=galaxy+buds3", "price": 189.00 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=galaxy+buds3", "price": 184.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "price": 179,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0G9BBMM6K",
+          "directUrl": "https://www.amazon.es/dp/B0G9BBMM6K"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Galaxy%20Buds3%20Pro",
+          "price": 189,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0G9BBMM6K"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Galaxy%20Buds3%20Pro",
+          "price": 184.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B0G9BBMM6K"
+        }
       ],
       "videoHook": "Galaxy Buds3 vs AirPods Pro — Android user review",
-      "keywords": ["galaxy buds", "auriculares", "samsung", "electronica"]
+      "keywords": [
+        "galaxy buds",
+        "auriculares",
+        "samsung",
+        "electronica"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "mochila-portatil",
       "name": "Samsonite Guardit 2.0 — Mochila portátil 17.3\"",
       "category": "informatica",
       "description": "Mochila profesional para portátil. Bestseller oficina y uni.",
-      "price": 49.99, "originalPrice": 69.99, "discount": 29, "rating": 4.6, "reviews": 7800,
-      "badge": "Oficina", "trending": false,
+      "price": 49.99,
+      "originalPrice": 69.99,
+      "discount": 29,
+      "rating": 4.6,
+      "reviews": 7800,
+      "badge": "Oficina",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=samsonite+guardit+mochila", "price": 49.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=samsonite+guardit", "price": 59.95 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=mochila+portatil+samsonite", "price": 54.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B07KYSH6BS",
+          "price": 49.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B07KYSH6BS",
+          "directUrl": "https://www.amazon.es/dp/B07KYSH6BS"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsonite%20Guardit%202.0",
+          "price": 59.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B07KYSH6BS"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsonite%20Guardit%202.0",
+          "price": 54.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B07KYSH6BS"
+        }
       ],
       "videoHook": "Mochila para portátil — protege de verdad",
-      "keywords": ["mochila portatil", "samsonite", "informatica", "oficina"]
+      "keywords": [
+        "mochila portatil",
+        "samsonite",
+        "informatica",
+        "oficina"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "ring-doorbell",
       "name": "Ring Video Doorbell 4 — Timbre con vídeo",
       "category": "smart-home",
       "description": "Timbre inteligente con cámara HD. Ve quién llama desde el móvil.",
-      "price": 99.99, "originalPrice": 129.99, "discount": 23, "rating": 4.4, "reviews": 5600,
-      "badge": "Smart home", "trending": true,
+      "price": 99.99,
+      "originalPrice": 129.99,
+      "discount": 23,
+      "rating": 4.4,
+      "reviews": 5600,
+      "badge": "Smart home",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=ring+video+doorbell+4", "price": 99.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=ring+doorbell", "price": 109.99 },
-        { "store": "pccomponentes", "url": "https://www.pccomponentes.com/search/?query=ring+doorbell", "price": 104.99 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B09WZBVWL9",
+          "price": 99.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09WZBVWL9",
+          "directUrl": "https://www.amazon.es/dp/B09WZBVWL9"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Ring%20Video%20Doorbell%204",
+          "price": 109.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09WZBVWL9"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Ring%20Video%20Doorbell%204",
+          "price": 104.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B09WZBVWL9"
+        }
       ],
       "videoHook": "Timbre con cámara — ¿paranoia o utilidad?",
-      "keywords": ["ring", "timbre video", "smart home", "seguridad"]
+      "keywords": [
+        "ring",
+        "timbre video",
+        "smart home",
+        "seguridad"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     },
     {
       "id": "philips-hue-starter",
       "name": "Philips Hue White & Color — Kit inicio 3 bombillas",
       "category": "smart-home",
       "description": "Kit de iluminación inteligente más vendido. 16 millones de colores.",
-      "price": 89.99, "originalPrice": 119.99, "discount": 25, "rating": 4.6, "reviews": 9200,
-      "badge": "Domótica", "trending": true,
+      "price": 89.99,
+      "originalPrice": 119.99,
+      "discount": 25,
+      "rating": 4.6,
+      "reviews": 9200,
+      "badge": "Domótica",
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
       "offers": [
-        { "store": "amazon", "url": "https://www.amazon.es/s?k=philips+hue+starter+kit", "price": 89.99 },
-        { "store": "mediamarkt", "url": "https://www.mediamarkt.es/es/search.html?query=philips+hue", "price": 99.99 },
-        { "store": "elcorteingles", "url": "https://www.elcorteingles.es/search/?s=philips+hue", "price": 104.95 }
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B099NQM99M",
+          "price": 89.99,
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B099NQM99M",
+          "directUrl": "https://www.amazon.es/dp/B099NQM99M"
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Philips%20Hue%20White%20%26%20Color",
+          "price": 99.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B099NQM99M"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Philips%20Hue%20White%20%26%20Color",
+          "price": 104.95,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "lastChecked": "2026-06-01T18:44:24.700Z",
+          "asin": "B099NQM99M"
+        }
       ],
       "videoHook": "Luces inteligentes — mi habitación gaming quedó épica",
-      "keywords": ["philips hue", "bombillas inteligentes", "smart home", "domotica"]
+      "keywords": [
+        "philips hue",
+        "bombillas inteligentes",
+        "smart home",
+        "domotica"
+      ],
+      "priceUpdatedAt": "2026-06-01T18:44:24.700Z",
+      "featured": false,
+      "dealOfDay": false
     }
   ]
 }

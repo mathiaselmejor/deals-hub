@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import {
   buildAffiliateUrl,
@@ -5,9 +6,10 @@ import {
   formatReviews,
   getAffiliateConfig,
   getBestOffer,
+  getBestRefurbishedOffer,
   getLowestPrice,
   getSavings,
-} from "@/lib/products";
+} from "@/lib/catalog-formatters";
 import type { Product } from "@/lib/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 
@@ -15,7 +17,9 @@ export function ProductCard({ product, featured = false }: { product: Product; f
   const config = getAffiliateConfig();
   const lowest = getLowestPrice(product);
   const best = getBestOffer(product);
+  const bestRefurb = getBestRefurbishedOffer(product);
   const savings = getSavings(product);
+  const isCatalog = product.listingKind === "catalog";
 
   return (
     <article
@@ -24,17 +28,23 @@ export function ProductCard({ product, featured = false }: { product: Product; f
       }`}
     >
       <Link href={`/producto/${product.id}`} className="relative block aspect-[4/3] overflow-hidden">
-        <img
+        <Image
           src={product.image}
           alt={product.name}
-          className="h-full w-full object-cover transition duration-700 group-hover:scale-110"
+          fill
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+          className="object-cover transition duration-700 group-hover:scale-110"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-card via-transparent to-transparent opacity-60" />
-        {product.discount > 0 && (
+        {product.discount > 0 ? (
           <span className="absolute left-3 top-3 rounded-lg bg-gradient-to-r from-rose-500 to-orange-500 px-2.5 py-1 text-xs font-bold shadow-lg">
             -{product.discount}%
           </span>
-        )}
+        ) : isCatalog ? (
+          <span className="absolute left-3 top-3 rounded-lg bg-indigo-500/90 px-2.5 py-1 text-xs font-bold shadow-lg">
+            Catálogo
+          </span>
+        ) : null}
         <span className="absolute right-3 top-3 rounded-lg bg-black/50 px-2 py-1 text-[10px] font-semibold uppercase tracking-wide backdrop-blur-sm">
           {product.badge}
         </span>
@@ -90,6 +100,11 @@ export function ProductCard({ product, featured = false }: { product: Product; f
                 {savings > 0 && (
                   <p className="text-[10px] text-rose-400">Ahorras {formatPrice(savings)}</p>
                 )}
+                {bestRefurb && bestRefurb.price > 0 && (
+                  <p className="text-[10px] text-amber-400/90">
+                    ♻️ Renovado desde {formatPrice(bestRefurb.price)}
+                  </p>
+                )}
               </>
             ) : (
               <p className="text-sm font-medium text-indigo-400">Comparar tiendas</p>
@@ -97,12 +112,12 @@ export function ProductCard({ product, featured = false }: { product: Product; f
           </div>
           {best && (
             <AffiliateLink
-              href={buildAffiliateUrl(best)}
+              href={buildAffiliateUrl(best, product.id)}
               productId={product.id}
               store={best.store}
               className="rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 px-4 py-2.5 text-xs font-bold shadow-lg shadow-indigo-500/20 transition hover:opacity-90"
             >
-              Comprar →
+              {config.stores[best.store]?.label ?? best.store} →
             </AffiliateLink>
           )}
         </div>

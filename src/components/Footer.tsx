@@ -34,6 +34,9 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
               <li><Link href="/buscar" className="hover:text-indigo-400">Buscar ofertas</Link></li>
               <li><Link href="/#ofertas" className="hover:text-indigo-400">Todas las ofertas</Link></li>
               <li><Link href="/rankings" className="hover:text-indigo-400">Rankings 2026</Link></li>
+              <li><Link href="/referidos" className="hover:text-indigo-400">Programa referidos</Link></li>
+              <li><Link href="/privacidad" className="hover:text-indigo-400">Privacidad</Link></li>
+              <li><Link href="/aviso-legal" className="hover:text-indigo-400">Aviso legal</Link></li>
             </ul>
           </div>
 

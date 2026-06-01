@@ -65,7 +65,8 @@ npx vercel link --yes --project deals-hub 2>$null
 echo $url | npx vercel env add NEXT_PUBLIC_SUPABASE_URL production preview development
 echo $anon | npx vercel env add NEXT_PUBLIC_SUPABASE_ANON_KEY production preview development
 echo $service | npx vercel env add SUPABASE_SERVICE_ROLE_KEY production preview development
-echo $adminEmail | npx vercel env add ADMIN_EMAILS production preview development
+echo $adminEmail | npx vercel env add ADMIN_EMAILS production --value $adminEmail --yes
+echo $adminEmail | npx vercel env add ADMIN_EMAILS development --value $adminEmail --yes
 
 Write-Host "`n=== Configura OAuth en Supabase Dashboard ===" -ForegroundColor Green
 Write-Host "URL: https://supabase.com/dashboard/project/$projectRef/auth/providers"

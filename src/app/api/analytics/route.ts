@@ -1,8 +1,14 @@
 import { NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
 import { isUserAdmin } from "@/lib/auth";
+import { clientIp, rateLimit } from "@/lib/rate-limit";
 
 export async function POST(request: Request) {
+  const limited = rateLimit(`analytics:${clientIp(request)}`, 80, 60_000);
+  if (!limited.ok) {
+    return NextResponse.json({ error: "Demasiadas peticiones" }, { status: 429 });
+  }
+
   try {
     const body = await request.json();
     const { event_type, payload, session_id, path } = body;
@@ -31,7 +37,7 @@ export async function POST(request: Request) {
 export async function GET() {
   const supabase = await createClient();
   const { data: { user } } = await supabase.auth.getUser();
-  if (!user || !(await isUserAdmin(user.id))) {
+  if (!user || !(await isUserAdmin(user.id, user.email))) {
     return NextResponse.json({ error: "Forbidden" }, { status: 403 });
   }
 

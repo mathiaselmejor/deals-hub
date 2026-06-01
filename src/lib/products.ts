@@ -2,7 +2,14 @@ import affiliateConfig from "../../data/affiliate-config.json";
 import productsData from "../../data/products.json";
 import extraProductsData from "../../data/extra-products.json";
 import extraProducts2Data from "../../data/extra-products-2.json";
+import extraProducts3Data from "../../data/extra-products-3.json";
+import extraProducts4Data from "../../data/extra-products-4.json";
+import catalogMonetizedData from "../../data/catalog-monetized.json";
 import topListsData from "../../data/top-lists.json";
+import { getRelatedProductsSmart } from "./algorithms";
+import { buildAffiliateUrl as buildAffiliateLink } from "./affiliate";
+import { finalizeCatalogProduct, getCatalogLiveUpdatedAt } from "./catalog-pipeline";
+import { isNewOffer, isRefurbishedOffer } from "./offer-enrichment";
 import type { AffiliateConfig, Category, Product, ProductsData, ProductOffer, SortOption, TopList } from "./types";
 
 const config = affiliateConfig as AffiliateConfig;
@@ -12,13 +19,47 @@ function mergeCatalog(): ProductsData {
   const base = productsData as ProductsData;
   const extra = extraProductsData as { products: Product[]; categories: Category[]; lastUpdated?: string };
   const extra2 = extraProducts2Data as { products: Product[] };
+  const extra3 = extraProducts3Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
+  const extra4 = extraProducts4Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
+  const monetized = catalogMonetizedData as {
+    products: Product[];
+    categories?: Category[];
+    lastUpdated?: string;
+  };
   const categoryMap = new Map<string, Category>();
   for (const c of base.categories) categoryMap.set(c.id, c);
   for (const c of extra.categories) categoryMap.set(c.id, c);
+  for (const c of extra3.categories) categoryMap.set(c.id, c);
+  for (const c of extra4.categories) categoryMap.set(c.id, c);
+  for (const c of monetized.categories ?? []) categoryMap.set(c.id, c);
+
+  /** Prioridad: base → extra → extra2 → extra3 → extra4 → monetized (último gana en duplicados) */
+  const byId = new Map<string, Product>();
+  const layers = [
+    ...monetized.products,
+    ...extra4.products,
+    ...extra3.products,
+    ...extra2.products,
+    ...extra.products,
+    ...base.products,
+  ];
+  for (const p of layers) {
+    byId.set(p.id, p);
+  }
+
+  const liveAt = getCatalogLiveUpdatedAt();
 
   return {
-    lastUpdated: extra.lastUpdated ?? base.lastUpdated,
-    products: [...base.products, ...extra.products, ...extra2.products],
+    lastUpdated: liveAt?.slice(0, 10) ?? monetized.lastUpdated ?? extra4.lastUpdated ?? extra3.lastUpdated ?? extra.lastUpdated ?? base.lastUpdated,
+    products: Array.from(byId.values()).map(finalizeCatalogProduct),
     categories: Array.from(categoryMap.values()),
   };
 }
@@ -45,6 +86,25 @@ export function getProductById(id: string): Product | undefined {
   return catalog.products.find((p) => p.id === id);
 }
 
+export function isDealListing(product: Product): boolean {
+  if (product.listingKind === "catalog") return false;
+  if (product.listingKind === "deal") return true;
+  return (
+    product.discount >= 10 ||
+    product.trending ||
+    product.featured ||
+    product.dealOfDay === true
+  );
+}
+
+export function getDealProducts(): Product[] {
+  return catalog.products.filter(isDealListing);
+}
+
+export function getCatalogListingProducts(): Product[] {
+  return catalog.products.filter((p) => p.listingKind === "catalog");
+}
+
 export function getTrendingProducts(): Product[] {
   return catalog.products.filter((p) => p.trending);
 }
@@ -63,9 +123,7 @@ export function getProductsByCategory(categoryId: string): Product[] {
 }
 
 export function getRelatedProducts(product: Product, limit = 4): Product[] {
-  return catalog.products
-    .filter((p) => p.category === product.category && p.id !== product.id)
-    .slice(0, limit);
+  return getRelatedProductsSmart(product, limit);
 }
 
 export function searchProducts(query: string): Product[] {
@@ -128,26 +186,26 @@ export function getCategoriesWithCounts(): (Category & { count: number })[] {
 }
 
 export const POPULAR_SEARCHES = [
-  "zapatillas nike",
-  "sudadera",
+  "iphone 15",
+  "samsung galaxy",
   "air fryer",
-  "iphone",
   "ps5",
-  "lego",
-  "padel",
-  "mascotas",
+  "macbook",
+  "robot aspirador",
+  "patinete electrico",
+  "zapatillas nike",
+  "lego technic",
+  "oled tv",
+  "rtx 4060",
+  "kindle",
   "nespresso",
-  "televisor",
-  "deportes",
-  "ropa",
+  "garmin",
+  "padel",
+  "crocs",
+  "dyson",
+  "colchon",
   "gaming",
-  "bebe",
-  "coche",
-  "proteina",
-  "samsung",
-  "north face",
-  "adidas samba",
-  "cafetera",
+  "smartwatch",
 ];
 
 export function getPopularSearches(): string[] {
@@ -180,26 +238,8 @@ export function getMaxDiscount(): number {
   return Math.max(...catalog.products.map((p) => p.discount), 0);
 }
 
-export function buildAffiliateUrl(offer: ProductOffer): string {
-  const amazonTag = process.env.NEXT_PUBLIC_AMAZON_TAG;
-  const awinId = process.env.NEXT_PUBLIC_AWIN_PUBLISHER_ID;
-
-  if (offer.store === "amazon" && amazonTag) {
-    const url = new URL(offer.url);
-    url.searchParams.set("tag", amazonTag);
-    return url.toString();
-  }
-
-  if (
-    awinId &&
-    ["pccomponentes", "mediamarkt", "elcorteingles", "fnac", "decathlon", "ikea"].includes(
-      offer.store
-    )
-  ) {
-    return `https://www.awin1.com/cread.php?awinmid=0&awinaffid=${awinId}&ued=${encodeURIComponent(offer.url)}`;
-  }
-
-  return offer.url;
+export function buildAffiliateUrl(offer: ProductOffer, productId?: string): string {
+  return buildAffiliateLink(offer, productId);
 }
 
 export function formatPrice(price: number): string {
@@ -215,13 +255,39 @@ export function formatReviews(n: number): string {
   return n.toLocaleString("es-ES");
 }
 
-export function getLowestPrice(product: { offers: ProductOffer[] }): number {
-  const prices = product.offers.map((o) => o.price).filter((p) => p > 0);
+export function getNewOffers(product: { offers: ProductOffer[] }): ProductOffer[] {
+  return product.offers.filter(isNewOffer);
+}
+
+export function getRefurbishedOffers(product: { offers: ProductOffer[] }): ProductOffer[] {
+  return product.offers.filter(isRefurbishedOffer).sort((a, b) => a.price - b.price);
+}
+
+export function getLowestPrice(product: { offers: ProductOffer[] }, refurbished = false): number {
+  const pool = refurbished
+    ? product.offers.filter(isRefurbishedOffer)
+    : product.offers.filter(isNewOffer);
+  const prices = pool.map((o) => o.price).filter((p) => p > 0);
   return prices.length ? Math.min(...prices) : 0;
 }
 
+/** Mejor precio en producto nuevo (principal). */
 export function getBestOffer(product: { offers: ProductOffer[] }): ProductOffer | undefined {
-  return product.offers.filter((o) => o.price > 0).sort((a, b) => a.price - b.price)[0];
+  const candidates = getNewOffers(product).filter((o) => o.price > 0);
+  if (!candidates.length) return undefined;
+  return candidates.sort((a, b) => {
+    const priceDiff = a.price - b.price;
+    if (Math.abs(priceDiff) > 0.5) return priceDiff;
+    if (a.linkKind === "direct" && b.linkKind !== "direct") return -1;
+    if (b.linkKind === "direct" && a.linkKind !== "direct") return 1;
+    return priceDiff;
+  })[0];
+}
+
+export function getBestRefurbishedOffer(
+  product: { offers: ProductOffer[] },
+): ProductOffer | undefined {
+  return getRefurbishedOffers(product).filter((o) => o.price > 0)[0];
 }
 
 export function getCategoryLabel(categoryId: string): string {

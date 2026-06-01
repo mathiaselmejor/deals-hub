@@ -38,6 +38,54 @@ export default function VideosPage() {
         </ol>
       </div>
 
+      <div className="mt-8 rounded-2xl border border-indigo-500/40 bg-indigo-500/10 p-6">
+        <p className="text-lg font-bold text-indigo-200">🎬 Anuncio DealsHub (marca) — humor TikTok</p>
+        <p className="mt-2 text-sm text-slate-300">
+          Vídeo animado vertical (~19 s) listo para grabar pantalla o publicar. Abre en el móvil a
+          pantalla completa y graba con la cámara nativa, o usa OBS en el PC.
+        </p>
+        <a
+          href="/promo/tiktok-dealshub.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 inline-flex rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 px-6 py-3 text-sm font-bold shadow-lg shadow-indigo-500/25 transition hover:opacity-90"
+        >
+          Abrir anuncio animado →
+        </a>
+
+        <div className="mt-6 rounded-xl bg-black/30 p-4 text-sm leading-relaxed text-slate-400">
+          <p className="font-medium text-slate-300">Guión con humor (voz en off / subtítulos)</p>
+          <p className="mt-3">
+            <strong className="text-white">[0–3 s]</strong> «POV: buscas el mismo producto en 12
+            pestañas. Tu cerebro dice &ldquo;solo un precio más&rdquo;. Tu WiFi dice no.»
+          </p>
+          <p className="mt-2">
+            <strong className="text-white">[3–7 s]</strong> «Amazon: 349 €. Otra tienda: &ldquo;OFERTA&rdquo;
+            sin decir cuánto. Tu cuenta bancaria: 📉»
+          </p>
+          <p className="mt-2">
+            <strong className="text-white">[7–12 s]</strong> «DealsHub España: comparas Amazon,
+            MediaMarkt, PcComponentes, Fnac y más… en un solo sitio. Sin drama.»
+          </p>
+          <p className="mt-2">
+            <strong className="text-white">[12–16 s]</strong> «Es como Tinder pero con precios.
+            Haces match con tu cartera y ghosteas los precios inflados.»
+          </p>
+          <p className="mt-2">
+            <strong className="text-white">[16–19 s]</strong> «Link en bio. No pagues de más. Chollos
+            reales en España.»
+          </p>
+          <p className="mt-3 text-xs text-slate-500">
+            Hashtags: #chollos #ofertas #ahorro #españa #tiktokmademebuyit #comprasinteligentes
+            #dealshub
+          </p>
+          <p className="mt-2 text-xs text-slate-500">
+            Música sugerida en CapCut: tendencia &ldquo;oh no&rdquo; / beat viral suave (sin
+            copyright) + sonido de caja registradora al final.
+          </p>
+        </div>
+      </div>
+
       <div className="mt-10 space-y-8">
         {catalog.products.map((product) => (
           <div

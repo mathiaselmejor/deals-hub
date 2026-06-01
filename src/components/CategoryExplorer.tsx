@@ -12,7 +12,7 @@ export function CategoryExplorer() {
           {categories.reduce((n, c) => n + c.count, 0)}+ ofertas en {categories.length} categorías
         </p>
       </div>
-      <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
+      <div className="mt-8 grid max-h-[28rem] grid-cols-2 gap-2 overflow-y-auto pr-1 sm:max-h-none sm:grid-cols-3 sm:overflow-visible md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7">
         {categories.map((cat) => (
           <Link
             key={cat.id}

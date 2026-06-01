@@ -1,0 +1,461 @@
+{
+  "updatedAt": "2026-06-01T18:42:44.953Z",
+  "engineVersion": 1,
+  "products": {
+    "airpods-4": {
+      "price": 169,
+      "originalPrice": 199,
+      "discount": 15,
+      "offers": {
+        "amazon": {
+          "price": 169,
+          "asin": "B0DGHYDYJL",
+          "url": "https://www.amazon.es/dp/B0DGHYDYJL",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "robot-aspirador": {
+      "price": 499.99,
+      "originalPrice": 699,
+      "discount": 28,
+      "offers": {
+        "amazon": {
+          "price": 499.99,
+          "asin": "B0GHN3V6BP",
+          "url": "https://www.amazon.es/dp/B0GHN3V6BP",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "silla-gaming": {
+      "price": 399,
+      "originalPrice": 449,
+      "discount": 11,
+      "offers": {
+        "amazon": {
+          "price": 659,
+          "asin": "B0B3RH59X8",
+          "url": "https://www.amazon.es/dp/B0B3RH59X8",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "creatina": {
+      "price": 26.99,
+      "originalPrice": 32.99,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 33.99,
+          "asin": "B00T7L20EC",
+          "url": "https://www.amazon.es/dp/B00T7L20EC",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "kindle": {
+      "price": 109.99,
+      "originalPrice": 119.99,
+      "discount": 8,
+      "offers": {
+        "amazon": {
+          "price": 119,
+          "asin": "B0CP32JG8B",
+          "url": "https://www.amazon.es/dp/B0CP32JG8B",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "camara-seguridad": {
+      "price": 18.99,
+      "originalPrice": 39.99,
+      "discount": 53,
+      "offers": {
+        "amazon": {
+          "price": 18.99,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 159,
+      "discount": 40,
+      "offers": {
+        "amazon": {
+          "price": 129,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "portatil-lenovo": {
+      "price": 599,
+      "originalPrice": 799,
+      "discount": 25,
+      "offers": {
+        "amazon": {
+          "price": 599,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "cosori-airfryer": {
+      "price": 84.99,
+      "originalPrice": 129.99,
+      "discount": 35,
+      "offers": {
+        "amazon": {
+          "price": 84.99,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "teclado-logitech": {
+      "price": 94.99,
+      "originalPrice": 109.99,
+      "discount": 14,
+      "offers": {
+        "amazon": {
+          "price": 169,
+          "asin": "B07W6JF66R",
+          "url": "https://www.amazon.es/dp/B07W6JF66R",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "ps5-slim": {
+      "price": 399.99,
+      "originalPrice": 449.99,
+      "discount": 11,
+      "offers": {
+        "amazon": {
+          "price": 614,
+          "asin": "B0CLT54ZNZ",
+          "url": "https://www.amazon.es/dp/B0CLT54ZNZ",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "colchon-emma": {
+      "price": 269,
+      "originalPrice": 399,
+      "discount": 33,
+      "offers": {
+        "amazon": {
+          "price": 299.99,
+          "asin": "B0C85VLXLF",
+          "url": "https://www.amazon.es/dp/B0C85VLXLF",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "iphone-16": {
+      "price": 725,
+      "originalPrice": 959,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 725,
+          "asin": "B0DGJJXBM5",
+          "url": "https://www.amazon.es/dp/B0DGJJXBM5",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "nike-air-force-1": {
+      "price": 75,
+      "originalPrice": 109.99,
+      "discount": 32,
+      "offers": {
+        "amazon": {
+          "price": 95.95,
+          "asin": "B08Q8SW7NW",
+          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "adidas-samba": {
+      "price": 84.99,
+      "originalPrice": 99.99,
+      "discount": 15,
+      "offers": {
+        "amazon": {
+          "price": 116.22,
+          "asin": "B079YWZYB9",
+          "url": "https://www.amazon.es/dp/B079YWZYB9",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "levis-501": {
+      "price": 55,
+      "originalPrice": 99.99,
+      "discount": 45,
+      "offers": {
+        "amazon": {
+          "price": 66,
+          "asin": "B0DNNZ2NMF",
+          "url": "https://www.amazon.es/dp/B0DNNZ2NMF",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "north-face-nuptse": {
+      "price": 204.64,
+      "originalPrice": 329,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 204.64,
+          "asin": "B0CNJJDJNY",
+          "url": "https://www.amazon.es/dp/B0CNJJDJNY",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 119.95,
+      "discount": 42,
+      "offers": {
+        "amazon": {
+          "price": 98.3,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "new-balance-574": {
+      "price": 75.59,
+      "originalPrice": 99.99,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 75.59,
+          "asin": "B093R4T9BR",
+          "url": "https://www.amazon.es/dp/B093R4T9BR",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 29.99,
+      "discount": 17,
+      "offers": {
+        "amazon": {
+          "price": 41.17,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "asics-gel-nimbus": {
+      "price": 53.95,
+      "originalPrice": 179.95,
+      "discount": 70,
+      "offers": {
+        "amazon": {
+          "price": 53.95,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 44.99,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 65,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "pala-padel-head": {
+      "price": 61.9,
+      "originalPrice": 79.99,
+      "discount": 23,
+      "offers": {
+        "amazon": {
+          "price": 61.9,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "bici-estatica": {
+      "price": 118,
+      "originalPrice": 179.99,
+      "discount": 34,
+      "offers": {
+        "amazon": {
+          "price": 118,
+          "asin": "B003FSTA0U",
+          "url": "https://www.amazon.es/dp/B003FSTA0U",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "tienda-campana-quechua": {
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "discount": 20,
+      "offers": {
+        "amazon": {
+          "price": 99.99,
+          "asin": "B084WVRL44",
+          "url": "https://www.amazon.es/dp/B084WVRL44",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "barbacoa-weber": {
+      "price": 74.99,
+      "originalPrice": 89.99,
+      "discount": 17,
+      "offers": {
+        "amazon": {
+          "price": 89.99,
+          "asin": "B002S2S9PQ",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "purina-pro-plan": {
+      "price": 55.97,
+      "originalPrice": 69.99,
+      "discount": 20,
+      "offers": {
+        "amazon": {
+          "price": 55.97,
+          "asin": "B0178JR2UQ",
+          "url": "https://www.amazon.es/dp/B0178JR2UQ",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "cama-perro-ortopedica": {
+      "price": 38.99,
+      "originalPrice": 59.99,
+      "discount": 35,
+      "offers": {
+        "amazon": {
+          "price": 38.99,
+          "asin": "B0GGBJD59H",
+          "url": "https://www.amazon.es/dp/B0GGBJD59H",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "pampers-premium": {
+      "price": 23.9,
+      "originalPrice": 44.99,
+      "discount": 47,
+      "offers": {
+        "amazon": {
+          "price": 23.9,
+          "asin": "B08P71V7L8",
+          "url": "https://www.amazon.es/dp/B08P71V7L8",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "monitor-bebe": {
+      "price": 99.99,
+      "originalPrice": 119.99,
+      "discount": 17,
+      "offers": {
+        "amazon": {
+          "price": 106.77,
+          "asin": "B09R4SJFDY",
+          "url": "https://www.amazon.es/dp/B09R4SJFDY",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "silla-paseo-ligera": {
+      "price": 99.99,
+      "originalPrice": 169,
+      "discount": 41,
+      "offers": {
+        "amazon": {
+          "price": 99.99,
+          "asin": "B0DLWK3LKH",
+          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "lego-classic": {
+      "price": 42.99,
+      "originalPrice": 49.99,
+      "discount": 14,
+      "offers": {
+        "amazon": {
+          "price": 48.53,
+          "asin": "B00PY3EYQO",
+          "url": "https://www.amazon.es/dp/B00PY3EYQO",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "nerf-elite": {
+      "price": 12.99,
+      "originalPrice": 24.99,
+      "discount": 48,
+      "offers": {
+        "amazon": {
+          "price": 12.99,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "dash-cam-70mai": {
+      "price": 84.99,
+      "originalPrice": 99.99,
+      "discount": 15,
+      "offers": {
+        "amazon": {
+          "price": 159.99,
+          "asin": "B0FC68MRZC",
+          "url": "https://www.amazon.es/dp/B0FC68MRZC",
+          "linkKind": "direct"
+        }
+      }
+    },
+    "aspirador-coche": {
+      "price": 32.95,
+      "originalPrice": 39.99,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 45.39,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "linkKind": "direct"
+        }
+      }
+    }
+  }
+}

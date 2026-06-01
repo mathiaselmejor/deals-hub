@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { ProductCard } from "@/components/ProductCard";
-import { searchProducts, sortProducts } from "@/lib/products";
+import { sortProducts } from "@/lib/products";
 import type { Category, Product, SortOption } from "@/lib/types";
 
 const sortOptions: { value: SortOption; label: string }[] = [
@@ -26,7 +26,14 @@ export function ProductGrid({
 
   const filtered = useMemo(() => {
     let result = active === "all" ? products : products.filter((p) => p.category === active);
-    if (query.trim()) result = searchProducts(query).filter((p) => result.some((r) => r.id === p.id));
+    if (query.trim()) {
+      const q = query.trim().toLowerCase();
+      const words = q.split(/\s+/).filter(Boolean);
+      result = result.filter((p) => {
+        const hay = `${p.name} ${p.description} ${p.category} ${(p.keywords ?? []).join(" ")}`.toLowerCase();
+        return words.every((w) => hay.includes(w));
+      });
+    }
     return sortProducts(result, sort);
   }, [active, query, sort, products]);
 

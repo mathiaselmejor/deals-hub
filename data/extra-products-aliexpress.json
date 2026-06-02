@@ -1,0 +1,226 @@
+{
+  "lastUpdated": "2026-06-03",
+  "products": [
+    {
+      "id": "aliexpress-smartwatch-y68",
+      "name": "Smartwatch Y68 — Pulsera deportiva",
+      "category": "electronica",
+      "description": "Reloj inteligente económico con pulsómetro, notificaciones y resistencia al agua IP67.",
+      "price": 12.99,
+      "originalPrice": 29.99,
+      "discount": 57,
+      "rating": 4.3,
+      "reviews": 18400,
+      "badge": "AliExpress top",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "specs": {
+        "Pantalla": "1.3\" TFT",
+        "Batería": "Hasta 5 días",
+        "Resistencia": "IP67"
+      },
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-smartwatch-y68.html",
+          "directUrl": "https://es.aliexpress.com/w/wholesale-smartwatch-y68.html",
+          "price": 12.99,
+          "note": "Envío desde China — precio directo fábrica",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=smartwatch+y68",
+          "price": 24.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Smartwatch de 13€ vs Apple Watch — ¿vale la pena?",
+      "keywords": ["smartwatch", "aliexpress", "pulsera", "fitness", "barato"]
+    },
+    {
+      "id": "aliexpress-usb-c-hub-7in1",
+      "name": "Hub USB-C 7 en 1 — HDMI + SD + USB 3.0",
+      "category": "informatica",
+      "description": "Adaptador multipuerto para MacBook, iPad Pro y portátiles USB-C. Ideal teletrabajo.",
+      "price": 18.49,
+      "originalPrice": 39.99,
+      "discount": 54,
+      "rating": 4.5,
+      "reviews": 6200,
+      "badge": "Oficina",
+      "trending": false,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1625948515291-69613efd291f?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-usb-c-hub-7-in-1-hdmi.html",
+          "directUrl": "https://es.aliexpress.com/w/wholesale-usb-c-hub-7-in-1-hdmi.html",
+          "price": 18.49,
+          "note": "Comisión AliExpress activa",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=hub+usb+c+hdmi+7+en+1",
+          "price": 32.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=hub%20usb%20c%207%20en%201",
+          "price": 29.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Hub barato vs Anker — mismo puertos, mitad de precio",
+      "keywords": ["hub usb c", "hdmi", "aliexpress", "macbook", "adaptador"]
+    },
+    {
+      "id": "aliexpress-led-strip-5m",
+      "name": "Tira LED RGB 5m — App + mando",
+      "category": "hogar",
+      "description": "Iluminación ambiental para habitación, gaming o TV. Instalación con adhesivo 3M.",
+      "price": 9.99,
+      "originalPrice": 24.99,
+      "discount": 60,
+      "rating": 4.4,
+      "reviews": 31000,
+      "badge": "Hogar smart",
+      "trending": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-led-strip-rgb-5m-app.html",
+          "directUrl": "https://es.aliexpress.com/w/wholesale-led-strip-rgb-5m-app.html",
+          "price": 9.99,
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=tira+led+rgb+5m+app",
+          "price": 19.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Setup gaming por menos de 10€",
+      "keywords": ["led", "tira rgb", "aliexpress", "hogar", "gaming"]
+    },
+    {
+      "id": "aliexpress-powerbank-20000",
+      "name": "Power Bank 20000mAh — Carga rápida 22.5W",
+      "category": "electronica",
+      "description": "Batería externa con USB-C PD y display digital. Vuelos, viajes y emergencias.",
+      "price": 21.99,
+      "originalPrice": 45.99,
+      "discount": 52,
+      "rating": 4.6,
+      "reviews": 9800,
+      "badge": "Viajes",
+      "trending": false,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-power-bank-20000mah-22.5w.html",
+          "directUrl": "https://es.aliexpress.com/w/wholesale-power-bank-20000mah-22.5w.html",
+          "price": 21.99,
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=power+bank+20000mah+22.5w",
+          "price": 34.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Powerbank barata que aguanta un finde entero",
+      "keywords": ["power bank", "bateria externa", "aliexpress", "usb c"]
+    },
+    {
+      "id": "aliexpress-mechanical-keyboard",
+      "name": "Teclado mecánico 60% — Hot-swap RGB",
+      "category": "informatica",
+      "description": "Teclado gaming compacto con switches intercambiables. Alternativa económica a Keychron.",
+      "price": 34.99,
+      "originalPrice": 79.99,
+      "discount": 56,
+      "rating": 4.5,
+      "reviews": 4100,
+      "badge": "Gaming",
+      "trending": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-mechanical-keyboard-60-hot-swap.html",
+          "directUrl": "https://es.aliexpress.com/w/wholesale-mechanical-keyboard-60-hot-swap.html",
+          "price": 34.99,
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=teclado%20mecanico%2060",
+          "price": 59.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Teclado mecánico por 35€ — unboxing honesto",
+      "keywords": ["teclado mecanico", "gaming", "aliexpress", "rgb"]
+    },
+    {
+      "id": "aliexpress-ring-light-26cm",
+      "name": "Aro de luz 26cm — Trípode + 3 modos",
+      "category": "electronica",
+      "description": "Ring light para TikTok, streaming y fotografía. Trípode incluido hasta 1,6m.",
+      "price": 15.99,
+      "originalPrice": 35.99,
+      "discount": 56,
+      "rating": 4.4,
+      "reviews": 12500,
+      "badge": "Creadores",
+      "trending": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1598488035139-bdaa75467339?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-ring-light-26cm-tripod.html",
+          "directUrl": "https://es.aliexpress.com/w/wholesale-ring-light-26cm-tripod.html",
+          "price": 15.99,
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=ring+light+26cm+tripode",
+          "price": 27.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Ring light de creador por 16€",
+      "keywords": ["ring light", "tiktok", "streaming", "aliexpress"]
+    }
+  ]
+}

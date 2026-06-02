@@ -5,6 +5,7 @@ import extraProducts2Data from "../../data/extra-products-2.json";
 import extraProducts3Data from "../../data/extra-products-3.json";
 import extraProducts4Data from "../../data/extra-products-4.json";
 import extraProducts5Data from "../../data/extra-products-5.json";
+import extraProductsAliexpressData from "../../data/extra-products-aliexpress.json";
 import catalogMonetizedData from "../../data/catalog-monetized.json";
 import topListsData from "../../data/top-lists.json";
 import { getRelatedProductsSmart } from "./algorithms";
@@ -35,6 +36,10 @@ function mergeCatalog(): ProductsData {
     categories: Category[];
     lastUpdated?: string;
   };
+  const extraAliexpress = extraProductsAliexpressData as {
+    products: Product[];
+    lastUpdated?: string;
+  };
   const monetized = catalogMonetizedData as {
     products: Product[];
     categories?: Category[];
@@ -57,6 +62,7 @@ function mergeCatalog(): ProductsData {
     ...extra2.products,
     ...extra.products,
     ...extra5.products,
+    ...extraAliexpress.products,
     ...base.products,
   ];
   for (const p of layers) {
@@ -135,6 +141,18 @@ export function getDealOfDay(): Product | undefined {
 export function getProductsByCategory(categoryId: string): Product[] {
   if (categoryId === "all") return catalog.products;
   return catalog.products.filter((p) => p.category === categoryId);
+}
+
+/** Productos con oferta AliExpress (mejor precio suele estar ahí). */
+export function getAliExpressDeals(limit = 8): Product[] {
+  return catalog.products
+    .filter((p) => p.offers.some((o) => o.store === "aliexpress" && o.price > 0))
+    .sort((a, b) => {
+      const priceA = a.offers.find((o) => o.store === "aliexpress")?.price ?? Infinity;
+      const priceB = b.offers.find((o) => o.store === "aliexpress")?.price ?? Infinity;
+      return priceA - priceB;
+    })
+    .slice(0, limit);
 }
 
 export function getRelatedProducts(product: Product, limit = 4): Product[] {

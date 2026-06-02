@@ -9,6 +9,7 @@ import { AuthButton } from "@/components/AuthButton";
 
 const nav = [
   { href: "/", label: "Ofertas", icon: "🔥" },
+  { href: "/comparar", label: "Comparar", icon: "⚔️" },
   { href: "/buscar", label: "Buscar", icon: "🔍" },
   { href: "/rankings", label: "Rankings", icon: "🏆" },
   { href: "/referidos", label: "Referidos", icon: "🎁" },

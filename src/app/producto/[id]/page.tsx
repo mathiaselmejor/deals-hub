@@ -10,7 +10,8 @@ import { ProductDetailExtras } from "@/components/ProductDetailExtras";
 import { ProductTransparency } from "@/components/ProductTransparency";
 import { StoreOffersPanel } from "@/components/StoreOffersPanel";
 import { InteractionTracker } from "@/components/InteractionTracker";
-import { computeDealScore } from "@/lib/algorithms";
+import { CompareShortcuts } from "@/components/CompareShortcuts";
+import { computeDealScore, getRelatedProductsSmart } from "@/lib/algorithms";
 import {
   formatPrice,
   formatReviews,
@@ -53,6 +54,7 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
   if (!product) notFound();
 
   const related = getRelatedProducts(product);
+  const compareRivals = getRelatedProductsSmart(product, 3);
   const savings = getSavings(product);
   return (
     <>
@@ -170,6 +172,8 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
             <div className="mt-6">
               <ProductActions productId={product.id} currentPrice={product.price} />
             </div>
+
+            <CompareShortcuts product={product} rivals={compareRivals} />
 
             {/* Pros & Cons */}
             {(product.pros || product.cons) && (

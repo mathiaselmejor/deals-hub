@@ -41,7 +41,7 @@
       "name": "AliExpress Portals",
       "signupUrl": "https://portals.aliexpress.com/",
       "tagEnvKey": "NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID",
-      "active": false
+      "active": true
     },
     "booking": {
       "name": "Booking.com Afiliados",

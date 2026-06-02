@@ -5,11 +5,22 @@ type AffiliateEnv = {
   amazonTag?: string;
   awinPublisherId?: string;
   ebayCampaignId?: string;
-  aliexpressTrackingId?: string;
+  aliexpressShortKey?: string;
+  aliexpressTrackingName?: string;
   bookingAid?: string;
   admitadId?: string;
   tradetrackerId?: string;
 };
+
+/** Código corto del generador de enlaces (ej. _c3iyuOdJ o URL completa s.click). */
+export function normalizeAliexpressShortKey(raw: string): string {
+  const trimmed = raw.trim();
+  const fromUrl = trimmed.match(/s\.click\.aliexpress\.com\/(e\/_[A-Za-z0-9]+)/i);
+  if (fromUrl) return fromUrl[1].replace(/^e\//, "");
+  if (trimmed.startsWith("e/_")) return trimmed.slice(2);
+  if (trimmed.startsWith("_")) return trimmed;
+  return `_${trimmed}`;
+}
 
 /** IDs Awin de comerciantes en España (para enlaces de afiliado correctos) */
 const AWIN_MERCHANT_IDS: Partial<Record<StoreId, string>> = {
@@ -27,7 +38,9 @@ function getEnv(): AffiliateEnv {
     amazonTag: process.env.NEXT_PUBLIC_AMAZON_TAG?.trim() || undefined,
     awinPublisherId: process.env.NEXT_PUBLIC_AWIN_PUBLISHER_ID?.trim() || undefined,
     ebayCampaignId: process.env.NEXT_PUBLIC_EBAY_CAMPAIGN_ID?.trim() || undefined,
-    aliexpressTrackingId: process.env.NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID?.trim() || undefined,
+    aliexpressShortKey: process.env.NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID?.trim() || undefined,
+    aliexpressTrackingName:
+      process.env.NEXT_PUBLIC_ALIEXPRESS_TRACKING_NAME?.trim() || "default",
     bookingAid: process.env.NEXT_PUBLIC_BOOKING_AID?.trim() || undefined,
     admitadId: process.env.NEXT_PUBLIC_ADMITAD_ID?.trim() || undefined,
     tradetrackerId: process.env.NEXT_PUBLIC_TRADETRACKER_ID?.trim() || undefined,
@@ -49,7 +62,7 @@ function appendTrackingParams(url: string, productId: string, store: StoreId): s
 
 export function isAffiliateConfigured(): boolean {
   const env = getEnv();
-  return !!(env.amazonTag || env.awinPublisherId || env.ebayCampaignId || env.aliexpressTrackingId);
+  return !!(env.amazonTag || env.awinPublisherId || env.ebayCampaignId || env.aliexpressShortKey);
 }
 
 export function getAffiliateStatus(): Record<string, boolean> {
@@ -58,7 +71,7 @@ export function getAffiliateStatus(): Record<string, boolean> {
     amazon: !!env.amazonTag,
     awin: !!env.awinPublisherId,
     ebay: !!env.ebayCampaignId,
-    aliexpress: !!env.aliexpressTrackingId,
+    aliexpress: !!env.aliexpressShortKey,
     booking: !!env.bookingAid,
   };
 }
@@ -89,8 +102,11 @@ export function buildAffiliateUrl(offer: ProductOffer, productId?: string): stri
     return `https://rover.ebay.com/rover/1/${env.ebayCampaignId}/1?mpre=${encodeURIComponent(appendTrackingParams(base, pid, offer.store))}`;
   }
 
-  if (offer.store === "aliexpress" && env.aliexpressTrackingId) {
-    return `https://s.click.aliexpress.com/e/_${env.aliexpressTrackingId}?dp=${encodeURIComponent(appendTrackingParams(base, pid, offer.store))}`;
+  if (offer.store === "aliexpress" && env.aliexpressShortKey) {
+    const shortKey = normalizeAliexpressShortKey(env.aliexpressShortKey);
+    const dest = appendTrackingParams(base, pid, offer.store);
+    const af = `dealshub_${pid.slice(0, 36)}`;
+    return `https://s.click.aliexpress.com/deep_link.htm?aff_short_key=${encodeURIComponent(shortKey)}&dl_target_url=${encodeURIComponent(dest)}&af=${encodeURIComponent(af)}`;
   }
 
   if (offer.store === "booking" && env.bookingAid) {

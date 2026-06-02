@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { createServiceClient } from "@/lib/supabase/admin";
+import { getAffiliateStatus, isAffiliateConfigured } from "@/lib/affiliate";
 import { referralsSqlAvailable } from "@/lib/referrals-store";
 import { getCatalog } from "@/lib/products";
 
@@ -7,10 +8,14 @@ export const dynamic = "force-dynamic";
 
 export async function GET() {
   const catalog = getCatalog();
+  const affiliate = getAffiliateStatus();
   const amazonDirect = catalog.products.filter((p) => {
     const am = p.offers?.find((o) => o.store === "amazon" && o.condition !== "refurbished");
     return am?.linkKind === "direct";
   }).length;
+  const aliexpressOffers = catalog.products.filter((p) =>
+    p.offers.some((o) => o.store === "aliexpress"),
+  ).length;
 
   let supabase = false;
   let referralsSql = false;
@@ -31,6 +36,9 @@ export async function GET() {
     site: process.env.NEXT_PUBLIC_SITE_URL ?? "https://deals-hub-iota.vercel.app",
     catalogProducts: catalog.products.length,
     amazonDirectLinks: amazonDirect,
+    aliexpressOffers,
+    affiliateConfigured: isAffiliateConfigured(),
+    affiliate,
     cronSecretConfigured: !!process.env.CRON_SECRET,
     supabase,
     referralsSql,

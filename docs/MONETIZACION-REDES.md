@@ -23,13 +23,17 @@ Amazon ya está con tag `jere0f7-21`. Para las otras tres redes, regístrate y p
 
 ---
 
-## 3. AliExpress Portals
+## 3. AliExpress Portals ✅ ACTIVO
 
-1. [portals.aliexpress.com](https://portals.aliexpress.com/) → Join / Registrarse
-2. Añade tu sitio DealsHub
-3. En el panel: **Tracking ID** o código de seguimiento
+1. [portals.aliexpress.com](https://portals.aliexpress.com/) → cuenta aprobada
+2. **Herramientas → Generador de enlaces** → copia el código (ej. `_c3iyuOdJ`)
+3. Tracking ID en portal: normalmente `default`
 
-**Variable:** `NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID=tu_tracking_id`
+**Variables:**
+```
+NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID=_c3iyuOdJ
+NEXT_PUBLIC_ALIEXPRESS_TRACKING_NAME=default
+```
 
 ---
 

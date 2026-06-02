@@ -30,6 +30,7 @@ import {
   getDealProducts,
   getFeaturedProducts,
   getProductsByCategory,
+  getAliExpressDeals,
 } from "@/lib/products";
 import { getAlgorithmicTrending, getBestDealsToday, rankProductsByDealScore } from "@/lib/algorithms";
 import { getRotationDayKey } from "@/lib/catalog-pipeline";
@@ -40,6 +41,7 @@ export default function HomePage() {
   const featured = getFeaturedProducts();
   const bestDeals = getBestDealsToday(4);
   const ropa = getProductsByCategory("ropa");
+  const aliexpressDeals = getAliExpressDeals(8);
   const fullCatalog = [...catalog.products].sort((a, b) => a.name.localeCompare(b.name, "es"));
   const directCatalogCount = catalog.products.filter((p) =>
     p.offers.some((o) => o.store === "amazon" && o.linkKind === "direct"),
@@ -206,6 +208,25 @@ export default function HomePage() {
 
       <TopListsSection />
       <CategoryRails />
+
+      {aliexpressDeals.length > 0 && (
+        <section id="aliexpress" className="scroll-mt-24 mx-auto max-w-7xl px-4 py-12">
+          <div className="rounded-2xl border border-[#E43225]/30 bg-[#E43225]/5 px-6 py-5">
+            <p className="text-xs font-semibold uppercase tracking-wider text-[#ff6b5e]">
+              Afiliado AliExpress activo
+            </p>
+            <h2 className="mt-1 text-2xl font-bold">🛒 Ofertas AliExpress</h2>
+            <p className="mt-2 text-sm text-slate-400">
+              Precios directos de fábrica con enlaces de afiliado verificados. Comparamos también con Amazon y otras tiendas.
+            </p>
+          </div>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {aliexpressDeals.slice(0, 8).map((p) => (
+              <ProductCard key={p.id} product={p} featured />
+            ))}
+          </div>
+        </section>
+      )}
 
       {ropa.length > 0 && (
         <section className="mx-auto max-w-7xl px-4 py-12">

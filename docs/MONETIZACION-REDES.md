@@ -24,17 +24,25 @@ Cuenta aprobada. **Publisher ID:** `2917459`
 
 ---
 
-## 3. AliExpress Portals ✅ ACTIVO
+## 3. AliExpress Portals ✅ ACTIVO — listo para monetizar
 
 1. [portals.aliexpress.com](https://portals.aliexpress.com/) → cuenta aprobada
-2. **Herramientas → Generador de enlaces** → copia el código (ej. `_c3iyuOdJ`)
-3. Tracking ID en portal: normalmente `default`
+2. **Herramientas → Generador de enlaces** → código `_c3iyuOdJ`
+3. Tracking name en portal: `default`
 
-**Variables:**
+**Variables (Vercel producción):**
 ```
 NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID=_c3iyuOdJ
 NEXT_PUBLIC_ALIEXPRESS_TRACKING_NAME=default
 ```
+
+**En el sitio:**
+- Página dedicada: `/aliexpress` (12 productos con botón afiliado)
+- Enlaces envueltos en `s.click.aliexpress.com/deep_link.htm` + `aff_trace_key=dealshub_{producto}`
+- Mapa de URLs: `data/aliexpress-links.json` (actualizar con `/item/ID.html` desde Portals cuando tengas el enlace exacto)
+- Script: `node scripts/apply-aliexpress-links.mjs`
+
+**Comprobar:** `GET /api/health` → `affiliate.aliexpress: true`, `monetization.coreNetworksReady: true`
 
 ---
 

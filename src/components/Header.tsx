@@ -10,9 +10,9 @@ import { AuthButton } from "@/components/AuthButton";
 const nav = [
   { href: "/", label: "Ofertas" },
   { href: "/comparar", label: "Comparar", highlight: true },
+  { href: "/aliexpress", label: "AliExpress", accent: "#E43225" },
   { href: "/buscar", label: "Buscar" },
   { href: "/rankings", label: "Rankings" },
-  { href: "/referidos", label: "Referidos" },
 ];
 
 export function Header() {
@@ -49,6 +49,22 @@ export function Header() {
                     }`}
                   >
                     ⚔️ {item.label}
+                  </Link>
+                );
+              }
+              if (item.accent) {
+                return (
+                  <Link
+                    key={item.href}
+                    href={item.href}
+                    className={`rounded-lg px-3 py-2 text-sm font-semibold transition ${
+                      active
+                        ? "text-white"
+                        : "text-slate-400 hover:bg-white/5 hover:text-white"
+                    }`}
+                    style={active ? { backgroundColor: item.accent } : { color: item.accent }}
+                  >
+                    🛒 {item.label}
                   </Link>
                 );
               }

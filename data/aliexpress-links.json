@@ -1,0 +1,51 @@
+{
+  "_comment": "URLs destino AliExpress por producto. Sustituye por /item/ID.html desde Portals cuando tengas el enlace exacto.",
+  "aliexpress-smartwatch-y68": {
+    "url": "https://es.aliexpress.com/w/wholesale-y68-smart-watch.html",
+    "linkKind": "search"
+  },
+  "aliexpress-usb-c-hub-7in1": {
+    "url": "https://es.aliexpress.com/w/wholesale-usb-c-hub-7-in-1-hdmi.html",
+    "linkKind": "search"
+  },
+  "aliexpress-led-strip-5m": {
+    "url": "https://es.aliexpress.com/w/wholesale-led-strip-rgb-5m-app.html",
+    "linkKind": "search"
+  },
+  "aliexpress-powerbank-20000": {
+    "url": "https://es.aliexpress.com/w/wholesale-power-bank-20000mah-22.5w.html",
+    "linkKind": "search"
+  },
+  "aliexpress-mechanical-keyboard": {
+    "url": "https://es.aliexpress.com/w/wholesale-mechanical-keyboard-60-hot-swap.html",
+    "linkKind": "search"
+  },
+  "aliexpress-ring-light-26cm": {
+    "url": "https://es.aliexpress.com/w/wholesale-ring-light-26cm-tripod.html",
+    "linkKind": "search"
+  },
+  "aliexpress-tws-earbuds-pro": {
+    "url": "https://es.aliexpress.com/w/wholesale-tws-earbuds-bluetooth-5.3.html",
+    "linkKind": "search"
+  },
+  "aliexpress-gan-charger-65w": {
+    "url": "https://es.aliexpress.com/w/wholesale-gan-charger-65w-usb-c-pd.html",
+    "linkKind": "search"
+  },
+  "aliexpress-car-phone-holder": {
+    "url": "https://es.aliexpress.com/w/wholesale-magnetic-car-phone-holder.html",
+    "linkKind": "search"
+  },
+  "aliexpress-portable-blender": {
+    "url": "https://es.aliexpress.com/w/wholesale-portable-blender-usb.html",
+    "linkKind": "search"
+  },
+  "aliexpress-wireless-mouse-silent": {
+    "url": "https://es.aliexpress.com/w/wholesale-wireless-mouse-silent-rechargeable.html",
+    "linkKind": "search"
+  },
+  "aliexpress-mini-projector-4k": {
+    "url": "https://es.aliexpress.com/w/wholesale-mini-projector-4k-wifi.html",
+    "linkKind": "search"
+  }
+}

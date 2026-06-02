@@ -258,9 +258,11 @@ export default function HomePage() {
       {aliexpressDeals.length > 0 && (
         <section id="aliexpress" className="mx-auto max-w-7xl scroll-mt-24 px-4 py-12">
           <SectionHeader
-            eyebrow="AliExpress afiliado"
+            eyebrow="AliExpress Portals activo"
             title="🛒 Ofertas AliExpress"
-            description="Precios directos de fábrica con enlaces verificados."
+            description="Precios de fábrica con enlaces afiliados verificados. Compara también con Amazon en cada ficha."
+            href="/aliexpress"
+            linkLabel={`Ver todos (${aliexpressDeals.length}) →`}
             accent="rose"
           />
           <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">

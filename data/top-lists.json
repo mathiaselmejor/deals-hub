@@ -83,6 +83,19 @@
       "title": "Smart Home esencial 2026",
       "description": "Cámaras, timbre Ring, Philips Hue y robots.",
       "productIds": ["camara-seguridad", "ring-doorbell", "philips-hue-starter", "robot-aspirador"]
+    },
+    {
+      "slug": "chollos-aliexpress-2026",
+      "title": "Top chollos AliExpress 2026",
+      "description": "Gadgets de fábrica con mejor precio vs Amazon — afiliado Portals activo.",
+      "productIds": [
+        "aliexpress-smartwatch-y68",
+        "aliexpress-tws-earbuds-pro",
+        "aliexpress-led-strip-5m",
+        "aliexpress-gan-charger-65w",
+        "aliexpress-mini-projector-4k",
+        "aliexpress-mechanical-keyboard"
+      ]
     }
   ]
 }

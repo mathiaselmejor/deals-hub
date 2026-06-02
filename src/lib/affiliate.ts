@@ -69,6 +69,23 @@ export function getAffiliateStatus(): Record<string, boolean> {
   };
 }
 
+/** Estado AliExpress Portals para panel admin / health. */
+export function getAliExpressMonetizationStatus(): {
+  configured: boolean;
+  trackingId: string | null;
+  trackingName: string;
+  deepLinkFormat: string;
+} {
+  const env = getEnv();
+  const raw = env.aliexpressShortKey ?? null;
+  return {
+    configured: !!raw,
+    trackingId: raw ? `${normalizeAliexpressShortKey(raw).slice(0, 4)}…` : null,
+    trackingName: env.aliexpressTrackingName ?? "default",
+    deepLinkFormat: "s.click.aliexpress.com/deep_link.htm",
+  };
+}
+
 export function buildAffiliateUrl(offer: ProductOffer, productId?: string): string {
   const env = getEnv();
   const pid = productId ?? "unknown";
@@ -101,8 +118,13 @@ export function buildAffiliateUrl(offer: ProductOffer, productId?: string): stri
   if (offer.store === "aliexpress" && env.aliexpressShortKey) {
     const shortKey = normalizeAliexpressShortKey(env.aliexpressShortKey);
     const dest = appendTrackingParams(target, pid, offer.store);
-    const af = `dealshub_${pid.slice(0, 36)}`;
-    return `https://s.click.aliexpress.com/deep_link.htm?aff_short_key=${encodeURIComponent(shortKey)}&dl_target_url=${encodeURIComponent(dest)}&af=${encodeURIComponent(af)}`;
+    const traceKey = `dealshub_${pid.slice(0, 32)}`;
+    const params = new URLSearchParams({
+      aff_short_key: shortKey,
+      dl_target_url: dest,
+      aff_trace_key: traceKey,
+    });
+    return `https://s.click.aliexpress.com/deep_link.htm?${params.toString()}`;
   }
 
   if (offer.store === "booking" && env.bookingAid) {

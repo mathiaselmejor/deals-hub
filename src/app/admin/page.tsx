@@ -54,10 +54,10 @@ function AffiliateSetupPanel({
     },
     {
       key: "aliexpress",
-      label: "AliExpress",
+      label: "AliExpress Portals",
       env: "NEXT_PUBLIC_ALIEXPRESS_TRACKING_ID",
       signup: "https://portals.aliexpress.com/",
-      idHint: "Código del generador (ej. _c3iyuOdJ). Portal → Herramientas → Generador de enlaces",
+      idHint: "Código _c3iyuOdJ + NEXT_PUBLIC_ALIEXPRESS_TRACKING_NAME=default",
       done: status.aliexpress,
     },
   ];

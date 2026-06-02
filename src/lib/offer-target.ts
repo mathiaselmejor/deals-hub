@@ -21,6 +21,9 @@ export function isDirectPurchaseOffer(offer: ProductOffer): boolean {
     const asin = offer.asin ?? extractAmazonAsin(offer.url);
     return !!asin;
   }
+  if (offer.store === "aliexpress") {
+    return /\/item\/\d+/i.test(offer.url ?? "") || /\/item\/\d+/i.test(offer.directUrl ?? "");
+  }
   return false;
 }
 

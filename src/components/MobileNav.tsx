@@ -5,9 +5,9 @@ import { usePathname } from "next/navigation";
 
 const items = [
   { href: "/", label: "Ofertas", icon: "🔥" },
+  { href: "/aliexpress", label: "AliExpress", icon: "🛒" },
   { href: "/comparar", label: "Comparar", icon: "⚔️" },
   { href: "/buscar", label: "Buscar", icon: "🔍" },
-  { href: "/rankings", label: "Rankings", icon: "🏆" },
 ];
 
 export function MobileNav() {
@@ -21,7 +21,9 @@ export function MobileNav() {
             key={item.href}
             href={item.href}
             className={`flex flex-col items-center gap-0.5 px-2 py-1 text-[10px] font-medium ${
-              pathname === item.href || (item.href === "/buscar" && pathname.startsWith("/buscar"))
+              pathname === item.href ||
+              (item.href === "/buscar" && pathname.startsWith("/buscar")) ||
+              (item.href === "/aliexpress" && pathname.startsWith("/aliexpress"))
                 ? "text-indigo-400"
                 : "text-slate-500"
             }`}

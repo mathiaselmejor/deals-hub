@@ -37,6 +37,11 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
                 </Link>
               </li>
               <li>
+                <Link href="/aliexpress" className="hover:text-[#ff6b5e]">
+                  🛒 AliExpress
+                </Link>
+              </li>
+              <li>
                 <Link href="/buscar" className="hover:text-indigo-400">
                   Buscar ofertas
                 </Link>

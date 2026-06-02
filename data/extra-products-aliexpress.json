@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-03",
+  "lastUpdated": "2026-06-02",
   "products": [
     {
       "id": "aliexpress-smartwatch-y68",
@@ -24,12 +24,11 @@
       "offers": [
         {
           "store": "aliexpress",
-          "url": "https://es.aliexpress.com/w/wholesale-smartwatch-y68.html",
-          "directUrl": "https://es.aliexpress.com/w/wholesale-smartwatch-y68.html",
+          "url": "https://es.aliexpress.com/w/wholesale-y68-smart-watch.html",
           "price": 12.99,
           "note": "Envío desde China — precio directo fábrica",
-          "linkKind": "direct",
-          "priceEstimated": false
+          "linkKind": "search",
+          "priceEstimated": true
         },
         {
           "store": "amazon",
@@ -67,11 +66,10 @@
         {
           "store": "aliexpress",
           "url": "https://es.aliexpress.com/w/wholesale-usb-c-hub-7-in-1-hdmi.html",
-          "directUrl": "https://es.aliexpress.com/w/wholesale-usb-c-hub-7-in-1-hdmi.html",
           "price": 18.49,
           "note": "Comisión AliExpress activa",
-          "linkKind": "direct",
-          "priceEstimated": false
+          "linkKind": "search",
+          "priceEstimated": true
         },
         {
           "store": "amazon",
@@ -115,10 +113,10 @@
         {
           "store": "aliexpress",
           "url": "https://es.aliexpress.com/w/wholesale-led-strip-rgb-5m-app.html",
-          "directUrl": "https://es.aliexpress.com/w/wholesale-led-strip-rgb-5m-app.html",
           "price": 9.99,
-          "linkKind": "direct",
-          "priceEstimated": false
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
         },
         {
           "store": "amazon",
@@ -156,10 +154,10 @@
         {
           "store": "aliexpress",
           "url": "https://es.aliexpress.com/w/wholesale-power-bank-20000mah-22.5w.html",
-          "directUrl": "https://es.aliexpress.com/w/wholesale-power-bank-20000mah-22.5w.html",
           "price": 21.99,
-          "linkKind": "direct",
-          "priceEstimated": false
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
         },
         {
           "store": "amazon",
@@ -195,10 +193,10 @@
         {
           "store": "aliexpress",
           "url": "https://es.aliexpress.com/w/wholesale-mechanical-keyboard-60-hot-swap.html",
-          "directUrl": "https://es.aliexpress.com/w/wholesale-mechanical-keyboard-60-hot-swap.html",
           "price": 34.99,
-          "linkKind": "direct",
-          "priceEstimated": false
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
         },
         {
           "store": "pccomponentes",
@@ -234,10 +232,10 @@
         {
           "store": "aliexpress",
           "url": "https://es.aliexpress.com/w/wholesale-ring-light-26cm-tripod.html",
-          "directUrl": "https://es.aliexpress.com/w/wholesale-ring-light-26cm-tripod.html",
           "price": 15.99,
-          "linkKind": "direct",
-          "priceEstimated": false
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
         },
         {
           "store": "amazon",
@@ -253,6 +251,245 @@
         "tiktok",
         "streaming",
         "aliexpress"
+      ]
+    },
+    {
+      "id": "aliexpress-tws-earbuds-pro",
+      "name": "Auriculares TWS Bluetooth 5.3 — ANC básico",
+      "category": "electronica",
+      "description": "Earbuds inalámbricos con estuche de carga USB-C. Alternativa económica a AirPods.",
+      "price": 14.99,
+      "originalPrice": 39.99,
+      "discount": 63,
+      "rating": 4.4,
+      "reviews": 22100,
+      "badge": "AliExpress top",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a1df?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-tws-earbuds-bluetooth-5.3.html",
+          "price": 14.99,
+          "note": "Comisión AliExpress Portals activa",
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=auriculares%20TWS%20bluetooth",
+          "price": 29.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "keywords": [
+        "tws",
+        "auriculares",
+        "aliexpress",
+        "bluetooth",
+        "barato"
+      ]
+    },
+    {
+      "id": "aliexpress-gan-charger-65w",
+      "name": "Cargador GaN 65W — 3 puertos USB-C + USB-A",
+      "category": "electronica",
+      "description": "Carga rápida PD para portátil, móvil y tablet. Compacto para viajes.",
+      "price": 19.99,
+      "originalPrice": 49.99,
+      "discount": 60,
+      "rating": 4.6,
+      "reviews": 8700,
+      "badge": "Viajes",
+      "trending": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-gan-charger-65w-usb-c-pd.html",
+          "price": 19.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=cargador%20GaN%2065W",
+          "price": 36.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "keywords": [
+        "cargador",
+        "gan",
+        "usb c",
+        "aliexpress",
+        "65w"
+      ]
+    },
+    {
+      "id": "aliexpress-car-phone-holder",
+      "name": "Soporte móvil magnético coche — Ventosa + pinza",
+      "category": "electronica",
+      "description": "Sujeta el móvil en salpicadero para GPS y manos libres.",
+      "price": 8.49,
+      "originalPrice": 19.99,
+      "discount": 58,
+      "rating": 4.3,
+      "reviews": 15600,
+      "badge": "Coche",
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-magnetic-car-phone-holder.html",
+          "price": 8.49,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=soporte%20movil%20coche%20magnetico",
+          "price": 16.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "keywords": [
+        "coche",
+        "soporte movil",
+        "aliexpress",
+        "magnetico"
+      ]
+    },
+    {
+      "id": "aliexpress-portable-blender",
+      "name": "Batidora portátil USB — Smoothies gym",
+      "category": "hogar-cocina",
+      "description": "Vaso mezclador recargable para batidos y proteínas. Ideal gimnasio.",
+      "price": 16.99,
+      "originalPrice": 34.99,
+      "discount": 51,
+      "rating": 4.5,
+      "reviews": 7200,
+      "badge": "Fitness",
+      "trending": false,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1570222094114-d054a817ebbf?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-portable-blender-usb.html",
+          "price": 16.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=batidora%20portatil%20usb",
+          "price": 28.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "keywords": [
+        "batidora",
+        "smoothie",
+        "aliexpress",
+        "gym"
+      ]
+    },
+    {
+      "id": "aliexpress-wireless-mouse-silent",
+      "name": "Ratón inalámbrico silencioso — Recargable",
+      "category": "informatica",
+      "description": "Mouse ergonómico Bluetooth + 2.4GHz para oficina y teletrabajo.",
+      "price": 11.99,
+      "originalPrice": 27.99,
+      "discount": 57,
+      "rating": 4.4,
+      "reviews": 11300,
+      "badge": "Oficina",
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-wireless-mouse-silent-rechargeable.html",
+          "price": 11.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=raton%20inalambrico%20silencioso",
+          "price": 22.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "keywords": [
+        "raton",
+        "wireless",
+        "aliexpress",
+        "oficina"
+      ]
+    },
+    {
+      "id": "aliexpress-mini-projector-4k",
+      "name": "Mini proyector WiFi 4K — Cine en casa",
+      "category": "electronica",
+      "description": "Proyector compacto con Android TV integrado. Ideal dormitorio y camping.",
+      "price": 49.99,
+      "originalPrice": 129.99,
+      "discount": 62,
+      "rating": 4.2,
+      "reviews": 5400,
+      "badge": "Cine",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "aliexpress",
+          "url": "https://es.aliexpress.com/w/wholesale-mini-projector-4k-wifi.html",
+          "price": 49.99,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Comisión AliExpress Portals activa"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=mini%20proyector%20wifi%204k",
+          "price": 89.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=mini%20proyector",
+          "price": 99.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "keywords": [
+        "proyector",
+        "4k",
+        "aliexpress",
+        "cine",
+        "wifi"
       ]
     }
   ]

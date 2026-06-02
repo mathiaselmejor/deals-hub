@@ -146,14 +146,23 @@ export function getProductsByCategory(categoryId: string): Product[] {
 
 /** Productos con oferta AliExpress (mejor precio suele estar ahí). */
 export function getAliExpressDeals(limit = 8): Product[] {
-  return catalog.products
+  return getAliExpressProducts(limit);
+}
+
+/** Catálogo AliExpress ordenado por precio en la tienda. */
+export function getAliExpressProducts(limit?: number): Product[] {
+  const list = catalog.products
     .filter((p) => p.offers.some((o) => o.store === "aliexpress" && o.price > 0))
     .sort((a, b) => {
       const priceA = a.offers.find((o) => o.store === "aliexpress")?.price ?? Infinity;
       const priceB = b.offers.find((o) => o.store === "aliexpress")?.price ?? Infinity;
       return priceA - priceB;
-    })
-    .slice(0, limit);
+    });
+  return limit ? list.slice(0, limit) : list;
+}
+
+export function getAliExpressOffer(product: Product): ProductOffer | undefined {
+  return product.offers.find((o) => o.store === "aliexpress" && o.condition !== "refurbished");
 }
 
 export function getRelatedProducts(product: Product, limit = 4): Product[] {

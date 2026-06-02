@@ -26,6 +26,7 @@ export function ProductCard({ product, featured = false }: { product: Product; f
   const isCatalog = product.listingKind === "catalog";
   const storeCount = getNewOffers(product).length;
   const dealScore = computeDealScore(product);
+  const bestIsAliExpress = best?.store === "aliexpress";
 
   return (
     <article
@@ -127,9 +128,22 @@ export function ProductCard({ product, featured = false }: { product: Product; f
               href={buildAffiliateUrl(best, product.id)}
               productId={product.id}
               store={best.store}
-              className="btn-primary px-4 py-2.5 text-xs"
+              className={`px-4 py-2.5 text-xs ${
+                bestIsAliExpress
+                  ? "rounded-xl bg-[#E43225] font-bold text-white shadow-lg transition hover:opacity-90"
+                  : "btn-primary"
+              }`}
             >
               {config.stores[best.store]?.label ?? best.store} →
+            </AffiliateLink>
+          ) : best && best.store === "aliexpress" ? (
+            <AffiliateLink
+              href={buildAffiliateUrl(best, product.id)}
+              productId={product.id}
+              store="aliexpress"
+              className="rounded-xl bg-[#E43225] px-4 py-2.5 text-xs font-bold text-white transition hover:opacity-90"
+            >
+              AliExpress →
             </AffiliateLink>
           ) : (
             <Link

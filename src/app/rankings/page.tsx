@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SectionHeader } from "@/components/SectionHeader";
 import { getTopLists } from "@/lib/products";
 
 export const metadata = {
@@ -11,13 +12,24 @@ export default function RankingsPage() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-12">
-      <h1 className="text-3xl font-bold">🏆 Rankings 2026</h1>
-      <p className="mt-3 max-w-2xl text-slate-400">
-        Comparativas curadas con los productos más vendidos y mejor valorados en España.
-        Precios comparados en múltiples tiendas.
-      </p>
+      <section className="rounded-3xl border border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-card p-8 mesh-bg">
+        <h1 className="text-3xl font-bold sm:text-4xl">🏆 Rankings 2026</h1>
+        <p className="mt-3 max-w-2xl text-slate-400">
+          Comparativas curadas estilo Wirecutter: los productos más vendidos y mejor valorados en
+          España, con precios comparados en múltiples tiendas.
+        </p>
+      </section>
 
-      <div className="mt-10 grid gap-6 sm:grid-cols-2">
+      <div className="mt-10">
+        <SectionHeader
+          eyebrow="Editorial"
+          title="Listas por categoría"
+          description="Selección basada en Deal Score, valoraciones y disponibilidad en tiendas afiliadas."
+          accent="amber"
+        />
+      </div>
+
+      <div className="mt-8 grid gap-6 sm:grid-cols-2">
         {lists.map((list, i) => (
           <Link
             key={list.slug}

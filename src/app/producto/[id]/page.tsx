@@ -11,6 +11,8 @@ import { ProductTransparency } from "@/components/ProductTransparency";
 import { StoreOffersPanel } from "@/components/StoreOffersPanel";
 import { InteractionTracker } from "@/components/InteractionTracker";
 import { CompareShortcuts } from "@/components/CompareShortcuts";
+import { PriceCompareTable } from "@/components/PriceCompareTable";
+import { ProductVerdictBanner } from "@/components/ProductVerdictBanner";
 import { computeDealScore, getRelatedProductsSmart } from "@/lib/algorithms";
 import {
   formatPrice,
@@ -70,7 +72,11 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
           ]}
         />
 
-        <div className="grid gap-10 lg:grid-cols-2">
+        <div className="mt-8">
+          <ProductVerdictBanner product={product} />
+        </div>
+
+        <div className="mt-8 grid gap-10 lg:grid-cols-2">
           {/* Image */}
           <div className="space-y-4">
             <div className="relative aspect-square overflow-hidden rounded-2xl border border-white/10">
@@ -202,6 +208,10 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
             )}
 
             <ProductTransparency product={product} />
+
+            <div className="mt-8">
+              <PriceCompareTable product={product} />
+            </div>
 
             <StoreOffersPanel product={product} />
           </div>

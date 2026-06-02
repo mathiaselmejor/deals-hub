@@ -20,8 +20,8 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
               </span>
             </div>
             <p className="mt-4 max-w-md text-sm leading-relaxed text-slate-400">
-              Comparador de ofertas independiente. Comparamos precios en {stores.length} tiendas
-              para que encuentres el mejor chollo sin perder tiempo.
+              Comparador independiente inspirado en Idealo, Kelkoo y Versus. Comparamos precios en{" "}
+              {stores.length} tiendas para que encuentres el mejor chollo sin perder tiempo.
             </p>
             <p className="mt-3 text-xs text-slate-500">
               {catalog.products.length} productos · Actualizado {catalog.lastUpdated}
@@ -31,22 +31,56 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
           <div>
             <p className="text-sm font-semibold text-white">Explorar</p>
             <ul className="mt-4 space-y-2 text-sm text-slate-400">
-              <li><Link href="/buscar" className="hover:text-indigo-400">Buscar ofertas</Link></li>
-              <li><Link href="/#ofertas" className="hover:text-indigo-400">Todas las ofertas</Link></li>
-              <li><Link href="/rankings" className="hover:text-indigo-400">Rankings 2026</Link></li>
-              <li><Link href="/referidos" className="hover:text-indigo-400">Programa referidos</Link></li>
-              <li><Link href="/privacidad" className="hover:text-indigo-400">Privacidad</Link></li>
-              <li><Link href="/aviso-legal" className="hover:text-indigo-400">Aviso legal</Link></li>
+              <li>
+                <Link href="/comparar" className="hover:text-indigo-400">
+                  ⚔️ Comparar productos
+                </Link>
+              </li>
+              <li>
+                <Link href="/buscar" className="hover:text-indigo-400">
+                  Buscar ofertas
+                </Link>
+              </li>
+              <li>
+                <Link href="/#chollos" className="hover:text-indigo-400">
+                  Chollos del día
+                </Link>
+              </li>
+              <li>
+                <Link href="/rankings" className="hover:text-indigo-400">
+                  Rankings 2026
+                </Link>
+              </li>
+              <li>
+                <Link href="/referidos" className="hover:text-indigo-400">
+                  Programa referidos
+                </Link>
+              </li>
+              <li>
+                <Link href="/privacidad" className="hover:text-indigo-400">
+                  Privacidad
+                </Link>
+              </li>
+              <li>
+                <Link href="/aviso-legal" className="hover:text-indigo-400">
+                  Aviso legal
+                </Link>
+              </li>
             </ul>
           </div>
 
           <div>
-            <p className="text-sm font-semibold text-white">Tiendas</p>
-            <ul className="mt-4 space-y-2 text-sm text-slate-400">
-              {stores.slice(0, 6).map((s) => (
-                <li key={s.label}>{s.label}</li>
+            <p className="text-sm font-semibold text-white">Tiendas comparadas</p>
+            <ul className="mt-4 flex flex-wrap gap-2">
+              {stores.map((s) => (
+                <li
+                  key={s.label}
+                  className="rounded-full px-2.5 py-1 text-xs font-medium"
+                  style={{ backgroundColor: `${s.color}15`, color: s.color }}
+                >
+                  {s.label}
+                </li>
               ))}
-              <li className="text-slate-600">+{stores.length - 6} más</li>
             </ul>
           </div>
         </div>
@@ -54,8 +88,8 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
         <div className="mt-10 rounded-xl border border-white/5 bg-card/50 p-4">
           <p className="text-xs leading-relaxed text-slate-500">{disclaimer}</p>
           <p className="mt-2 text-xs text-slate-600">
-            Los precios mostrados son orientativos y pueden variar. Comprueba siempre el precio
-            final en la tienda antes de comprar.
+            Los precios mostrados son orientativos y pueden variar. Comprueba siempre el precio final
+            en la tienda antes de comprar.
           </p>
         </div>
 

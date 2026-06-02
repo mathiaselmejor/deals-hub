@@ -3,9 +3,14 @@ import { CategoryExplorer } from "@/components/CategoryExplorer";
 import { CategoryRails } from "@/components/CategoryRails";
 import { ConversionBanner } from "@/components/ConversionBanner";
 import { DealOfDayBanner } from "@/components/DealOfDayBanner";
+import { EditorsChoiceSection } from "@/components/EditorsChoiceSection";
 import { FAQ } from "@/components/FAQ";
+import { HowItWorksStrip } from "@/components/HowItWorksStrip";
 import { JsonLd } from "@/components/JsonLd";
+import { PopularComparisons } from "@/components/PopularComparisons";
 import { ProductCard } from "@/components/ProductCard";
+import { SectionHeader } from "@/components/SectionHeader";
+import { StoreTrustStrip } from "@/components/StoreTrustStrip";
 import dynamic from "next/dynamic";
 
 const ProductGrid = dynamic(
@@ -14,7 +19,7 @@ const ProductGrid = dynamic(
     loading: () => (
       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {Array.from({ length: 8 }).map((_, i) => (
-          <div key={i} className="h-80 animate-pulse rounded-2xl bg-white/5" />
+          <div key={i} className="skeleton-shimmer h-80 rounded-2xl" />
         ))}
       </div>
     ),
@@ -32,14 +37,20 @@ import {
   getProductsByCategory,
   getAliExpressDeals,
 } from "@/lib/products";
-import { getAlgorithmicTrending, getBestDealsToday, rankProductsByDealScore } from "@/lib/algorithms";
+import {
+  getAlgorithmicTrending,
+  getBestDealsToday,
+  rankProductsByDealScore,
+} from "@/lib/algorithms";
 import { getRotationDayKey } from "@/lib/catalog-pipeline";
+
 export default function HomePage() {
   const catalog = getCatalog();
   const deals = rankProductsByDealScore(getDealProducts());
   const trending = getAlgorithmicTrending(12);
   const featured = getFeaturedProducts();
   const bestDeals = getBestDealsToday(4);
+  const editorsPicks = rankProductsByDealScore(catalog.products).slice(0, 3);
   const ropa = getProductsByCategory("ropa");
   const aliexpressDeals = getAliExpressDeals(8);
   const fullCatalog = [...catalog.products].sort((a, b) => a.name.localeCompare(b.name, "es"));
@@ -52,102 +63,142 @@ export default function HomePage() {
     <>
       <JsonLd />
 
-      {/* Marketing hero */}
-      <section className="relative overflow-hidden">
+      {/* Hero — inspiración Kelkoo + Wirecutter */}
+      <section className="relative overflow-hidden mesh-bg">
         <div className="glow-orb animate-pulse-glow -left-32 top-0 h-96 w-96 bg-indigo-600/30" />
         <div className="glow-orb animate-pulse-glow -right-32 top-20 h-80 w-80 bg-rose-600/20" />
 
-        <div className="relative mx-auto max-w-7xl px-4 py-20 sm:py-28">
-          <div className="inline-flex items-center gap-2 rounded-full border border-indigo-500/30 bg-indigo-500/10 px-4 py-1.5 text-xs font-medium text-indigo-300">
-            <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400" />
-            Comparador activo · {catalog.products.length} productos en {catalog.categories.length - 1}{" "}
-            categorías
-          </div>
+        <div className="relative mx-auto max-w-7xl px-4 py-16 sm:py-24">
+          <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
+            <div>
+              <div className="inline-flex items-center gap-2 rounded-full border border-indigo-500/30 bg-indigo-500/10 px-4 py-1.5 text-xs font-medium text-indigo-300">
+                <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-400" />
+                Comparador activo · {catalog.products.length} productos
+              </div>
 
-          <h1 className="mt-6 max-w-4xl text-4xl font-extrabold leading-[1.1] tracking-tight sm:text-6xl">
-            Compara y compra en{" "}
-            <span className="gradient-text">Amazon, MediaMarkt, Fnac</span>
-            <br />y más — al mejor precio
-          </h1>
+              <h1 className="mt-6 text-4xl font-extrabold leading-[1.08] tracking-tight sm:text-5xl lg:text-6xl">
+                Encuentra el{" "}
+                <span className="gradient-text">mejor precio</span>
+                <br />
+                en segundos
+              </h1>
 
-          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-slate-400">
-            Primero los <strong className="text-white">chollos del momento</strong>, después el{" "}
-            <strong className="text-white">catálogo completo</strong> de tiendas que monetizamos.
-            Producto nuevo siempre primero; también opciones reacondicionadas en cada ficha.
-          </p>
+              <p className="mt-5 max-w-xl text-lg leading-relaxed text-slate-400">
+                Idealo, Kelkoo y Versus en uno: comparamos{" "}
+                <strong className="text-white">Amazon, MediaMarkt, Fnac, PcComponentes</strong> y más.
+                Deal Score, duelos de productos y enlaces directos verificados.
+              </p>
 
-          <div className="mt-8 max-w-2xl">
-            <SearchBar size="large" placeholder="Buscar en todo el catálogo..." />
-          </div>
+              <div className="mt-8">
+                <SearchBar size="large" placeholder="¿Qué quieres comprar hoy?" />
+              </div>
 
-          <div className="mt-6 flex flex-wrap gap-4">
-            <Link
-              href="/#chollos"
-              className="rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 px-8 py-3.5 font-bold shadow-xl shadow-indigo-500/25 transition hover:opacity-90"
-            >
-              Ver chollos ({deals.length}) →
-            </Link>
-            <Link
-              href="/#catalogo"
-              className="rounded-xl border border-white/15 px-8 py-3.5 font-semibold transition hover:bg-white/5"
-            >
-              Catálogo completo ({catalog.products.length})
-            </Link>
+              <div className="mt-6 flex flex-wrap gap-3">
+                <Link href="/#chollos" className="btn-primary px-8 py-3.5 text-sm">
+                  Ver chollos ({deals.length}) →
+                </Link>
+                <Link href="/comparar" className="btn-secondary px-8 py-3.5 text-sm">
+                  ⚔️ Comparar productos
+                </Link>
+                <Link href="/#catalogo" className="btn-secondary px-6 py-3.5 text-sm text-slate-400">
+                  Catálogo
+                </Link>
+              </div>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 sm:gap-4">
+              <div className="hero-stat col-span-2">
+                <p className="text-xs text-slate-500">Enlaces directos verificados</p>
+                <p className="text-3xl font-bold text-emerald-400">{directCatalogCount}</p>
+              </div>
+              <div className="hero-stat">
+                <p className="text-xs text-slate-500">Tiendas</p>
+                <p className="text-2xl font-bold text-indigo-300">8+</p>
+              </div>
+              <div className="hero-stat">
+                <p className="text-xs text-slate-500">Rotación</p>
+                <p className="text-lg font-bold text-amber-300">{rotationDay}</p>
+              </div>
+              {bestDeals[0] && (
+                <Link
+                  href={`/producto/${bestDeals[0].id}`}
+                  className="hero-stat col-span-2 transition hover:border-emerald-500/30"
+                >
+                  <p className="text-xs text-emerald-400">⚡ Chollo del día</p>
+                  <p className="mt-1 line-clamp-1 font-semibold">{bestDeals[0].name}</p>
+                  <p className="text-lg font-bold text-emerald-400">
+                    {formatPrice(bestDeals[0].price)}
+                  </p>
+                </Link>
+              )}
+            </div>
           </div>
         </div>
       </section>
 
       <StoreMarquee />
-      <section className="mx-auto max-w-7xl px-4 pt-10">
-        <div className="rounded-2xl border border-emerald-500/20 bg-emerald-500/5 p-6">
-          <p className="text-xs font-semibold uppercase tracking-wider text-emerald-300">
-            Calidad verificada
-          </p>
-          <h2 className="mt-1 text-2xl font-bold">Comparador premium, sin humo</h2>
-          <div className="mt-4 grid gap-3 sm:grid-cols-3">
-            <div className="rounded-xl border border-white/10 bg-black/20 p-4">
-              <p className="text-2xl font-bold text-emerald-300">{directCatalogCount}</p>
-              <p className="text-xs text-slate-400">Productos con enlace directo verificado</p>
-            </div>
-            <div className="rounded-xl border border-white/10 bg-black/20 p-4">
-              <p className="text-2xl font-bold text-indigo-300">{catalog.products.length}</p>
-              <p className="text-xs text-slate-400">Productos activos en catálogo</p>
-            </div>
-            <div className="rounded-xl border border-white/10 bg-black/20 p-4">
-              <p className="text-2xl font-bold text-amber-300">{rotationDay}</p>
-              <p className="text-xs text-slate-400">Rotación diaria de destacados</p>
-            </div>
-          </div>
-        </div>
-      </section>
+      <div className="mx-auto max-w-7xl px-4 pt-8">
+        <StoreTrustStrip />
+      </div>
+
+      <HowItWorksStrip />
       <DealOfDayBanner />
       <ConversionBanner />
       <TrustBar />
       <PersonalizedFeed />
 
-      {/* ——— MARKETING: chollos y destacados ——— */}
-      <section id="chollos" className="scroll-mt-24 border-b border-white/5 bg-gradient-to-b from-rose-500/5 to-transparent">
-        <div className="mx-auto max-w-7xl px-4 py-12">
-          <div className="rounded-2xl border border-rose-500/20 bg-rose-500/5 px-6 py-5">
-            <p className="text-xs font-semibold uppercase tracking-wider text-rose-300">Zona marketing</p>
-            <h2 className="mt-1 text-2xl font-bold">🔥 Chollos y ofertas destacadas</h2>
-            <p className="mt-2 text-sm text-slate-400">
-              Descuentos reales y productos trending — lo que más conviene comprar ahora.
-            </p>
-          </div>
+      {/* Elección del editor — Wirecutter */}
+      <section className="mx-auto max-w-7xl px-4 py-14">
+        <SectionHeader
+          eyebrow="Recomendación editorial"
+          title="🏆 Nuestra elección — mejor Deal Score"
+          description="Los productos con mejor equilibrio entre precio, descuento y valoración ahora mismo."
+          href="/rankings"
+          linkLabel="Ver rankings →"
+          accent="emerald"
+        />
+        <div className="mt-8">
+          <EditorsChoiceSection products={editorsPicks} />
+        </div>
+      </section>
+
+      {/* Comparaciones populares — Versus + Idealo */}
+      <section className="mx-auto max-w-7xl px-4 py-14">
+        <SectionHeader
+          eyebrow="Duelos populares"
+          title="⚔️ Comparaciones que más buscan"
+          description="Elige dos productos y mira precios, specs y Deal Score lado a lado — estilo Versus, con tiendas reales."
+          href="/comparar"
+          accent="indigo"
+        />
+        <div className="mt-8">
+          <PopularComparisons />
+        </div>
+      </section>
+
+      {/* Chollos */}
+      <section
+        id="chollos"
+        className="scroll-mt-24 border-y border-white/5 bg-gradient-to-b from-rose-500/[0.04] to-transparent"
+      >
+        <div className="mx-auto max-w-7xl px-4 py-14">
+          <SectionHeader
+            eyebrow="Zona ofertas"
+            title="🔥 Chollos y ofertas destacadas"
+            description="Descuentos reales y productos trending — lo que más conviene comprar ahora."
+            href="/#catalogo"
+            accent="rose"
+          />
 
           <div className="mt-10 flex items-center justify-between">
-            <h3 className="text-xl font-bold">Trending ahora</h3>
-            <a href="#catalogo" className="text-sm text-indigo-400 hover:underline">
-              Ir al catálogo completo
-            </a>
+            <h3 className="text-lg font-bold">Trending ahora</h3>
           </div>
-          <div className="mt-4 flex gap-3 overflow-x-auto pb-2">
+          <div className="mt-4 flex gap-3 overflow-x-auto pb-2 scrollbar-thin">
             {trending.map((p) => (
               <Link
                 key={p.id}
                 href={`/producto/${p.id}`}
-                className="group flex w-64 shrink-0 items-center gap-3 rounded-xl border border-white/10 bg-card p-3 transition hover:border-indigo-500/40"
+                className="group flex w-72 shrink-0 items-center gap-3 rounded-xl border border-white/10 bg-card p-3 transition hover:border-indigo-500/40"
               >
                 <img src={p.image} alt="" className="h-14 w-14 rounded-lg object-cover" />
                 <div className="min-w-0 flex-1">
@@ -164,8 +215,8 @@ export default function HomePage() {
           </div>
 
           {bestDeals.length > 0 && (
-            <div className="mt-10">
-              <h3 className="text-xl font-bold">💰 Top chollos del día</h3>
+            <div className="mt-12">
+              <h3 className="text-lg font-bold">💰 Top chollos del día</h3>
               <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
                 {bestDeals.map((p) => (
                   <ProductCard key={p.id} product={p} featured />
@@ -175,8 +226,8 @@ export default function HomePage() {
           )}
 
           {featured.length > 0 && (
-            <div className="mt-10">
-              <h3 className="text-xl font-bold">⭐ Destacados patrocinados</h3>
+            <div className="mt-12">
+              <h3 className="text-lg font-bold">⭐ Destacados</h3>
               <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
                 {featured.slice(0, 4).map((p) => (
                   <ProductCard key={p.id} product={p} featured />
@@ -186,18 +237,13 @@ export default function HomePage() {
           )}
 
           <div className="mt-12">
-            <h3 className="text-xl font-bold">Todas las ofertas con descuento</h3>
+            <h3 className="text-lg font-bold">Todas las ofertas con descuento</h3>
             <p className="mt-1 text-sm text-slate-500">{deals.length} productos en promoción</p>
             <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
               {deals.slice(0, 12).map((p) => (
                 <ProductCard key={p.id} product={p} />
               ))}
             </div>
-            {deals.length > 12 && (
-              <p className="mt-6 text-center text-sm text-slate-500">
-                +{deals.length - 12} chollos más en el catálogo completo abajo
-              </p>
-            )}
           </div>
         </div>
       </section>
@@ -210,16 +256,13 @@ export default function HomePage() {
       <CategoryRails />
 
       {aliexpressDeals.length > 0 && (
-        <section id="aliexpress" className="scroll-mt-24 mx-auto max-w-7xl px-4 py-12">
-          <div className="rounded-2xl border border-[#E43225]/30 bg-[#E43225]/5 px-6 py-5">
-            <p className="text-xs font-semibold uppercase tracking-wider text-[#ff6b5e]">
-              Afiliado AliExpress activo
-            </p>
-            <h2 className="mt-1 text-2xl font-bold">🛒 Ofertas AliExpress</h2>
-            <p className="mt-2 text-sm text-slate-400">
-              Precios directos de fábrica con enlaces de afiliado verificados. Comparamos también con Amazon y otras tiendas.
-            </p>
-          </div>
+        <section id="aliexpress" className="mx-auto max-w-7xl scroll-mt-24 px-4 py-12">
+          <SectionHeader
+            eyebrow="AliExpress afiliado"
+            title="🛒 Ofertas AliExpress"
+            description="Precios directos de fábrica con enlaces verificados."
+            accent="rose"
+          />
           <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {aliexpressDeals.slice(0, 8).map((p) => (
               <ProductCard key={p.id} product={p} featured />
@@ -230,15 +273,12 @@ export default function HomePage() {
 
       {ropa.length > 0 && (
         <section className="mx-auto max-w-7xl px-4 py-12">
-          <div className="flex items-end justify-between">
-            <div>
-              <h2 className="text-2xl font-bold">👕 Ropa & Moda</h2>
-              <p className="mt-1 text-sm text-slate-400">Comparativa en tiendas afiliadas</p>
-            </div>
-            <Link href="/categoria/ropa" className="text-sm text-indigo-400 hover:underline">
-              Ver categoría →
-            </Link>
-          </div>
+          <SectionHeader
+            title="👕 Ropa & Moda"
+            description="Comparativa en tiendas afiliadas"
+            href="/categoria/ropa"
+            accent="indigo"
+          />
           <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {ropa.slice(0, 4).map((p) => (
               <ProductCard key={p.id} product={p} featured />
@@ -247,19 +287,13 @@ export default function HomePage() {
         </section>
       )}
 
-      {/* ——— CATÁLOGO COMPLETO (monetización) ——— */}
-      <section id="catalogo" className="scroll-mt-24 mx-auto max-w-7xl px-4 pb-20">
-        <div className="rounded-2xl border border-indigo-500/25 bg-indigo-500/5 px-6 py-5">
-          <p className="text-xs font-semibold uppercase tracking-wider text-indigo-300">
-            Tiendas afiliadas
-          </p>
-          <h2 className="mt-1 text-2xl font-bold">📦 Catálogo completo para comprar</h2>
-          <p className="mt-2 text-sm text-slate-400">
-            Todos los productos — con y sin descuento — en Amazon, PcComponentes, MediaMarkt, El Corte
-            Inglés, Fnac, Decathlon, IKEA y eBay. En cada producto: precio nuevo primero y opción
-            reacondicionada.
-          </p>
-        </div>
+      <section id="catalogo" className="mx-auto max-w-7xl scroll-mt-24 px-4 pb-20">
+        <SectionHeader
+          eyebrow="Tiendas afiliadas"
+          title="📦 Catálogo completo"
+          description="Todos los productos en Amazon, PcComponentes, MediaMarkt, El Corte Inglés, Fnac, Decathlon, IKEA y eBay."
+          accent="indigo"
+        />
         <div className="mt-8">
           <ProductGrid products={fullCatalog} categories={catalog.categories} />
         </div>

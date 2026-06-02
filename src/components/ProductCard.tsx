@@ -8,11 +8,14 @@ import {
   getBestOffer,
   getBestRefurbishedOffer,
   getLowestPrice,
+  getNewOffers,
   getSavings,
 } from "@/lib/catalog-formatters";
+import { computeDealScore } from "@/lib/algorithms";
 import { isDirectPurchaseOffer } from "@/lib/offer-target";
 import type { Product } from "@/lib/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
+import { DealScoreMini } from "@/components/DealScoreMini";
 
 export function ProductCard({ product, featured = false }: { product: Product; featured?: boolean }) {
   const config = getAffiliateConfig();
@@ -21,6 +24,8 @@ export function ProductCard({ product, featured = false }: { product: Product; f
   const bestRefurb = getBestRefurbishedOffer(product);
   const savings = getSavings(product);
   const isCatalog = product.listingKind === "catalog";
+  const storeCount = getNewOffers(product).length;
+  const dealScore = computeDealScore(product);
 
   return (
     <article
@@ -49,6 +54,9 @@ export function ProductCard({ product, featured = false }: { product: Product; f
         <span className="absolute right-3 top-3 rounded-lg bg-black/50 px-2 py-1 text-[10px] font-semibold uppercase tracking-wide backdrop-blur-sm">
           {product.badge}
         </span>
+        <div className="absolute bottom-3 right-3">
+          <DealScoreMini score={dealScore} />
+        </div>
         {product.dealOfDay && (
           <span className="absolute bottom-3 left-3 rounded-lg bg-amber-500/90 px-2 py-0.5 text-[10px] font-bold text-black">
             ⚡ OFERTA DEL DÍA
@@ -74,22 +82,25 @@ export function ProductCard({ product, featured = false }: { product: Product; f
 
         <p className="mt-2 line-clamp-2 flex-1 text-sm text-slate-500">{product.description}</p>
 
-        <div className="mt-3 flex flex-wrap gap-1">
-          {product.offers.slice(0, 4).map((offer) => {
-            const store = config.stores[offer.store];
-            return (
-              <span
-                key={offer.store}
-                className="store-badge"
-                style={{ backgroundColor: `${store.color}18`, color: store.color }}
-              >
-                {store.label}
-              </span>
-            );
-          })}
-          {product.offers.length > 4 && (
-            <span className="store-badge bg-white/5 text-slate-500">+{product.offers.length - 4}</span>
-          )}
+        <div className="mt-3 flex flex-wrap items-center justify-between gap-2">
+          <div className="flex flex-wrap gap-1">
+            {product.offers.slice(0, 3).map((offer) => {
+              const store = config.stores[offer.store];
+              return (
+                <span
+                  key={offer.store}
+                  className="store-badge"
+                  style={{ backgroundColor: `${store.color}18`, color: store.color }}
+                >
+                  {store.label}
+                </span>
+              );
+            })}
+            {product.offers.length > 3 && (
+              <span className="store-badge bg-white/5 text-slate-500">+{product.offers.length - 3}</span>
+            )}
+          </div>
+          <span className="text-[10px] font-medium text-slate-500">{storeCount} tiendas</span>
         </div>
 
         <div className="mt-4 flex items-end justify-between gap-2 border-t border-white/5 pt-4">
@@ -116,19 +127,25 @@ export function ProductCard({ product, featured = false }: { product: Product; f
               href={buildAffiliateUrl(best, product.id)}
               productId={product.id}
               store={best.store}
-              className="rounded-xl bg-gradient-to-r from-indigo-500 to-purple-600 px-4 py-2.5 text-xs font-bold shadow-lg shadow-indigo-500/20 transition hover:opacity-90"
+              className="btn-primary px-4 py-2.5 text-xs"
             >
               {config.stores[best.store]?.label ?? best.store} →
             </AffiliateLink>
           ) : (
             <Link
               href={`/producto/${product.id}`}
-              className="rounded-xl border border-white/10 px-4 py-2.5 text-xs font-semibold text-indigo-300 hover:bg-white/5"
+              className="btn-secondary px-4 py-2.5 text-xs text-indigo-300"
             >
               Ver tiendas →
             </Link>
           )}
         </div>
+        <Link
+          href={`/comparar?a=${product.id}`}
+          className="mt-2 block text-center text-[10px] font-medium text-slate-500 opacity-0 transition group-hover:opacity-100 hover:text-indigo-400"
+        >
+          ⚔️ Comparar
+        </Link>
       </div>
     </article>
   );

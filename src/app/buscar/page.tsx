@@ -1,5 +1,7 @@
 import { Suspense } from "react";
+import { HowItWorksStrip } from "@/components/HowItWorksStrip";
 import { SearchResults } from "@/components/SearchResults";
+import { StoreTrustStrip } from "@/components/StoreTrustStrip";
 import { Breadcrumbs } from "@/components/RelatedProducts";
 import { getCatalog } from "@/lib/products";
 
@@ -13,23 +15,27 @@ export default function BuscarPage() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 py-10">
-      <Breadcrumbs
-        items={[
-          { label: "Inicio", href: "/" },
-          { label: "Buscar ofertas" },
-        ]}
-      />
+      <Breadcrumbs items={[{ label: "Inicio", href: "/" }, { label: "Buscar ofertas" }]} />
 
-      <h1 className="text-3xl font-bold">Buscar ofertas</h1>
-      <p className="mt-2 text-slate-400">
-        Encuentra al instante todas las ofertas de un producto en varias tiendas
-      </p>
+      <section className="mt-6 rounded-3xl border border-white/10 bg-gradient-to-br from-indigo-500/10 to-card p-8 mesh-bg">
+        <h1 className="text-3xl font-bold sm:text-4xl">🔍 Buscar ofertas</h1>
+        <p className="mt-2 max-w-xl text-slate-400">
+          Encuentra al instante cualquier producto y compara precios en{" "}
+          {catalog.products.length} artículos de tiendas afiliadas en España.
+        </p>
+      </section>
 
       <div className="mt-8">
-        <Suspense fallback={<div className="h-14 animate-pulse rounded-xl bg-card" />}>
+        <Suspense fallback={<div className="skeleton-shimmer h-14 rounded-xl" />}>
           <SearchResults allProducts={catalog.products} />
         </Suspense>
       </div>
+
+      <div className="mt-12">
+        <StoreTrustStrip />
+      </div>
+
+      <HowItWorksStrip compact />
     </div>
   );
 }

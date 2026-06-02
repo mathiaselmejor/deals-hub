@@ -100,6 +100,9 @@ export default function HomePage() {
                 <Link href="/comparar" className="btn-secondary px-8 py-3.5 text-sm">
                   ⚔️ Comparar productos
                 </Link>
+                <Link href="/buscar/imagen" className="btn-secondary px-6 py-3.5 text-sm">
+                  📷 Buscar por foto
+                </Link>
                 <Link href="/#catalogo" className="btn-secondary px-6 py-3.5 text-sm text-slate-400">
                   Catálogo
                 </Link>

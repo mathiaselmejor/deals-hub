@@ -13,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: base, lastModified: catalog.lastUpdated, changeFrequency: "daily", priority: 1 },
     { url: `${base}/buscar`, changeFrequency: "daily", priority: 0.95 },
+    { url: `${base}/buscar/imagen`, changeFrequency: "weekly", priority: 0.88 },
     { url: `${base}/comparar`, changeFrequency: "weekly", priority: 0.9 },
     { url: `${base}/aliexpress`, changeFrequency: "daily", priority: 0.92 },
     { url: `${base}/referidos`, changeFrequency: "monthly", priority: 0.7 },

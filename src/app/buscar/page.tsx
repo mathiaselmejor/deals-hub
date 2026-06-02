@@ -20,8 +20,11 @@ export default function BuscarPage() {
       <section className="mt-6 rounded-3xl border border-white/10 bg-gradient-to-br from-indigo-500/10 to-card p-8 mesh-bg">
         <h1 className="text-3xl font-bold sm:text-4xl">🔍 Buscar ofertas</h1>
         <p className="mt-2 max-w-xl text-slate-400">
-          Encuentra al instante cualquier producto y compara precios en{" "}
-          {catalog.products.length} artículos de tiendas afiliadas en España.
+          Encuentra al instante cualquier producto — por texto o{" "}
+          <a href="/buscar/imagen" className="text-violet-300 hover:underline">
+            subiendo una foto
+          </a>{" "}
+          — y compara precios en {catalog.products.length} artículos de tiendas afiliadas en España.
         </p>
       </section>
 

@@ -13,7 +13,7 @@ export async function POST(request: Request) {
     const body = await request.json();
     const { event_type, payload, session_id, path } = body;
 
-    if (!event_type || !["page_view", "product_click", "search", "affiliate_click", "login"].includes(event_type)) {
+    if (!event_type || !["page_view", "product_click", "search", "image_search", "affiliate_click", "login"].includes(event_type)) {
       return NextResponse.json({ error: "Invalid event" }, { status: 400 });
     }
 

@@ -8,6 +8,7 @@ import {
 import { getAliExpressLinkMapSize } from "@/lib/aliexpress-links";
 import { referralsSqlAvailable } from "@/lib/referrals-store";
 import { getAliExpressProducts, getCatalog } from "@/lib/products";
+import { isImageSearchConfigured } from "@/lib/image-search";
 
 export const dynamic = "force-dynamic";
 
@@ -71,6 +72,7 @@ export async function GET() {
     referralsStorage,
     referralsWorking: referralsSql || referralsStorage,
     catalogRefresh: "github-actions-every-6h",
+    imageSearch: isImageSearchConfigured(),
   };
 
   const allOk =

@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
+import { ImageSearchPanel } from "@/components/ImageSearchPanel";
 import { getPopularSearches } from "@/lib/search-constants";
 import { trackEvent } from "@/components/AnalyticsTracker";
 
@@ -10,6 +11,7 @@ interface SearchBarProps {
   size?: "default" | "large";
   autoFocus?: boolean;
   placeholder?: string;
+  showImageSearch?: boolean;
 }
 
 export function SearchBar({
@@ -17,6 +19,7 @@ export function SearchBar({
   size = "default",
   autoFocus = false,
   placeholder = "Buscar ofertas: zapatillas, nike, sudadera, air fryer...",
+  showImageSearch = true,
 }: SearchBarProps) {
   const router = useRouter();
   const [query, setQuery] = useState(defaultValue);
@@ -63,13 +66,14 @@ export function SearchBar({
 
   return (
     <div ref={wrapperRef} className="relative w-full">
-      <form
-        onSubmit={(e) => {
-          e.preventDefault();
-          goSearch(query);
-        }}
-        className="relative"
-      >
+      <div className={showImageSearch ? "flex gap-2" : undefined}>
+        <form
+          onSubmit={(e) => {
+            e.preventDefault();
+            goSearch(query);
+          }}
+          className="relative min-w-0 flex-1"
+        >
         <span
           className={`absolute left-4 top-1/2 -translate-y-1/2 ${isLarge ? "text-lg" : "text-sm"} text-slate-500`}
         >
@@ -89,7 +93,9 @@ export function SearchBar({
             setOpen(true);
           }}
           className={`w-full rounded-xl border border-white/10 bg-card text-white placeholder:text-slate-500 focus:border-indigo-500/50 focus:outline-none focus:ring-2 focus:ring-indigo-500/20 ${
-            isLarge ? "py-4 pl-12 pr-28 text-base" : "py-2.5 pl-10 pr-20 text-sm"
+            isLarge
+              ? `py-4 pl-12 ${showImageSearch ? "pr-28" : "pr-28"} text-base`
+              : `py-2.5 pl-10 ${showImageSearch ? "pr-20" : "pr-20"} text-sm`
           }`}
         />
         <button
@@ -100,7 +106,9 @@ export function SearchBar({
         >
           Buscar
         </button>
-      </form>
+        </form>
+        {showImageSearch && <ImageSearchPanel variant="compact" />}
+      </div>
 
       {open && suggestions.length > 0 && (
         <div className="absolute left-0 right-0 top-full z-50 mt-2 overflow-hidden rounded-xl border border-white/10 bg-card shadow-2xl">

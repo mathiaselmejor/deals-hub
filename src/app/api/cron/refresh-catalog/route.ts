@@ -1,12 +1,11 @@
 import { NextResponse } from "next/server";
-import { exec } from "child_process";
-import { promisify } from "util";
-import path from "path";
 
-const execAsync = promisify(exec);
+export const maxDuration = 60;
 
-export const maxDuration = 300;
+const GITHUB_REPO = "mathiaselmejor/deals-hub";
+const WORKFLOW_FILE = "refresh-catalog.yml";
 
+/** Vercel Cron: dispara GitHub Actions (el motor no puede escribir JSON en serverless). */
 export async function POST(request: Request) {
   const secret = process.env.CRON_SECRET;
   if (!secret) {
@@ -19,36 +18,46 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "No autorizado" }, { status: 401 });
   }
 
-  try {
-    const cwd = process.cwd();
-    const script = path.join(cwd, "scripts", "offer-engine.mjs");
-    const { stdout, stderr } = await execAsync(`node "${script}"`, {
-      cwd,
-      timeout: 280000,
-      env: process.env,
-    });
+  const ghToken = process.env.GITHUB_TOKEN ?? process.env.GITHUB_PAT;
+
+  if (ghToken) {
+    const res = await fetch(
+      `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_FILE}/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${ghToken}`,
+          Accept: "application/vnd.github+json",
+          "X-GitHub-Api-Version": "2022-11-28",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ ref: "main" }),
+      },
+    );
+
+    if (!res.ok) {
+      const detail = await res.text();
+      return NextResponse.json(
+        { ok: false, error: "GitHub dispatch failed", detail: detail.slice(0, 500) },
+        { status: 502 },
+      );
+    }
 
     return NextResponse.json({
       ok: true,
-      stdout: stdout.slice(-4000),
-      stderr: stderr.slice(-2000),
+      provider: "github-actions",
+      message: "Workflow refresh-catalog disparado",
     });
-  } catch (e) {
-    const err = e as { message?: string; stdout?: string; stderr?: string };
-    return NextResponse.json(
-      {
-        ok: false,
-        error: err.message,
-        stdout: err.stdout?.slice(-2000),
-        stderr: err.stderr?.slice(-2000),
-      },
-      { status: 500 },
-    );
   }
+
+  return NextResponse.json({
+    ok: true,
+    provider: "github-actions-scheduled",
+    message:
+      "El catálogo se actualiza automáticamente cada 6 h en GitHub Actions. Opcional: añade GITHUB_TOKEN en Vercel para disparar desde este cron.",
+  });
 }
 
-/** Vercel Cron envía GET */
 export async function GET(request: Request) {
   return POST(request);
 }
-

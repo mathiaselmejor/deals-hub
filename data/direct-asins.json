@@ -1,22 +1,25 @@
 {
   "_comment": "ASIN + imagen real por producto. Revalidado en amazon.es.",
   "ninja-airfryer": {
-    "amazon": "B0CJVNGMFL"
+    "amazon": "B0CJVNGMFL",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qem+rNjjL._AC_SX569_.jpg"
   },
   "stanley-quencher": {
-    "amazon": "B0CNTWY3VM"
+    "amazon": "B0CNTWY3VM",
+    "imageUrl": "https://m.media-amazon.com/images/I/51AewhgnKIL._AC_SX569_.jpg"
   },
   "cerave-rutina": {
-    "amazon": "B0G8Z5GF3D"
+    "amazon": "B0G8Z5GF3D",
+    "imageUrl": "https://m.media-amazon.com/images/I/71IPU96hBjL._AC_SX522_.jpg"
   },
   "samsung-galaxy-a55-5g-128gb": {
-    "amazon": "B0CY2Z6Q5R"
+    "amazon": "B0CYLWTZD1"
   },
   "iphone-15-128gb": {
-    "amazon": "B0CHX1W1XY"
+    "amazon": "B0CVJ23L79"
   },
   "google-pixel-8a": {
-    "amazon": "B0D3F8LQ1H"
+    "amazon": "B0DSWFHTL2"
   },
   "samsung-galaxy-s24-ultra": {
     "amazon": "B0CMD1F7T6"
@@ -28,10 +31,11 @@
     "amazon": "B0CCZ1RG5S"
   },
   "apple-airpods-pro-2-usb-c": {
-    "amazon": "B0CHWRXH8B"
+    "amazon": "B0CHX9WTR6",
+    "imageUrl": "https://m.media-amazon.com/images/I/51R8U4qEfAL._AC_SL1500_.jpg"
   },
   "kindle-paperwhite-16gb": {
-    "amazon": "B0CFPJYX7L"
+    "amazon": "B0CFPWLGF2"
   },
   "playstation-5-slim-digital-edition": {
     "amazon": "B0CL61F39H"
@@ -49,16 +53,16 @@
     "amazon": "B0BHJJ9Y77"
   },
   "dyson-v15-detect-absolute": {
-    "amazon": "B08WRBKPMT"
+    "amazon": "B0CT97D9R2"
   },
   "roborock-qrevo-s-robot-aspirador": {
-    "amazon": "B0CZKWZ8YG"
+    "amazon": "B0GHN3V6BP"
   },
   "garmin-forerunner-265": {
-    "amazon": "B0BSFRDFK6"
+    "amazon": "B0BS1T9J4Y"
   },
   "crocs-classic": {
-    "amazon": "B0014BYHHE"
+    "amazon": "B0BWHDDH6W"
   },
   "nespresso-vertuo-pop-cafetera": {
     "amazon": "B0C4BV2L5K"
@@ -88,13 +92,13 @@
     "amazon": "B0C7VP6G5Z"
   },
   "gopro-hero12-black": {
-    "amazon": "B0CD1F5R6H"
+    "amazon": "B0CF3VVTLG"
   },
   "anker-735-gan-cargador-65w-3-puertos": {
     "amazon": "B09X5VJ8DK"
   },
   "samsung-galaxy-tab-s9-fe": {
-    "amazon": "B0CFPWLB9G"
+    "amazon": "B0F1DLNG74"
   },
   "xiami-redmi-note-13-pro-5g": {
     "amazon": "B0CRBYR28Y"
@@ -115,34 +119,44 @@
     "amazon": "B0C5QRZ47P"
   },
   "airpods-4": {
-    "amazon": "B0DGHYDYJL"
+    "amazon": "B0DGHYDYJL",
+    "imageUrl": "https://m.media-amazon.com/images/I/61DvMw16ITL._AC_SX425_.jpg"
   },
   "robot-aspirador": {
-    "amazon": "B0GHN3V6BP"
+    "amazon": "B0GHN3V6BP",
+    "imageUrl": "https://m.media-amazon.com/images/I/61eb9ZHo-CL._AC_SX569_.jpg"
   },
   "silla-gaming": {
-    "amazon": "B0B3RH59X8"
+    "amazon": "B0B3RH59X8",
+    "imageUrl": "https://m.media-amazon.com/images/I/51HHjm67W4L._AC_SX569_.jpg"
   },
   "creatina": {
-    "amazon": "B00T7L20EC"
+    "amazon": "B00T7L20EC",
+    "imageUrl": "https://m.media-amazon.com/images/I/71yeLl-1W4L._AC_SX679_.jpg"
   },
   "kindle": {
-    "amazon": "B0CP32JG8B"
+    "amazon": "B0CP32JG8B",
+    "imageUrl": "https://m.media-amazon.com/images/I/61toPUX7aDL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "maleta-cabina": {
-    "amazon": "B009SIVCNE"
+    "amazon": "B009SIVCNE",
+    "imageUrl": "https://m.media-amazon.com/images/I/61A3J4iCQmL._AC_SY741_.jpg"
   },
   "portatil-lenovo": {
-    "amazon": "B0G59NF4R4"
+    "amazon": "B0G59NF4R4",
+    "imageUrl": "https://m.media-amazon.com/images/I/61VxWPh+neL._AC_SX679_.jpg"
   },
   "hotel-booking": {
-    "amazon": "B07Z5LC8CB"
+    "amazon": "B07Z5LC8CB",
+    "imageUrl": "https://m.media-amazon.com/images/I/81hGE7tWJPL._AC_SX522_.jpg"
   },
   "cosori-airfryer": {
-    "amazon": "B07N8N6C85"
+    "amazon": "B07N8N6C85",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HDt6NDs7L._AC_SX569_.jpg"
   },
   "sony-wh1000xm5": {
-    "amazon": "B0BTJD6LCL"
+    "amazon": "B0BTJD6LCL",
+    "imageUrl": "https://m.media-amazon.com/images/I/61rFE093esL._AC_SX679_.jpg"
   },
   "dyson-v15": {
     "amazon": "B0DGXGJD9H"
@@ -1474,10 +1488,12 @@
     "amazon": "B0F49DHSHJ"
   },
   "camara-seguridad": {
-    "amazon": "B0DS6D837F"
+    "amazon": "B0DS6D837F",
+    "imageUrl": "https://m.media-amazon.com/images/I/61NkaP3zDtL._AC_SX679_.jpg"
   },
   "teclado-logitech": {
-    "amazon": "B07W6JF66R"
+    "amazon": "B07W6JF66R",
+    "imageUrl": "https://m.media-amazon.com/images/I/71A9mPNPn7L._AC_SX679_.jpg"
   },
   "oral-b-io9": {
     "amazon": "B0DP1MRNXM"

@@ -15,6 +15,12 @@ export function amazonProductUrl(asin: string): string {
   return `https://www.amazon.es/dp/${clean}`;
 }
 
+/** Imagen real del producto vía widget Amazon (ASIN verificado). */
+export function amazonProductImageUrl(asin: string): string {
+  const clean = asin.replace(/[^A-Z0-9]/gi, "").toUpperCase();
+  return `https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=${clean}&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_`;
+}
+
 export function isSearchListingUrl(url: string, store: StoreId): boolean {
   try {
     const u = new URL(url);

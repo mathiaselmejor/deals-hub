@@ -1,7 +1,7 @@
 import catalogLiveData from "../../data/catalog-live.json";
 import directAsinsData from "../../data/direct-asins.json";
 import rotationData from "../../data/rotation-state.json";
-import { normalizeProductOffers } from "./direct-links";
+import { amazonProductImageUrl, normalizeProductOffers } from "./direct-links";
 import { enrichProduct } from "./offer-enrichment";
 import type { Product, ProductOffer } from "./types";
 
@@ -90,6 +90,16 @@ function applyVerifiedImage(product: Product): Product {
   const imageUrl =
     typeof entry === "object" && entry?.imageUrl ? String(entry.imageUrl) : null;
   if (imageUrl) return { ...product, image: imageUrl };
+
+  const mappedAsin =
+    typeof entry === "string" ? entry : typeof entry === "object" ? entry?.amazon : null;
+  if (mappedAsin) return { ...product, image: amazonProductImageUrl(mappedAsin) };
+
+  const amazonOffer = product.offers.find(
+    (o) => o.store === "amazon" && o.condition !== "refurbished" && o.asin,
+  );
+  if (amazonOffer?.asin) return { ...product, image: amazonProductImageUrl(amazonOffer.asin) };
+
   return product;
 }
 

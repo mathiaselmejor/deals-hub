@@ -33,14 +33,20 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=smartwatch+y68",
+          "url": "https://www.amazon.es/s?k=Smartwatch%20Y68",
           "price": 24.99,
           "linkKind": "search",
           "priceEstimated": true
         }
       ],
       "videoHook": "Smartwatch de 13€ vs Apple Watch — ¿vale la pena?",
-      "keywords": ["smartwatch", "aliexpress", "pulsera", "fitness", "barato"]
+      "keywords": [
+        "smartwatch",
+        "aliexpress",
+        "pulsera",
+        "fitness",
+        "barato"
+      ]
     },
     {
       "id": "aliexpress-usb-c-hub-7in1",
@@ -69,21 +75,27 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=hub+usb+c+hdmi+7+en+1",
+          "url": "https://www.amazon.es/s?k=Hub%20USB-C%207%20en%201",
           "price": 32.99,
           "linkKind": "search",
           "priceEstimated": true
         },
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=hub%20usb%20c%207%20en%201",
+          "url": "https://www.pccomponentes.com/search/?query=Hub%20USB-C%207%20en%201",
           "price": 29.99,
           "linkKind": "search",
           "priceEstimated": true
         }
       ],
       "videoHook": "Hub barato vs Anker — mismo puertos, mitad de precio",
-      "keywords": ["hub usb c", "hdmi", "aliexpress", "macbook", "adaptador"]
+      "keywords": [
+        "hub usb c",
+        "hdmi",
+        "aliexpress",
+        "macbook",
+        "adaptador"
+      ]
     },
     {
       "id": "aliexpress-led-strip-5m",
@@ -110,14 +122,20 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=tira+led+rgb+5m+app",
+          "url": "https://www.amazon.es/s?k=Tira%20LED%20RGB%205m",
           "price": 19.99,
           "linkKind": "search",
           "priceEstimated": true
         }
       ],
       "videoHook": "Setup gaming por menos de 10€",
-      "keywords": ["led", "tira rgb", "aliexpress", "hogar", "gaming"]
+      "keywords": [
+        "led",
+        "tira rgb",
+        "aliexpress",
+        "hogar",
+        "gaming"
+      ]
     },
     {
       "id": "aliexpress-powerbank-20000",
@@ -145,14 +163,19 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=power+bank+20000mah+22.5w",
+          "url": "https://www.amazon.es/s?k=Power%20Bank%2020000mAh",
           "price": 34.99,
           "linkKind": "search",
           "priceEstimated": true
         }
       ],
       "videoHook": "Powerbank barata que aguanta un finde entero",
-      "keywords": ["power bank", "bateria externa", "aliexpress", "usb c"]
+      "keywords": [
+        "power bank",
+        "bateria externa",
+        "aliexpress",
+        "usb c"
+      ]
     },
     {
       "id": "aliexpress-mechanical-keyboard",
@@ -179,14 +202,19 @@
         },
         {
           "store": "pccomponentes",
-          "url": "https://www.pccomponentes.com/search/?query=teclado%20mecanico%2060",
+          "url": "https://www.pccomponentes.com/search/?query=Teclado%20mec%C3%A1nico%2060%25",
           "price": 59.99,
           "linkKind": "search",
           "priceEstimated": true
         }
       ],
       "videoHook": "Teclado mecánico por 35€ — unboxing honesto",
-      "keywords": ["teclado mecanico", "gaming", "aliexpress", "rgb"]
+      "keywords": [
+        "teclado mecanico",
+        "gaming",
+        "aliexpress",
+        "rgb"
+      ]
     },
     {
       "id": "aliexpress-ring-light-26cm",
@@ -213,14 +241,19 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=ring+light+26cm+tripode",
+          "url": "https://www.amazon.es/s?k=Aro%20de%20luz%2026cm",
           "price": 27.99,
           "linkKind": "search",
           "priceEstimated": true
         }
       ],
       "videoHook": "Ring light de creador por 16€",
-      "keywords": ["ring light", "tiktok", "streaming", "aliexpress"]
+      "keywords": [
+        "ring light",
+        "tiktok",
+        "streaming",
+        "aliexpress"
+      ]
     }
   ]
 }

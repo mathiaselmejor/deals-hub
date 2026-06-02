@@ -33,6 +33,8 @@ INVALID_TITLE = re.compile(
     r"documento no encontrado|page not found|no encontrado|dogs of amazon",
     re.I,
 )
+HI_RES = re.compile(r'"hiRes":"(https://[^"\\]+)"')
+LARGE_IMG = re.compile(r'"large":"(https://m\.media-amazon\.com/images/I/[^"\\]+)"')
 OG_IMAGE = re.compile(r'property="og:image"\s+content="([^"]+)"', re.I)
 
 
@@ -81,15 +83,41 @@ def accept_cookies(page) -> None:
             continue
 
 
-def extract_og_image(page) -> str | None:
+def amazon_widget_image(asin: str) -> str:
+    return (
+        "https://ws-eu.amazon-adsystem.com/widgets/q?"
+        f"_encoding=UTF8&MarketPlace=ES&ASIN={asin.upper()}"
+        "&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
+    )
+
+
+def extract_product_image(page, asin: str | None = None) -> str | None:
+    for sel in ("#landingImage", "#imgTagWrapperId img", "#main-image-container img"):
+        try:
+            loc = page.locator(sel).first
+            if loc.count() > 0:
+                src = loc.get_attribute("src") or loc.get_attribute("data-old-hires")
+                if src and ("media-amazon" in src or "ssl-images-amazon" in src):
+                    return src.replace("&amp;", "&")
+        except Exception:
+            continue
+
     html = page.content()
-    m = OG_IMAGE.search(html)
-    if not m:
-        return None
-    url = m.group(1).replace("&amp;", "&")
-    if "unsplash" in url or "placeholder" in url:
-        return None
-    return url
+    for pattern in (HI_RES, LARGE_IMG, OG_IMAGE):
+        m = pattern.search(html)
+        if m:
+            url = m.group(1).replace("\\u0026", "&").replace("&amp;", "&")
+            if "media-amazon" in url or "ssl-images-amazon" in url:
+                return url
+    try:
+        src = page.locator("img.s-image").first.get_attribute("src")
+        if src and ("media-amazon" in src or "ssl-images-amazon" in src):
+            return src
+    except Exception:
+        pass
+    if asin and ASIN_RE.match(asin.upper()):
+        return amazon_widget_image(asin)
+    return None
 
 
 def asin_from_search(page) -> str | None:
@@ -120,7 +148,7 @@ def validate_asin_page(page, asin: str) -> tuple[bool, str | None]:
         return False, None
     if "/dp/" not in page.url and "/gp/" not in page.url:
         return False, None
-    img = extract_og_image(page)
+    img = extract_product_image(page, asin)
     return True, img
 
 
@@ -140,10 +168,11 @@ def resolve_via_search(page, query: str) -> tuple[str | None, str | None]:
         asin = asin_from_search(page)
         if not asin:
             return None, None
+        search_img = extract_product_image(page, asin)
         ok, img = validate_asin_page(page, asin)
         if ok:
-            return asin, img
-        return asin, None
+            return asin, img or search_img
+        return asin, search_img
     except Exception:
         return None, None
 
@@ -191,10 +220,17 @@ def main() -> None:
             img = None
             resolved = False
 
+            prev_img = cur.get("imageUrl") if isinstance(cur, dict) else None
+
             if asin:
                 ok, img = validate_asin_page(page, asin)
                 if ok:
-                    direct[pid] = {"amazon": asin, **({"imageUrl": img} if img else {})}
+                    entry = {"amazon": asin}
+                    if img or prev_img:
+                        entry["imageUrl"] = img or prev_img
+                    elif asin:
+                        entry["imageUrl"] = amazon_widget_image(asin)
+                    direct[pid] = entry
                     stats["ok"] += 1
                     resolved = True
                     if i % 20 == 0:
@@ -205,8 +241,7 @@ def main() -> None:
                 new_asin, img = resolve_via_search(page, q)
                 if new_asin:
                     entry: dict = {"amazon": new_asin}
-                    if img:
-                        entry["imageUrl"] = img
+                    entry["imageUrl"] = img or prev_img or amazon_widget_image(new_asin)
                     direct[pid] = entry
                     stats["fixed"] += 1
                     print(f"  [{i}/{len(ids)}] FIX {pid} -> {new_asin}")

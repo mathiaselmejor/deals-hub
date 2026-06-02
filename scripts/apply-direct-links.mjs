@@ -37,7 +37,10 @@ function normalizeOffer(offer, product, asinMap) {
   const mapVal = asinMap[product.id];
   const mappedAsin =
     typeof mapVal === "string" ? mapVal : mapVal?.amazon ?? mapVal?.asin;
-  let asin = offer.asin ?? mappedAsin ?? extractAmazonAsin(offer.url);
+  let asin =
+    offer.store === "amazon"
+      ? offer.asin ?? mappedAsin ?? extractAmazonAsin(offer.url)
+      : offer.asin ?? extractAmazonAsin(offer.url);
 
   let url = offer.directUrl || offer.url;
   let linkKind = offer.linkKind || "search";
@@ -81,7 +84,17 @@ function normalizeProduct(product, asinMap) {
   const discount =
     originalPrice > price ? Math.round((1 - price / originalPrice) * 100) : product.discount || 0;
 
-  return { ...product, offers, price, originalPrice, discount };
+  const mapVal = asinMap[product.id];
+  const mappedAsin =
+    typeof mapVal === "string" ? mapVal : mapVal?.amazon ?? mapVal?.asin;
+  const mappedImage = typeof mapVal === "object" ? mapVal?.imageUrl : null;
+  const image =
+    mappedImage ||
+    (mappedAsin
+      ? `https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=${mappedAsin}&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_`
+      : product.image);
+
+  return { ...product, offers, price, originalPrice, discount, image };
 }
 
 const asinMap = loadJson("direct-asins.json");

@@ -1,4 +1,6 @@
 import affiliateConfig from "../../data/affiliate-config.json";
+import { amazonProductUrl, extractAmazonAsin } from "./direct-links";
+import { appendInternalTracking, getOfferTargetUrl } from "./offer-target";
 import type { ProductOffer, StoreId } from "./types";
 
 type AffiliateEnv = {
@@ -48,16 +50,7 @@ function getEnv(): AffiliateEnv {
 }
 
 function appendTrackingParams(url: string, productId: string, store: StoreId): string {
-  try {
-    const u = new URL(url);
-    u.searchParams.set("utm_source", "dealshub");
-    u.searchParams.set("utm_medium", "affiliate");
-    u.searchParams.set("utm_campaign", productId);
-    u.searchParams.set("utm_content", store);
-    return u.toString();
-  } catch {
-    return url;
-  }
+  return appendInternalTracking(url, productId, store);
 }
 
 export function isAffiliateConfigured(): boolean {
@@ -79,50 +72,51 @@ export function getAffiliateStatus(): Record<string, boolean> {
 export function buildAffiliateUrl(offer: ProductOffer, productId?: string): string {
   const env = getEnv();
   const pid = productId ?? "unknown";
-  const base = offer.url;
+  const target = getOfferTargetUrl(offer);
 
   if (offer.store === "amazon" && env.amazonTag) {
     try {
+      const asin =
+        offer.asin ?? extractAmazonAsin(target) ?? extractAmazonAsin(offer.url);
+      const base = asin ? amazonProductUrl(asin) : target;
       const url = new URL(base);
       url.searchParams.set("tag", env.amazonTag);
-      url.searchParams.set("linkCode", "ll1");
-      url.searchParams.set("linkId", pid.slice(0, 20));
-      return appendTrackingParams(url.toString(), pid, offer.store);
+      return url.toString();
     } catch {
-      return base;
+      return target;
     }
   }
 
   const awinMid = AWIN_MERCHANT_IDS[offer.store];
   if (env.awinPublisherId && awinMid) {
-    const dest = appendTrackingParams(base, pid, offer.store);
-    const clickref = encodeURIComponent(`dealshub_${pid.slice(0, 40)}`);
-    return `https://www.awin1.com/cread.php?awinmid=${awinMid}&awinaffid=${env.awinPublisherId}&clickref=${clickref}&ued=${encodeURIComponent(dest)}`;
+    const dest = appendTrackingParams(target, pid, offer.store);
+    const clickref = `dealshub_${pid.slice(0, 40)}`;
+    return `https://www.awin1.com/cread.php?awinmid=${awinMid}&awinaffid=${env.awinPublisherId}&clickref=${encodeURIComponent(clickref)}&ued=${encodeURIComponent(dest)}`;
   }
 
   if (offer.store === "ebay" && env.ebayCampaignId) {
-    return `https://rover.ebay.com/rover/1/${env.ebayCampaignId}/1?mpre=${encodeURIComponent(appendTrackingParams(base, pid, offer.store))}`;
+    return `https://rover.ebay.com/rover/1/${env.ebayCampaignId}/1?mpre=${encodeURIComponent(appendTrackingParams(target, pid, offer.store))}`;
   }
 
   if (offer.store === "aliexpress" && env.aliexpressShortKey) {
     const shortKey = normalizeAliexpressShortKey(env.aliexpressShortKey);
-    const dest = appendTrackingParams(base, pid, offer.store);
+    const dest = appendTrackingParams(target, pid, offer.store);
     const af = `dealshub_${pid.slice(0, 36)}`;
     return `https://s.click.aliexpress.com/deep_link.htm?aff_short_key=${encodeURIComponent(shortKey)}&dl_target_url=${encodeURIComponent(dest)}&af=${encodeURIComponent(af)}`;
   }
 
   if (offer.store === "booking" && env.bookingAid) {
     try {
-      const url = new URL(base);
+      const url = new URL(target);
       url.searchParams.set("aid", env.bookingAid);
       url.searchParams.set("label", `dealshub-${pid}`);
       return url.toString();
     } catch {
-      return base;
+      return target;
     }
   }
 
-  return appendTrackingParams(base, pid, offer.store);
+  return appendTrackingParams(target, pid, offer.store);
 }
 
 export function getAffiliateDisclaimer(): string {

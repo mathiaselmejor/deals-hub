@@ -1,13 +1,13 @@
 {
-  "_comment": "ASIN / URL directa por producto. El motor de ofertas aplica esto a todo el catálogo.",
+  "_comment": "ASIN + imagen real por producto. Revalidado en amazon.es.",
   "ninja-airfryer": {
-    "amazon": "B0BCHFMC6D"
+    "amazon": "B0CJVNGMFL"
   },
   "stanley-quencher": {
-    "amazon": "B0C8YBXMYK"
+    "amazon": "B0CNTWY3VM"
   },
   "cerave-rutina": {
-    "amazon": "B07RHGYMQS"
+    "amazon": "B0G8Z5GF3D"
   },
   "samsung-galaxy-a55-5g-128gb": {
     "amazon": "B0CY2Z6Q5R"

@@ -10,6 +10,7 @@ import {
   getLowestPrice,
   getSavings,
 } from "@/lib/catalog-formatters";
+import { isDirectPurchaseOffer } from "@/lib/offer-target";
 import type { Product } from "@/lib/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 
@@ -110,7 +111,7 @@ export function ProductCard({ product, featured = false }: { product: Product; f
               <p className="text-sm font-medium text-indigo-400">Comparar tiendas</p>
             )}
           </div>
-          {best && (
+          {best && isDirectPurchaseOffer(best) ? (
             <AffiliateLink
               href={buildAffiliateUrl(best, product.id)}
               productId={product.id}
@@ -119,6 +120,13 @@ export function ProductCard({ product, featured = false }: { product: Product; f
             >
               {config.stores[best.store]?.label ?? best.store} →
             </AffiliateLink>
+          ) : (
+            <Link
+              href={`/producto/${product.id}`}
+              className="rounded-xl border border-white/10 px-4 py-2.5 text-xs font-semibold text-indigo-300 hover:bg-white/5"
+            >
+              Ver tiendas →
+            </Link>
           )}
         </div>
       </div>

@@ -5,7 +5,10 @@ import { normalizeProductOffers } from "./direct-links";
 import { enrichProduct } from "./offer-enrichment";
 import type { Product, ProductOffer } from "./types";
 
-type AsinMap = Record<string, string | { amazon?: string; directUrl?: string }>;
+type AsinMap = Record<
+  string,
+  string | { amazon?: string; directUrl?: string; imageUrl?: string }
+>;
 
 const asinMap: AsinMap = { ...(directAsinsData as AsinMap) };
 delete (asinMap as { _comment?: string })._comment;
@@ -77,8 +80,17 @@ function applyRotationFlags(product: Product): Product {
 export function finalizeCatalogProduct(product: Product): Product {
   const enriched = enrichProduct(product);
   const normalized = normalizeProductOffers(enriched, asinMap);
-  const withLive = applyLiveOverlay(normalized);
+  const withImage = applyVerifiedImage(normalized);
+  const withLive = applyLiveOverlay(withImage);
   return applyRotationFlags(withLive);
+}
+
+function applyVerifiedImage(product: Product): Product {
+  const entry = asinMap[product.id];
+  const imageUrl =
+    typeof entry === "object" && entry?.imageUrl ? String(entry.imageUrl) : null;
+  if (imageUrl) return { ...product, image: imageUrl };
+  return product;
 }
 
 export function getCatalogLiveUpdatedAt(): string | undefined {

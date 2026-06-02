@@ -37,10 +37,10 @@ function normalizeOffer(offer, product, asinMap) {
   const mapVal = asinMap[product.id];
   const mappedAsin =
     typeof mapVal === "string" ? mapVal : mapVal?.amazon ?? mapVal?.asin;
-  let asin =
-    offer.store === "amazon"
-      ? offer.asin ?? mappedAsin ?? extractAmazonAsin(offer.url)
-      : offer.asin ?? extractAmazonAsin(offer.url);
+  let asin = offer.asin ?? extractAmazonAsin(offer.url);
+  if (offer.store === "amazon") {
+    asin = mappedAsin ?? offer.asin ?? extractAmazonAsin(offer.url);
+  }
 
   let url = offer.directUrl || offer.url;
   let linkKind = offer.linkKind || "search";

@@ -159,34 +159,44 @@
     "imageUrl": "https://m.media-amazon.com/images/I/61rFE093esL._AC_SX679_.jpg"
   },
   "dyson-v15": {
-    "amazon": "B0DGXGJD9H"
+    "amazon": "B0DGXGJD9H",
+    "imageUrl": "https://m.media-amazon.com/images/I/81LW6uGia1L._AC_SX569_.jpg"
   },
   "ps5-slim": {
-    "amazon": "B0CLT54ZNZ"
+    "amazon": "B0CLT54ZNZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/41yRAPi7UOL._AC_SX679_.jpg"
   },
   "colchon-emma": {
-    "amazon": "B0C85VLXLF"
+    "amazon": "B0C85VLXLF",
+    "imageUrl": "https://m.media-amazon.com/images/I/81spt-Ro1hL._AC_SX569_.jpg"
   },
   "iphone-16": {
-    "amazon": "B0DGJJXBM5"
+    "amazon": "B0DGJJXBM5",
+    "imageUrl": "https://m.media-amazon.com/images/I/619HAuZ95QL._AC_SX679_.jpg"
   },
   "nike-air-force-1": {
-    "amazon": "B08Q8SW7NW"
+    "amazon": "B08Q8SW7NW",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Ui4G-9BkL._AC_SY535_.jpg"
   },
   "adidas-samba": {
-    "amazon": "B079YWZYB9"
+    "amazon": "B079YWZYB9",
+    "imageUrl": "https://m.media-amazon.com/images/I/71VMSMa-mJL._AC_SY625_.jpg"
   },
   "levis-501": {
-    "amazon": "B0DNNZ2NMF"
+    "amazon": "B0DNNZ2NMF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tJjuXEiHL._AC_SY741_.jpg"
   },
   "north-face-nuptse": {
-    "amazon": "B0CNJJDJNY"
+    "amazon": "B0CNJJDJNY",
+    "imageUrl": "https://m.media-amazon.com/images/I/61cC-HDosqL._AC_SX679_.jpg"
   },
   "nike-tech-fleece": {
-    "amazon": "B0DNHSZG1Z"
+    "amazon": "B0DNHSZG1Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/51-LlRh7teL._AC_SY741_.jpg"
   },
   "new-balance-574": {
-    "amazon": "B093R4T9BR"
+    "amazon": "B093R4T9BR",
+    "imageUrl": "https://m.media-amazon.com/images/I/61uqRLMMYyL._AC_SY535_.jpg"
   },
   "pack-ropa-interior-hanes": {
     "amazon": "B09FCCHNSG"

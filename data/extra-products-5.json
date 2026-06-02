@@ -272,10 +272,10 @@
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/dp/B0CCV9J7X2",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "price": 299.99,
-          "asin": "B0CCV9J7X2",
-          "directUrl": "https://www.amazon.es/dp/B0CCV9J7X2",
+          "asin": "B0DT4ZHQGQ",
+          "directUrl": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         },

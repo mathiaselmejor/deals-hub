@@ -68,10 +68,10 @@
       "offers": [
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/dp/B0BSFRDFK6",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "price": 399,
-          "asin": "B0BSFRDFK6",
-          "directUrl": "https://www.amazon.es/dp/B0BSFRDFK6",
+          "asin": "B0BS1T9J4Y",
+          "directUrl": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false,
           "lastChecked": "2026-06-02T13:00:28.731Z"

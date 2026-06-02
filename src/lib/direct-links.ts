@@ -60,7 +60,10 @@ export function resolveOfferUrl(
   const mappedDirect =
     typeof mapEntry === "object" && mapEntry?.directUrl ? mapEntry.directUrl : undefined;
 
-  let asin = offer.asin ?? mappedAsin ?? extractAmazonAsin(offer.url);
+  let asin =
+    offer.store === "amazon"
+      ? mappedAsin ?? offer.asin ?? extractAmazonAsin(offer.url)
+      : offer.asin ?? extractAmazonAsin(offer.url);
   let url = offer.directUrl ?? offer.url;
   let linkKind: LinkKind = offer.linkKind ?? "search";
 

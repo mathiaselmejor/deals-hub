@@ -19,6 +19,7 @@ const FILES = [
   "extra-products-2.json",
   "extra-products-3.json",
   "extra-products-4.json",
+  "extra-products-5.json",
   "catalog-monetized.json",
 ];
 

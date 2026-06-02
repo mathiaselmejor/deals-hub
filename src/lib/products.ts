@@ -4,6 +4,7 @@ import extraProductsData from "../../data/extra-products.json";
 import extraProducts2Data from "../../data/extra-products-2.json";
 import extraProducts3Data from "../../data/extra-products-3.json";
 import extraProducts4Data from "../../data/extra-products-4.json";
+import extraProducts5Data from "../../data/extra-products-5.json";
 import catalogMonetizedData from "../../data/catalog-monetized.json";
 import topListsData from "../../data/top-lists.json";
 import { getRelatedProductsSmart } from "./algorithms";
@@ -29,6 +30,11 @@ function mergeCatalog(): ProductsData {
     categories: Category[];
     lastUpdated?: string;
   };
+  const extra5 = extraProducts5Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
   const monetized = catalogMonetizedData as {
     products: Product[];
     categories?: Category[];
@@ -39,6 +45,7 @@ function mergeCatalog(): ProductsData {
   for (const c of extra.categories) categoryMap.set(c.id, c);
   for (const c of extra3.categories) categoryMap.set(c.id, c);
   for (const c of extra4.categories) categoryMap.set(c.id, c);
+  for (const c of extra5.categories) categoryMap.set(c.id, c);
   for (const c of monetized.categories ?? []) categoryMap.set(c.id, c);
 
   /** Prioridad: base → extra → extra2 → extra3 → extra4 → monetized (último gana en duplicados) */
@@ -49,6 +56,7 @@ function mergeCatalog(): ProductsData {
     ...extra3.products,
     ...extra2.products,
     ...extra.products,
+    ...extra5.products,
     ...base.products,
   ];
   for (const p of layers) {
@@ -58,7 +66,14 @@ function mergeCatalog(): ProductsData {
   const liveAt = getCatalogLiveUpdatedAt();
 
   return {
-    lastUpdated: liveAt?.slice(0, 10) ?? monetized.lastUpdated ?? extra4.lastUpdated ?? extra3.lastUpdated ?? extra.lastUpdated ?? base.lastUpdated,
+    lastUpdated:
+      liveAt?.slice(0, 10) ??
+      monetized.lastUpdated ??
+      extra5.lastUpdated ??
+      extra4.lastUpdated ??
+      extra3.lastUpdated ??
+      extra.lastUpdated ??
+      base.lastUpdated,
     products: Array.from(byId.values()).map(finalizeCatalogProduct),
     categories: Array.from(categoryMap.values()),
   };

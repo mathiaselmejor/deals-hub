@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getCatalog, getTopLists } from "@/lib/products";
+import { getAffiliateConfig, getCatalog, getTopLists } from "@/lib/products";
 
 export function TopListsSection() {
   const lists = getTopLists();
@@ -37,14 +37,18 @@ export function TopListsSection() {
 
 export function TrustBar() {
   const catalog = getCatalog();
+  const affiliate = getAffiliateConfig();
+  const directCount = catalog.products.filter((p) =>
+    p.offers.some((o) => o.store === "amazon" && o.linkKind === "direct"),
+  ).length;
   return (
     <section className="mx-auto max-w-7xl px-4 py-8">
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-4">
         {[
-          { icon: "🏪", n: "10+", l: "Tiendas comparadas" },
+          { icon: "🏪", n: `${Object.keys(affiliate.stores).length}`, l: "Tiendas comparadas" },
           { icon: "📦", n: `${catalog.products.length}`, l: "Productos activos" },
-          { icon: "🏷️", n: `${catalog.categories.length - 1}`, l: "Categorías" },
-          { icon: "💰", n: "Hasta 40%", l: "Descuento máximo" },
+          { icon: "🔗", n: `${directCount}`, l: "Enlaces directos verificados" },
+          { icon: "🏷️", n: `${catalog.categories.length - 1}`, l: "Categorías cubiertas" },
         ].map((s) => (
           <div key={s.l} className="rounded-xl border border-white/5 bg-card/50 p-4 text-center">
             <p className="text-xl">{s.icon}</p>

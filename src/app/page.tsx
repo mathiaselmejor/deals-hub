@@ -32,6 +32,7 @@ import {
   getProductsByCategory,
 } from "@/lib/products";
 import { getAlgorithmicTrending, getBestDealsToday, rankProductsByDealScore } from "@/lib/algorithms";
+import { getRotationDayKey } from "@/lib/catalog-pipeline";
 export default function HomePage() {
   const catalog = getCatalog();
   const deals = rankProductsByDealScore(getDealProducts());
@@ -40,6 +41,10 @@ export default function HomePage() {
   const bestDeals = getBestDealsToday(4);
   const ropa = getProductsByCategory("ropa");
   const fullCatalog = [...catalog.products].sort((a, b) => a.name.localeCompare(b.name, "es"));
+  const directCatalogCount = catalog.products.filter((p) =>
+    p.offers.some((o) => o.store === "amazon" && o.linkKind === "direct"),
+  ).length;
+  const rotationDay = getRotationDayKey() ?? catalog.lastUpdated;
 
   return (
     <>
@@ -91,6 +96,28 @@ export default function HomePage() {
       </section>
 
       <StoreMarquee />
+      <section className="mx-auto max-w-7xl px-4 pt-10">
+        <div className="rounded-2xl border border-emerald-500/20 bg-emerald-500/5 p-6">
+          <p className="text-xs font-semibold uppercase tracking-wider text-emerald-300">
+            Calidad verificada
+          </p>
+          <h2 className="mt-1 text-2xl font-bold">Comparador premium, sin humo</h2>
+          <div className="mt-4 grid gap-3 sm:grid-cols-3">
+            <div className="rounded-xl border border-white/10 bg-black/20 p-4">
+              <p className="text-2xl font-bold text-emerald-300">{directCatalogCount}</p>
+              <p className="text-xs text-slate-400">Productos con enlace directo verificado</p>
+            </div>
+            <div className="rounded-xl border border-white/10 bg-black/20 p-4">
+              <p className="text-2xl font-bold text-indigo-300">{catalog.products.length}</p>
+              <p className="text-xs text-slate-400">Productos activos en catálogo</p>
+            </div>
+            <div className="rounded-xl border border-white/10 bg-black/20 p-4">
+              <p className="text-2xl font-bold text-amber-300">{rotationDay}</p>
+              <p className="text-xs text-slate-400">Rotación diaria de destacados</p>
+            </div>
+          </div>
+        </div>
+      </section>
       <DealOfDayBanner />
       <ConversionBanner />
       <TrustBar />

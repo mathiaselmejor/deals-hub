@@ -1,0 +1,455 @@
+{
+  "lastUpdated": "2026-06-02",
+  "categories": [
+    {
+      "id": "smart-home",
+      "label": "Smart Home",
+      "icon": "🏠",
+      "description": "Automatización y seguridad para el hogar"
+    },
+    {
+      "id": "movilidad",
+      "label": "Movilidad",
+      "icon": "🛴",
+      "description": "Patinetes y accesorios urbanos"
+    },
+    {
+      "id": "salud-deporte",
+      "label": "Salud & Deporte",
+      "icon": "🏋️",
+      "description": "Recuperación, running y fitness"
+    }
+  ],
+  "products": [
+    {
+      "id": "xiaomi-smart-air-purifier-4-lite",
+      "name": "Xiaomi Smart Air Purifier 4 Lite",
+      "category": "smart-home",
+      "description": "Purificador inteligente con app, ideal para habitaciones y oficina.",
+      "price": 109.99,
+      "originalPrice": 149.99,
+      "discount": 27,
+      "rating": 4.6,
+      "reviews": 16200,
+      "badge": "Top salud hogar",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D3SJW7VQ",
+          "price": 109.99,
+          "asin": "B0D3SJW7VQ",
+          "directUrl": "https://www.amazon.es/dp/B0D3SJW7VQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Xiaomi%20Smart%20Air%20Purifier%204%20Lite",
+          "price": 117.99,
+          "asin": "B0D3SJW7VQ",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Vale la pena un purificador inteligente en 2026?",
+      "keywords": [
+        "purificador aire",
+        "xiaomi",
+        "smart home"
+      ]
+    },
+    {
+      "id": "dreame-h12-pro-aspirador-fregador",
+      "name": "Dreame H12 Pro Aspirador Fregador",
+      "category": "aspiracion-limpieza",
+      "description": "Aspirador en seco y húmedo para limpieza rápida diaria.",
+      "price": 329,
+      "originalPrice": 399,
+      "discount": 18,
+      "rating": 4.5,
+      "reviews": 6400,
+      "badge": "Limpieza premium",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CBM7TKNL",
+          "price": 329,
+          "asin": "B0CBM7TKNL",
+          "directUrl": "https://www.amazon.es/dp/B0CBM7TKNL",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Dreame%20H12%20Pro%20Aspirador%20Fregador",
+          "price": 339,
+          "asin": "B0CBM7TKNL",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Aspirar y fregar en una pasada",
+      "keywords": [
+        "dreame",
+        "aspirador fregador",
+        "hogar"
+      ]
+    },
+    {
+      "id": "segway-ninebot-f2-pro",
+      "name": "Segway Ninebot F2 Pro",
+      "category": "movilidad",
+      "description": "Patinete eléctrico urbano con buena autonomía y app.",
+      "price": 549.99,
+      "originalPrice": 699.99,
+      "discount": 21,
+      "rating": 4.4,
+      "reviews": 3900,
+      "badge": "Movilidad urbana",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1544191696-15693f91a7a6?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CSPKZL8Y",
+          "price": 549.99,
+          "asin": "B0CSPKZL8Y",
+          "directUrl": "https://www.amazon.es/dp/B0CSPKZL8Y",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Segway%20Ninebot%20F2%20Pro",
+          "price": 579.99,
+          "asin": "B0CSPKZL8Y",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Comparativa de patinetes por menos de 600€",
+      "keywords": [
+        "patinete electrico",
+        "segway",
+        "movilidad"
+      ]
+    },
+    {
+      "id": "garmin-vivoactive-5",
+      "name": "Garmin Vivoactive 5",
+      "category": "relojes-accesorios",
+      "description": "Smartwatch deportivo con batería larga y métricas de salud.",
+      "price": 239.99,
+      "originalPrice": 299.99,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 5300,
+      "badge": "Mejor para salud",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CJNCG7YF",
+          "price": 239.99,
+          "asin": "B0CJNCG7YF",
+          "directUrl": "https://www.amazon.es/dp/B0CJNCG7YF",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Garmin%20Vivoactive%205",
+          "price": 249.99,
+          "asin": "B0CJNCG7YF",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Garmin o Apple Watch para entrenar?",
+      "keywords": [
+        "garmin",
+        "smartwatch",
+        "deporte"
+      ]
+    },
+    {
+      "id": "shokz-openrun-pro-2",
+      "name": "Shokz OpenRun Pro 2",
+      "category": "salud-deporte",
+      "description": "Auriculares de conducción ósea para correr con seguridad.",
+      "price": 179.99,
+      "originalPrice": 209.99,
+      "discount": 14,
+      "rating": 4.6,
+      "reviews": 2700,
+      "badge": "Running pro",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D6QWX2N8",
+          "price": 179.99,
+          "asin": "B0D6QWX2N8",
+          "directUrl": "https://www.amazon.es/dp/B0D6QWX2N8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Shokz%20OpenRun%20Pro%202",
+          "price": 189.99,
+          "asin": "B0D6QWX2N8",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Auriculares para correr sin aislarte del tráfico",
+      "keywords": [
+        "running",
+        "auriculares",
+        "shokz"
+      ]
+    },
+    {
+      "id": "govee-led-tv-backlight-t2",
+      "name": "Govee TV Backlight T2",
+      "category": "tv-audio",
+      "description": "Luces LED inteligentes con sincronización de imagen para TV.",
+      "price": 139.99,
+      "originalPrice": 179.99,
+      "discount": 22,
+      "rating": 4.5,
+      "reviews": 9200,
+      "badge": "Setup gaming",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1558888401-3cc1de77652d?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0BZX5G8M8",
+          "price": 139.99,
+          "asin": "B0BZX5G8M8",
+          "directUrl": "https://www.amazon.es/dp/B0BZX5G8M8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "ikea",
+          "url": "https://www.ikea.com/es/es/search/?q=Govee%20TV%20Backlight%20T2",
+          "price": 149.99,
+          "asin": "B0BZX5G8M8",
+          "directUrl": "https://www.ikea.com/es/es/search/?q=Govee%20TV%20Backlight%20T2",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      ],
+      "videoHook": "Tu salón estilo cine con 1 kit",
+      "keywords": [
+        "govee",
+        "led tv",
+        "smart home"
+      ]
+    },
+    {
+      "id": "lenovo-tab-p12",
+      "name": "Lenovo Tab P12",
+      "category": "tablets",
+      "description": "Tablet grande para estudiar, series y productividad diaria.",
+      "price": 299.99,
+      "originalPrice": 379.99,
+      "discount": 21,
+      "rating": 4.4,
+      "reviews": 4100,
+      "badge": "Calidad/precio",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CCV9J7X2",
+          "price": 299.99,
+          "asin": "B0CCV9J7X2",
+          "directUrl": "https://www.amazon.es/dp/B0CCV9J7X2",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Lenovo%20Tab%20P12",
+          "price": 314.99,
+          "asin": "B0DT4ZHQGQ",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Una tablet todoterreno para 2026",
+      "keywords": [
+        "tablet",
+        "lenovo",
+        "estudio"
+      ]
+    },
+    {
+      "id": "anker-solix-c1000-estacion",
+      "name": "Anker SOLIX C1000 Estación de energía",
+      "category": "hogar",
+      "description": "Batería portátil para cortes de luz, camping y teletrabajo.",
+      "price": 799,
+      "originalPrice": 999,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 1900,
+      "badge": "Energía backup",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1565608438257-fac3c27beb36?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CC93S7FR",
+          "price": 799,
+          "asin": "B0CC93S7FR",
+          "directUrl": "https://www.amazon.es/dp/B0CC93S7FR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Anker%20SOLIX%20C1000%20Estaci%C3%B3n%20de%20energ%C3%ADa",
+          "price": 829,
+          "asin": "B0CC93S7FR",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Merece la pena una power station en casa?",
+      "keywords": [
+        "power station",
+        "anker",
+        "backup energia"
+      ]
+    },
+    {
+      "id": "braun-series-9-pro-plus",
+      "name": "Braun Series 9 Pro+",
+      "category": "belleza",
+      "description": "Afeitadora premium para piel sensible con base de limpieza.",
+      "price": 279.99,
+      "originalPrice": 349.99,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 6800,
+      "badge": "Cuidado personal",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0CM3S8CF4",
+          "price": 279.99,
+          "asin": "B0CM3S8CF4",
+          "directUrl": "https://www.amazon.es/dp/B0CM3S8CF4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Braun%20Series%209%20Pro%2B",
+          "price": 299,
+          "asin": "B0CM3S8CF4",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Afeitado top sin irritación",
+      "keywords": [
+        "braun",
+        "afeitadora",
+        "belleza hombre"
+      ]
+    },
+    {
+      "id": "logitech-brio-500-webcam",
+      "name": "Logitech Brio 500 Webcam",
+      "category": "oficina",
+      "description": "Webcam Full HD para reuniones y creadores de contenido.",
+      "price": 109,
+      "originalPrice": 139,
+      "discount": 22,
+      "rating": 4.4,
+      "reviews": 5200,
+      "badge": "Home office",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0B8THTV6J",
+          "price": 109,
+          "asin": "B0B8THTV6J",
+          "directUrl": "https://www.amazon.es/dp/B0B8THTV6J",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Logitech%20Brio%20500%20Webcam",
+          "price": 119,
+          "asin": "B0B8THTV6J",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Mejora tu imagen en videollamadas en 10 segundos",
+      "keywords": [
+        "webcam",
+        "logitech",
+        "teletrabajo"
+      ]
+    },
+    {
+      "id": "jbl-partybox-club-120",
+      "name": "JBL PartyBox Club 120",
+      "category": "tv-audio",
+      "description": "Altavoz potente para eventos, fiestas y terraza.",
+      "price": 349,
+      "originalPrice": 429,
+      "discount": 19,
+      "rating": 4.6,
+      "reviews": 2100,
+      "badge": "Fiesta",
+      "trending": false,
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&h=600&fit=crop",
+      "offers": [
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/dp/B0D2YGT8L3",
+          "price": 349,
+          "asin": "B0D2YGT8L3",
+          "directUrl": "https://www.amazon.es/dp/B0D2YGT8L3",
+          "linkKind": "direct",
+          "priceEstimated": false
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=JBL%20PartyBox%20Club%20120",
+          "price": 369,
+          "asin": "B0D2YGT8L3",
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "Sonido de fiesta sin complicaciones",
+      "keywords": [
+        "jbl",
+        "altavoz",
+        "partybox"
+      ]
+    }
+  ]
+}

@@ -69,24 +69,29 @@ create policy "Anyone can insert analytics"
   on public.analytics_events for insert
   with check (true);
 
--- Solo admins leen analytics (por is_admin en profiles)
+-- Helper sin recursión RLS (security definer)
+create or replace function public.current_user_is_admin()
+returns boolean
+language sql
+security definer
+set search_path = public
+stable
+as $$
+  select coalesce(
+    (select is_admin from public.profiles where id = auth.uid()),
+    false
+  );
+$$;
+
+-- Solo admins leen analytics
 create policy "Admins read analytics"
   on public.analytics_events for select
-  using (
-    exists (
-      select 1 from public.profiles
-      where profiles.id = auth.uid() and profiles.is_admin = true
-    )
-  );
+  using (public.current_user_is_admin());
 
 create policy "Admins read all profiles"
   on public.profiles for select
-  using (
-    exists (
-      select 1 from public.profiles p
-      where p.id = auth.uid() and p.is_admin = true
-    )
-  );
+  using (public.current_user_is_admin());
 
 -- IMPORTANTE: Hazte admin (cambia el email por el tuyo)
 -- update public.profiles set is_admin = true where email = 'tu-email@gmail.com';
+-- Favoritos/alertas: ejecuta también supabase/user-features.sql

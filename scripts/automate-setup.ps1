@@ -9,7 +9,7 @@ Write-Host "`n=== DealsHub Automate Setup ===" -ForegroundColor Cyan
 
 # 1. Vercel env (CRON_SECRET, SITE_URL, afiliados, Supabase)
 Write-Host "`n[1/4] Sincronizando variables en Vercel..." -ForegroundColor Yellow
-& "C:\Program Files\nodejs\node.exe" scripts/vercel-env-sync.mjs
+& "C:\Program Files\nodejs\node.exe" scripts/vercel-env-api.mjs
 if ($LASTEXITCODE -ne 0) { throw "vercel-env-sync falló" }
 
 # 2. Supabase SQL (referidos + extras si hay token)

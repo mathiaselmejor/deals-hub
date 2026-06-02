@@ -1,5 +1,5 @@
 {
-  "_comment": "ASIN / URL directa por producto. Generado por resolve_all_asins.py",
+  "_comment": "ASIN / URL directa por producto. El motor de ofertas aplica esto a todo el catálogo.",
   "ninja-airfryer": {
     "amazon": "B0BCHFMC6D"
   },

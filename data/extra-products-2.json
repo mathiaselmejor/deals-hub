@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01",
+  "lastUpdated": "2026-06-02",
   "products": [
     {
       "id": "crocs-classic",
@@ -22,7 +22,8 @@
           "asin": "B0014BYHHE",
           "directUrl": "https://www.amazon.es/dp/B0014BYHHE",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "elcorteingles",
@@ -30,7 +31,8 @@
           "price": 44.95,
           "asin": "B0014BYHHE",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "decathlon",
@@ -38,7 +40,8 @@
           "price": 42.99,
           "asin": "B0014BYHHE",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         }
       ],
       "videoHook": "Crocs en 2026 — ¿moda o cómodos de verdad?",
@@ -49,7 +52,8 @@
         "calzado"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.732Z"
     },
     {
       "id": "converse-chuck",
@@ -72,7 +76,8 @@
           "asin": "B0FDHX693D",
           "directUrl": "https://www.amazon.es/dp/B0FDHX693D",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "elcorteingles",
@@ -80,7 +85,8 @@
           "price": 59.95,
           "asin": "B0FDHX693D",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "decathlon",
@@ -88,7 +94,8 @@
           "price": 57.99,
           "asin": "B0FDHX693D",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         }
       ],
       "videoHook": "Converse originales vs fake — cómo distinguirlas",
@@ -99,7 +106,8 @@
         "ropa"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.732Z"
     },
     {
       "id": "casio-a168",
@@ -122,7 +130,8 @@
           "asin": "B000LAKYW8",
           "directUrl": "https://www.amazon.es/dp/B000LAKYW8",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "mediamarkt",
@@ -130,7 +139,8 @@
           "price": 24.99,
           "asin": "B000LAKYW8",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "elcorteingles",
@@ -138,7 +148,8 @@
           "price": 22.95,
           "asin": "B000LAKYW8",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         }
       ],
       "videoHook": "Reloj de 20€ que parece de 200€",
@@ -150,7 +161,8 @@
         "accesorios"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.732Z"
     },
     {
       "id": "zalando-gift-card-style",
@@ -173,7 +185,8 @@
           "asin": "B0D674JDZZ",
           "directUrl": "https://www.amazon.es/dp/B0D674JDZZ",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "decathlon",
@@ -181,7 +194,8 @@
           "price": 69.99,
           "asin": "B0D674JDZZ",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "elcorteingles",
@@ -189,7 +203,8 @@
           "price": 74.95,
           "asin": "B0D674JDZZ",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         }
       ],
       "videoHook": "Puma Suede — el sneaker que no pasa de moda",
@@ -200,7 +215,8 @@
         "ropa"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.732Z"
     },
     {
       "id": "cinta-correr-plegable",
@@ -223,7 +239,8 @@
           "asin": "B0F8BHZR9J",
           "directUrl": "https://www.amazon.es/dp/B0F8BHZR9J",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "decathlon",
@@ -231,7 +248,8 @@
           "price": 299.99,
           "asin": "B0F8BHZR9J",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.732Z"
         },
         {
           "store": "mediamarkt",
@@ -239,7 +257,8 @@
           "price": 279,
           "asin": "B0F8BHZR9J",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Cinta plegable en un piso pequeño — ¿funciona?",
@@ -250,7 +269,8 @@
         "fitness"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "kettlebell-16kg",
@@ -273,7 +293,8 @@
           "asin": "B0BSX7R31K",
           "directUrl": "https://www.amazon.es/dp/B0BSX7R31K",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "decathlon",
@@ -281,7 +302,8 @@
           "price": 39.99,
           "asin": "B0BSX7R31K",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "5 ejercicios con una kettlebell de 35€",
@@ -292,7 +314,8 @@
         "deportes"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "gopro-hero13",
@@ -316,7 +339,8 @@
           "asin": "B0GWFKMJYG",
           "directUrl": "https://www.amazon.es/dp/B0GWFKMJYG",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -324,7 +348,8 @@
           "price": 359,
           "asin": "B0GWFKMJYG",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -332,7 +357,8 @@
           "price": 354.99,
           "asin": "B0GWFKMJYG",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "GoPro HERO13 — la probé haciendo surf",
@@ -342,7 +368,8 @@
         "deportes",
         "vlog"
       ],
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "la-roche-posay",
@@ -365,7 +392,8 @@
           "asin": "B01HDGHLB4",
           "directUrl": "https://www.amazon.es/dp/B01HDGHLB4",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -373,7 +401,8 @@
           "price": 21.95,
           "asin": "B01HDGHLB4",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "fnac",
@@ -381,7 +410,8 @@
           "price": 20.99,
           "asin": "B01HDGHLB4",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Effaclar Duo — 2 semanas en mi piel grasa",
@@ -393,7 +423,8 @@
         "acne"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "perfume-armani",
@@ -416,7 +447,8 @@
           "asin": "B07JZFBJ9P",
           "directUrl": "https://www.amazon.es/dp/B07JZFBJ9P",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -424,7 +456,8 @@
           "price": 69.95,
           "asin": "B07JZFBJ9P",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "fnac",
@@ -432,7 +465,8 @@
           "price": 64.99,
           "asin": "B07JZFBJ9P",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Perfume de 60€ que dura todo el día",
@@ -443,7 +477,8 @@
         "fragancia"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "playmobil-city",
@@ -466,7 +501,8 @@
           "asin": "B0BKQX79WM",
           "directUrl": "https://www.amazon.es/dp/B0BKQX79WM",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -474,7 +510,8 @@
           "price": 54.95,
           "asin": "B0BKQX79WM",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "fnac",
@@ -482,7 +519,8 @@
           "price": 52.99,
           "asin": "B0BKQX79WM",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Playmobil vs LEGO — cuál regalar en 2026",
@@ -492,7 +530,8 @@
         "regalo ninos"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "hot-wheels-track",
@@ -515,7 +554,8 @@
           "asin": "B0DPHB51XY",
           "directUrl": "https://www.amazon.es/dp/B0DPHB51XY",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -523,7 +563,8 @@
           "price": 29.95,
           "asin": "B0DPHB51XY",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -531,7 +572,8 @@
           "price": 27.99,
           "asin": "B0DPHB51XY",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Regalo Hot Wheels por 25€ — reacción de un niño de 6 años",
@@ -542,7 +584,8 @@
         "coches"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "cargador-coche-elec",
@@ -566,7 +609,8 @@
           "asin": "B095B29DFH",
           "directUrl": "https://www.amazon.es/dp/B095B29DFH",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -574,7 +618,8 @@
           "price": 619.99,
           "asin": "B095B29DFH",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -582,7 +627,8 @@
           "price": 629,
           "asin": "B095B29DFH",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Instalé un cargador EV en casa — cuánto cuesta de verdad",
@@ -592,7 +638,8 @@
         "coche electrico",
         "automovil"
       ],
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "piscina-hinchable",
@@ -615,7 +662,8 @@
           "asin": "B01ARVBS3E",
           "directUrl": "https://www.amazon.es/dp/B01ARVBS3E",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -623,7 +671,8 @@
           "price": 99.99,
           "asin": "B01ARVBS3E",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -631,7 +680,8 @@
           "price": 109.95,
           "asin": "B01ARVBS3E",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Montamos piscina en el jardín por 90€",
@@ -642,7 +692,8 @@
         "verano"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "robot-cocina-moulinex",
@@ -665,7 +716,8 @@
           "asin": "B084ZP1H7Z",
           "directUrl": "https://www.amazon.es/dp/B084ZP1H7Z",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -673,7 +725,8 @@
           "price": 319,
           "asin": "B084ZP1H7Z",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -681,7 +734,8 @@
           "price": 329,
           "asin": "B084ZP1H7Z",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Robot de cocina de 300€ vs Thermomix de 1200€",
@@ -692,7 +746,8 @@
         "thermomix"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "macbook-air-m3",
@@ -716,7 +771,8 @@
           "asin": "B0DZDCL2XV",
           "directUrl": "https://www.amazon.es/dp/B0DZDCL2XV",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -724,7 +780,8 @@
           "price": 999,
           "asin": "B0DZDCL2XV",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -732,7 +789,8 @@
           "price": 1029.99,
           "asin": "B0DZDCL2XV",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "fnac",
@@ -740,7 +798,8 @@
           "price": 999,
           "asin": "B0DZDCL2XV",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "MacBook Air M3 para estudiantes — ¿vale la pena vs Windows?",
@@ -751,7 +810,8 @@
         "informatica",
         "m3"
       ],
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "ssd-samsung-990",
@@ -774,7 +834,8 @@
           "asin": "B0BXX2PBXP",
           "directUrl": "https://www.amazon.es/dp/B0BXX2PBXP",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -782,7 +843,8 @@
           "price": 94.99,
           "asin": "B0BXX2PBXP",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -790,7 +852,8 @@
           "price": 99.99,
           "asin": "B0BXX2PBXP",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "SSD de 90€ que hace volar tu PC",
@@ -802,7 +865,8 @@
         "gaming"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "steam-deck-oled",
@@ -826,7 +890,8 @@
           "asin": "B0CP2YVFD4",
           "directUrl": "https://www.amazon.es/dp/B0CP2YVFD4",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -834,7 +899,8 @@
           "price": 559.99,
           "asin": "B0CP2YVFD4",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -842,7 +908,8 @@
           "price": 569,
           "asin": "B0CP2YVFD4",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Steam Deck OLED — ¿mata a la Nintendo Switch?",
@@ -852,7 +919,8 @@
         "consola portatil",
         "valve"
       ],
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "mochila-viaje-cabin",
@@ -875,7 +943,8 @@
           "asin": "B01M7UBL11",
           "directUrl": "https://www.amazon.es/dp/B01M7UBL11",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "decathlon",
@@ -883,7 +952,8 @@
           "price": 44.99,
           "asin": "B01M7UBL11",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -891,7 +961,8 @@
           "price": 49.95,
           "asin": "B01M7UBL11",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Viajar solo con mochila cabina — 7 días con 36 litros",
@@ -902,7 +973,8 @@
         "ryanair"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "expedia-viajes",
@@ -926,7 +998,8 @@
           "asin": "B0D5V3JPPQ",
           "directUrl": "https://www.booking.com/searchresults.es.html?ss=Vuelos%20%2B%20Hotel",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Cómo encontré vuelo + hotel por 150€",
@@ -938,7 +1011,8 @@
         "hoteles"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "shein-cupon-style",
@@ -951,7 +1025,7 @@
       "rating": 4.3,
       "reviews": 34000,
       "badge": "Básicos baratos",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
       "offers": [
         {
@@ -961,7 +1035,8 @@
           "asin": "B0CSHHSVL2",
           "directUrl": "https://www.amazon.es/dp/B0CSHHSVL2",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -969,7 +1044,8 @@
           "price": 19.95,
           "asin": "B0CSHHSVL2",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Básicos de 15€ vs Shein — calidad real",
@@ -980,7 +1056,8 @@
         "moda barata"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "aliexpress-buds",
@@ -993,7 +1070,7 @@
       "rating": 4.4,
       "reviews": 8900,
       "badge": "Calidad-precio",
-      "trending": false,
+      "trending": true,
       "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&h=600&fit=crop",
       "offers": [
         {
@@ -1003,7 +1080,8 @@
           "asin": "B0DPXSW5PH",
           "directUrl": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "aliexpress",
@@ -1013,7 +1091,8 @@
           "asin": "B0DPXSW5PH",
           "directUrl": "https://es.aliexpress.com/wholesale?SearchText=Xiaomi%20Redmi%20Buds%206",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -1021,7 +1100,8 @@
           "price": 34.99,
           "asin": "B0DPXSW5PH",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Auriculares de 30€ vs AirPods — sorpresa",
@@ -1033,7 +1113,8 @@
         "aliexpress"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "nordvpn-sub",
@@ -1057,7 +1138,8 @@
           "asin": "B0D7FFRHG5",
           "directUrl": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "VPN en 2026 — ¿NordVPN merece la pena?",
@@ -1069,7 +1151,8 @@
         "digital"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "comida-hellofresh",
@@ -1082,7 +1165,7 @@
       "rating": 4.3,
       "reviews": 12000,
       "badge": "1ª caja -60%",
-      "trending": true,
+      "trending": false,
       "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&h=600&fit=crop",
       "offers": [
         {
@@ -1093,7 +1176,8 @@
           "asin": "1784724653",
           "directUrl": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "HelloFresh vs cocinar — 1 semana de prueba",
@@ -1104,7 +1188,8 @@
         "meal kit"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "sprinter-zapatillas",
@@ -1127,7 +1212,8 @@
           "asin": "B08D11R67B",
           "directUrl": "https://www.amazon.es/dp/B08D11R67B",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "decathlon",
@@ -1135,7 +1221,8 @@
           "price": 54.99,
           "asin": "B08D11R67B",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -1143,7 +1230,8 @@
           "price": 59.95,
           "asin": "B08D11R67B",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Fila Disruptor — el chunky que arrasa en TikTok",
@@ -1155,7 +1243,8 @@
         "sprinter"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "worten-tv-deal",
@@ -1178,7 +1267,8 @@
           "asin": "B0GTRP9673",
           "directUrl": "https://www.amazon.es/dp/B0GTRP9673",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -1186,7 +1276,8 @@
           "price": 409,
           "asin": "B0GTRP9673",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "pccomponentes",
@@ -1194,7 +1285,8 @@
           "price": 419.99,
           "asin": "B0GTRP9673",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "TV de 400€ vs OLED de 1200€ — ¿nota la diferencia?",
@@ -1206,7 +1298,8 @@
         "worten"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "arnes-perro-ruffwear",
@@ -1219,7 +1312,7 @@
       "rating": 4.8,
       "reviews": 5600,
       "badge": "Pet premium",
-      "trending": false,
+      "trending": true,
       "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&h=600&fit=crop",
       "offers": [
         {
@@ -1229,7 +1322,8 @@
           "asin": "B0CLB6VL59",
           "directUrl": "https://www.amazon.es/dp/B0CLB6VL59",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "decathlon",
@@ -1238,7 +1332,8 @@
           "note": "Alternativa",
           "asin": "B0CLB6VL59",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "El arnés que no roza a mi perro — Ruffwear review",
@@ -1249,7 +1344,8 @@
         "perro"
       ],
       "featured": true,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "thermomix-tm6",
@@ -1273,7 +1369,8 @@
           "asin": "B0CQ3PR17V",
           "directUrl": "https://www.amazon.es/dp/B0CQ3PR17V",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -1281,7 +1378,8 @@
           "price": 1299,
           "asin": "B0CQ3PR17V",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Thermomix TM6 — ¿1200€ por un robot de cocina?",
@@ -1291,7 +1389,8 @@
         "vorwerk",
         "hogar-cocina"
       ],
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "bombillas-led-pack",
@@ -1314,7 +1413,8 @@
           "asin": "B09ZBKRMG1",
           "directUrl": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -1322,7 +1422,8 @@
           "price": 24.99,
           "asin": "B09ZBKRMG1",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -1330,7 +1431,8 @@
           "price": 22.95,
           "asin": "B09ZBKRMG1",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Pack 10 bombillas LED por 20€ — ahorro real",
@@ -1341,7 +1443,8 @@
         "ahorro"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "domestika-cursos",
@@ -1365,7 +1468,8 @@
           "asin": "B00EFE2QFY",
           "directUrl": "https://www.amazon.es/dp/B00EFE2QFY",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Domestika Plus — ¿merece la pena en 2026?",
@@ -1377,7 +1481,8 @@
         "digital"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     },
     {
       "id": "carrefour-robot",
@@ -1400,7 +1505,8 @@
           "asin": "B0FJGFPWSS",
           "directUrl": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
-          "priceEstimated": false
+          "priceEstimated": false,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "mediamarkt",
@@ -1408,7 +1514,8 @@
           "price": 219,
           "asin": "B0FJGFPWSS",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         },
         {
           "store": "elcorteingles",
@@ -1416,7 +1523,8 @@
           "price": 229,
           "asin": "B0FJGFPWSS",
           "linkKind": "search",
-          "priceEstimated": true
+          "priceEstimated": true,
+          "lastChecked": "2026-06-02T13:00:28.733Z"
         }
       ],
       "videoHook": "Aspirador que friega — adiós fregona",
@@ -1428,7 +1536,8 @@
         "carrefour"
       ],
       "featured": false,
-      "dealOfDay": false
+      "dealOfDay": false,
+      "priceUpdatedAt": "2026-06-02T13:00:28.733Z"
     }
   ]
 }

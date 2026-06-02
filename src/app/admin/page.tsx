@@ -1,5 +1,6 @@
 import { createServiceClient } from "@/lib/supabase/admin";
 import { getAffiliateStatus, isAffiliateConfigured } from "@/lib/affiliate";
+import { AwinProgramsPanel } from "@/components/AwinProgramsPanel";
 
 export const dynamic = "force-dynamic";
 
@@ -38,7 +39,7 @@ function AffiliateSetupPanel({
     },
     {
       key: "awin",
-      label: "Awin (PcComponentes, MediaMarkt…)",
+      label: "Awin (PcComponentes, Fnac, Decathlon, Back Market…)",
       env: "NEXT_PUBLIC_AWIN_PUBLISHER_ID",
       signup: "https://ui.awin.com/publisher-signup",
       idHint: "Publisher ID (Account → Account details). Tuyo: 2917459",
@@ -212,6 +213,7 @@ export default async function AdminPage() {
   return (
     <div className="mx-auto max-w-7xl px-4 py-8">
       <AffiliateSetupPanel configured={isAffiliateConfigured()} status={getAffiliateStatus()} clicks={stats.affiliateClicks} />
+      <AwinProgramsPanel />
 
       <p className="mb-6 text-sm text-slate-500">Últimos 7 días</p>
 

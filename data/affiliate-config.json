@@ -61,6 +61,9 @@
     "aliexpress": { "label": "AliExpress", "color": "#E43225", "network": "aliexpress" },
     "booking": { "label": "Booking.com", "color": "#003580", "network": "booking" },
     "decathlon": { "label": "Decathlon", "color": "#0082C3", "network": "awin" },
-    "ikea": { "label": "IKEA", "color": "#0058A3", "network": "awin" }
+    "ikea": { "label": "IKEA", "color": "#0058A3", "network": "awin" },
+    "backmarket": { "label": "Back Market", "color": "#00C853", "network": "awin" },
+    "lg": { "label": "LG", "color": "#A50034", "network": "awin" },
+    "casadellibro": { "label": "Casa del Libro", "color": "#C8102E", "network": "awin" }
   }
 }

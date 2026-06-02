@@ -32,6 +32,9 @@ export function isSearchListingUrl(url: string, store: StoreId): boolean {
     if (store === "fnac") return u.pathname.includes("SearchResult");
     if (store === "elcorteingles") return u.pathname.includes("/search");
     if (store === "decathlon") return u.pathname.includes("/search");
+    if (store === "backmarket") return u.pathname.includes("/search");
+    if (store === "lg") return u.pathname.includes("/search");
+    if (store === "casadellibro") return u.pathname.includes("/search") || u.pathname.includes("resultados");
     if (store === "ebay") return u.pathname.includes("/sch/");
     if (store === "ikea") return u.pathname.includes("/search");
   } catch {

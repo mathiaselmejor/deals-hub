@@ -1,0 +1,87 @@
+{
+  "_comment": "Programas Awin España verificados. joinUrl abre solicitud en ui.awin.com",
+  "publisherId": "2917459",
+  "programs": [
+    {
+      "id": "pccomponentes",
+      "storeId": "pccomponentes",
+      "merchantId": "20982",
+      "name": "PcComponentes ES",
+      "website": "https://www.pccomponentes.com",
+      "commission": "hasta ~7%",
+      "priority": 1,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/20982"
+    },
+    {
+      "id": "elcorteingles",
+      "storeId": "elcorteingles",
+      "merchantId": "13075",
+      "name": "El Corte Inglés ES",
+      "website": "https://www.elcorteingles.es",
+      "commission": "variable",
+      "priority": 1,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/13075"
+    },
+    {
+      "id": "fnac",
+      "storeId": "fnac",
+      "merchantId": "77630",
+      "name": "Fnac ES",
+      "website": "https://www.fnac.es",
+      "commission": "hasta ~5%",
+      "priority": 1,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/77630"
+    },
+    {
+      "id": "decathlon",
+      "storeId": "decathlon",
+      "merchantId": "105405",
+      "name": "Decathlon ES",
+      "website": "https://www.decathlon.es",
+      "commission": "hasta ~5%",
+      "priority": 1,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/105405"
+    },
+    {
+      "id": "backmarket",
+      "storeId": "backmarket",
+      "merchantId": "25199",
+      "name": "Back Market ES",
+      "website": "https://www.backmarket.es",
+      "commission": "~5%",
+      "priority": 1,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/25199"
+    },
+    {
+      "id": "lg",
+      "storeId": "lg",
+      "merchantId": "31267",
+      "name": "LG PRM ES",
+      "website": "https://www.lg.com/es",
+      "commission": "variable CPA",
+      "priority": 2,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/31267"
+    },
+    {
+      "id": "casadellibro",
+      "storeId": "casadellibro",
+      "merchantId": "21491",
+      "name": "Casa del Libro ES",
+      "website": "https://www.casadellibro.com",
+      "commission": "libros",
+      "priority": 2,
+      "joinUrl": "https://ui.awin.com/user/affiliate-signup/join/merchant/21491"
+    }
+  ],
+  "notOnAwin": [
+    {
+      "storeId": "mediamarkt",
+      "note": "MediaMarkt ES usa Tradedoubler, no Awin. ID 2549 era Zavvi UK — eliminado.",
+      "alternative": "NEXT_PUBLIC_TRADETRACKER_ID"
+    },
+    {
+      "storeId": "ikea",
+      "note": "IKEA ES programa propio / Admitad, no Awin activo (22455 inválido)."
+    }
+  ]
+}

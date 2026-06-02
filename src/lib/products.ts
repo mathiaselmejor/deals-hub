@@ -6,6 +6,7 @@ import extraProducts3Data from "../../data/extra-products-3.json";
 import extraProducts4Data from "../../data/extra-products-4.json";
 import extraProducts5Data from "../../data/extra-products-5.json";
 import extraProductsAliexpressData from "../../data/extra-products-aliexpress.json";
+import extraProductsAwinData from "../../data/extra-products-awin.json";
 import catalogMonetizedData from "../../data/catalog-monetized.json";
 import topListsData from "../../data/top-lists.json";
 import { getRelatedProductsSmart } from "./algorithms";
@@ -41,6 +42,10 @@ function mergeCatalog(): ProductsData {
     products: Product[];
     lastUpdated?: string;
   };
+  const extraAwin = extraProductsAwinData as {
+    products: Product[];
+    lastUpdated?: string;
+  };
   const monetized = catalogMonetizedData as {
     products: Product[];
     categories?: Category[];
@@ -64,6 +69,7 @@ function mergeCatalog(): ProductsData {
     ...extra.products,
     ...extra5.products,
     ...extraAliexpress.products,
+    ...extraAwin.products,
     ...base.products,
   ];
   for (const p of layers) {

@@ -61,7 +61,7 @@ export async function GET() {
     aliexpressLinkMap: getAliExpressLinkMapSize(),
     aliexpressPortals: aliexpressMeta,
     awinPublisherId: process.env.NEXT_PUBLIC_AWIN_PUBLISHER_ID ? "configured" : "missing",
-    awinStores: ["pccomponentes", "mediamarkt", "elcorteingles", "fnac", "decathlon", "ikea"],
+    awinStores: ["pccomponentes", "elcorteingles", "fnac", "decathlon", "backmarket", "lg", "casadellibro"],
     affiliateConfigured: isAffiliateConfigured(),
     affiliate,
     monetization,

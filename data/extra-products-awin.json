@@ -1,0 +1,4468 @@
+{
+  "lastUpdated": "2026-06-02",
+  "products": [
+    {
+      "id": "awin-logitech-mx-master-3s",
+      "name": "Logitech MX Master 3S",
+      "category": "informatica",
+      "description": "Logitech MX Master 3S — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 88.09,
+      "originalPrice": 104.71,
+      "discount": 15,
+      "rating": 4.6,
+      "reviews": 3781,
+      "badge": "Oficina",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Logitech%20MX%20Master%203S",
+          "price": 88.09,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Logitech%20MX%20Master%203S",
+          "price": 88.33,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Logitech%20MX%20Master%203S",
+          "price": 88.81,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Logitech%20MX%20Master%203S",
+          "price": 90.2,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Logitech%20MX%20Master%203S",
+          "price": 92.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Logitech%20MX%20Master%203S",
+          "price": 94.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Logitech MX Master 3S más barato?",
+      "keywords": [
+        "raton",
+        "logitech",
+        "mx master"
+      ]
+    },
+    {
+      "id": "awin-keychron-k2-he",
+      "name": "Keychron K2 HE Teclado",
+      "category": "informatica",
+      "description": "Keychron K2 HE Teclado — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 125.29,
+      "originalPrice": 146.59,
+      "discount": 12,
+      "rating": 4.5,
+      "reviews": 709,
+      "badge": "Gaming",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Keychron%20K2%20HE%20Teclado",
+          "price": 125.29,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Keychron%20K2%20HE%20Teclado",
+          "price": 127,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Keychron%20K2%20HE%20Teclado",
+          "price": 129.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Keychron%20K2%20HE%20Teclado",
+          "price": 129.85,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Keychron%20K2%20HE%20Teclado",
+          "price": 134.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Keychron%20K2%20HE%20Teclado",
+          "price": 136.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Keychron K2 HE Teclado más barato?",
+      "keywords": [
+        "teclado",
+        "keychron",
+        "mecanico"
+      ]
+    },
+    {
+      "id": "awin-samsung-odyssey-g5",
+      "name": "Samsung Odyssey G5 27\"",
+      "category": "informatica",
+      "description": "Samsung Odyssey G5 27\" — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 214.97,
+      "originalPrice": 267.07,
+      "discount": 18,
+      "rating": 4.7,
+      "reviews": 8029,
+      "badge": "Monitor",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsung%20Odyssey%20G5%2027%22",
+          "price": 214.97,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Odyssey%20G5%2027%22",
+          "price": 219.03,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Samsung%20Odyssey%20G5%2027%22",
+          "price": 219.58,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Samsung%20Odyssey%20G5%2027%22",
+          "price": 222.84,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Odyssey%20G5%2027%22",
+          "price": 227.76,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Samsung%20Odyssey%20G5%2027%22",
+          "price": 232.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Samsung Odyssey G5 27\" más barato?",
+      "keywords": [
+        "monitor",
+        "gaming",
+        "144hz"
+      ]
+    },
+    {
+      "id": "awin-hp-laserjet-pro",
+      "name": "HP LaserJet Pro M404",
+      "category": "informatica",
+      "description": "HP LaserJet Pro M404 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 184.94,
+      "originalPrice": 210,
+      "discount": 10,
+      "rating": 4.7,
+      "reviews": 2892,
+      "badge": "Impresora",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=HP%20LaserJet%20Pro%20M404",
+          "price": 184.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=HP%20LaserJet%20Pro%20M404",
+          "price": 185.96,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=HP%20LaserJet%20Pro%20M404",
+          "price": 193.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=HP%20LaserJet%20Pro%20M404",
+          "price": 194.82,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=HP%20LaserJet%20Pro%20M404",
+          "price": 196.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=HP%20LaserJet%20Pro%20M404",
+          "price": 200.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar HP LaserJet Pro M404 más barato?",
+      "keywords": [
+        "impresora",
+        "hp",
+        "laser"
+      ]
+    },
+    {
+      "id": "awin-lenovo-ideapad-slim",
+      "name": "Lenovo IdeaPad Slim 5",
+      "category": "informatica",
+      "description": "Lenovo IdeaPad Slim 5 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 659.31,
+      "originalPrice": 754.65,
+      "discount": 14,
+      "rating": 4.6,
+      "reviews": 2512,
+      "badge": "Portátil",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Lenovo%20IdeaPad%20Slim%205",
+          "price": 659.31,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Lenovo%20IdeaPad%20Slim%205",
+          "price": 662.28,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Lenovo%20IdeaPad%20Slim%205",
+          "price": 672.73,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Lenovo%20IdeaPad%20Slim%205",
+          "price": 674.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Lenovo%20IdeaPad%20Slim%205",
+          "price": 678.15,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Lenovo%20IdeaPad%20Slim%205",
+          "price": 687.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Lenovo IdeaPad Slim 5 más barato?",
+      "keywords": [
+        "portatil",
+        "lenovo",
+        "ideapad"
+      ]
+    },
+    {
+      "id": "awin-asus-rog-strix",
+      "name": "ASUS ROG Strix G16",
+      "category": "gaming",
+      "description": "ASUS ROG Strix G16 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 1206.71,
+      "originalPrice": 1427.38,
+      "discount": 16,
+      "rating": 4.7,
+      "reviews": 2313,
+      "badge": "Gaming PC",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=ASUS%20ROG%20Strix%20G16",
+          "price": 1206.71,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=ASUS%20ROG%20Strix%20G16",
+          "price": 1225.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=ASUS%20ROG%20Strix%20G16",
+          "price": 1232.54,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=ASUS%20ROG%20Strix%20G16",
+          "price": 1246.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=ASUS%20ROG%20Strix%20G16",
+          "price": 1250.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=ASUS%20ROG%20Strix%20G16",
+          "price": 1270.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar ASUS ROG Strix G16 más barato?",
+      "keywords": [
+        "portatil gaming",
+        "asus",
+        "rog"
+      ]
+    },
+    {
+      "id": "awin-msi-monitor-mag",
+      "name": "MSI MAG 274UPF 4K",
+      "category": "gaming",
+      "description": "MSI MAG 274UPF 4K — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 397.43,
+      "originalPrice": 498.75,
+      "discount": 20,
+      "rating": 4.5,
+      "reviews": 5850,
+      "badge": "4K",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=MSI%20MAG%20274UPF%204K",
+          "price": 397.43,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=MSI%20MAG%20274UPF%204K",
+          "price": 408.86,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=MSI%20MAG%20274UPF%204K",
+          "price": 409.61,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=MSI%20MAG%20274UPF%204K",
+          "price": 414.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=MSI%20MAG%20274UPF%204K",
+          "price": 416.98,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=MSI%20MAG%20274UPF%204K",
+          "price": 422.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar MSI MAG 274UPF 4K más barato?",
+      "keywords": [
+        "monitor 4k",
+        "msi",
+        "gaming"
+      ]
+    },
+    {
+      "id": "awin-nvidia-rtx-4070",
+      "name": "MSI RTX 4070 Ventus",
+      "category": "informatica",
+      "description": "MSI RTX 4070 Ventus — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 533.2,
+      "originalPrice": 616.85,
+      "discount": 11,
+      "rating": 4.7,
+      "reviews": 7918,
+      "badge": "GPU",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=MSI%20RTX%204070%20Ventus",
+          "price": 533.2,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=MSI%20RTX%204070%20Ventus",
+          "price": 559.46,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=MSI%20RTX%204070%20Ventus",
+          "price": 570.11,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=MSI%20RTX%204070%20Ventus",
+          "price": 570.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=MSI%20RTX%204070%20Ventus",
+          "price": 574.59,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=MSI%20RTX%204070%20Ventus",
+          "price": 581.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar MSI RTX 4070 Ventus más barato?",
+      "keywords": [
+        "rtx 4070",
+        "grafica",
+        "nvidia"
+      ]
+    },
+    {
+      "id": "awin-amd-ryzen-7-7800x3d",
+      "name": "AMD Ryzen 7 7800X3D",
+      "category": "informatica",
+      "description": "AMD Ryzen 7 7800X3D — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 320.57,
+      "originalPrice": 357.61,
+      "discount": 8,
+      "rating": 4.8,
+      "reviews": 7501,
+      "badge": "CPU",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=AMD%20Ryzen%207%207800X3D",
+          "price": 320.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=AMD%20Ryzen%207%207800X3D",
+          "price": 323.33,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=AMD%20Ryzen%207%207800X3D",
+          "price": 341.64,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=AMD%20Ryzen%207%207800X3D",
+          "price": 342.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=AMD%20Ryzen%207%207800X3D",
+          "price": 344.71,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=AMD%20Ryzen%207%207800X3D",
+          "price": 348.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar AMD Ryzen 7 7800X3D más barato?",
+      "keywords": [
+        "ryzen",
+        "procesador",
+        "amd"
+      ]
+    },
+    {
+      "id": "awin-samsung-ssd-990-pro",
+      "name": "Samsung 990 PRO 1TB NVMe",
+      "category": "informatica",
+      "description": "Samsung 990 PRO 1TB NVMe — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 97.64,
+      "originalPrice": 126.92,
+      "discount": 22,
+      "rating": 4.8999999999999995,
+      "reviews": 8367,
+      "badge": "SSD",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Samsung%20990%20PRO%201TB%20NVMe",
+          "price": 97.64,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsung%20990%20PRO%201TB%20NVMe",
+          "price": 100.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Samsung%20990%20PRO%201TB%20NVMe",
+          "price": 100.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20990%20PRO%201TB%20NVMe",
+          "price": 102.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20990%20PRO%201TB%20NVMe",
+          "price": 103.77,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Samsung%20990%20PRO%201TB%20NVMe",
+          "price": 104.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Samsung 990 PRO 1TB NVMe más barato?",
+      "keywords": [
+        "ssd",
+        "nvme",
+        "samsung"
+      ]
+    },
+    {
+      "id": "awin-corsair-vengeance-32gb",
+      "name": "Corsair Vengeance DDR5 32GB",
+      "category": "informatica",
+      "description": "Corsair Vengeance DDR5 32GB — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 108.11,
+      "originalPrice": 126.74,
+      "discount": 14,
+      "rating": 4.5,
+      "reviews": 1872,
+      "badge": "RAM",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Corsair%20Vengeance%20DDR5%2032GB",
+          "price": 108.11,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Corsair%20Vengeance%20DDR5%2032GB",
+          "price": 110.27,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Corsair%20Vengeance%20DDR5%2032GB",
+          "price": 113.36,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Corsair%20Vengeance%20DDR5%2032GB",
+          "price": 114.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Corsair%20Vengeance%20DDR5%2032GB",
+          "price": 114.09,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Corsair%20Vengeance%20DDR5%2032GB",
+          "price": 115.54,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Corsair Vengeance DDR5 32GB más barato?",
+      "keywords": [
+        "ram",
+        "ddr5",
+        "corsair"
+      ]
+    },
+    {
+      "id": "awin-jbl-charge-5",
+      "name": "JBL Charge 5 Altavoz",
+      "category": "electronica",
+      "description": "JBL Charge 5 Altavoz — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 128.89,
+      "originalPrice": 155.42,
+      "discount": 17,
+      "rating": 4.5,
+      "reviews": 7226,
+      "badge": "Audio",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=JBL%20Charge%205%20Altavoz",
+          "price": 128.89,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=JBL%20Charge%205%20Altavoz",
+          "price": 129.38,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=JBL%20Charge%205%20Altavoz",
+          "price": 129.7,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=JBL%20Charge%205%20Altavoz",
+          "price": 134.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=JBL%20Charge%205%20Altavoz",
+          "price": 135.25,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=JBL%20Charge%205%20Altavoz",
+          "price": 136.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar JBL Charge 5 Altavoz más barato?",
+      "keywords": [
+        "jbl",
+        "altavoz",
+        "bluetooth"
+      ]
+    },
+    {
+      "id": "awin-sonos-era-100",
+      "name": "Sonos Era 100",
+      "category": "electronica",
+      "description": "Sonos Era 100 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 244.28,
+      "originalPrice": 276.67,
+      "discount": 10,
+      "rating": 4.5,
+      "reviews": 7566,
+      "badge": "Smart audio",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Sonos%20Era%20100",
+          "price": 244.28,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Sonos%20Era%20100",
+          "price": 248.29,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Sonos%20Era%20100",
+          "price": 250.43,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Sonos%20Era%20100",
+          "price": 254.95,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Sonos%20Era%20100",
+          "price": 258.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Sonos%20Era%20100",
+          "price": 263.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Sonos Era 100 más barato?",
+      "keywords": [
+        "sonos",
+        "altavoz",
+        "wifi"
+      ]
+    },
+    {
+      "id": "awin-bose-qc45",
+      "name": "Bose QuietComfort 45",
+      "category": "electronica",
+      "description": "Bose QuietComfort 45 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 226.87,
+      "originalPrice": 282.72,
+      "discount": 19,
+      "rating": 4.6,
+      "reviews": 4439,
+      "badge": "ANC",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Bose%20QuietComfort%2045",
+          "price": 226.87,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Bose%20QuietComfort%2045",
+          "price": 227.52,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Bose%20QuietComfort%2045",
+          "price": 235.79,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Bose%20QuietComfort%2045",
+          "price": 237.49,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Bose%20QuietComfort%2045",
+          "price": 238.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Bose%20QuietComfort%2045",
+          "price": 242.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Bose QuietComfort 45 más barato?",
+      "keywords": [
+        "bose",
+        "auriculares",
+        "cancelacion"
+      ]
+    },
+    {
+      "id": "awin-garmin-forerunner-55",
+      "name": "Garmin Forerunner 55",
+      "category": "deportes",
+      "description": "Garmin Forerunner 55 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 140.06,
+      "originalPrice": 171.26,
+      "discount": 13,
+      "rating": 4.7,
+      "reviews": 6766,
+      "badge": "Running",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Garmin%20Forerunner%2055",
+          "price": 140.06,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Garmin%20Forerunner%2055",
+          "price": 144.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Garmin%20Forerunner%2055",
+          "price": 145.32,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Garmin%20Forerunner%2055",
+          "price": 149.15,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Garmin%20Forerunner%2055",
+          "price": 151.95,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Garmin%20Forerunner%2055",
+          "price": 154.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Garmin%20Forerunner%2055",
+          "price": 157.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Garmin Forerunner 55 más barato?",
+      "keywords": [
+        "garmin",
+        "reloj",
+        "running"
+      ]
+    },
+    {
+      "id": "awin-polar-pacer-pro",
+      "name": "Polar Pacer Pro",
+      "category": "deportes",
+      "description": "Polar Pacer Pro — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 262.26,
+      "originalPrice": 328.24,
+      "discount": 15,
+      "rating": 4.8,
+      "reviews": 4580,
+      "badge": "Deporte",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Polar%20Pacer%20Pro",
+          "price": 262.26,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Polar%20Pacer%20Pro",
+          "price": 275.85,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Polar%20Pacer%20Pro",
+          "price": 285.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Polar%20Pacer%20Pro",
+          "price": 286.17,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Polar%20Pacer%20Pro",
+          "price": 290.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Polar%20Pacer%20Pro",
+          "price": 292.3,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Polar%20Pacer%20Pro",
+          "price": 295.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Polar Pacer Pro más barato?",
+      "keywords": [
+        "polar",
+        "gps",
+        "reloj"
+      ]
+    },
+    {
+      "id": "awin-nike-pegasus-41",
+      "name": "Nike Pegasus 41",
+      "category": "deportes",
+      "description": "Nike Pegasus 41 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 111.86,
+      "originalPrice": 135.23,
+      "discount": 12,
+      "rating": 4.6,
+      "reviews": 7793,
+      "badge": "Running",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Nike%20Pegasus%2041",
+          "price": 111.86,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Nike%20Pegasus%2041",
+          "price": 115.87,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nike%20Pegasus%2041",
+          "price": 121,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Nike%20Pegasus%2041",
+          "price": 122.47,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Nike%20Pegasus%2041",
+          "price": 123.76,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Nike%20Pegasus%2041",
+          "price": 123.88,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Nike%20Pegasus%2041",
+          "price": 126.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Nike Pegasus 41 más barato?",
+      "keywords": [
+        "nike",
+        "zapatillas",
+        "running"
+      ]
+    },
+    {
+      "id": "awin-adidas-ultraboost",
+      "name": "Adidas Ultraboost Light",
+      "category": "deportes",
+      "description": "Adidas Ultraboost Light — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 130.66,
+      "originalPrice": 169.51,
+      "discount": 18,
+      "rating": 4.7,
+      "reviews": 1661,
+      "badge": "Boost",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Adidas%20Ultraboost%20Light",
+          "price": 130.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Adidas%20Ultraboost%20Light",
+          "price": 135.76,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Adidas%20Ultraboost%20Light",
+          "price": 137.4,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Adidas%20Ultraboost%20Light",
+          "price": 138.61,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Adidas%20Ultraboost%20Light",
+          "price": 144.32,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Adidas%20Ultraboost%20Light",
+          "price": 144.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Adidas%20Ultraboost%20Light",
+          "price": 147.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Adidas Ultraboost Light más barato?",
+      "keywords": [
+        "adidas",
+        "ultraboost",
+        "running"
+      ]
+    },
+    {
+      "id": "awin-decathlon-quechua-mochila",
+      "name": "Quechua MH500 Mochila 40L",
+      "category": "deportes",
+      "description": "Quechua MH500 Mochila 40L — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 55.46,
+      "originalPrice": 65.56,
+      "discount": 10,
+      "rating": 4.6,
+      "reviews": 1375,
+      "badge": "Montaña",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Quechua%20MH500%20Mochila%2040L",
+          "price": 55.46,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Quechua%20MH500%20Mochila%2040L",
+          "price": 58.18,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Quechua%20MH500%20Mochila%2040L",
+          "price": 59.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Quechua%20MH500%20Mochila%2040L",
+          "price": 60.75,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Quechua%20MH500%20Mochila%2040L",
+          "price": 61.26,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Quechua%20MH500%20Mochila%2040L",
+          "price": 61.36,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Quechua%20MH500%20Mochila%2040L",
+          "price": 62.54,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Quechua MH500 Mochila 40L más barato?",
+      "keywords": [
+        "mochila",
+        "trekking",
+        "decathlon"
+      ]
+    },
+    {
+      "id": "awin-decathlon-bici-elec",
+      "name": "Rockrider E-ST 500 E-Bike",
+      "category": "deportes",
+      "description": "Rockrider E-ST 500 E-Bike — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 1221.06,
+      "originalPrice": 1411.96,
+      "discount": 8,
+      "rating": 4.8,
+      "reviews": 699,
+      "badge": "E-bike",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1221.06,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1268.9,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1320.93,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1339.09,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1350.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1362.84,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Rockrider%20E-ST%20500%20E-Bike",
+          "price": 1376.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Rockrider E-ST 500 E-Bike más barato?",
+      "keywords": [
+        "bici electrica",
+        "decathlon",
+        "mtb"
+      ]
+    },
+    {
+      "id": "awin-lg-oled-c4-55",
+      "name": "LG OLED C4 55\"",
+      "category": "electronica",
+      "description": "LG OLED C4 55\" — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 1077.02,
+      "originalPrice": 1373.75,
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 3431,
+      "badge": "OLED",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "lg",
+          "url": "https://www.lg.com/es/search?q=LG%20OLED%20C4%2055%22",
+          "price": 1077.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=LG%20OLED%20C4%2055%22",
+          "price": 1142.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=LG%20OLED%20C4%2055%22",
+          "price": 1164.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar LG OLED C4 55\" más barato?",
+      "keywords": [
+        "tv oled",
+        "lg",
+        "55 pulgadas"
+      ]
+    },
+    {
+      "id": "awin-lg-lavadora-ai",
+      "name": "LG Lavadora AI Direct Drive 9kg",
+      "category": "hogar",
+      "description": "LG Lavadora AI Direct Drive 9kg — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 636.02,
+      "originalPrice": 754.65,
+      "discount": 14,
+      "rating": 4.8,
+      "reviews": 8288,
+      "badge": "Electro",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "lg",
+          "url": "https://www.lg.com/es/search?q=LG%20Lavadora%20AI%20Direct%20Drive%209kg",
+          "price": 636.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=LG%20Lavadora%20AI%20Direct%20Drive%209kg",
+          "price": 674.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=LG%20Lavadora%20AI%20Direct%20Drive%209kg",
+          "price": 687.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar LG Lavadora AI Direct Drive 9kg más barato?",
+      "keywords": [
+        "lavadora",
+        "lg",
+        "hogar"
+      ]
+    },
+    {
+      "id": "awin-backmarket-iphone-13",
+      "name": "iPhone 13 Reacondicionado",
+      "category": "electronica",
+      "description": "iPhone 13 Reacondicionado — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 321.08,
+      "originalPrice": 536.92,
+      "discount": 35,
+      "rating": 4.8999999999999995,
+      "reviews": 5616,
+      "badge": "Back Market",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "backmarket",
+          "url": "https://www.backmarket.es/es-es/search?q=iPhone%2013%20Reacondicionado",
+          "price": 321.08,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Reacondicionado — comisión Awin"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=iPhone%2013%20Reacondicionado",
+          "price": 359.47,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=iPhone%2013%20Reacondicionado",
+          "price": 359.47,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=iPhone%2013%20Reacondicionado",
+          "price": 362.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=iPhone%2013%20Reacondicionado",
+          "price": 369.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar iPhone 13 Reacondicionado más barato?",
+      "keywords": [
+        "iphone 13",
+        "reacondicionado",
+        "back market"
+      ]
+    },
+    {
+      "id": "awin-backmarket-macbook-air",
+      "name": "MacBook Air M1 Reacondicionado",
+      "category": "informatica",
+      "description": "MacBook Air M1 Reacondicionado — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 551.08,
+      "originalPrice": 855.71,
+      "discount": 30,
+      "rating": 4.5,
+      "reviews": 6523,
+      "badge": "Premium refurb",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "backmarket",
+          "url": "https://www.backmarket.es/es-es/search?q=MacBook%20Air%20M1%20Reacondicionado",
+          "price": 551.08,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Reacondicionado — comisión Awin"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=MacBook%20Air%20M1%20Reacondicionado",
+          "price": 616.97,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=MacBook%20Air%20M1%20Reacondicionado",
+          "price": 616.97,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=MacBook%20Air%20M1%20Reacondicionado",
+          "price": 622.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=MacBook%20Air%20M1%20Reacondicionado",
+          "price": 634.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar MacBook Air M1 Reacondicionado más barato?",
+      "keywords": [
+        "macbook",
+        "reacondicionado",
+        "apple"
+      ]
+    },
+    {
+      "id": "awin-backmarket-ipad-9",
+      "name": "iPad 9ª gen Reacondicionado",
+      "category": "informatica",
+      "description": "iPad 9ª gen Reacondicionado — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 201.48,
+      "originalPrice": 304.17,
+      "discount": 28,
+      "rating": 4.3999999999999995,
+      "reviews": 4396,
+      "badge": "Tablet refurb",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "backmarket",
+          "url": "https://www.backmarket.es/es-es/search?q=iPad%209%C2%AA%20gen%20Reacondicionado",
+          "price": 201.48,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Reacondicionado — comisión Awin"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=iPad%209%C2%AA%20gen%20Reacondicionado",
+          "price": 225.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=iPad%209%C2%AA%20gen%20Reacondicionado",
+          "price": 225.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=iPad%209%C2%AA%20gen%20Reacondicionado",
+          "price": 227.76,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=iPad%209%C2%AA%20gen%20Reacondicionado",
+          "price": 232.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar iPad 9ª gen Reacondicionado más barato?",
+      "keywords": [
+        "ipad",
+        "reacondicionado"
+      ]
+    },
+    {
+      "id": "awin-dyson-v12",
+      "name": "Dyson V12 Detect Slim",
+      "category": "hogar",
+      "description": "Dyson V12 Detect Slim — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 444.59,
+      "originalPrice": 534.52,
+      "discount": 16,
+      "rating": 4.6,
+      "reviews": 2237,
+      "badge": "Limpieza",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Dyson%20V12%20Detect%20Slim",
+          "price": 444.59,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Dyson%20V12%20Detect%20Slim",
+          "price": 451.36,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Dyson%20V12%20Detect%20Slim",
+          "price": 453.52,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Dyson%20V12%20Detect%20Slim",
+          "price": 458.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Dyson%20V12%20Detect%20Slim",
+          "price": 466.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Dyson%20V12%20Detect%20Slim",
+          "price": 475.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Dyson V12 Detect Slim más barato?",
+      "keywords": [
+        "dyson",
+        "aspirador",
+        "sin cable"
+      ]
+    },
+    {
+      "id": "awin-irobot-roomba-j7",
+      "name": "iRobot Roomba j7+",
+      "category": "hogar",
+      "description": "iRobot Roomba j7+ — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 582.53,
+      "originalPrice": 767.95,
+      "discount": 22,
+      "rating": 4.3,
+      "reviews": 7400,
+      "badge": "Robot",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=iRobot%20Roomba%20j7%2B",
+          "price": 582.53,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=iRobot%20Roomba%20j7%2B",
+          "price": 600.82,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=iRobot%20Roomba%20j7%2B",
+          "price": 607.87,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=iRobot%20Roomba%20j7%2B",
+          "price": 616.81,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=iRobot%20Roomba%20j7%2B",
+          "price": 622.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=iRobot%20Roomba%20j7%2B",
+          "price": 634.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar iRobot Roomba j7+ más barato?",
+      "keywords": [
+        "roomba",
+        "robot aspirador"
+      ]
+    },
+    {
+      "id": "awin-nespresso-vertuo",
+      "name": "Nespresso Vertuo Pop",
+      "category": "hogar-cocina",
+      "description": "Nespresso Vertuo Pop — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 88.28,
+      "originalPrice": 104.71,
+      "discount": 15,
+      "rating": 4.6,
+      "reviews": 4539,
+      "badge": "Café",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Nespresso%20Vertuo%20Pop",
+          "price": 88.28,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Nespresso%20Vertuo%20Pop",
+          "price": 88.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Nespresso%20Vertuo%20Pop",
+          "price": 89.52,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Nespresso%20Vertuo%20Pop",
+          "price": 91.56,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Nespresso%20Vertuo%20Pop",
+          "price": 92.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Nespresso%20Vertuo%20Pop",
+          "price": 94.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Nespresso Vertuo Pop más barato?",
+      "keywords": [
+        "nespresso",
+        "cafetera",
+        "capsulas"
+      ]
+    },
+    {
+      "id": "awin-krups-express",
+      "name": "Krups Evidence One",
+      "category": "hogar-cocina",
+      "description": "Krups Evidence One — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 392.79,
+      "originalPrice": 486.59,
+      "discount": 18,
+      "rating": 4.3999999999999995,
+      "reviews": 6152,
+      "badge": "Cafetera",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Krups%20Evidence%20One",
+          "price": 392.79,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Krups%20Evidence%20One",
+          "price": 397.3,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Krups%20Evidence%20One",
+          "price": 403.58,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Krups%20Evidence%20One",
+          "price": 414.5,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Krups%20Evidence%20One",
+          "price": 414.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Krups%20Evidence%20One",
+          "price": 422.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Krups Evidence One más barato?",
+      "keywords": [
+        "krups",
+        "cafetera",
+        "automatica"
+      ]
+    },
+    {
+      "id": "awin-kitchenaid-artisan",
+      "name": "KitchenAid Artisan 4.8L",
+      "category": "hogar-cocina",
+      "description": "KitchenAid Artisan 4.8L — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 389.57,
+      "originalPrice": 453.41,
+      "discount": 12,
+      "rating": 4.7,
+      "reviews": 7143,
+      "badge": "Cocina",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=KitchenAid%20Artisan%204.8L",
+          "price": 389.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=KitchenAid%20Artisan%204.8L",
+          "price": 396.16,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=KitchenAid%20Artisan%204.8L",
+          "price": 404.49,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=KitchenAid%20Artisan%204.8L",
+          "price": 414.5,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=KitchenAid%20Artisan%204.8L",
+          "price": 414.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=KitchenAid%20Artisan%204.8L",
+          "price": 422.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar KitchenAid Artisan 4.8L más barato?",
+      "keywords": [
+        "kitchenaid",
+        "batidora",
+        "amasadora"
+      ]
+    },
+    {
+      "id": "awin-ninja-blender",
+      "name": "Ninja Blender Duo",
+      "category": "hogar-cocina",
+      "description": "Ninja Blender Duo — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 125.8,
+      "originalPrice": 161.25,
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 6399,
+      "badge": "Smoothies",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Ninja%20Blender%20Duo",
+          "price": 125.8,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Ninja%20Blender%20Duo",
+          "price": 126.37,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Ninja%20Blender%20Duo",
+          "price": 131.27,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Ninja%20Blender%20Duo",
+          "price": 132.01,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Ninja%20Blender%20Duo",
+          "price": 134.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Ninja%20Blender%20Duo",
+          "price": 136.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Ninja Blender Duo más barato?",
+      "keywords": [
+        "ninja",
+        "batidora",
+        "smoothie"
+      ]
+    },
+    {
+      "id": "awin-philips-oneblade",
+      "name": "Philips OneBlade Pro",
+      "category": "belleza",
+      "description": "Philips OneBlade Pro — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 47.98,
+      "originalPrice": 56.98,
+      "discount": 14,
+      "rating": 4.5,
+      "reviews": 7934,
+      "badge": "Grooming",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Philips%20OneBlade%20Pro",
+          "price": 47.98,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Philips%20OneBlade%20Pro",
+          "price": 48.16,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Philips%20OneBlade%20Pro",
+          "price": 50.13,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Philips%20OneBlade%20Pro",
+          "price": 50.75,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Philips%20OneBlade%20Pro",
+          "price": 50.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Philips%20OneBlade%20Pro",
+          "price": 51.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Philips OneBlade Pro más barato?",
+      "keywords": [
+        "philips",
+        "afeitadora",
+        "oneblade"
+      ]
+    },
+    {
+      "id": "awin-braun-series-9",
+      "name": "Braun Series 9 Pro",
+      "category": "belleza",
+      "description": "Braun Series 9 Pro — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 271.38,
+      "originalPrice": 336.14,
+      "discount": 17,
+      "rating": 4.8999999999999995,
+      "reviews": 2805,
+      "badge": "Premium",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Braun%20Series%209%20Pro",
+          "price": 271.38,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Braun%20Series%209%20Pro",
+          "price": 275.46,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Braun%20Series%209%20Pro",
+          "price": 281.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Braun%20Series%209%20Pro",
+          "price": 290.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Braun%20Series%209%20Pro",
+          "price": 292.21,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Braun%20Series%209%20Pro",
+          "price": 295.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Braun Series 9 Pro más barato?",
+      "keywords": [
+        "braun",
+        "afeitadora",
+        "series 9"
+      ]
+    },
+    {
+      "id": "awin-oral-b-io9",
+      "name": "Oral-B iO Series 9",
+      "category": "belleza",
+      "description": "Oral-B iO Series 9 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 252.41,
+      "originalPrice": 315.19,
+      "discount": 21,
+      "rating": 4.5,
+      "reviews": 7256,
+      "badge": "Dental",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Oral-B%20iO%20Series%209",
+          "price": 252.41,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Oral-B%20iO%20Series%209",
+          "price": 258.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Oral-B%20iO%20Series%209",
+          "price": 259.61,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Oral-B%20iO%20Series%209",
+          "price": 260.83,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Oral-B%20iO%20Series%209",
+          "price": 260.9,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Oral-B%20iO%20Series%209",
+          "price": 263.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Oral-B iO Series 9 más barato?",
+      "keywords": [
+        "oral b",
+        "cepillo",
+        "dientes"
+      ]
+    },
+    {
+      "id": "awin-fnac-libro-best",
+      "name": "Best seller novela — Fnac",
+      "category": "libros",
+      "description": "Best seller novela — Fnac — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 19.3,
+      "originalPrice": 22.11,
+      "discount": 10,
+      "rating": 4.7,
+      "reviews": 847,
+      "badge": "Libros",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Best%20seller%20novela",
+          "price": 19.3,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Best%20seller%20novela",
+          "price": 20.7,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Best%20seller%20novela",
+          "price": 21.09,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Best seller novela — Fnac más barato?",
+      "keywords": [
+        "libro",
+        "fnac",
+        "novela"
+      ]
+    },
+    {
+      "id": "awin-casa-libro-bestseller",
+      "name": "Bestseller Casa del Libro",
+      "category": "libros",
+      "description": "Bestseller Casa del Libro — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 21.02,
+      "originalPrice": 23.8,
+      "discount": 8,
+      "rating": 4.3999999999999995,
+      "reviews": 7846,
+      "badge": "Lectura",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "casadellibro",
+          "url": "https://www.casadellibro.com/resultados-busqueda?keyword=Bestseller%20Casa%20del%20Libro",
+          "price": 21.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Bestseller%20Casa%20del%20Libro",
+          "price": 22.78,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Bestseller%20Casa%20del%20Libro",
+          "price": 23.21,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Bestseller Casa del Libro más barato?",
+      "keywords": [
+        "libro",
+        "casadellibro"
+      ]
+    },
+    {
+      "id": "awin-eci-sartenes",
+      "name": "Set sartenes antiadherentes ECI",
+      "category": "hogar-cocina",
+      "description": "Set sartenes antiadherentes ECI — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 75.05,
+      "originalPrice": 105.33,
+      "discount": 25,
+      "rating": 4.3999999999999995,
+      "reviews": 8377,
+      "badge": "Cocina ECI",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Set%20sartenes%20antiadherentes%20ECI",
+          "price": 75.05,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Set%20sartenes%20antiadherentes%20ECI",
+          "price": 80.58,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Set%20sartenes%20antiadherentes%20ECI",
+          "price": 82.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Set%20sartenes%20antiadherentes%20ECI",
+          "price": 83.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Set sartenes antiadherentes ECI más barato?",
+      "keywords": [
+        "sartenes",
+        "el corte ingles",
+        "cocina"
+      ]
+    },
+    {
+      "id": "awin-eci-edredon",
+      "name": "Edredón nórdico premium ECI",
+      "category": "hogar",
+      "description": "Edredón nórdico premium ECI — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 84.55,
+      "originalPrice": 127.14,
+      "discount": 30,
+      "rating": 4.3999999999999995,
+      "reviews": 7311,
+      "badge": "Textil hogar",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Edred%C3%B3n%20n%C3%B3rdico%20premium%20ECI",
+          "price": 84.55,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Edred%C3%B3n%20n%C3%B3rdico%20premium%20ECI",
+          "price": 90.78,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Edred%C3%B3n%20n%C3%B3rdico%20premium%20ECI",
+          "price": 92.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Edred%C3%B3n%20n%C3%B3rdico%20premium%20ECI",
+          "price": 94.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Edredón nórdico premium ECI más barato?",
+      "keywords": [
+        "edredon",
+        "cama",
+        "hogar"
+      ]
+    },
+    {
+      "id": "awin-playstation-5-eci",
+      "name": "PlayStation 5 Slim ECI",
+      "category": "gaming",
+      "description": "PlayStation 5 Slim ECI — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 436.78,
+      "originalPrice": 472.63,
+      "discount": 5,
+      "rating": 4.5,
+      "reviews": 7301,
+      "badge": "Consola",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=PlayStation%205%20Slim%20ECI",
+          "price": 436.78,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=PlayStation%205%20Slim%20ECI",
+          "price": 452.76,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=PlayStation%205%20Slim%20ECI",
+          "price": 465.98,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=PlayStation%205%20Slim%20ECI",
+          "price": 466.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=PlayStation%205%20Slim%20ECI",
+          "price": 468.98,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=PlayStation%205%20Slim%20ECI",
+          "price": 475.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar PlayStation 5 Slim ECI más barato?",
+      "keywords": [
+        "ps5",
+        "playstation",
+        "consola"
+      ]
+    },
+    {
+      "id": "awin-meta-quest-3",
+      "name": "Meta Quest 3 128GB",
+      "category": "gaming",
+      "description": "Meta Quest 3 128GB — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 536.98,
+      "originalPrice": 596.74,
+      "discount": 8,
+      "rating": 4.6,
+      "reviews": 2444,
+      "badge": "VR",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Meta%20Quest%203%20128GB",
+          "price": 536.98,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Meta%20Quest%203%20128GB",
+          "price": 542.97,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Meta%20Quest%203%20128GB",
+          "price": 543.99,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Meta%20Quest%203%20128GB",
+          "price": 555.62,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Meta%20Quest%203%20128GB",
+          "price": 570.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Meta%20Quest%203%20128GB",
+          "price": 581.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Meta Quest 3 128GB más barato?",
+      "keywords": [
+        "meta quest",
+        "realidad virtual",
+        "vr"
+      ]
+    },
+    {
+      "id": "awin-steam-deck-oled",
+      "name": "Steam Deck OLED 512GB",
+      "category": "gaming",
+      "description": "Steam Deck OLED 512GB — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 552.42,
+      "originalPrice": 605.32,
+      "discount": 6,
+      "rating": 4.5,
+      "reviews": 4226,
+      "badge": "Handheld",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Steam%20Deck%20OLED%20512GB",
+          "price": 552.42,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Steam%20Deck%20OLED%20512GB",
+          "price": 566.28,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Steam%20Deck%20OLED%20512GB",
+          "price": 589.97,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Steam%20Deck%20OLED%20512GB",
+          "price": 590.86,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Steam%20Deck%20OLED%20512GB",
+          "price": 591.76,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Steam%20Deck%20OLED%20512GB",
+          "price": 603.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Steam Deck OLED 512GB más barato?",
+      "keywords": [
+        "steam deck",
+        "valve",
+        "portatil gaming"
+      ]
+    },
+    {
+      "id": "awin-gopro-hero-12",
+      "name": "GoPro HERO12 Black",
+      "category": "electronica",
+      "description": "GoPro HERO12 Black — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 332.04,
+      "originalPrice": 406.17,
+      "discount": 19,
+      "rating": 4.3999999999999995,
+      "reviews": 6156,
+      "badge": "Action cam",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=GoPro%20HERO12%20Black",
+          "price": 332.04,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=GoPro%20HERO12%20Black",
+          "price": 332.75,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=GoPro%20HERO12%20Black",
+          "price": 333.86,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=GoPro%20HERO12%20Black",
+          "price": 338.04,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=GoPro%20HERO12%20Black",
+          "price": 342.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=GoPro%20HERO12%20Black",
+          "price": 348.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar GoPro HERO12 Black más barato?",
+      "keywords": [
+        "gopro",
+        "camara",
+        "deportes"
+      ]
+    },
+    {
+      "id": "awin-dji-mini-4-pro",
+      "name": "DJI Mini 4 Pro Fly More",
+      "category": "electronica",
+      "description": "DJI Mini 4 Pro Fly More — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 896.56,
+      "originalPrice": 998.89,
+      "discount": 10,
+      "rating": 4.8,
+      "reviews": 6929,
+      "badge": "Dron",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 896.56,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 904.46,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 910.71,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 918.77,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 934.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=DJI%20Mini%204%20Pro%20Fly%20More",
+          "price": 952.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar DJI Mini 4 Pro Fly More más barato?",
+      "keywords": [
+        "dji",
+        "dron",
+        "mini 4 pro"
+      ]
+    },
+    {
+      "id": "awin-fitbit-charge-6",
+      "name": "Fitbit Charge 6",
+      "category": "electronica",
+      "description": "Fitbit Charge 6 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 135.46,
+      "originalPrice": 165.48,
+      "discount": 16,
+      "rating": 4.3,
+      "reviews": 646,
+      "badge": "Fitness",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Fitbit%20Charge%206",
+          "price": 135.46,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Fitbit%20Charge%206",
+          "price": 138.15,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Fitbit%20Charge%206",
+          "price": 139.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Fitbit%20Charge%206",
+          "price": 142.15,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Fitbit%20Charge%206",
+          "price": 144.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Fitbit%20Charge%206",
+          "price": 147.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Fitbit Charge 6 más barato?",
+      "keywords": [
+        "fitbit",
+        "pulsera",
+        "salud"
+      ]
+    },
+    {
+      "id": "awin-epson-ecotank",
+      "name": "Epson EcoTank L3250",
+      "category": "informatica",
+      "description": "Epson EcoTank L3250 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 197.48,
+      "originalPrice": 231.4,
+      "discount": 14,
+      "rating": 4.8999999999999995,
+      "reviews": 4634,
+      "badge": "Multifunción",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Epson%20EcoTank%20L3250",
+          "price": 197.48,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Epson%20EcoTank%20L3250",
+          "price": 199.8,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Epson%20EcoTank%20L3250",
+          "price": 206.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Epson%20EcoTank%20L3250",
+          "price": 207.11,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Epson%20EcoTank%20L3250",
+          "price": 208.11,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Epson%20EcoTank%20L3250",
+          "price": 210.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Epson EcoTank L3250 más barato?",
+      "keywords": [
+        "epson",
+        "ecotank",
+        "impresora"
+      ]
+    },
+    {
+      "id": "awin-brother-hll2350",
+      "name": "Brother HL-L2350DW",
+      "category": "informatica",
+      "description": "Brother HL-L2350DW — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 115.7,
+      "originalPrice": 135.23,
+      "discount": 12,
+      "rating": 4.3999999999999995,
+      "reviews": 7157,
+      "badge": "Láser",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Brother%20HL-L2350DW",
+          "price": 115.7,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Brother%20HL-L2350DW",
+          "price": 117.96,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Brother%20HL-L2350DW",
+          "price": 120.12,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Brother%20HL-L2350DW",
+          "price": 122.68,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Brother%20HL-L2350DW",
+          "price": 123.76,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Brother%20HL-L2350DW",
+          "price": 126.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Brother HL-L2350DW más barato?",
+      "keywords": [
+        "brother",
+        "impresora",
+        "laser"
+      ]
+    },
+    {
+      "id": "awin-tp-link-deco-xe75",
+      "name": "TP-Link Deco XE75 WiFi 6E",
+      "category": "informatica",
+      "description": "TP-Link Deco XE75 WiFi 6E — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 247.03,
+      "originalPrice": 303.66,
+      "discount": 18,
+      "rating": 4.3999999999999995,
+      "reviews": 4809,
+      "badge": "Mesh WiFi",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=TP-Link%20Deco%20XE75%20WiFi%206E",
+          "price": 247.03,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=TP-Link%20Deco%20XE75%20WiFi%206E",
+          "price": 251.21,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=TP-Link%20Deco%20XE75%20WiFi%206E",
+          "price": 251.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=TP-Link%20Deco%20XE75%20WiFi%206E",
+          "price": 253.24,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=TP-Link%20Deco%20XE75%20WiFi%206E",
+          "price": 258.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=TP-Link%20Deco%20XE75%20WiFi%206E",
+          "price": 263.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar TP-Link Deco XE75 WiFi 6E más barato?",
+      "keywords": [
+        "tp link",
+        "wifi mesh",
+        "router"
+      ]
+    },
+    {
+      "id": "awin-netgear-orbi",
+      "name": "Netgear Orbi RBK752",
+      "category": "informatica",
+      "description": "Netgear Orbi RBK752 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 387.71,
+      "originalPrice": 469.41,
+      "discount": 15,
+      "rating": 4.6,
+      "reviews": 4080,
+      "badge": "WiFi 6",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Netgear%20Orbi%20RBK752",
+          "price": 387.71,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Netgear%20Orbi%20RBK752",
+          "price": 397.96,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Netgear%20Orbi%20RBK752",
+          "price": 403.47,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Netgear%20Orbi%20RBK752",
+          "price": 406.56,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Netgear%20Orbi%20RBK752",
+          "price": 414.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Netgear%20Orbi%20RBK752",
+          "price": 422.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Netgear Orbi RBK752 más barato?",
+      "keywords": [
+        "netgear",
+        "orbi",
+        "mesh"
+      ]
+    },
+    {
+      "id": "awin-apple-watch-s9",
+      "name": "Apple Watch Series 9 GPS 45mm",
+      "category": "electronica",
+      "description": "Apple Watch Series 9 GPS 45mm — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 401.39,
+      "originalPrice": 453.41,
+      "discount": 12,
+      "rating": 4.5,
+      "reviews": 7820,
+      "badge": "Smartwatch",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Apple%20Watch%20Series%209%20GPS%2045mm",
+          "price": 401.39,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Apple%20Watch%20Series%209%20GPS%2045mm",
+          "price": 407.03,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Apple%20Watch%20Series%209%20GPS%2045mm",
+          "price": 408.2,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Apple%20Watch%20Series%209%20GPS%2045mm",
+          "price": 414.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Apple%20Watch%20Series%209%20GPS%2045mm",
+          "price": 418.13,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Apple%20Watch%20Series%209%20GPS%2045mm",
+          "price": 422.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Apple Watch Series 9 GPS 45mm más barato?",
+      "keywords": [
+        "apple watch",
+        "reloj",
+        "series 9"
+      ]
+    },
+    {
+      "id": "awin-ipad-air-m2",
+      "name": "iPad Air M2 11\"",
+      "category": "informatica",
+      "description": "iPad Air M2 11\" — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 635.46,
+      "originalPrice": 713.19,
+      "discount": 9,
+      "rating": 4.8,
+      "reviews": 1207,
+      "badge": "Tablet",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=iPad%20Air%20M2%2011%22",
+          "price": 635.46,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=iPad%20Air%20M2%2011%22",
+          "price": 640.56,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=iPad%20Air%20M2%2011%22",
+          "price": 658.92,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=iPad%20Air%20M2%2011%22",
+          "price": 674.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=iPad%20Air%20M2%2011%22",
+          "price": 676.87,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=iPad%20Air%20M2%2011%22",
+          "price": 687.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar iPad Air M2 11\" más barato?",
+      "keywords": [
+        "ipad air",
+        "apple",
+        "tablet"
+      ]
+    },
+    {
+      "id": "awin-samsung-galaxy-s24",
+      "name": "Samsung Galaxy S24 256GB",
+      "category": "electronica",
+      "description": "Samsung Galaxy S24 256GB — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 734.07,
+      "originalPrice": 870.93,
+      "discount": 14,
+      "rating": 4.7,
+      "reviews": 6824,
+      "badge": "Smartphone",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Samsung%20Galaxy%20S24%20256GB",
+          "price": 734.07,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Samsung%20Galaxy%20S24%20256GB",
+          "price": 740,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Galaxy%20S24%20256GB",
+          "price": 772.73,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Samsung%20Galaxy%20S24%20256GB",
+          "price": 776.33,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Galaxy%20S24%20256GB",
+          "price": 778.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Samsung%20Galaxy%20S24%20256GB",
+          "price": 793.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Samsung Galaxy S24 256GB más barato?",
+      "keywords": [
+        "samsung",
+        "galaxy s24",
+        "movil"
+      ]
+    },
+    {
+      "id": "awin-google-pixel-8",
+      "name": "Google Pixel 8 Pro",
+      "category": "electronica",
+      "description": "Google Pixel 8 Pro — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 806.39,
+      "originalPrice": 951.19,
+      "discount": 16,
+      "rating": 4.6,
+      "reviews": 7598,
+      "badge": "Android",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Google%20Pixel%208%20Pro",
+          "price": 806.39,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Google%20Pixel%208%20Pro",
+          "price": 807.41,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Google%20Pixel%208%20Pro",
+          "price": 816.78,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Google%20Pixel%208%20Pro",
+          "price": 817.26,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Google%20Pixel%208%20Pro",
+          "price": 830.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Google%20Pixel%208%20Pro",
+          "price": 846.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Google Pixel 8 Pro más barato?",
+      "keywords": [
+        "pixel 8",
+        "google",
+        "android"
+      ]
+    },
+    {
+      "id": "awin-xiaomi-robot-vacuum",
+      "name": "Xiaomi Robot Vacuum X20+",
+      "category": "hogar",
+      "description": "Xiaomi Robot Vacuum X20+ — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 398.88,
+      "originalPrice": 511.54,
+      "discount": 22,
+      "rating": 4.8,
+      "reviews": 3281,
+      "badge": "Robot",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Xiaomi%20Robot%20Vacuum%20X20%2B",
+          "price": 398.88,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Xiaomi%20Robot%20Vacuum%20X20%2B",
+          "price": 400.54,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Xiaomi%20Robot%20Vacuum%20X20%2B",
+          "price": 405.53,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Xiaomi%20Robot%20Vacuum%20X20%2B",
+          "price": 414.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Xiaomi%20Robot%20Vacuum%20X20%2B",
+          "price": 417.17,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Xiaomi%20Robot%20Vacuum%20X20%2B",
+          "price": 422.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Xiaomi Robot Vacuum X20+ más barato?",
+      "keywords": [
+        "xiaomi",
+        "robot aspirador",
+        "vacuum"
+      ]
+    },
+    {
+      "id": "awin-taurus-cafetera",
+      "name": "Taurus Barista Multicapsule",
+      "category": "hogar-cocina",
+      "description": "Taurus Barista Multicapsule — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 145.63,
+      "originalPrice": 183.95,
+      "discount": 19,
+      "rating": 4.7,
+      "reviews": 2670,
+      "badge": "Café",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Taurus%20Barista%20Multicapsule",
+          "price": 145.63,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Taurus%20Barista%20Multicapsule",
+          "price": 146.03,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Taurus%20Barista%20Multicapsule",
+          "price": 153.68,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Taurus%20Barista%20Multicapsule",
+          "price": 154.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Taurus%20Barista%20Multicapsule",
+          "price": 156.06,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Taurus%20Barista%20Multicapsule",
+          "price": 157.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Taurus Barista Multicapsule más barato?",
+      "keywords": [
+        "taurus",
+        "cafetera",
+        "capsulas"
+      ]
+    },
+    {
+      "id": "awin-moulinex-air-fryer",
+      "name": "Moulinex Easy Fry Mega",
+      "category": "hogar-cocina",
+      "description": "Moulinex Easy Fry Mega — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 125.59,
+      "originalPrice": 169.74,
+      "discount": 24,
+      "rating": 4.3999999999999995,
+      "reviews": 2893,
+      "badge": "Air fryer",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Moulinex%20Easy%20Fry%20Mega",
+          "price": 125.59,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Moulinex%20Easy%20Fry%20Mega",
+          "price": 127.72,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Moulinex%20Easy%20Fry%20Mega",
+          "price": 129.25,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Moulinex%20Easy%20Fry%20Mega",
+          "price": 134.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Moulinex%20Easy%20Fry%20Mega",
+          "price": 134.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Moulinex%20Easy%20Fry%20Mega",
+          "price": 136.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Moulinex Easy Fry Mega más barato?",
+      "keywords": [
+        "moulinex",
+        "freidora aire",
+        "air fryer"
+      ]
+    },
+    {
+      "id": "awin-rowenta-aspirador",
+      "name": "Rowenta X-Force Flex 14.60",
+      "category": "hogar",
+      "description": "Rowenta X-Force Flex 14.60 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 339.61,
+      "originalPrice": 425.61,
+      "discount": 18,
+      "rating": 4.3999999999999995,
+      "reviews": 2577,
+      "badge": "Aspirador",
+      "trending": true,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Rowenta%20X-Force%20Flex%2014.60",
+          "price": 339.61,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Rowenta%20X-Force%20Flex%2014.60",
+          "price": 339.75,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Rowenta%20X-Force%20Flex%2014.60",
+          "price": 345.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Rowenta%20X-Force%20Flex%2014.60",
+          "price": 357.23,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Rowenta%20X-Force%20Flex%2014.60",
+          "price": 362.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Rowenta%20X-Force%20Flex%2014.60",
+          "price": 369.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Rowenta X-Force Flex 14.60 más barato?",
+      "keywords": [
+        "rowenta",
+        "aspirador",
+        "sin cable"
+      ]
+    },
+    {
+      "id": "awin-columbia-chaqueta",
+      "name": "Columbia Chaqueta impermeable",
+      "category": "deportes",
+      "description": "Columbia Chaqueta impermeable — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 83.66,
+      "originalPrice": 123.61,
+      "discount": 28,
+      "rating": 4.6,
+      "reviews": 2739,
+      "badge": "Outdoor",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Columbia%20Chaqueta%20impermeable",
+          "price": 83.66,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Columbia%20Chaqueta%20impermeable",
+          "price": 89.65,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Columbia%20Chaqueta%20impermeable",
+          "price": 91.67,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Columbia%20Chaqueta%20impermeable",
+          "price": 91.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Columbia%20Chaqueta%20impermeable",
+          "price": 92.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Columbia%20Chaqueta%20impermeable",
+          "price": 93.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Columbia%20Chaqueta%20impermeable",
+          "price": 94.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Columbia Chaqueta impermeable más barato?",
+      "keywords": [
+        "columbia",
+        "chaqueta",
+        "trekking"
+      ]
+    },
+    {
+      "id": "awin-the-north-face-mochila",
+      "name": "The North Face Borealis Mochila",
+      "category": "deportes",
+      "description": "The North Face Borealis Mochila — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 74.26,
+      "originalPrice": 92.94,
+      "discount": 15,
+      "rating": 4.7,
+      "reviews": 5871,
+      "badge": "Mochila",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=The%20North%20Face%20Borealis%20Mochila",
+          "price": 74.26,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=The%20North%20Face%20Borealis%20Mochila",
+          "price": 77.05,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=The%20North%20Face%20Borealis%20Mochila",
+          "price": 79.83,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=The%20North%20Face%20Borealis%20Mochila",
+          "price": 80.05,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=The%20North%20Face%20Borealis%20Mochila",
+          "price": 82.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=The%20North%20Face%20Borealis%20Mochila",
+          "price": 82.21,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=The%20North%20Face%20Borealis%20Mochila",
+          "price": 83.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar The North Face Borealis Mochila más barato?",
+      "keywords": [
+        "north face",
+        "mochila",
+        "outdoor"
+      ]
+    },
+    {
+      "id": "awin-specialized-helmet",
+      "name": "Casco Specialized Align II",
+      "category": "deportes",
+      "description": "Casco Specialized Align II — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 46.06,
+      "originalPrice": 54.44,
+      "discount": 10,
+      "rating": 4.3999999999999995,
+      "reviews": 765,
+      "badge": "Ciclismo",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Casco%20Specialized%20Align%20II",
+          "price": 46.06,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Casco%20Specialized%20Align%20II",
+          "price": 48.12,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Casco%20Specialized%20Align%20II",
+          "price": 49.09,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Casco%20Specialized%20Align%20II",
+          "price": 50.26,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Casco%20Specialized%20Align%20II",
+          "price": 50.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Casco%20Specialized%20Align%20II",
+          "price": 51.2,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Casco%20Specialized%20Align%20II",
+          "price": 51.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Casco Specialized Align II más barato?",
+      "keywords": [
+        "casco",
+        "ciclismo",
+        "specialized"
+      ]
+    },
+    {
+      "id": "awin-canon-eos-r50",
+      "name": "Canon EOS R50 Kit",
+      "category": "electronica",
+      "description": "Canon EOS R50 Kit — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 793.59,
+      "originalPrice": 897.75,
+      "discount": 11,
+      "rating": 4.5,
+      "reviews": 4086,
+      "badge": "Mirrorless",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Canon%20EOS%20R50%20Kit",
+          "price": 793.59,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Canon%20EOS%20R50%20Kit",
+          "price": 802.58,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Canon%20EOS%20R50%20Kit",
+          "price": 812.04,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Canon%20EOS%20R50%20Kit",
+          "price": 820.58,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Canon%20EOS%20R50%20Kit",
+          "price": 830.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Canon%20EOS%20R50%20Kit",
+          "price": 846.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Canon EOS R50 Kit más barato?",
+      "keywords": [
+        "canon",
+        "eos r50",
+        "camara"
+      ]
+    },
+    {
+      "id": "awin-sony-wh1000xm5",
+      "name": "Sony WH-1000XM5",
+      "category": "electronica",
+      "description": "Sony WH-1000XM5 — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 290.61,
+      "originalPrice": 373.75,
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 8302,
+      "badge": "Premium ANC",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Sony%20WH-1000XM5",
+          "price": 290.61,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Sony%20WH-1000XM5",
+          "price": 293.31,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Sony%20WH-1000XM5",
+          "price": 310.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Sony%20WH-1000XM5",
+          "price": 311.57,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Sony%20WH-1000XM5",
+          "price": 313.3,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Sony%20WH-1000XM5",
+          "price": 316.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Sony WH-1000XM5 más barato?",
+      "keywords": [
+        "sony",
+        "wh1000xm5",
+        "auriculares"
+      ]
+    },
+    {
+      "id": "awin-huawei-matepad",
+      "name": "Huawei MatePad 11.5\"",
+      "category": "informatica",
+      "description": "Huawei MatePad 11.5\" — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 272.44,
+      "originalPrice": 320.69,
+      "discount": 13,
+      "rating": 4.7,
+      "reviews": 3717,
+      "badge": "Tablet",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Huawei%20MatePad%2011.5%22",
+          "price": 272.44,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Huawei%20MatePad%2011.5%22",
+          "price": 276.58,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Huawei%20MatePad%2011.5%22",
+          "price": 277.22,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Huawei%20MatePad%2011.5%22",
+          "price": 290.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Huawei%20MatePad%2011.5%22",
+          "price": 291.96,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Huawei%20MatePad%2011.5%22",
+          "price": 295.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Huawei MatePad 11.5\" más barato?",
+      "keywords": [
+        "huawei",
+        "matepad",
+        "tablet"
+      ]
+    },
+    {
+      "id": "awin-logitech-g502",
+      "name": "Logitech G502 X Lightspeed",
+      "category": "gaming",
+      "description": "Logitech G502 X Lightspeed — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 116.79,
+      "originalPrice": 143.37,
+      "discount": 17,
+      "rating": 4.3999999999999995,
+      "reviews": 1049,
+      "badge": "Ratón gaming",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=Logitech%20G502%20X%20Lightspeed",
+          "price": 116.79,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Logitech%20G502%20X%20Lightspeed",
+          "price": 120.61,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=Logitech%20G502%20X%20Lightspeed",
+          "price": 122.81,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Logitech%20G502%20X%20Lightspeed",
+          "price": 123.26,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Logitech%20G502%20X%20Lightspeed",
+          "price": 123.76,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Logitech%20G502%20X%20Lightspeed",
+          "price": 126.14,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Logitech G502 X Lightspeed más barato?",
+      "keywords": [
+        "logitech",
+        "g502",
+        "raton gaming"
+      ]
+    },
+    {
+      "id": "awin-steelseries-apex",
+      "name": "SteelSeries Apex Pro TKL",
+      "category": "gaming",
+      "description": "SteelSeries Apex Pro TKL — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 185.75,
+      "originalPrice": 219.77,
+      "discount": 14,
+      "rating": 4.7,
+      "reviews": 6068,
+      "badge": "Teclado pro",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "decathlon",
+          "url": "https://www.decathlon.es/search?query=SteelSeries%20Apex%20Pro%20TKL",
+          "price": 185.75,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "elcorteingles",
+          "url": "https://www.elcorteingles.es/search/?s=SteelSeries%20Apex%20Pro%20TKL",
+          "price": 192.25,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=SteelSeries%20Apex%20Pro%20TKL",
+          "price": 194.53,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=SteelSeries%20Apex%20Pro%20TKL",
+          "price": 196.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=SteelSeries%20Apex%20Pro%20TKL",
+          "price": 197.85,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=SteelSeries%20Apex%20Pro%20TKL",
+          "price": 200.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar SteelSeries Apex Pro TKL más barato?",
+      "keywords": [
+        "steelseries",
+        "teclado",
+        "gaming"
+      ]
+    },
+    {
+      "id": "awin-elden-ring-eci",
+      "name": "Elden Ring PS5 — Fnac",
+      "category": "gaming",
+      "description": "Elden Ring PS5 — Fnac — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 38.7,
+      "originalPrice": 53.2,
+      "discount": 25,
+      "rating": 4.7,
+      "reviews": 7161,
+      "badge": "Videojuego",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Elden%20Ring%20PS5",
+          "price": 38.7,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Elden%20Ring%20PS5",
+          "price": 41.5,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Elden%20Ring%20PS5",
+          "price": 42.29,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Elden Ring PS5 — Fnac más barato?",
+      "keywords": [
+        "elden ring",
+        "ps5",
+        "juego"
+      ]
+    },
+    {
+      "id": "awin-harry-potter-cdl",
+      "name": "Colección Harry Potter — CDL",
+      "category": "libros",
+      "description": "Colección Harry Potter — CDL — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 85.44,
+      "originalPrice": 104.71,
+      "discount": 15,
+      "rating": 4.3999999999999995,
+      "reviews": 3115,
+      "badge": "Saga",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "casadellibro",
+          "url": "https://www.casadellibro.com/resultados-busqueda?keyword=Colecci%C3%B3n%20Harry%20Potter",
+          "price": 85.44,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Colecci%C3%B3n%20Harry%20Potter",
+          "price": 92.56,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Colecci%C3%B3n%20Harry%20Potter",
+          "price": 94.34,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Colección Harry Potter — CDL más barato?",
+      "keywords": [
+        "harry potter",
+        "libros",
+        "coleccion"
+      ]
+    },
+    {
+      "id": "awin-sapiens-cdl",
+      "name": "Sapiens — Yuval Noah Harari",
+      "category": "libros",
+      "description": "Sapiens — Yuval Noah Harari — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 12.38,
+      "originalPrice": 14.66,
+      "discount": 12,
+      "rating": 4.8999999999999995,
+      "reviews": 3870,
+      "badge": "No ficción",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "casadellibro",
+          "url": "https://www.casadellibro.com/resultados-busqueda?keyword=Sapiens",
+          "price": 12.38,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Sapiens",
+          "price": 13.42,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Sapiens",
+          "price": 13.67,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Sapiens — Yuval Noah Harari más barato?",
+      "keywords": [
+        "sapiens",
+        "harari",
+        "libro"
+      ]
+    },
+    {
+      "id": "awin-backmarket-galaxy-s22",
+      "name": "Samsung Galaxy S22 Reacondicionado",
+      "category": "electronica",
+      "description": "Samsung Galaxy S22 Reacondicionado — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 256.68,
+      "originalPrice": 410.29,
+      "discount": 32,
+      "rating": 4.7,
+      "reviews": 2447,
+      "badge": "Móvil refurb",
+      "trending": true,
+      "featured": true,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "backmarket",
+          "url": "https://www.backmarket.es/es-es/search?q=Samsung%20Galaxy%20S22%20Reacondicionado",
+          "price": 256.68,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Reacondicionado — comisión Awin"
+        },
+        {
+          "store": "pccomponentes",
+          "url": "https://www.pccomponentes.com/search/?query=Samsung%20Galaxy%20S22%20Reacondicionado",
+          "price": 287.37,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "fnac",
+          "url": "https://www.fnac.es/SearchResult/ResultList.aspx?Search=Samsung%20Galaxy%20S22%20Reacondicionado",
+          "price": 287.37,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=Samsung%20Galaxy%20S22%20Reacondicionado",
+          "price": 290.16,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=Samsung%20Galaxy%20S22%20Reacondicionado",
+          "price": 295.74,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar Samsung Galaxy S22 Reacondicionado más barato?",
+      "keywords": [
+        "galaxy s22",
+        "reacondicionado",
+        "samsung"
+      ]
+    },
+    {
+      "id": "awin-lg-frigorifico",
+      "name": "LG Frigorífico combi 367L",
+      "category": "hogar",
+      "description": "LG Frigorífico combi 367L — comparativa en tiendas Awin España (PcComponentes, Fnac, Decathlon, Back Market…).",
+      "price": 783.02,
+      "originalPrice": 951.19,
+      "discount": 16,
+      "rating": 4.5,
+      "reviews": 3978,
+      "badge": "Frigorífico",
+      "trending": false,
+      "featured": false,
+      "listingKind": "deal",
+      "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=600&h=600&fit=crop&q=80",
+      "offers": [
+        {
+          "store": "lg",
+          "url": "https://www.lg.com/es/search?q=LG%20Frigor%C3%ADfico%20combi%20367L",
+          "price": 783.02,
+          "linkKind": "search",
+          "priceEstimated": true
+        },
+        {
+          "store": "mediamarkt",
+          "url": "https://www.mediamarkt.es/es/search.html?query=LG%20Frigor%C3%ADfico%20combi%20367L",
+          "price": 830.96,
+          "linkKind": "search",
+          "priceEstimated": true,
+          "note": "Sin Awin — Tradedoubler pendiente"
+        },
+        {
+          "store": "amazon",
+          "url": "https://www.amazon.es/s?k=LG%20Frigor%C3%ADfico%20combi%20367L",
+          "price": 846.94,
+          "linkKind": "search",
+          "priceEstimated": true
+        }
+      ],
+      "videoHook": "¿Dónde comprar LG Frigorífico combi 367L más barato?",
+      "keywords": [
+        "lg",
+        "frigorifico",
+        "electrodomestico"
+      ]
+    }
+  ]
+}

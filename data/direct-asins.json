@@ -13,13 +13,16 @@
     "imageUrl": "https://m.media-amazon.com/images/I/71IPU96hBjL._AC_SX522_.jpg"
   },
   "samsung-galaxy-a55-5g-128gb": {
-    "amazon": "B0CYLWTZD1"
+    "amazon": "B0CYLWTZD1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71GSpGj86vL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "iphone-15-128gb": {
-    "amazon": "B0CVJ23L79"
+    "amazon": "B0CVJ23L79",
+    "imageUrl": "https://m.media-amazon.com/images/I/61eEYLATF9L._AC_SX679_.jpg"
   },
   "google-pixel-8a": {
-    "amazon": "B0DSWFHTL2"
+    "amazon": "B0DSWFHTL2",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OA-qXBpSL._AC_SX679_.jpg"
   },
   "samsung-galaxy-s24-ultra": {
     "amazon": "B0CMD1F7T6"
@@ -35,70 +38,90 @@
     "imageUrl": "https://m.media-amazon.com/images/I/51R8U4qEfAL._AC_SL1500_.jpg"
   },
   "kindle-paperwhite-16gb": {
-    "amazon": "B0CFPWLGF2"
+    "amazon": "B0CFPWLGF2",
+    "imageUrl": "https://m.media-amazon.com/images/I/61RI4fvXHqL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "playstation-5-slim-digital-edition": {
-    "amazon": "B0CL61F39H"
+    "amazon": "B0CL61F39H",
+    "imageUrl": "https://m.media-amazon.com/images/I/61NwSVXwhdL._AC_SX679_.jpg"
   },
   "nintendo-switch-oled": {
-    "amazon": "B098RKWHHZ"
+    "amazon": "B098RKWHHZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_SX679_.jpg"
   },
   "steam-deck-oled-512gb": {
-    "amazon": "B0CKLPSNCZ"
+    "amazon": "B0CP2YVFD4",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Nw-kEg9zL._AC_SX569_.jpg"
   },
   "nvidia-rtx-4060-ti-8gb": {
-    "amazon": "B0CQP2N9BD"
+    "amazon": "B0C8ZS7N73",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MfdgsWMFL._AC_SX679_.jpg"
   },
   "samsung-990-pro-1tb-nvme-pcie-4-0": {
-    "amazon": "B0BHJJ9Y77"
+    "amazon": "B0BHJJ9Y77",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OWtcxKgvL._AC_SX679_.jpg"
   },
   "dyson-v15-detect-absolute": {
-    "amazon": "B0CT97D9R2"
+    "amazon": "B0CT97D9R2",
+    "imageUrl": "https://m.media-amazon.com/images/I/61m8L2J6pQL._AC_SX569_.jpg"
   },
   "roborock-qrevo-s-robot-aspirador": {
-    "amazon": "B0GHN3V6BP"
+    "amazon": "B0GHN3V6BP",
+    "imageUrl": "https://m.media-amazon.com/images/I/61eb9ZHo-CL._AC_SX569_.jpg"
   },
   "garmin-forerunner-265": {
-    "amazon": "B0BS1T9J4Y"
+    "amazon": "B0BS1T9J4Y",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rp-pRCpRL._AC_SX679_.jpg"
   },
   "crocs-classic": {
-    "amazon": "B0BWHDDH6W"
+    "amazon": "B0BWHDDH6W",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pr3LpY85L._AC_SX535_.jpg"
   },
   "nespresso-vertuo-pop-cafetera": {
-    "amazon": "B0C4BV2L5K"
+    "amazon": "B0FTFVSK48",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qUUB9hCOL._AC_SX569_.jpg"
   },
   "freidora-de-aire-cosori-5-5l": {
-    "amazon": "B07VTQH9L8"
+    "amazon": "B07N8N6C85",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HDt6NDs7L._AC_SX569_.jpg"
   },
   "logitech-mx-master-3s": {
-    "amazon": "B09HM94VDS"
+    "amazon": "B09HM94VDS",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+OT7FPABL._AC_SX679_.jpg"
   },
   "meta-quest-3-128gb": {
-    "amazon": "B0CG8S7G52"
+    "amazon": "B09N5CNS5T",
+    "imageUrl": "https://m.media-amazon.com/images/I/61e424BTGoL._AC_SX522_.jpg"
   },
   "apple-watch-se-2024-gps-40mm": {
-    "amazon": "B0DGJ5K6B4"
+    "amazon": "B0FQG1VG1C",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sNr8bUALL._AC_SX425_.jpg"
   },
   "fire-tv-stick-4k-max": {
-    "amazon": "B0CJM1GNFQ"
+    "amazon": "B0CW4HD359",
+    "imageUrl": "https://m.media-amazon.com/images/I/61HPNpd+CsL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "echo-pop-altavoz-alexa": {
     "amazon": "B09B8V1C47"
   },
   "lego-technic-ferrari-daytona-sp3": {
-    "amazon": "B09YVNK8DM"
+    "amazon": "B09QFSCWD9",
+    "imageUrl": "https://m.media-amazon.com/images/I/81+GoMkjRWL._AC_SX679_.jpg"
   },
   "dji-mini-4-pro": {
     "amazon": "B0C7VP6G5Z"
   },
   "gopro-hero12-black": {
-    "amazon": "B0CF3VVTLG"
+    "amazon": "B0CF3VVTLG",
+    "imageUrl": "https://m.media-amazon.com/images/I/61dUta09HGL._AC_SX679_.jpg"
   },
   "anker-735-gan-cargador-65w-3-puertos": {
-    "amazon": "B09X5VJ8DK"
+    "amazon": "B09LLRNGSD",
+    "imageUrl": "https://m.media-amazon.com/images/I/51TuNcAsEuL._AC_SY879_.jpg"
   },
   "samsung-galaxy-tab-s9-fe": {
-    "amazon": "B0F1DLNG74"
+    "amazon": "B0F1DLNG74",
+    "imageUrl": "https://m.media-amazon.com/images/I/61lR3gNQ6bL._AC_SX679_.jpg"
   },
   "xiami-redmi-note-13-pro-5g": {
     "amazon": "B0CRBYR28Y"
@@ -107,7 +130,8 @@
     "amazon": "B09HN7P6PL"
   },
   "philips-lumea-prestige-ipl": {
-    "amazon": "B07W4W7Y4J"
+    "amazon": "B07HX2KMXK",
+    "imageUrl": "https://m.media-amazon.com/images/I/71py5Ymf4cL._AC_SX679_.jpg"
   },
   "roomba-j7-base-autovaciado": {
     "amazon": "B09CZPQ7GC"
@@ -199,769 +223,1024 @@
     "imageUrl": "https://m.media-amazon.com/images/I/61uqRLMMYyL._AC_SY535_.jpg"
   },
   "pack-ropa-interior-hanes": {
-    "amazon": "B09FCCHNSG"
+    "amazon": "B09FCCHNSG",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tmjAtwNYL._AC_SX679_.jpg"
   },
   "asics-gel-nimbus": {
-    "amazon": "B0G2MMBLCB"
+    "amazon": "B0G2MMBLCB",
+    "imageUrl": "https://m.media-amazon.com/images/I/617wHjoBPbL._AC_SY695_.jpg"
   },
   "mancuernas-ajustables": {
-    "amazon": "B07BLVML5W"
+    "amazon": "B07BLVML5W",
+    "imageUrl": "https://m.media-amazon.com/images/I/717SSa6wIgL._AC_SX679_.jpg"
   },
   "esterilla-yoga": {
-    "amazon": "B09NDKFYKD"
+    "amazon": "B09NDKFYKD",
+    "imageUrl": "https://m.media-amazon.com/images/I/41z6CKj86bL._AC_SX522_.jpg"
   },
   "pelota-futbol-select": {
-    "amazon": "B0DPRBPZ1R"
+    "amazon": "B0DPRBPZ1R",
+    "imageUrl": "https://m.media-amazon.com/images/I/81klyL-zRuL._AC_SX522_.jpg"
   },
   "pala-padel-head": {
-    "amazon": "B0DNTTDKKB"
+    "amazon": "B0DNTTDKKB",
+    "imageUrl": "https://m.media-amazon.com/images/I/616ddYe+QRL._AC_SX679_.jpg"
   },
   "bici-estatica": {
-    "amazon": "B003FSTA0U"
+    "amazon": "B003FSTA0U",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Xwfpjq14L._AC_SX522_.jpg"
   },
   "tienda-campana-quechua": {
-    "amazon": "B084WVRL44"
+    "amazon": "B084WVRL44",
+    "imageUrl": "https://m.media-amazon.com/images/I/61WSevgyLxL._AC_SX522_.jpg"
   },
   "barbacoa-weber": {
-    "amazon": "B002S2S9PQ"
+    "amazon": "B002S2S9PQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61RNYs9UdGL._AC_SX569_.jpg"
   },
   "purina-pro-plan": {
-    "amazon": "B0178JR2UQ"
+    "amazon": "B0178JR2UQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71KraxuK5-L._AC_SX522_PIbundle-6,TopRight,0,0_SH20_.jpg"
   },
   "arenero-gatos-automatico": {
-    "amazon": "B0D9QGW2M6"
+    "amazon": "B0D9QGW2M6",
+    "imageUrl": "https://m.media-amazon.com/images/I/61LSN9Hwj4L._AC_SX522_.jpg"
   },
   "cama-perro-ortopedica": {
-    "amazon": "B0GGBJD59H"
+    "amazon": "B0GGBJD59H",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tTZUcD6BL._AC_SX522_.jpg"
   },
   "pampers-premium": {
-    "amazon": "B08P71V7L8"
+    "amazon": "B08P71V7L8",
+    "imageUrl": "https://m.media-amazon.com/images/I/71P58cY-DZL._AC_SX679_PIbundle-30,TopRight,0,0_SH20_.jpg"
   },
   "monitor-bebe": {
-    "amazon": "B09R4SJFDY"
+    "amazon": "B09R4SJFDY",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RJInv2PTL._AC_SX522_.jpg"
   },
   "silla-paseo-ligera": {
-    "amazon": "B0DLWK3LKH"
+    "amazon": "B0DLWK3LKH",
+    "imageUrl": "https://m.media-amazon.com/images/I/51q-tb7hLgL._AC_SX522_.jpg"
   },
   "lego-classic": {
-    "amazon": "B00PY3EYQO"
+    "amazon": "B00PY3EYQO",
+    "imageUrl": "https://m.media-amazon.com/images/I/91V0m41o1-L._AC_SX679_.jpg"
   },
   "nerf-elite": {
-    "amazon": "B09Q8CK8YX"
+    "amazon": "B09Q8CK8YX",
+    "imageUrl": "https://m.media-amazon.com/images/I/51ttljlU-LL._AC_SX679_.jpg"
   },
   "dash-cam-70mai": {
-    "amazon": "B0FC68MRZC"
+    "amazon": "B0FC68MRZC",
+    "imageUrl": "https://m.media-amazon.com/images/I/71u5wJOnm0L._AC_SX679_.jpg"
   },
   "aspirador-coche": {
-    "amazon": "B017COMWTS"
+    "amazon": "B017COMWTS",
+    "imageUrl": "https://m.media-amazon.com/images/I/61VdilUDEUL._AC_SX522_.jpg"
   },
   "nespresso-vertuo": {
-    "amazon": "B0FRS4CNYF"
+    "amazon": "B0FRS4CNYF",
+    "imageUrl": "https://m.media-amazon.com/images/I/511uABVL-BL._AC_SX569_.jpg"
   },
   "proteina-myprotein": {
-    "amazon": "B008BH7KKM"
+    "amazon": "B008BH7KKM",
+    "imageUrl": "https://m.media-amazon.com/images/I/51TAQnfNZKL._AC_SX679_.jpg"
   },
   "delonghi-dedica": {
-    "amazon": "B06WGTZ874"
+    "amazon": "B06WGTZ874",
+    "imageUrl": "https://m.media-amazon.com/images/I/61kiURHfQrL._AC_SX569_.jpg"
   },
   "samsung-tv-oled": {
-    "amazon": "B0D6RZGC3P"
+    "amazon": "B0D6RZGC3P",
+    "imageUrl": "https://m.media-amazon.com/images/I/816Mgi3m6iL._AC_SX679_.jpg"
   },
   "fire-tv-stick-4k": {
-    "amazon": "B0CW4HD359"
+    "amazon": "B0CW4HD359",
+    "imageUrl": "https://m.media-amazon.com/images/I/61HPNpd+CsL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "barra-sonido-samsung": {
-    "amazon": "B0F1D9PZ98"
+    "amazon": "B0F1D9PZ98",
+    "imageUrl": "https://m.media-amazon.com/images/I/71gZsleRcIL._AC_SX679_.jpg"
   },
   "samsung-galaxy-s25": {
-    "amazon": "B0DPXMJNV7"
+    "amazon": "B0DPXMJNV7",
+    "imageUrl": "https://m.media-amazon.com/images/I/61taJnkFUGL._AC_SX679_.jpg"
   },
   "ipad-11-2024": {
-    "amazon": "B0DZ75RKZH"
+    "amazon": "B0DZ75RKZH",
+    "imageUrl": "https://m.media-amazon.com/images/I/616FFqht2sL._AC_SX425_.jpg"
   },
   "apple-watch-10": {
-    "amazon": "B0DW4KHND4"
+    "amazon": "B0DW4KHND4",
+    "imageUrl": "https://m.media-amazon.com/images/I/61d7H5FRAWL._AC_SX679_.jpg"
   },
   "dyson-airwrap": {
-    "amazon": "B0FXXNWXV4"
+    "amazon": "B0FXXNWXV4",
+    "imageUrl": "https://m.media-amazon.com/images/I/612j3CEnPkL._SX522_.jpg"
   },
   "xbox-series-x": {
-    "amazon": "B08H75RTZ8"
+    "amazon": "B08H75RTZ8",
+    "imageUrl": "https://m.media-amazon.com/images/I/61WV2vIMfFL._AC_SX679_.jpg"
   },
   "monitor-27-gaming": {
-    "amazon": "B09CD32DNH"
+    "amazon": "B09CD32DNH",
+    "imageUrl": "https://m.media-amazon.com/images/I/91y6Xib14-L._AC_SX679_.jpg"
   },
   "purificador-xiaomi": {
-    "amazon": "B09QX6JN98"
+    "amazon": "B09QX6JN98",
+    "imageUrl": "https://m.media-amazon.com/images/I/61zNsy+PnqL._AC_SX569_.jpg"
   },
   "cafetera-moka": {
-    "amazon": "B0DBHLTH1Q"
+    "amazon": "B0DBHLTH1Q",
+    "imageUrl": "https://m.media-amazon.com/images/I/810z4EEURgL._AC_SX569_.jpg"
   },
   "theragun-mini": {
-    "amazon": "B0BMJKDBVR"
+    "amazon": "B0BMJKDBVR",
+    "imageUrl": "https://m.media-amazon.com/images/I/61xejp3eevL._AC_SX679_.jpg"
   },
   "bascula-withings": {
-    "amazon": "B0GKB7DYHV"
+    "amazon": "B0GKB7DYHV",
+    "imageUrl": "https://m.media-amazon.com/images/I/51hcgcBF6UL._AC_SX679_.jpg"
   },
   "raton-logitech-g502": {
-    "amazon": "B07W7L4RBX"
+    "amazon": "B07W7L4RBX",
+    "imageUrl": "https://m.media-amazon.com/images/I/61-F0KQym0L._AC_SX679_.jpg"
   },
   "samsung-galaxy-buds3": {
-    "amazon": "B0G9BBMM6K"
+    "amazon": "B0G9BBMM6K",
+    "imageUrl": "https://m.media-amazon.com/images/I/61itDWON3oL._AC_SX679_.jpg"
   },
   "mochila-portatil": {
-    "amazon": "B07KYSH6BS"
+    "amazon": "B07KYSH6BS",
+    "imageUrl": "https://m.media-amazon.com/images/I/81PZf4-7BWL._AC_SY879_.jpg"
   },
   "ring-doorbell": {
-    "amazon": "B09WZBVWL9"
+    "amazon": "B09WZBVWL9",
+    "imageUrl": "https://m.media-amazon.com/images/I/51kRnduh8KL._SX425_.jpg"
   },
   "philips-hue-starter": {
-    "amazon": "B099NQM99M"
+    "amazon": "B099NQM99M",
+    "imageUrl": "https://m.media-amazon.com/images/I/71A9nTHrYjL._AC_SX569_.jpg"
   },
   "converse-chuck": {
-    "amazon": "B0FDHX693D"
+    "amazon": "B0FDHX693D",
+    "imageUrl": "https://m.media-amazon.com/images/I/51TfG+Vl1zL._AC_SY535_.jpg"
   },
   "casio-a168": {
-    "amazon": "B000LAKYW8"
+    "amazon": "B000LAKYW8",
+    "imageUrl": "https://m.media-amazon.com/images/I/613BThUhjoL._AC_SX679_.jpg"
   },
   "zalando-gift-card-style": {
-    "amazon": "B0D674JDZZ"
+    "amazon": "B0D674JDZZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61bIasXTHcL._AC_SY535_.jpg"
   },
   "cinta-correr-plegable": {
-    "amazon": "B0F8BHZR9J"
+    "amazon": "B0F8BHZR9J",
+    "imageUrl": "https://m.media-amazon.com/images/I/818v7ZfIg8L._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "kettlebell-16kg": {
-    "amazon": "B0BSX7R31K"
+    "amazon": "B0BSX7R31K",
+    "imageUrl": "https://m.media-amazon.com/images/I/71FmKDwuGiL._AC_SX522_.jpg"
   },
   "gopro-hero13": {
-    "amazon": "B0GWFKMJYG"
+    "amazon": "B0GWFKMJYG",
+    "imageUrl": "https://m.media-amazon.com/images/I/51jJ2Tv3jEL._AC_SX679_.jpg"
   },
   "la-roche-posay": {
-    "amazon": "B01HDGHLB4"
+    "amazon": "B01HDGHLB4",
+    "imageUrl": "https://m.media-amazon.com/images/I/41gYPAJ3ymL._SX522_.jpg"
   },
   "perfume-armani": {
-    "amazon": "B07JZFBJ9P"
+    "amazon": "B07JZFBJ9P",
+    "imageUrl": "https://m.media-amazon.com/images/I/51it79BMc4L._AC_SX522_.jpg"
   },
   "playmobil-city": {
-    "amazon": "B0BKQX79WM"
+    "amazon": "B0BKQX79WM",
+    "imageUrl": "https://m.media-amazon.com/images/I/7152kwNdt8L._AC_SX679_.jpg"
   },
   "hot-wheels-track": {
-    "amazon": "B0DPHB51XY"
+    "amazon": "B0DPHB51XY",
+    "imageUrl": "https://m.media-amazon.com/images/I/81sl8VQyMuL._AC_SX679_.jpg"
   },
   "cargador-coche-elec": {
-    "amazon": "B095B29DFH"
+    "amazon": "B095B29DFH",
+    "imageUrl": "https://m.media-amazon.com/images/I/51wLbF8CVSL._AC_SX679_.jpg"
   },
   "piscina-hinchable": {
-    "amazon": "B01ARVBS3E"
+    "amazon": "B01ARVBS3E",
+    "imageUrl": "https://m.media-amazon.com/images/I/61om+nYtbXS._AC_SX569_.jpg"
   },
   "robot-cocina-moulinex": {
-    "amazon": "B084ZP1H7Z"
+    "amazon": "B084ZP1H7Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MXwSC-xbL._AC_SX569_.jpg"
   },
   "macbook-air-m3": {
-    "amazon": "B0DZDCL2XV"
+    "amazon": "B0DZDCL2XV",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ZdDLeldzL._AC_SX425_.jpg"
   },
   "ssd-samsung-990": {
-    "amazon": "B0BXX2PBXP"
+    "amazon": "B0BXX2PBXP",
+    "imageUrl": "https://m.media-amazon.com/images/I/515oWUMt0JL._AC_SX679_.jpg"
   },
   "steam-deck-oled": {
-    "amazon": "B0CP2YVFD4"
+    "amazon": "B0CP2YVFD4",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Nw-kEg9zL._AC_SX569_.jpg"
   },
   "mochila-viaje-cabin": {
-    "amazon": "B01M7UBL11"
+    "amazon": "B01M7UBL11",
+    "imageUrl": "https://m.media-amazon.com/images/I/51hHF9sOrzL._AC_SX679_.jpg"
   },
   "expedia-viajes": {
-    "amazon": "B0D5V3JPPQ"
+    "amazon": "B0D5V3JPPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D5V3JPPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "shein-cupon-style": {
-    "amazon": "B0CSHHSVL2"
+    "amazon": "B0CSHHSVL2",
+    "imageUrl": "https://m.media-amazon.com/images/I/71HaSva-1xL._AC_SY741_.jpg"
   },
   "aliexpress-buds": {
-    "amazon": "B0DPXSW5PH"
+    "amazon": "B0DPXSW5PH",
+    "imageUrl": "https://m.media-amazon.com/images/I/414NozbDS7L._AC_SX679_.jpg"
   },
   "nordvpn-sub": {
-    "amazon": "B0D7FFRHG5"
+    "amazon": "B0D7FFRHG5",
+    "imageUrl": "https://m.media-amazon.com/images/I/61cJFu2ZiXL._AC_SX679_.jpg"
   },
   "comida-hellofresh": {
-    "amazon": "1784724653"
+    "amazon": "1784724653",
+    "imageUrl": "https://m.media-amazon.com/images/I/71-+45PcbEL._SY342_.jpg"
   },
   "sprinter-zapatillas": {
-    "amazon": "B08D11R67B"
+    "amazon": "B08D11R67B",
+    "imageUrl": "https://m.media-amazon.com/images/I/71V1S8Nih-L._AC_SY535_.jpg"
   },
   "worten-tv-deal": {
-    "amazon": "B0GTRP9673"
+    "amazon": "B0GTRP9673",
+    "imageUrl": "https://m.media-amazon.com/images/I/81h5Z2WKzzL._AC_SX679_.jpg"
   },
   "arnes-perro-ruffwear": {
-    "amazon": "B0CLB6VL59"
+    "amazon": "B0CLB6VL59",
+    "imageUrl": "https://m.media-amazon.com/images/I/61pJL0dyh4L._AC_SX522_.jpg"
   },
   "thermomix-tm6": {
-    "amazon": "B0CQ3PR17V"
+    "amazon": "B0CQ3PR17V",
+    "imageUrl": "https://m.media-amazon.com/images/I/71QgVer29JL._AC_SX569_.jpg"
   },
   "bombillas-led-pack": {
-    "amazon": "B09ZBKRMG1"
+    "amazon": "B09ZBKRMG1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71--FpGRTGL._AC_SX569_.jpg"
   },
   "domestika-cursos": {
-    "amazon": "B00EFE2QFY"
+    "amazon": "B00EFE2QFY",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00EFE2QFY&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "carrefour-robot": {
-    "amazon": "B0FJGFPWSS"
+    "amazon": "B0FJGFPWSS",
+    "imageUrl": "https://m.media-amazon.com/images/I/613+VBf3ZML._AC_SX569_.jpg"
   },
   "xiaomi-redmi-note-13-pro-5g": {
-    "amazon": "B0CQ32CLZQ"
+    "amazon": "B0CQ32CLZQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/613MutpiXcL._AC_SX679_.jpg"
   },
   "motorola-edge-40-neo": {
-    "amazon": "B0CF2QQWC2"
+    "amazon": "B0CF2QQWC2",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zqulUxzWL._SY355_.jpg"
   },
   "oppo-reno-12-f-5g": {
-    "amazon": "B0DDL1DMZ2"
+    "amazon": "B0DDL1DMZ2",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tQ4ItzWJL._AC_SX679_.jpg"
   },
   "realme-12-pro-5g": {
-    "amazon": "B0CTJ13KZR"
+    "amazon": "B0CTJ13KZR",
+    "imageUrl": "https://m.media-amazon.com/images/I/71njilHNweL._AC_SX679_.jpg"
   },
   "ipad-10-9-2024-64gb-wifi": {
-    "amazon": "B0DZ75J2WS"
+    "amazon": "B0DZ75J2WS",
+    "imageUrl": "https://m.media-amazon.com/images/I/61xD2n6ttEL._AC_SX425_.jpg"
   },
   "lenovo-tab-p12": {
-    "amazon": "B0DT4ZHQGQ"
+    "amazon": "B0DT4ZHQGQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71u2PvMAG1L._AC_SX679_.jpg"
   },
   "amazon-fire-hd-10": {
-    "amazon": "B0GG8JRB27"
+    "amazon": "B0GG8JRB27",
+    "imageUrl": "https://m.media-amazon.com/images/I/71G09Ca8YYL._AC_SX679_.jpg"
   },
   "xiaomi-pad-6": {
-    "amazon": "B0DZT3YFQX"
+    "amazon": "B0DZT3YFQX",
+    "imageUrl": "https://m.media-amazon.com/images/I/61be0g+xe9L._AC_SX679_.jpg"
   },
   "keychron-k2-pro-teclado-mecanico": {
-    "amazon": "B0BZ8HPT5S"
+    "amazon": "B0BZ8HPT5S",
+    "imageUrl": "https://m.media-amazon.com/images/I/616upN7cF+L._AC_SX679_.jpg"
   },
   "razer-deathadder-v3": {
-    "amazon": "B09ZLV2531"
+    "amazon": "B09ZLV2531",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ohoFWDWYL._AC_SX679_.jpg"
   },
   "logitech-c920-hd-pro-webcam": {
-    "amazon": "B006H967FA"
+    "amazon": "B006H967FA",
+    "imageUrl": "https://m.media-amazon.com/images/I/71eGb1FcyiL._AC_SX679_.jpg"
   },
   "elgato-wave-3-microfono-usb": {
-    "amazon": "B0BJL8SJ59"
+    "amazon": "B0BJL8SJ59",
+    "imageUrl": "https://m.media-amazon.com/images/I/61DR6xjpsGL._AC_SX679_.jpg"
   },
   "steelseries-arctis-nova-7": {
-    "amazon": "B0FS7L9CK4"
+    "amazon": "B0FS7L9CK4",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Av2isMSJL._AC_SX679_.jpg"
   },
   "canon-eos-r50-kit-18-45mm": {
-    "amazon": "B0BWFQ139F"
+    "amazon": "B0BWFQ139F",
+    "imageUrl": "https://m.media-amazon.com/images/I/71hcB+oTP7L._AC_SX679_.jpg"
   },
   "sony-zv-e10-vlogging": {
-    "amazon": "B0FLQ1MF47"
+    "amazon": "B0FLQ1MF47",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Ow71zhJ-L._AC_SX569_.jpg"
   },
   "dji-osmo-pocket-3": {
-    "amazon": "B0CG19FGQ5"
+    "amazon": "B0CG19FGQ5",
+    "imageUrl": "https://m.media-amazon.com/images/I/514LEUejXYL._AC_SX679_.jpg"
   },
   "insta360-x4": {
-    "amazon": "B0FQNWDYMS"
+    "amazon": "B0FQNWDYMS",
+    "imageUrl": "https://m.media-amazon.com/images/I/61RcMQQzqgL._AC_SX679_.jpg"
   },
   "aire-acondicionado-portatil-3000-frigorias": {
-    "amazon": "B0CY2YW8BT"
+    "amazon": "B0CY2YW8BT",
+    "imageUrl": "https://m.media-amazon.com/images/I/81M-0iGi1ML._AC_SX679_.jpg"
   },
   "dyson-purifier-cool-tp07": {
-    "amazon": "B00I8R4VZC"
+    "amazon": "B00I8R4VZC",
+    "imageUrl": "https://m.media-amazon.com/images/I/51PPCE6snAL._AC_SX569_.jpg"
   },
   "ventilador-de-torre-silencioso-rowenta": {
-    "amazon": "B0G93LTWP8"
+    "amazon": "B0G93LTWP8",
+    "imageUrl": "https://m.media-amazon.com/images/I/5124oVFU4JL._AC_SX569_.jpg"
   },
   "radiador-aceite-9-elementos": {
-    "amazon": "B0CM3WPD8D"
+    "amazon": "B0CM3WPD8D",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RFrXmrI4L._AC_SY879_.jpg"
   },
   "termoventilador-ceramico-2000w": {
-    "amazon": "B01M1CCLH6"
+    "amazon": "B01M1CCLH6",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sfS62tzdL._AC_SX569_.jpg"
   },
   "karcher-fc-7-fregona-electrica": {
-    "amazon": "B0CGMCD63W"
+    "amazon": "B0CGMCD63W",
+    "imageUrl": "https://m.media-amazon.com/images/I/51iFBPxXVrL._AC_SX569_.jpg"
   },
   "bissell-spotclean-pro-tapiceria": {
-    "amazon": "B084PSXMQM"
+    "amazon": "B084PSXMQM",
+    "imageUrl": "https://m.media-amazon.com/images/I/6105Hm79qgL._AC_SX569_.jpg"
   },
   "aspirador-ciclonico-700w-compacto": {
-    "amazon": "B09TMDGHPD"
+    "amazon": "B09TMDGHPD",
+    "imageUrl": "https://m.media-amazon.com/images/I/6192XW8PmDL._AC_SX569_.jpg"
   },
   "taladro-percutor-bosch-18v-sin-bateria": {
-    "amazon": "B0FJRKK1FN"
+    "amazon": "B0FJRKK1FN",
+    "imageUrl": "https://m.media-amazon.com/images/I/71nu4KngP4L._AC_SX569_.jpg"
   },
   "sierra-caladora-black-decker-600w": {
-    "amazon": "B00WVGZTHK"
+    "amazon": "B00WVGZTHK",
+    "imageUrl": "https://m.media-amazon.com/images/I/71dAVodn-CL._AC_SX569_.jpg"
   },
   "set-120-piezas-herramientas": {
-    "amazon": "B000K2PF4Y"
+    "amazon": "B000K2PF4Y",
+    "imageUrl": "https://m.media-amazon.com/images/I/819O2H+s44L._AC_SX569_.jpg"
   },
   "nivel-laser-verde-360": {
-    "amazon": "B0FZR7D6HJ"
+    "amazon": "B0FZR7D6HJ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tI1bWWSaL._AC_SX569_.jpg"
   },
   "escalera-aluminio-3-peldanos-plegable": {
-    "amazon": "B0DWYPJT9V"
+    "amazon": "B0DWYPJT9V",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+EnR8ZYNL._AC_SX569_.jpg"
   },
   "silla-ergonomica-oficina-reposabrazos-4d": {
-    "amazon": "B0FR981Z25"
+    "amazon": "B0FR981Z25",
+    "imageUrl": "https://m.media-amazon.com/images/I/81f-UdPPSNL._AC_SX569_.jpg"
   },
   "escritorio-elevable-electrico-140cm": {
-    "amazon": "B0FMQTKZKD"
+    "amazon": "B0FMQTKZKD",
+    "imageUrl": "https://m.media-amazon.com/images/I/71veAyeY9eL._AC_SX569_.jpg"
   },
   "monitor-arm-doble-vesa": {
-    "amazon": "B091ZK3DPV"
+    "amazon": "B091ZK3DPV",
+    "imageUrl": "https://m.media-amazon.com/images/I/71FYY4noshL._AC_SX679_.jpg"
   },
   "mochila-antirrobo-portatil-15-6": {
-    "amazon": "B075SZQN9Q"
+    "amazon": "B075SZQN9Q",
+    "imageUrl": "https://m.media-amazon.com/images/I/816ATBrNmKL._AC_SY879_.jpg"
   },
   "pack-boligrafos-pilot-cuaderno-a5": {
-    "amazon": "B078PKPFM1"
+    "amazon": "B078PKPFM1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71737DDmQWL._AC_SX522_.jpg"
   },
   "kindle-unlimited-3-meses-tarjeta-regalo": {
-    "amazon": "B093CKSC48"
+    "amazon": "B093CKSC48",
+    "imageUrl": "https://m.media-amazon.com/images/I/81bL4J0aGaS._SY385_.jpg"
   },
   "sapiens-yuval-noah-harari-tapa-blanda": {
-    "amazon": "8499926223"
+    "amazon": "8499926223",
+    "imageUrl": "https://m.media-amazon.com/images/I/811PTyrckTL._SY385_.jpg"
   },
   "manga-one-piece-tomo-1": {
-    "amazon": "8411406717"
+    "amazon": "8411406717",
+    "imageUrl": "https://m.media-amazon.com/images/I/91gcgs1voAL._SY385_.jpg"
   },
   "harry-potter-coleccion-7-libros": {
-    "amazon": "8478884459"
+    "amazon": "8478884459",
+    "imageUrl": "https://m.media-amazon.com/images/I/61mEUsasD-L._SY425_.jpg"
   },
   "cuaderno-moleskine-a5-ruled": {
-    "amazon": "B07J3KHQ9B"
+    "amazon": "B07J3KHQ9B",
+    "imageUrl": "https://m.media-amazon.com/images/I/711MUJTH4cL._AC_SY879_.jpg"
   },
   "casio-g-shock-ga-2100": {
-    "amazon": "B07PFF5GZD"
+    "amazon": "B07PFF5GZD",
+    "imageUrl": "https://m.media-amazon.com/images/I/61dbv6Tl81L._AC_SX679_.jpg"
   },
   "ray-ban-meta-wayfarer-gafas-inteligentes": {
-    "amazon": "B0G6D1MHVQ"
+    "amazon": "B0G6D1MHVQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ZWe19k-vL._AC_SX679_.jpg"
   },
   "fossil-gen-6-wear-os": {
-    "amazon": "B0CPPP4X12"
+    "amazon": "B0CPPP4X12",
+    "imageUrl": "https://m.media-amazon.com/images/I/61HULzhyzXL._AC_SX679_.jpg"
   },
   "gafas-polarizadas-oakley-holbrook": {
-    "amazon": "B074PS6R2V"
+    "amazon": "B074PS6R2V",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Xjm4QhffL._AC_SX679_.jpg"
   },
   "colchon-viscoelastico-135x190-medio": {
-    "amazon": "B0CV864RDZ"
+    "amazon": "B0CV864RDZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/812W8Nk1YML._AC_SX569_.jpg"
   },
   "almohada-cervical-memory-foam": {
-    "amazon": "B0H1YFBP2X"
+    "amazon": "B0H1YFBP2X",
+    "imageUrl": "https://m.media-amazon.com/images/I/61N+50ImFrL._AC_SX569_.jpg"
   },
   "sabanas-microfibra-4-piezas": {
-    "amazon": "B0B3XS49WJ"
+    "amazon": "B0B3XS49WJ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71JSZLZuSYL._AC_SX522_.jpg"
   },
   "topper-visco-5cm-refuerzo-colchon": {
-    "amazon": "B0992TGVXV"
+    "amazon": "B0992TGVXV",
+    "imageUrl": "https://m.media-amazon.com/images/I/51T93Gzjr7L._AC_SX569_.jpg"
   },
   "xiaomi-electric-scooter-4-lite": {
-    "amazon": "B0DNZG8MH2"
+    "amazon": "B0DNZG8MH2",
+    "imageUrl": "https://m.media-amazon.com/images/I/41lrCM1wWmL._AC_SX522_.jpg"
   },
   "cascete-urbano-mips-bicicleta": {
-    "amazon": "B08SWP16VS"
+    "amazon": "B08SWP16VS",
+    "imageUrl": "https://m.media-amazon.com/images/I/71f1OdVlgWL._AC_SX679_.jpg"
   },
   "candado-u-lock-acero-16mm": {
-    "amazon": "B016GZWRY4"
+    "amazon": "B016GZWRY4",
+    "imageUrl": "https://m.media-amazon.com/images/I/61O3H2H+-1L._AC_SX522_.jpg"
   },
   "xiaomi-mi-electric-scooter-pro-2": {
-    "amazon": "B089WDJJ7H"
+    "amazon": "B089WDJJ7H",
+    "imageUrl": "https://m.media-amazon.com/images/I/61L5V26vRnL._AC_SX569_.jpg"
   },
   "hp-laserjet-pro-mfp-m234dw": {
-    "amazon": "B0FSZ3TG31"
+    "amazon": "B0FSZ3TG31",
+    "imageUrl": "https://m.media-amazon.com/images/I/71W2Mf+kFpL._AC_SY355_.jpg"
   },
   "epson-ecotank-et-2850": {
-    "amazon": "B0FLPTJ427"
+    "amazon": "B0FLPTJ427",
+    "imageUrl": "https://m.media-amazon.com/images/I/71C9iC+61CL._AC_SX522_.jpg"
   },
   "canon-pixma-g3590-megatank": {
-    "amazon": "B0F1ZB6PYY"
+    "amazon": "B0F1ZB6PYY",
+    "imageUrl": "https://m.media-amazon.com/images/I/61fppm2HlZL._AC_SX679_.jpg"
   },
   "pack-4-cartuchos-hp-305xl-compatibles": {
-    "amazon": "B0DG5G49PT"
+    "amazon": "B0DG5G49PT",
+    "imageUrl": "https://m.media-amazon.com/images/I/713CIrZfObL._AC_SY355_.jpg"
   },
   "corsair-vengeance-ddr5-32gb-6000mhz": {
-    "amazon": "B0CJ8ZHMVF"
+    "amazon": "B0CJ8ZHMVF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tLMVtcsfL._AC_SX679_.jpg"
   },
   "fuente-corsair-rm750e-80-gold": {
-    "amazon": "B0DMTMK2Q5"
+    "amazon": "B0DMTMK2Q5",
+    "imageUrl": "https://m.media-amazon.com/images/I/71KlTBqR36L._AC_SX679_.jpg"
   },
   "wd-elements-4tb-disco-externo": {
-    "amazon": "B0FLY53XT3"
+    "amazon": "B0FLY53XT3",
+    "imageUrl": "https://m.media-amazon.com/images/I/712PUIi5GqL._AC_SX679_.jpg"
   },
   "yamaha-p-45-piano-digital-88-teclas": {
-    "amazon": "B0F44HBJWH"
+    "amazon": "B0F44HBJWH",
+    "imageUrl": "https://m.media-amazon.com/images/I/61fyM7wWTDL._AC_SX679_.jpg"
   },
   "fender-squier-stratocaster-pack": {
-    "amazon": "B0C5JSDV95"
+    "amazon": "B0C5JSDV95",
+    "imageUrl": "https://m.media-amazon.com/images/I/715fzrtIyyL._AC_SX679_.jpg"
   },
   "audio-technica-at2020usb-microfono": {
-    "amazon": "B0DZBMLWYV"
+    "amazon": "B0DZBMLWYV",
+    "imageUrl": "https://m.media-amazon.com/images/I/714JFMbKmhL._AC_SX679_.jpg"
   },
   "ukulele-soprano-con-funda": {
-    "amazon": "B09GS6DP6C"
+    "amazon": "B09GS6DP6C",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NP+KBzZkL._AC_SX679_.jpg"
   },
   "cricut-explore-3-plotter-de-corte": {
-    "amazon": "B0DY7ZM1S3"
+    "amazon": "B0DY7ZM1S3",
+    "imageUrl": "https://m.media-amazon.com/images/I/51JnZYiPlUL._AC_SX569_.jpg"
   },
   "set-120-rotuladores-alcohol-dual-tip": {
-    "amazon": "B0D56QW9GK"
+    "amazon": "B0D56QW9GK",
+    "imageUrl": "https://m.media-amazon.com/images/I/81H3ik-ZfrL._AC_SX522_.jpg"
   },
   "resina-epoxi-transparente-1-5l-kit": {
-    "amazon": "B0GQLQC7CG"
+    "amazon": "B0GQLQC7CG",
+    "imageUrl": "https://m.media-amazon.com/images/I/81DQtvMIeeL._AC_SX522_.jpg"
   },
   "lego-architecture-torre-eiffel": {
-    "amazon": "B08G4PCG8F"
+    "amazon": "B08G4PCG8F",
+    "imageUrl": "https://m.media-amazon.com/images/I/814Zl0ypKrL._AC_SX679_.jpg"
   },
   "xbox-wireless-controller-carbon-black": {
-    "amazon": "B0G2XZXL63"
+    "amazon": "B0G2XZXL63",
+    "imageUrl": "https://m.media-amazon.com/images/I/81NCw8ixKOL._AC_SX679_.jpg"
   },
   "lg-oled-c4-55-4k": {
-    "amazon": "B0F3D7S36K"
+    "amazon": "B0F3D7S36K",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ZQaqtuZ0L._AC_SX679_.jpg"
   },
   "sonos-era-100-altavoz-inteligente": {
-    "amazon": "B0BXLLX7NQ"
+    "amazon": "B0BXLLX7NQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/619SmYo+h6L._AC_SX679_.jpg"
   },
   "barra-sonido-samsung-q990d": {
-    "amazon": "B0CZTXYL23"
+    "amazon": "B0CZTXYL23",
+    "imageUrl": "https://m.media-amazon.com/images/I/61UN3Gr+RuL._AC_SX679_.jpg"
   },
   "lenovo-ideapad-slim-5-ryzen-7": {
-    "amazon": "B0FCG95495"
+    "amazon": "B0FCG95495",
+    "imageUrl": "https://m.media-amazon.com/images/I/61K7cCVOioL._AC_SX679_.jpg"
   },
   "monitor-lg-ultragear-27-165hz": {
-    "amazon": "B0FL366VPN"
+    "amazon": "B0FL366VPN",
+    "imageUrl": "https://m.media-amazon.com/images/I/716H-E70hvL._AC_SX679_.jpg"
   },
   "whey-protein-2kg-chocolate": {
-    "amazon": "B0H16KS62V"
+    "amazon": "B0H16KS62V",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tk5pmWo8L._AC_SX679_PIbundle-10,TopRight,0,0_SH20_.jpg"
   },
   "robot-de-cocina-moulinex-cookeo": {
-    "amazon": "B0CVBDVTTX"
+    "amazon": "B0CVBDVTTX",
+    "imageUrl": "https://m.media-amazon.com/images/I/61m16EKgETL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "the-north-face-borealis-mochila": {
-    "amazon": "B0CN9TVY3X"
+    "amazon": "B0CN9TVY3X",
+    "imageUrl": "https://m.media-amazon.com/images/I/71vQGtksqUL._AC_SX679_.jpg"
   },
   "chaqueta-softshell-impermeable": {
-    "amazon": "B09NDCF52L"
+    "amazon": "B09NDCF52L",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Or5Re-Q6L._AC_SX679_.jpg"
   },
   "pelota-padel-head-delta-pro": {
-    "amazon": "B0DKJSNYTS"
+    "amazon": "B0DKJSNYTS",
+    "imageUrl": "https://m.media-amazon.com/images/I/51q0aRjXEdL._AC_SX522_.jpg"
   },
   "bicicleta-estatica-magnetica": {
-    "amazon": "B0GJZNL2RD"
+    "amazon": "B0GJZNL2RD",
+    "imageUrl": "https://m.media-amazon.com/images/I/81r2bIQn2BL._AC_SX522_.jpg"
   },
   "garrafa-termo-1l-running": {
-    "amazon": "B098748TW3"
+    "amazon": "B098748TW3",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Vm26o2LYL._AC_SX569_.jpg"
   },
   "purina-pro-plan-gato-3kg": {
-    "amazon": "B015KDIOOA"
+    "amazon": "B015KDIOOA",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Qw44Mb4UL._AC_SX522_.jpg"
   },
   "arnes-perro-reflective-l": {
-    "amazon": "B09724PRMR"
+    "amazon": "B09724PRMR",
+    "imageUrl": "https://m.media-amazon.com/images/I/71sfRpIaRVL._AC_SX522_.jpg"
   },
   "cochecito-bugaboo-butterfly": {
-    "amazon": "B0F8P275VX"
+    "amazon": "B0F8P275VX",
+    "imageUrl": "https://m.media-amazon.com/images/I/61JNIII01qL._AC_SX522_.jpg"
   },
   "hot-wheels-pista-looping": {
-    "amazon": "B0DMW8ZPK5"
+    "amazon": "B0DMW8ZPK5",
+    "imageUrl": "https://m.media-amazon.com/images/I/61MzAV0ZBCL._AC_SY355_.jpg"
   },
   "dashcam-4k-con-gps-y-vision-nocturna": {
-    "amazon": "B0FFMVVYG4"
+    "amazon": "B0FFMVVYG4",
+    "imageUrl": "https://m.media-amazon.com/images/I/71DlIX27BoL._AC_SX679_.jpg"
   },
   "aspirador-coche-12v-potente": {
-    "amazon": "B07CBBWHQ6"
+    "amazon": "B07CBBWHQ6",
+    "imageUrl": "https://m.media-amazon.com/images/I/41F2YMe17YS._AC_SX522_.jpg"
   },
   "barbacoa-weber-spirit-e-310": {
-    "amazon": "B0DWT85DZH"
+    "amazon": "B0DWT85DZH",
+    "imageUrl": "https://m.media-amazon.com/images/I/71d2yNMuLKL._AC_SX569_.jpg"
   },
   "tienda-campana-4-personas": {
-    "amazon": "B08QVSSJMG"
+    "amazon": "B08QVSSJMG",
+    "imageUrl": "https://m.media-amazon.com/images/I/61E3XxFoGCL._AC_SX522_.jpg"
   },
   "robot-cortacesped-sin-cable": {
-    "amazon": "B0G77KTYTW"
+    "amazon": "B0G77KTYTW",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BOjH0mqlL._AC_SX569_.jpg"
   },
   "set-skincare-coreano-5-pasos": {
-    "amazon": "B0F8VK8K98"
+    "amazon": "B0F8VK8K98",
+    "imageUrl": "https://m.media-amazon.com/images/I/71M060QWH-L._AC_SX522_.jpg"
   },
   "ring-video-doorbell-pro-2": {
-    "amazon": "B086QKXW1M"
+    "amazon": "B086QKXW1M",
+    "imageUrl": "https://m.media-amazon.com/images/I/61d2vxDGmoL._SX425_.jpg"
   },
   "philips-hue-starter-kit-3-bombillas": {
-    "amazon": "B0FJYBSW14"
+    "amazon": "B0FJYBSW14",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qoxZnVP2L._AC_SX569_.jpg"
   },
   "amazon-echo-pop-altavoz-alexa": {
-    "amazon": "B09B8X9RGM"
+    "amazon": "B09B8X9RGM",
+    "imageUrl": "https://m.media-amazon.com/images/I/71G9l50-fGL._AC_SY300_SX300_QL70_ML2_.jpg"
   },
   "set-pesas-kettlebell-8kg-12kg": {
-    "amazon": "B0FWZTZ4HD"
+    "amazon": "B0FWZTZ4HD",
+    "imageUrl": "https://m.media-amazon.com/images/I/71sPPfO9RnL._AC_SX522_.jpg"
   },
   "bascula-inteligente-withings-body": {
-    "amazon": "B0CSTCLYFT"
+    "amazon": "B0CSTCLYFT",
+    "imageUrl": "https://m.media-amazon.com/images/I/61MgKl1YHJL._SX425_.jpg"
   },
   "samsonite-s-cure-maleta-cabina-55cm": {
-    "amazon": "B007WQJSGM"
+    "amazon": "B007WQJSGM",
+    "imageUrl": "https://m.media-amazon.com/images/I/81nKW2g0SPL._AC_SY879_.jpg"
   },
   "american-tourister-bon-air-set-2-piezas": {
-    "amazon": "B076CNFX3G"
+    "amazon": "B076CNFX3G",
+    "imageUrl": "https://m.media-amazon.com/images/I/815c0EIkLeL._AC_SY879_.jpg"
   },
   "mochila-viaje-cabina-40l-impermeable": {
-    "amazon": "B0D8V547X4"
+    "amazon": "B0D8V547X4",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NnjprEh6L._AC_SX679_.jpg"
   },
   "neceser-viaje-colgante-organizador": {
-    "amazon": "B0GSQGTF9D"
+    "amazon": "B0GSQGTF9D",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Z1PPwwuGL._AC_SX522_.jpg"
   },
   "candado-tsa-maleta-4-digitos": {
-    "amazon": "B0FSDL54PX"
+    "amazon": "B0FSDL54PX",
+    "imageUrl": "https://m.media-amazon.com/images/I/61A9IjOdcML._AC_SX569_.jpg"
   },
   "almohada-cervical-viaje-memory-foam": {
-    "amazon": "B0F2MQ1B9Q"
+    "amazon": "B0F2MQ1B9Q",
+    "imageUrl": "https://m.media-amazon.com/images/I/81UXr5HRXXL._AC_SY879_.jpg"
   },
   "bascula-equipaje-digital-50kg": {
-    "amazon": "B01IDJM8OA"
+    "amazon": "B01IDJM8OA",
+    "imageUrl": "https://m.media-amazon.com/images/I/71p4L-yLtBL._SX425_.jpg"
   },
   "etiquetas-identificacion-maleta-x8": {
-    "amazon": "B0B5ZX6NQM"
+    "amazon": "B0B5ZX6NQM",
+    "imageUrl": "https://m.media-amazon.com/images/I/61HYfnP1veL._AC_SX522_.jpg"
   },
   "intex-piscina-desmontable-366x76cm": {
-    "amazon": "B07FBC8QKY"
+    "amazon": "B07FBC8QKY",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sSW4viV2L._AC_SX569_.jpg"
   },
   "flotador-hamaca-agua-reclinable": {
-    "amazon": "B0GSZM4D62"
+    "amazon": "B0GSZM4D62",
+    "imageUrl": "https://m.media-amazon.com/images/I/81-C0U39gfL._AC_SX679_.jpg"
   },
   "gafas-snorkel-mascara-panorramica": {
-    "amazon": "B0GWJLVH7F"
+    "amazon": "B0GWJLVH7F",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sIXFk4OlL._AC_SX679_.jpg"
   },
   "toalla-microfibra-playa-xl": {
-    "amazon": "B0BVJ7H421"
+    "amazon": "B0BVJ7H421",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UrbEcU2kL._AC_SX569_.jpg"
   },
   "sombrilla-playa-uv-50": {
-    "amazon": "B0GZLBJMP9"
+    "amazon": "B0GZLBJMP9",
+    "imageUrl": "https://m.media-amazon.com/images/I/616tLAf2BeL._AC_SX679_.jpg"
   },
   "nevera-playa-24l-isotermica": {
-    "amazon": "B0F67GLWW5"
+    "amazon": "B0F67GLWW5",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zxR46L9hL._AC_SY879_.jpg"
   },
   "chaleco-flotacion-nino-ajustable": {
-    "amazon": "B0CWK7B6LS"
+    "amazon": "B0CWK7B6LS",
+    "imageUrl": "https://m.media-amazon.com/images/I/71xW3sVNkuL._AC_SX522_.jpg"
   },
   "protector-solar-spf50-200ml-pack-x2": {
-    "amazon": "B0FCRTP6JN"
+    "amazon": "B0FCRTP6JN",
+    "imageUrl": "https://m.media-amazon.com/images/I/81fnlBdxVaL._AC_SX522_PIbundle-3,TopRight,0,0_SH20_.jpg"
   },
   "breville-barista-express-espresso-pro": {
-    "amazon": "B07B2X1VXZ"
+    "amazon": "B07B2X1VXZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/612FBOMlW9L._AC_SX569_.jpg"
   },
   "molinillo-cafe-electrico-18-niveles": {
-    "amazon": "B0FKSTZDGM"
+    "amazon": "B0FKSTZDGM",
+    "imageUrl": "https://m.media-amazon.com/images/I/61WhOnAKzqL._AC_SX569_.jpg"
   },
   "chemex-6-tazas-cafe-filtro": {
-    "amazon": "B0000YWF5E"
+    "amazon": "B0000YWF5E",
+    "imageUrl": "https://m.media-amazon.com/images/I/61lrld81vxL._AC_SX569_.jpg"
   },
   "tetera-electrica-temperatura-variable": {
-    "amazon": "B0CPJ447NZ"
+    "amazon": "B0CPJ447NZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71r28YctYbL._AC_SX569_.jpg"
   },
   "matcha-ceremonial-100g-organico": {
-    "amazon": "B089VT92TN"
+    "amazon": "B089VT92TN",
+    "imageUrl": "https://m.media-amazon.com/images/I/61SkCZHwHNL._AC_SX679_.jpg"
   },
   "capsulas-compatibles-nespresso-x100": {
-    "amazon": "B0DPXPLBCK"
+    "amazon": "B0DPXPLBCK",
+    "imageUrl": "https://m.media-amazon.com/images/I/71aqjVl1VpL._AC_SX679_PIbundle-5,TopRight,0,0_SH20_.jpg"
   },
   "cold-brew-maker-1l-vidrio": {
-    "amazon": "B072XMNDZ4"
+    "amazon": "B072XMNDZ4",
+    "imageUrl": "https://m.media-amazon.com/images/I/71g-FQjpDmL._AC_SX569_.jpg"
   },
   "rioja-reserva-d-o-ca-2018-caja-6": {
-    "amazon": "B0DKFT9MQ4"
+    "amazon": "B0DKFT9MQ4",
+    "imageUrl": "https://m.media-amazon.com/images/I/61vRTUZmGvL._AC_SX679_.jpg"
   },
   "cava-brut-nature-3-botellas": {
-    "amazon": "B07B319DNR"
+    "amazon": "B07B319DNR",
+    "imageUrl": "https://m.media-amazon.com/images/I/71QTymWYvIL._AC_SX679_.jpg"
   },
   "pack-aceite-oliva-virgen-extra-3l": {
-    "amazon": "B09ZF9JYF9"
+    "amazon": "B09ZF9JYF9",
+    "imageUrl": "https://m.media-amazon.com/images/I/719VAInT5OL._AC_SY679_PIbundle-3,TopRight,0,0_SH20_.jpg"
   },
   "cesta-regalo-gourmet-iberico": {
-    "amazon": "B0DTV6T51G"
+    "amazon": "B0DTV6T51G",
+    "imageUrl": "https://m.media-amazon.com/images/I/81yuOBfelyL._AC_SX679_PIbundle-10,TopRight,0,0_SH20_.jpg"
   },
   "vino-blanco-albarino-2024": {
-    "amazon": "B0FGTY7DLT"
+    "amazon": "B0FGTY7DLT",
+    "imageUrl": "https://m.media-amazon.com/images/I/71U3f+OuysL._AC_SX679_.jpg"
   },
   "chocolate-valor-surtido-500g": {
-    "amazon": "B07MZNXL9N"
+    "amazon": "B07MZNXL9N",
+    "imageUrl": "https://m.media-amazon.com/images/I/711PJdH23nL._AC_SX679_PIbundle-18,TopRight,0,0_SH20_.jpg"
   },
   "salsa-trufa-negra-100ml": {
-    "amazon": "B08ZQBX91X"
+    "amazon": "B08ZQBX91X",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+ZCaOUAWL._AC_SX679_.jpg"
   },
   "set-especias-mundo-24-frascos": {
-    "amazon": "B0FGD8R1ZH"
+    "amazon": "B0FGD8R1ZH",
+    "imageUrl": "https://m.media-amazon.com/images/I/81cpdZGNWfL._AC_SX569_.jpg"
   },
   "globos-helio-kit-cumpleanos-50u": {
-    "amazon": "B0GYW1L25D"
+    "amazon": "B0GYW1L25D",
+    "imageUrl": "https://m.media-amazon.com/images/I/71xisBpdaHL._AC_SX522_.jpg"
   },
   "guirnalda-led-fiesta-10m": {
-    "amazon": "B0C2YQLDZ6"
+    "amazon": "B0C2YQLDZ6",
+    "imageUrl": "https://m.media-amazon.com/images/I/712Zlx9huiL._AC_SX679_.jpg"
   },
   "maquina-humo-400w-fiestas": {
-    "amazon": "B0GTYMWD6T"
+    "amazon": "B0GTYMWD6T",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UdaVAn-lL._AC_SX679_.jpg"
   },
   "disfraces-halloween-adulto": {
-    "amazon": "B0GXJ7C5DR"
+    "amazon": "B0GXJ7C5DR",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qwWgCrT9L._AC_SX679_.jpg"
   },
   "pinata-rellenable-unicornio": {
-    "amazon": "B0GMKHLC9J"
+    "amazon": "B0GMKHLC9J",
+    "imageUrl": "https://m.media-amazon.com/images/I/61p8YhZMQhL._AC_SX522_.jpg"
   },
   "vasos-desechables-premium-50u": {
-    "amazon": "B0CX57PF2J"
+    "amazon": "B0CX57PF2J",
+    "imageUrl": "https://m.media-amazon.com/images/I/51hzamjHWZL._AC_SX522_.jpg"
   },
   "photobooth-accesorios-30-piezas": {
-    "amazon": "B0GWHM7P2C"
+    "amazon": "B0GWHM7P2C",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UYvWpQdZL._AC_SX569_.jpg"
   },
   "altavoz-bluetooth-fiesta-40w": {
-    "amazon": "B0GKGNBHGP"
+    "amazon": "B0GKGNBHGP",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Prkx-NInL._AC_SX679_.jpg"
   },
   "omron-m3-comfort-tensiometro-brazo": {
-    "amazon": "B0B4VS7P24"
+    "amazon": "B0B4VS7P24",
+    "imageUrl": "https://m.media-amazon.com/images/I/51a6wX+xD0L._AC_SX679_.jpg"
   },
   "termometro-infrarrojos-sin-contacto": {
-    "amazon": "B0GCH6Z2X2"
+    "amazon": "B0GCH6Z2X2",
+    "imageUrl": "https://m.media-amazon.com/images/I/61AoJeDaZqL._SX425_.jpg"
   },
   "oximetro-pulso-dedo": {
-    "amazon": "B0CHYB46QW"
+    "amazon": "B0CHYB46QW",
+    "imageUrl": "https://m.media-amazon.com/images/I/61pGQx5GoOL._AC_SX679_.jpg"
   },
   "nebulizador-compresor-adulto-nino": {
-    "amazon": "B0D2XHD1R6"
+    "amazon": "B0D2XHD1R6",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NxPC8isSL._AC_SX679_.jpg"
   },
   "almohadilla-electrica-lumbar": {
-    "amazon": "B0DJ31QDGL"
+    "amazon": "B0DJ31QDGL",
+    "imageUrl": "https://m.media-amazon.com/images/I/71IsWKLfGqL._AC_SX569_.jpg"
   },
   "masajeador-cuello-shiatsu": {
-    "amazon": "B0GJYJ6LK6"
+    "amazon": "B0GJYJ6LK6",
+    "imageUrl": "https://m.media-amazon.com/images/I/6144bz0WPsL._AC_SX679_.jpg"
   },
   "tiras-reactivas-glucosa-x50": {
-    "amazon": "B0GJMP6P8V"
+    "amazon": "B0GJMP6P8V",
+    "imageUrl": "https://m.media-amazon.com/images/I/61KUgQ6C2IS._AC_SX679_.jpg"
   },
   "vendas-kinesiologicas-6-rollos": {
-    "amazon": "B01JFZQFBS"
+    "amazon": "B01JFZQFBS",
+    "imageUrl": "https://m.media-amazon.com/images/I/81BGbrO4t9L._AC_SX522_.jpg"
   },
   "dji-mini-4-pro-drone-4k": {
-    "amazon": "B0F6W94FL4"
+    "amazon": "B0F6W94FL4",
+    "imageUrl": "https://m.media-amazon.com/images/I/61yVbVkFibL._AC_SX679_.jpg"
   },
   "dji-avata-2-fpv-inmersivo": {
-    "amazon": "B0CS6HVW6P"
+    "amazon": "B0CS6HVW6P",
+    "imageUrl": "https://m.media-amazon.com/images/I/51deSgumI+L._AC_SX679_.jpg"
   },
   "hubsan-zino-mini-se-drone-economico": {
-    "amazon": "B0BKL638FZ"
+    "amazon": "B0BKL638FZ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61fbYPFOoSL._AC_SX679_.jpg"
   },
   "coche-teledirigido-1-16-4x4": {
-    "amazon": "B09J3NSLJB"
+    "amazon": "B09J3NSLJB",
+    "imageUrl": "https://m.media-amazon.com/images/I/71-1O2U-IOL._AC_SY355_.jpg"
   },
   "baterias-lipo-cargador-balanceador": {
-    "amazon": "B0BJV7H62K"
+    "amazon": "B0BJV7H62K",
+    "imageUrl": "https://m.media-amazon.com/images/I/61WTKKLv5DL._AC_SX679_.jpg"
   },
   "gafas-fpv-beginner": {
-    "amazon": "B0GSTQ91Z2"
+    "amazon": "B0GSTQ91Z2",
+    "imageUrl": "https://m.media-amazon.com/images/I/6175Ado0ExL._AC_SX679_.jpg"
   },
   "helices-repuesto-dji-mini-pack": {
-    "amazon": "B0G6BC2TZJ"
+    "amazon": "B0G6BC2TZJ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71TTNZJoHjL._AC_SX679_.jpg"
   },
   "mochila-transporte-drone-acolchada": {
-    "amazon": "B0FZ8SKP99"
+    "amazon": "B0FZ8SKP99",
+    "imageUrl": "https://m.media-amazon.com/images/I/91rggfMUEVL._AC_SY355_.jpg"
   },
   "cable-usb-c-a-lightning-2m-mfi": {
-    "amazon": "B0DKNWNY53"
+    "amazon": "B0DKNWNY53",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ZfJFeuPwL._SX425_.jpg"
   },
   "hub-usb-c-7-en-1-hdmi-4k": {
-    "amazon": "B0GL1ZB4QT"
+    "amazon": "B0GL1ZB4QT",
+    "imageUrl": "https://m.media-amazon.com/images/I/71X4TRew2fL._AC_SY355_.jpg"
   },
   "base-carga-inalambrica-magsafe-15w": {
-    "amazon": "B0FYQF69CX"
+    "amazon": "B0FYQF69CX",
+    "imageUrl": "https://m.media-amazon.com/images/I/61bLMdyqfKL._AC_SX679_.jpg"
   },
   "power-bank-20000mah-65w": {
-    "amazon": "B0FWR7Y3G6"
+    "amazon": "B0FWR7Y3G6",
+    "imageUrl": "https://m.media-amazon.com/images/I/71aFGOsQXxL._AC_SX679_.jpg"
   },
   "cable-hdmi-2-1-3m-8k": {
-    "amazon": "B0919TY3P1"
+    "amazon": "B0919TY3P1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61DQkKlh2hL._SX425_.jpg"
   },
   "adaptador-viaje-universal": {
-    "amazon": "B0CQLWVFC6"
+    "amazon": "B0CQLWVFC6",
+    "imageUrl": "https://m.media-amazon.com/images/I/61x7GqBfcDL._AC_SX679_.jpg"
   },
   "organizador-cables-escritorio": {
-    "amazon": "B0GD5YJXRR"
+    "amazon": "B0GD5YJXRR",
+    "imageUrl": "https://m.media-amazon.com/images/I/61atdBHO1gL._AC_SX679_.jpg"
   },
   "bosch-serie-4-lavadora-8kg-1400rpm": {
-    "amazon": "B09DSVFSPT"
+    "amazon": "B09DSVFSPT",
+    "imageUrl": "https://m.media-amazon.com/images/I/51SHRTko+JL._AC_SX569_.jpg"
   },
   "secadora-bomba-calor-8kg-a": {
-    "amazon": "B0GHYPNWPP"
+    "amazon": "B0GHYPNWPP",
+    "imageUrl": "https://m.media-amazon.com/images/I/713YF0QxaoL._AC_SX679_.jpg"
   },
   "plancha-vapor-3000w-ceramica": {
-    "amazon": "B0CHMHC8QJ"
+    "amazon": "B0CHMHC8QJ",
+    "imageUrl": "https://m.media-amazon.com/images/I/71VXCWUAyzL._AC_SX569_.jpg"
   },
   "centrifugadora-ropa-4-5kg": {
-    "amazon": "B0157X3HFE"
+    "amazon": "B0157X3HFE",
+    "imageUrl": "https://m.media-amazon.com/images/I/51EhNjNYhFL._AC_SY879_.jpg"
   },
   "tabla-planchar-xl-con-soporte": {
-    "amazon": "B0DBQ1PVDD"
+    "amazon": "B0DBQ1PVDD",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sycXEDJZL._AC_SX569_.jpg"
   },
   "perchas-terciopelo-50-unidades": {
-    "amazon": "B0DYQB6F9F"
+    "amazon": "B0DYQB6F9F",
+    "imageUrl": "https://m.media-amazon.com/images/I/71n1242-hxL._AC_SX569_.jpg"
   },
   "bolsa-vacio-ropa-6u-bomba": {
-    "amazon": "B0F6MPV992"
+    "amazon": "B0F6MPV992",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YnLRJ9nZL._AC_SX569_.jpg"
   },
   "detergente-capsulas-100-lavados": {
-    "amazon": "B0GX5DNXG4"
+    "amazon": "B0GX5DNXG4",
+    "imageUrl": "https://m.media-amazon.com/images/I/717gAuy6lVL._AC_SX679_PIbundle-4,TopRight,0,0_SH20_.jpg"
   },
   "vitamix-e310-batidora-vaso-pro": {
-    "amazon": "B07LGZNLVS"
+    "amazon": "B07LGZNLVS",
+    "imageUrl": "https://m.media-amazon.com/images/I/61I0a4sS9TL._AC_SY879_.jpg"
   },
   "kitchenaid-artisan-amasadora": {
-    "amazon": "B01HKZZ4XU"
+    "amazon": "B01HKZZ4XU",
+    "imageUrl": "https://m.media-amazon.com/images/I/61E98k5oGTL._AC_SX569_.jpg"
   },
   "tostadora-4-ranuras-acero": {
-    "amazon": "B0BPYRWHR1"
+    "amazon": "B0BPYRWHR1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Y8xLh5bFL._AC_SX569_.jpg"
   },
   "exprimidor-citricos-85w": {
-    "amazon": "B0D8H961ZF"
+    "amazon": "B0D8H961ZF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71GQZlp5dML._AC_SX569_.jpg"
   },
   "sandwichera-grill-2000w": {
-    "amazon": "B078JFK1L3"
+    "amazon": "B078JFK1L3",
+    "imageUrl": "https://m.media-amazon.com/images/I/61z-3WrjAaL._AC_SX569_.jpg"
   },
   "hervidor-agua-vidrio-led-1-7l": {
-    "amazon": "B0GNB9SDXG"
+    "amazon": "B0GNB9SDXG",
+    "imageUrl": "https://m.media-amazon.com/images/I/61HDcbdZzaL._AC_SX569_.jpg"
   },
   "picadora-electrica-500w": {
-    "amazon": "B0FKNKD4L6"
+    "amazon": "B0FKNKD4L6",
+    "imageUrl": "https://m.media-amazon.com/images/I/71M6x9GHoUL._AC_SX569_.jpg"
   },
   "bascula-cocina-digital-5kg": {
-    "amazon": "B0FRSM1WNF"
+    "amazon": "B0FRSM1WNF",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ybqRFR8eL._SX425_.jpg"
   },
   "honor-magic6-lite-5g": {
-    "amazon": "B0FRXTRMKK"
+    "amazon": "B0FRXTRMKK",
+    "imageUrl": "https://m.media-amazon.com/images/I/61BHCaVPYLL._AC_SX679_.jpg"
   },
   "oneplus-nord-ce-4-lite": {
-    "amazon": "B0D47GS8PW"
+    "amazon": "B0D47GS8PW",
+    "imageUrl": "https://m.media-amazon.com/images/I/71XxNGULMYL._AC_SX679_.jpg"
   },
   "fairphone-5-sostenible": {
-    "amazon": "B0DJP6NNL8"
+    "amazon": "B0DJP6NNL8",
+    "imageUrl": "https://m.media-amazon.com/images/I/71HJ7mj4fqL._AC_SX679_.jpg"
   },
   "cargador-67w-oneplus-original": {
-    "amazon": "B0BS3XMX6N"
+    "amazon": "B0BS3XMX6N",
+    "imageUrl": "https://m.media-amazon.com/images/I/410U6Kx8oyL._AC_SX679_.jpg"
   },
   "funda-magsafe-transparente-iphone": {
-    "amazon": "B0B8WXL1C7"
+    "amazon": "B0B8WXL1C7",
+    "imageUrl": "https://m.media-amazon.com/images/I/71oj6RMU5SL._AC_SX679_.jpg"
   },
   "protector-pantalla-cristal-9h-pack-3": {
-    "amazon": "B0FNCLNT37"
+    "amazon": "B0FNCLNT37",
+    "imageUrl": "https://m.media-amazon.com/images/I/71iwEWPfsTL._AC_SX679_.jpg"
   },
   "anillo-soporte-movil-magsafe": {
-    "amazon": "B0BQRJ6Y5P"
+    "amazon": "B0BQRJ6Y5P",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Oi6IyXdhL._AC_SX679_.jpg"
   },
   "powerbank-magnetica-5000mah": {
-    "amazon": "B0F6LTV18Z"
+    "amazon": "B0F6LTV18Z",
+    "imageUrl": "https://m.media-amazon.com/images/I/61NhQsicOmL._AC_SX679_.jpg"
   },
   "asus-rog-ally-z1-extreme": {
-    "amazon": "B0C1NQ1GY1"
+    "amazon": "B0C1NQ1GY1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MUfCIyAWL._AC_SX679_.jpg"
   },
   "playstation-vr2": {
-    "amazon": "B0BS2S71LQ"
+    "amazon": "B0BS2S71LQ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61u+QmCNVjL._AC_SX679_.jpg"
   },
   "silla-gaming-ergonomica-reclinable": {
-    "amazon": "B0DJNJ4P8J"
+    "amazon": "B0DJNJ4P8J",
+    "imageUrl": "https://m.media-amazon.com/images/I/61T8EsVZBhL._AC_SX569_.jpg"
   },
   "alfombrilla-xxl-rgb": {
-    "amazon": "B085CKSTFJ"
+    "amazon": "B085CKSTFJ",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ytoqR2vfL._AC_SX679_.jpg"
   },
   "capturadora-elgato-hd60-x": {
-    "amazon": "B0FFTFYGLV"
+    "amazon": "B0FFTFYGLV",
+    "imageUrl": "https://m.media-amazon.com/images/I/51n-AAn1UBL._AC_SX679_.jpg"
   },
   "volante-logitech-g29-pedales": {
     "amazon": "B00YUIM2J0"
@@ -1506,16 +1785,20 @@
     "imageUrl": "https://m.media-amazon.com/images/I/71A9mPNPn7L._AC_SX679_.jpg"
   },
   "oral-b-io9": {
-    "amazon": "B0DP1MRNXM"
+    "amazon": "B0DP1MRNXM",
+    "imageUrl": "https://m.media-amazon.com/images/I/81U956n69nL._AC_SX679_.jpg"
   },
   "levi-s-501-original-vaquero": {
-    "amazon": "B0DNNZ2NMF"
+    "amazon": "B0DNNZ2NMF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tJjuXEiHL._AC_SY741_.jpg"
   },
   "dyson-airwrap-complete-long": {
-    "amazon": "B0FXXNWXV4"
+    "amazon": "B0FXXNWXV4",
+    "imageUrl": "https://m.media-amazon.com/images/I/612j3CEnPkL._SX522_.jpg"
   },
   "de-longhi-dedica-ec685-cafetera-espresso": {
-    "amazon": "B06WGTZ874"
+    "amazon": "B06WGTZ874",
+    "imageUrl": "https://m.media-amazon.com/images/I/61kiURHfQrL._AC_SX569_.jpg"
   },
   "cepillo-dientes-oral-b-io-series-9": {
     "amazon": "B0DP1MRNXM"
@@ -1539,10 +1822,12 @@
     "amazon": "B0G1Z9KBVD"
   },
   "nothing-phone-2a": {
-    "amazon": "B0GHNXX9WY"
+    "amazon": "B0GHNXX9WY",
+    "imageUrl": "https://m.media-amazon.com/images/I/81nv+jCDG7L._AC_SX679_.jpg"
   },
   "macbook-air-m3-13-256gb": {
-    "amazon": "B0B7QWBZC9"
+    "amazon": "B0B7QWBZC9",
+    "imageUrl": "https://m.media-amazon.com/images/I/51NdACz6hcL._AC_SX679_.jpg"
   },
   "nike-air-max-90": {
     "amazon": "B0FHJCFSNR"

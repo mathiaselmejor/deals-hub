@@ -21,6 +21,7 @@ const FILES = [
   "extra-products-4.json",
   "extra-products-5.json",
   "extra-products-aliexpress.json",
+  "extra-products-awin.json",
   "catalog-monetized.json",
 ];
 

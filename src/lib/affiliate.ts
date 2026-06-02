@@ -1,4 +1,5 @@
 import affiliateConfig from "../../data/affiliate-config.json";
+import { getAwinMerchantMap, buildAwinAffiliateUrl, getAwinPublisherId } from "./awin-programs";
 import { amazonProductUrl, extractAmazonAsin } from "./direct-links";
 import { appendInternalTracking, getOfferTargetUrl } from "./offer-target";
 import type { ProductOffer, StoreId } from "./types";
@@ -24,16 +25,8 @@ export function normalizeAliexpressShortKey(raw: string): string {
   return `_${trimmed}`;
 }
 
-/** IDs Awin de comerciantes en España (para enlaces de afiliado correctos) */
-const AWIN_MERCHANT_IDS: Partial<Record<StoreId, string>> = {
-  pccomponentes: "20982",
-  elcorteingles: "13075",
-  fnac: "77630",
-  decathlon: "105405",
-  // MediaMarkt ES no tiene programa activo en Awin; IKEA: verificar en panel
-  mediamarkt: "2549",
-  ikea: "22455",
-};
+/** IDs Awin verificados — ver data/awin-programs-es.json */
+const AWIN_MERCHANT_IDS = getAwinMerchantMap();
 
 function getEnv(): AffiliateEnv {
   return {
@@ -105,10 +98,11 @@ export function buildAffiliateUrl(offer: ProductOffer, productId?: string): stri
   }
 
   const awinMid = AWIN_MERCHANT_IDS[offer.store];
-  if (env.awinPublisherId && awinMid) {
+  const publisherId = getAwinPublisherId();
+  if (env.awinPublisherId && awinMid && publisherId) {
     const dest = appendTrackingParams(target, pid, offer.store);
     const clickref = `dealshub_${pid.slice(0, 40)}`;
-    return `https://www.awin1.com/cread.php?awinmid=${awinMid}&awinaffid=${env.awinPublisherId}&clickref=${encodeURIComponent(clickref)}&ued=${encodeURIComponent(dest)}`;
+    return buildAwinAffiliateUrl(awinMid, dest, env.awinPublisherId, clickref);
   }
 
   if (offer.store === "ebay" && env.ebayCampaignId) {

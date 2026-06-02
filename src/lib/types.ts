@@ -8,7 +8,10 @@ export type StoreId =
   | "aliexpress"
   | "booking"
   | "decathlon"
-  | "ikea";
+  | "ikea"
+  | "backmarket"
+  | "lg"
+  | "casadellibro";
 
 export type OfferCondition = "new" | "refurbished";
 

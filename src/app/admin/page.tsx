@@ -41,7 +41,7 @@ function AffiliateSetupPanel({
       label: "Awin (PcComponentes, MediaMarkt…)",
       env: "NEXT_PUBLIC_AWIN_PUBLISHER_ID",
       signup: "https://ui.awin.com/publisher-signup",
-      idHint: "Publisher ID (número en Account)",
+      idHint: "Publisher ID (Account → Account details). Tuyo: 2917459",
       done: status.awin,
     },
     {

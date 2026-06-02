@@ -2,14 +2,15 @@
 
 Amazon ya está con tag `jere0f7-21`. Para las otras tres redes, regístrate y pégame los IDs.
 
-## 1. Awin — MediaMarkt, PcComponentes, El Corte Inglés, Fnac, Decathlon, IKEA
+## 1. Awin ✅ ACTIVO — MediaMarkt, PcComponentes, El Corte Inglés, Fnac, Decathlon, IKEA
 
-1. [Registro publisher Awin](https://ui.awin.com/publisher-signup)
-2. Perfil: web `https://deals-hub-iota.vercel.app`, tipo «Comparador de precios / contenido»
-3. Tras aprobación: **Account → Account details → Publisher ID** (número, ej. `123456`)
-4. En Awin busca y solicita unirte a: **PcComponentes ES**, **MediaMarkt ES**, **El Corte Inglés ES**, **Fnac ES** (1–5 días)
+Cuenta aprobada. **Publisher ID:** `2917459`
 
-**Variable:** `NEXT_PUBLIC_AWIN_PUBLISHER_ID=tu_numero`
+1. Panel: [ui.awin.com](https://ui.awin.com/)
+2. **Paso pendiente:** en *Advertisers* solicita unirte a cada tienda (PcComponentes ES, MediaMarkt ES, Fnac ES, El Corte Inglés ES, Decathlon ES, IKEA ES). Sin eso los enlaces no generan comisión aunque funcionen.
+3. Los clics llevan `clickref=dealshub_{producto}` para ver qué producto convierte.
+
+**Variable:** `NEXT_PUBLIC_AWIN_PUBLISHER_ID=2917459` (ya en Vercel producción)
 
 ---
 

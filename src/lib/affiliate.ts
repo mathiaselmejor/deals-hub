@@ -95,7 +95,9 @@ export function buildAffiliateUrl(offer: ProductOffer, productId?: string): stri
 
   const awinMid = AWIN_MERCHANT_IDS[offer.store];
   if (env.awinPublisherId && awinMid) {
-    return `https://www.awin1.com/cread.php?awinmid=${awinMid}&awinaffid=${env.awinPublisherId}&ued=${encodeURIComponent(appendTrackingParams(base, pid, offer.store))}`;
+    const dest = appendTrackingParams(base, pid, offer.store);
+    const clickref = encodeURIComponent(`dealshub_${pid.slice(0, 40)}`);
+    return `https://www.awin1.com/cread.php?awinmid=${awinMid}&awinaffid=${env.awinPublisherId}&clickref=${clickref}&ued=${encodeURIComponent(dest)}`;
   }
 
   if (offer.store === "ebay" && env.ebayCampaignId) {

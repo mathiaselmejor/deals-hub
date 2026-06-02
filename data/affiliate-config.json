@@ -9,14 +9,14 @@
       "signupUrl": "https://afiliados.amazon.es/",
       "tagPlaceholder": "TU-TAG-21",
       "tagEnvKey": "NEXT_PUBLIC_AMAZON_TAG",
-      "active": false
+      "active": true
     },
     "awin": {
       "name": "Awin",
       "signupUrl": "https://www.awin.com/es",
       "publisherIdPlaceholder": "TU_PUBLISHER_ID",
       "tagEnvKey": "NEXT_PUBLIC_AWIN_PUBLISHER_ID",
-      "active": false
+      "active": true
     },
     "admitad": {
       "name": "Admitad",

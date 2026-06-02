@@ -37,6 +37,8 @@ export async function GET() {
     catalogProducts: catalog.products.length,
     amazonDirectLinks: amazonDirect,
     aliexpressOffers,
+    awinPublisherId: process.env.NEXT_PUBLIC_AWIN_PUBLISHER_ID ? "configured" : "missing",
+    awinStores: ["pccomponentes", "mediamarkt", "elcorteingles", "fnac", "decathlon", "ikea"],
     affiliateConfigured: isAffiliateConfigured(),
     affiliate,
     cronSecretConfigured: !!process.env.CRON_SECRET,

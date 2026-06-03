@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2026-06-03T00:25:00.000Z",
+  "publisherId": "2917459",
+  "results": {
+    "pccomponentes": "pending",
+    "elcorteingles": "pending",
+    "fnac": "pending",
+    "decathlon": "pending",
+    "backmarket": "pending",
+    "lg": "pending",
+    "casadellibro": "pending"
+  },
+  "stats": { "joined": 0, "pending": 7, "failed": 0 },
+  "_note": "Verificado en ui.awin.com con sesión DealsHub España (2917459)"
+}

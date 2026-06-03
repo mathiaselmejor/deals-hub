@@ -73,6 +73,8 @@ export async function GET() {
     referralsWorking: referralsSql || referralsStorage,
     catalogRefresh: "github-actions-every-6h",
     imageSearch: isImageSearchConfigured(),
+    imageSearchOcr: true,
+    tradedoublerSiteId: process.env.NEXT_PUBLIC_TRADEDOUBLER_SITE_ID ? "configured" : "missing",
   };
 
   const allOk =

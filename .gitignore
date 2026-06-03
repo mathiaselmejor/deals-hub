@@ -3,7 +3,8 @@ node_modules
 out
 .env
 .env.local
-*.log
+.revalidate-log*.txt
+scripts/__pycache__/
 .DS_Store
 .vercel
 _private/

@@ -25,9 +25,16 @@
       "active": false
     },
     "tradetracker": {
-      "name": "TradeTracker",
+      "name": "TradeTracker (legacy alias)",
       "signupUrl": "https://tradetracker.com/es/",
       "tagEnvKey": "NEXT_PUBLIC_TRADETRACKER_ID",
+      "active": false
+    },
+    "tradedoubler": {
+      "name": "Tradedoubler (MediaMarkt ES)",
+      "signupUrl": "https://publishers.tradedoubler.com/",
+      "tagEnvKey": "NEXT_PUBLIC_TRADEDOUBLER_SITE_ID",
+      "programHint": "MediaMarkt programa 270504",
       "active": false
     },
     "ebay": {
@@ -54,7 +61,7 @@
   "stores": {
     "amazon": { "label": "Amazon", "color": "#FF9900", "network": "amazon" },
     "pccomponentes": { "label": "PcComponentes", "color": "#FF6600", "network": "awin" },
-    "mediamarkt": { "label": "MediaMarkt", "color": "#DF0000", "network": "awin" },
+    "mediamarkt": { "label": "MediaMarkt", "color": "#DF0000", "network": "tradedoubler" },
     "elcorteingles": { "label": "El Corte Inglés", "color": "#006633", "network": "awin" },
     "fnac": { "label": "Fnac", "color": "#E4A800", "network": "awin" },
     "ebay": { "label": "eBay", "color": "#0064D2", "network": "ebay" },

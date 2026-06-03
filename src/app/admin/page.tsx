@@ -1,6 +1,7 @@
 import { createServiceClient } from "@/lib/supabase/admin";
 import { getAffiliateStatus, isAffiliateConfigured } from "@/lib/affiliate";
 import { AwinProgramsPanel } from "@/components/AwinProgramsPanel";
+import { TradedoublerPanel } from "@/components/TradedoublerPanel";
 
 export const dynamic = "force-dynamic";
 
@@ -44,6 +45,14 @@ function AffiliateSetupPanel({
       signup: "https://ui.awin.com/publisher-signup",
       idHint: "Publisher ID (Account → Account details). Tuyo: 2917459",
       done: status.awin,
+    },
+    {
+      key: "tradedoubler",
+      label: "Tradedoubler (MediaMarkt ES · prog. 270504)",
+      env: "NEXT_PUBLIC_TRADEDOUBLER_SITE_ID",
+      signup: "https://publishers.tradedoubler.com/",
+      idHint: "Site ID (a=) tras aprobar MediaMarkt",
+      done: status.tradedoubler,
     },
     {
       key: "ebay",
@@ -214,6 +223,7 @@ export default async function AdminPage() {
     <div className="mx-auto max-w-7xl px-4 py-8">
       <AffiliateSetupPanel configured={isAffiliateConfigured()} status={getAffiliateStatus()} clicks={stats.affiliateClicks} />
       <AwinProgramsPanel />
+      <TradedoublerPanel />
 
       <p className="mb-6 text-sm text-slate-500">Últimos 7 días</p>
 

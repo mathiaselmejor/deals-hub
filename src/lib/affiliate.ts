@@ -1,5 +1,11 @@
 import affiliateConfig from "../../data/affiliate-config.json";
 import { getAwinMerchantMap, buildAwinAffiliateUrl, getAwinPublisherId } from "./awin-programs";
+import {
+  buildTradedoublerAffiliateUrl,
+  getTradedoublerProgramId,
+  getTradedoublerSiteId,
+  type TradedoublerStoreId,
+} from "./tradedoubler";
 import { amazonProductUrl, extractAmazonAsin } from "./direct-links";
 import { appendInternalTracking, getOfferTargetUrl } from "./offer-target";
 import type { ProductOffer, StoreId } from "./types";
@@ -13,6 +19,7 @@ type AffiliateEnv = {
   bookingAid?: string;
   admitadId?: string;
   tradetrackerId?: string;
+  tradedoublerSiteId?: string;
 };
 
 /** Código corto del generador de enlaces (ej. _c3iyuOdJ o URL completa s.click). */
@@ -39,6 +46,7 @@ function getEnv(): AffiliateEnv {
     bookingAid: process.env.NEXT_PUBLIC_BOOKING_AID?.trim() || undefined,
     admitadId: process.env.NEXT_PUBLIC_ADMITAD_ID?.trim() || undefined,
     tradetrackerId: process.env.NEXT_PUBLIC_TRADETRACKER_ID?.trim() || undefined,
+    tradedoublerSiteId: getTradedoublerSiteId(),
   };
 }
 
@@ -59,6 +67,7 @@ export function getAffiliateStatus(): Record<string, boolean> {
     ebay: !!env.ebayCampaignId,
     aliexpress: !!env.aliexpressShortKey,
     booking: !!env.bookingAid,
+    tradedoubler: !!env.tradedoublerSiteId,
   };
 }
 
@@ -130,6 +139,14 @@ export function buildAffiliateUrl(offer: ProductOffer, productId?: string): stri
     } catch {
       return target;
     }
+  }
+
+  const tdSiteId = env.tradedoublerSiteId;
+  if (tdSiteId && offer.store === "mediamarkt") {
+    const programId = getTradedoublerProgramId(offer.store as TradedoublerStoreId);
+    const dest = appendTrackingParams(target, pid, offer.store);
+    const clickRef = `dealshub_${pid.slice(0, 40)}`;
+    return buildTradedoublerAffiliateUrl(programId, tdSiteId, dest, clickRef);
   }
 
   return appendTrackingParams(target, pid, offer.store);

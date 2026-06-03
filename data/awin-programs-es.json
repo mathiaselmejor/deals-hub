@@ -76,8 +76,8 @@
   "notOnAwin": [
     {
       "storeId": "mediamarkt",
-      "note": "MediaMarkt ES usa Tradedoubler, no Awin. ID 2549 era Zavvi UK — eliminado.",
-      "alternative": "NEXT_PUBLIC_TRADETRACKER_ID"
+      "note": "MediaMarkt ES usa Tradedoubler (programa 270504), no Awin.",
+      "alternative": "NEXT_PUBLIC_TRADEDOUBLER_SITE_ID (programa 270504)"
     },
     {
       "storeId": "ikea",

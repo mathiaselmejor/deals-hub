@@ -5,6 +5,8 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { trackEvent } from "@/components/AnalyticsTracker";
 import {
+  buildQueryFromOcr,
+  extractTextFromImage,
   loadImageSearchSession,
   saveImageSearchSession,
   searchByImageFile,
@@ -49,28 +51,64 @@ export function ImageSearchPanel({ variant = "full", onSuccess }: Props) {
       setPreview(objectUrl);
 
       try {
-        const result = await searchByImageFile(file);
-        saveImageSearchSession({
-          query: result.query,
-          analysis: result.analysis,
-          productIds: result.productIds,
-          previewUrl: objectUrl,
-        });
+        const prepared = file;
+        const [apiSettled, ocrSettled] = await Promise.allSettled([
+          searchByImageFile(prepared),
+          extractTextFromImage(prepared),
+        ]);
 
-        trackEvent("image_search", {
-          query: result.query,
-          productType: result.analysis.productType,
-          confidence: result.analysis.confidence,
-          results: result.count,
-        });
+        if (apiSettled.status === "fulfilled") {
+          const result = apiSettled.value;
+          saveImageSearchSession({
+            query: result.query,
+            analysis: result.analysis,
+            productIds: result.productIds,
+            previewUrl: objectUrl,
+          });
 
-        onSuccess?.(result.query, result.analysis);
+          trackEvent("image_search", {
+            query: result.query,
+            productType: result.analysis.productType,
+            confidence: result.analysis.confidence,
+            results: result.count,
+            mode: "vision",
+          });
 
-        const params = new URLSearchParams({
-          q: result.query,
-          src: "image",
-        });
-        router.push(`/buscar?${params.toString()}`);
+          onSuccess?.(result.query, result.analysis);
+          router.push(`/buscar?q=${encodeURIComponent(result.query)}&src=image`);
+          return;
+        }
+
+        const ocrQuery =
+          ocrSettled.status === "fulfilled" ? buildQueryFromOcr(ocrSettled.value) : null;
+        if (ocrQuery) {
+          saveImageSearchSession({
+            query: ocrQuery,
+            analysis: {
+              productType: "texto detectado",
+              productName: ocrQuery,
+              brand: null,
+              category: null,
+              keywords: ocrQuery.split(" "),
+              searchQuery: ocrQuery,
+              confidence: 0.55,
+              descriptionEs: `Leímos texto en la imagen: «${ocrQuery}»`,
+            },
+            productIds: [],
+            previewUrl: objectUrl,
+          });
+          trackEvent("image_search", { query: ocrQuery, mode: "ocr" });
+          router.push(`/buscar?q=${encodeURIComponent(ocrQuery)}&src=image`);
+          return;
+        }
+
+        const apiErr =
+          apiSettled.status === "rejected"
+            ? apiSettled.reason instanceof Error
+              ? apiSettled.reason.message
+              : "Error en visión IA"
+            : "No detectamos producto ni texto legible.";
+        setError(apiErr);
       } catch (err) {
         setError(err instanceof Error ? err.message : "No pudimos analizar la imagen.");
       } finally {
@@ -138,8 +176,8 @@ export function ImageSearchPanel({ variant = "full", onSuccess }: Props) {
           </p>
         </div>
         {configured === false && (
-          <span className="rounded-full bg-amber-500/15 px-3 py-1 text-xs text-amber-300">
-            Requiere GEMINI_API_KEY
+          <span className="rounded-full bg-indigo-500/15 px-3 py-1 text-xs text-indigo-200">
+            OCR incluido · IA opcional con GEMINI_API_KEY
           </span>
         )}
       </div>

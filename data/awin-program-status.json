@@ -1,6 +1,13 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-06-03T00:20:00.000Z",
   "publisherId": "2917459",
-  "programs": {},
-  "_comment": "Generado por: node scripts/awin-sync-programs.mjs (requiere AWIN_ACCESS_TOKEN)"
+  "programs": {
+    "pccomponentes": { "status": "pending", "name": "PcComponentes ES" },
+    "elcorteingles": { "status": "pending", "name": "El Corte Inglés ES" },
+    "fnac": { "status": "pending", "name": "Fnac ES" },
+    "decathlon": { "status": "pending", "name": "Decathlon ES" },
+    "backmarket": { "status": "pending", "name": "Back Market ES" },
+    "lg": { "status": "pending", "name": "LG PRM ES" },
+    "casadellibro": { "status": "pending", "name": "Casa del Libro ES" }
+  }
 }

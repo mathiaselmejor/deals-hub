@@ -1,4 +1,5 @@
-import Image from "next/image";
+import { ProductImage } from "@/components/ProductImage";
+import { getAmazonAsinFromOffers } from "@/lib/product-images";
 import Link from "next/link";
 import {
   buildAffiliateUrl,
@@ -27,6 +28,7 @@ export function ProductCard({ product, featured = false }: { product: Product; f
   const storeCount = getNewOffers(product).length;
   const dealScore = computeDealScore(product);
   const bestIsAliExpress = best?.store === "aliexpress";
+  const amazonAsin = getAmazonAsinFromOffers(product.offers);
 
   return (
     <article
@@ -35,9 +37,10 @@ export function ProductCard({ product, featured = false }: { product: Product; f
       }`}
     >
       <Link href={`/producto/${product.id}`} className="relative block aspect-[4/3] overflow-hidden">
-        <Image
+        <ProductImage
           src={product.image}
           alt={product.name}
+          asin={amazonAsin}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
           className="object-cover transition duration-700 group-hover:scale-110"

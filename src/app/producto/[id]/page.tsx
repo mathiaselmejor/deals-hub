@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import Image from "next/image";
+import { ProductImage } from "@/components/ProductImage";
+import { getAmazonAsinFromOffers } from "@/lib/product-images";
 import { Breadcrumbs, RelatedProducts } from "@/components/RelatedProducts";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductActions } from "@/components/ProductActions";
@@ -80,9 +81,10 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
           {/* Image */}
           <div className="space-y-4">
             <div className="relative aspect-square overflow-hidden rounded-2xl border border-white/10">
-              <Image
+              <ProductImage
                 src={product.image}
                 alt={product.name}
+                asin={getAmazonAsinFromOffers(product.offers)}
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 50vw"

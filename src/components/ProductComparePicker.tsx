@@ -1,6 +1,6 @@
 "use client";
 
-import Image from "next/image";
+import { ProductImage } from "@/components/ProductImage";
 import { useRouter } from "next/navigation";
 import { useMemo, useState } from "react";
 import { formatPrice } from "@/lib/products";
@@ -122,7 +122,7 @@ function CompareSlot({
       {selected ? (
         <div className="mt-3 flex items-center gap-3 rounded-xl border border-indigo-500/30 bg-indigo-500/5 p-3">
           <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-lg">
-            <Image src={selected.image} alt="" fill sizes="56px" className="object-cover" />
+            <ProductImage src={selected.image} alt={selected.name} fill sizes="56px" className="object-cover" />
           </div>
           <div className="min-w-0 flex-1">
             <p className="truncate text-sm font-semibold">{selected.name}</p>
@@ -151,7 +151,7 @@ function CompareSlot({
                 className="flex w-full items-center gap-3 px-3 py-2.5 text-left text-sm hover:bg-white/5"
               >
                 <div className="relative h-10 w-10 shrink-0 overflow-hidden rounded-md">
-                  <Image src={o.image} alt="" fill sizes="40px" className="object-cover" />
+                  <ProductImage src={o.image} alt={o.name} fill sizes="40px" className="object-cover" />
                 </div>
                 <span className="min-w-0 flex-1 truncate">{o.name}</span>
                 <span className="shrink-0 text-[10px] text-slate-500">{o.categoryLabel}</span>

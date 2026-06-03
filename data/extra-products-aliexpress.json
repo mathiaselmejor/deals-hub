@@ -20,7 +20,7 @@
         "Batería": "Hasta 5 días",
         "Resistencia": "IP67"
       },
-      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/517aAnSGXmL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -33,10 +33,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Smartwatch%20Y68",
+          "url": "https://www.amazon.es/dp/B0GWQ87TP9",
           "price": 24.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0GWQ87TP9",
+          "directUrl": "https://www.amazon.es/dp/B0GWQ87TP9"
         }
       ],
       "videoHook": "Smartwatch de 13€ vs Apple Watch — ¿vale la pena?",
@@ -62,7 +64,7 @@
       "trending": false,
       "featured": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1625948515291-69613efd291f?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/51IFBKbuCnL._AC_SX522_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -75,10 +77,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Hub%20USB-C%207%20en%201",
+          "url": "https://www.amazon.es/dp/B0BWH9DZRV",
           "price": 32.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0BWH9DZRV",
+          "directUrl": "https://www.amazon.es/dp/B0BWH9DZRV"
         },
         {
           "store": "pccomponentes",
@@ -110,7 +114,7 @@
       "badge": "Hogar smart",
       "trending": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/817NAy244uL._AC_SX569_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -123,10 +127,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Tira%20LED%20RGB%205m",
+          "url": "https://www.amazon.es/dp/B0F549Q7R3",
           "price": 19.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0F549Q7R3",
+          "directUrl": "https://www.amazon.es/dp/B0F549Q7R3"
         }
       ],
       "videoHook": "Setup gaming por menos de 10€",
@@ -152,7 +158,7 @@
       "trending": false,
       "featured": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/71J9bdgehbL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -165,10 +171,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Power%20Bank%2020000mAh",
+          "url": "https://www.amazon.es/dp/B0CTH7L29Z",
           "price": 34.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0CTH7L29Z",
+          "directUrl": "https://www.amazon.es/dp/B0CTH7L29Z"
         }
       ],
       "videoHook": "Powerbank barata que aguanta un finde entero",
@@ -192,7 +200,7 @@
       "badge": "Gaming",
       "trending": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/61-RqmZ0OIL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -232,7 +240,7 @@
       "badge": "Creadores",
       "trending": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1598488035139-bdaa75467339?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/615nlWeedUL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -245,10 +253,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Aro%20de%20luz%2026cm",
+          "url": "https://www.amazon.es/dp/B01LXDNNBW",
           "price": 27.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B01LXDNNBW",
+          "directUrl": "https://www.amazon.es/dp/B01LXDNNBW"
         }
       ],
       "videoHook": "Ring light de creador por 16€",
@@ -273,7 +283,7 @@
       "trending": true,
       "featured": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a1df?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/41CIDXH4pDL._AC_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -286,10 +296,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Auriculares%20TWS%20Bluetooth%205.3",
+          "url": "https://www.amazon.es/dp/B0GS5PNKQH",
           "price": 29.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0GS5PNKQH",
+          "directUrl": "https://www.amazon.es/dp/B0GS5PNKQH"
         }
       ],
       "keywords": [
@@ -313,7 +325,7 @@
       "badge": "Viajes",
       "trending": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/61HDQgTXrnL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -326,10 +338,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Cargador%20GaN%2065W",
+          "url": "https://www.amazon.es/dp/B0FWRMYS3W",
           "price": 36.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0FWRMYS3W",
+          "directUrl": "https://www.amazon.es/dp/B0FWRMYS3W"
         }
       ],
       "keywords": [
@@ -352,7 +366,7 @@
       "reviews": 15600,
       "badge": "Coche",
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/71EZa1NJ1UL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -365,10 +379,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Soporte%20m%C3%B3vil%20magn%C3%A9tico%20coche",
+          "url": "https://www.amazon.es/dp/B0FMD7BTKC",
           "price": 16.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0FMD7BTKC",
+          "directUrl": "https://www.amazon.es/dp/B0FMD7BTKC"
         }
       ],
       "keywords": [
@@ -392,7 +408,7 @@
       "trending": false,
       "featured": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1570222094114-d054a817ebbf?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/61qXjSIOXVL._AC_SX569_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -405,10 +421,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Batidora%20port%C3%A1til%20USB",
+          "url": "https://www.amazon.es/dp/B0GHQTD7XC",
           "price": 28.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0GHQTD7XC",
+          "directUrl": "https://www.amazon.es/dp/B0GHQTD7XC"
         }
       ],
       "keywords": [
@@ -430,7 +448,7 @@
       "reviews": 11300,
       "badge": "Oficina",
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/51YZVx82mlL._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -470,7 +488,7 @@
       "trending": true,
       "featured": true,
       "listingKind": "deal",
-      "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&h=600&fit=crop",
+      "image": "https://m.media-amazon.com/images/I/71g9mHazw-L._AC_SX679_.jpg",
       "offers": [
         {
           "store": "aliexpress",
@@ -483,10 +501,12 @@
         },
         {
           "store": "amazon",
-          "url": "https://www.amazon.es/s?k=Mini%20proyector%20WiFi%204K",
+          "url": "https://www.amazon.es/dp/B0FFGCP94S",
           "price": 89.99,
-          "linkKind": "search",
-          "priceEstimated": true
+          "linkKind": "direct",
+          "priceEstimated": false,
+          "asin": "B0FFGCP94S",
+          "directUrl": "https://www.amazon.es/dp/B0FFGCP94S"
         },
         {
           "store": "mediamarkt",

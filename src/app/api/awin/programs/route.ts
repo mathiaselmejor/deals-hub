@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import statusData from "../../../data/awin-program-status.json";
+import statusData from "../../../../../data/awin-program-status.json";
 import {
   fetchAwinProgramStatuses,
   getAwinNotOnAwinNotes,

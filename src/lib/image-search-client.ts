@@ -64,6 +64,28 @@ export type ImageSearchApiResponse = {
   count: number;
 };
 
+/** OCR local — fallback sin API key (lee texto en cajas/etiquetas). */
+export async function extractTextFromImage(file: File): Promise<string> {
+  const { createWorker } = await import("tesseract.js");
+  const worker = await createWorker("spa+eng");
+  try {
+    const { data } = await worker.recognize(file);
+    return data.text.replace(/\s+/g, " ").trim();
+  } finally {
+    await worker.terminate();
+  }
+}
+
+export function buildQueryFromOcr(text: string): string | null {
+  const cleaned = text
+    .replace(/[^\w\sáéíóúñüÁÉÍÓÚÑÜ%+\-/]/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  if (cleaned.length < 4) return null;
+  const words = cleaned.split(" ").filter((w) => w.length >= 3);
+  return words.length ? words.slice(0, 8).join(" ") : null;
+}
+
 export async function searchByImageFile(file: File): Promise<ImageSearchApiResponse> {
   const prepared = await resizeImageForUpload(file);
   const form = new FormData();

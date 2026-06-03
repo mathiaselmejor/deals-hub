@@ -1,4 +1,5 @@
-import Image from "next/image";
+import { ProductImage } from "@/components/ProductImage";
+import { getAmazonAsinFromOffers } from "@/lib/product-images";
 import Link from "next/link";
 import { getDealScoreLabel } from "@/lib/algorithms";
 import type { ProductCompareResult, CompareRow } from "@/lib/compare";
@@ -74,7 +75,7 @@ function ProductColumn({
         Producto {slot.toUpperCase()}
       </p>
       <div className="relative mt-3 aspect-square overflow-hidden rounded-xl border border-white/10">
-        <Image src={product.image} alt={product.name} fill sizes="200px" className="object-cover" />
+        <ProductImage src={product.image} alt={product.name} asin={getAmazonAsinFromOffers(product.offers)} fill sizes="200px" className="object-cover" />
       </div>
       <h2 className="mt-4 text-lg font-bold leading-snug">{product.name}</h2>
       <div className="mt-3 flex flex-wrap items-center gap-2">

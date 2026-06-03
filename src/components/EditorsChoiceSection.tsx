@@ -1,4 +1,4 @@
-import Image from "next/image";
+import { ProductImage } from "@/components/ProductImage";
 import Link from "next/link";
 import { computeDealScore, getDealScoreLabel } from "@/lib/algorithms";
 import { formatPrice, getLowestPrice } from "@/lib/products";
@@ -42,7 +42,7 @@ export function EditorsChoiceSection({ products }: { products: Product[] }) {
             </div>
 
             <Link href={`/producto/${product.id}`} className="relative mt-4 block aspect-[16/10]">
-              <Image
+              <ProductImage
                 src={product.image}
                 alt={product.name}
                 fill

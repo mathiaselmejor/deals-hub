@@ -1,4 +1,5 @@
-import Image from "next/image";
+import { ProductImage } from "@/components/ProductImage";
+import { getAmazonAsinFromOffers } from "@/lib/product-images";
 import Link from "next/link";
 import { POPULAR_COMPARISONS } from "@/lib/popular-comparisons";
 import { formatPrice, getProductById, getLowestPrice } from "@/lib/products";
@@ -33,13 +34,13 @@ export function PopularComparisons({ limit = 6 }: { limit?: number }) {
 
             <div className="mt-4 flex items-center gap-2">
               <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-xl border border-white/10">
-                <Image src={productA.image} alt="" fill sizes="56px" className="object-cover" />
+                <ProductImage src={productA.image} alt={productA.name} asin={getAmazonAsinFromOffers(productA.offers)} fill sizes="56px" className="object-cover" />
               </div>
               <span className="rounded-full bg-indigo-500/20 px-2 py-0.5 text-[10px] font-bold text-indigo-300">
                 VS
               </span>
               <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-xl border border-white/10">
-                <Image src={productB.image} alt="" fill sizes="56px" className="object-cover" />
+                <ProductImage src={productB.image} alt={productB.name} asin={getAmazonAsinFromOffers(productB.offers)} fill sizes="56px" className="object-cover" />
               </div>
               <div className="min-w-0 flex-1 text-right">
                 {priceA > 0 && priceB > 0 && (

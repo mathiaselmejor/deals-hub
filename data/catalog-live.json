@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-06-02T12:59:42.855Z",
+  "updatedAt": "2026-06-03T00:14:48.725Z",
   "engineVersion": 1,
   "products": {
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 119.95,
-      "discount": 42,
+    "asics-gel-nimbus": {
+      "price": 43.76,
+      "originalPrice": 179.95,
+      "discount": 76,
       "offers": {
         "amazon": {
-          "price": 92.37,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "price": 43.76,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
           "linkKind": "direct"
         }
       }
     },
-    "new-balance-574": {
-      "price": 62.47,
-      "originalPrice": 99.99,
-      "discount": 38,
+    "garmin-forerunner-265": {
+      "price": 313.22,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 62.47,
-          "asin": "B093R4T9BR",
-          "url": "https://www.amazon.es/dp/B093R4T9BR",
+          "price": 313.22,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct"
         }
       }
     },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 44.99,
-      "discount": 18,
+    "lego-classic": {
+      "price": 40.11,
+      "originalPrice": 49.99,
+      "discount": 20,
       "offers": {
         "amazon": {
-          "price": 65.55,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "price": 40.11,
+          "asin": "B00PY3EYQO",
+          "url": "https://www.amazon.es/dp/B00PY3EYQO",
           "linkKind": "direct"
         }
       }

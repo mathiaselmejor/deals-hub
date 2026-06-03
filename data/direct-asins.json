@@ -1,5 +1,5 @@
 {
-  "_comment": "ASIN + imagen real por producto. Revalidado en amazon.es.",
+  "_comment": "ASIN / URL directa por producto. El motor de ofertas aplica esto a todo el catálogo.",
   "ninja-airfryer": {
     "amazon": "B0CJVNGMFL",
     "imageUrl": "https://m.media-amazon.com/images/I/71qem+rNjjL._AC_SX569_.jpg"

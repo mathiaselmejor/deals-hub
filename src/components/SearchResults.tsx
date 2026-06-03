@@ -6,11 +6,13 @@ import { ProductCard } from "@/components/ProductCard";
 import { SearchBar } from "@/components/SearchBar";
 import { ImageSearchPanel } from "@/components/ImageSearchPanel";
 import { trackSearch } from "@/components/InteractionTracker";
+import { SearchFilters } from "@/components/SearchFilters";
 import { sortProducts } from "@/lib/products";
 import { getPopularSearches } from "@/lib/search-constants";
 import { searchProductsRanked, rankProductsByDealScore } from "@/lib/algorithms";
 import { loadImageSearchSession } from "@/lib/image-search-client";
-import type { Product, SortOption } from "@/lib/types";
+import { isDirectPurchaseOffer } from "@/lib/offer-target";
+import type { Product, SortOption, StoreId } from "@/lib/types";
 
 const sortOptions: { value: SortOption; label: string }[] = [
   { value: "discount", label: "Mayor descuento" },
@@ -27,12 +29,15 @@ export function SearchResults({ allProducts }: { allProducts: Product[] }) {
   const isImageSearch = src === "image";
   const [sort, setSort] = useState<SortOption>("discount");
   const [imageSession, setImageSession] = useState(loadImageSearchSession);
+  const [storeFilter, setStoreFilter] = useState<StoreId[]>([]);
+  const [minDiscount, setMinDiscount] = useState(0);
+  const [directOnly, setDirectOnly] = useState(false);
 
   useEffect(() => {
     if (isImageSearch) setImageSession(loadImageSearchSession());
   }, [isImageSearch, q]);
 
-  const results = useMemo(() => {
+  const baseResults = useMemo(() => {
     if (isImageSearch && imageSession?.productIds.length) {
       const byId = new Map(allProducts.map((p) => [p.id, p]));
       const ranked = imageSession.productIds
@@ -46,6 +51,25 @@ export function SearchResults({ allProducts }: { allProducts: Product[] }) {
     const found = q.trim() ? searchProductsRanked(q) : rankProductsByDealScore(allProducts);
     return sort === "discount" && q.trim() ? found : sortProducts(found, sort);
   }, [q, sort, allProducts, isImageSearch, imageSession]);
+
+  const availableStores = useMemo(() => {
+    const set = new Set<StoreId>();
+    for (const p of baseResults) {
+      for (const o of p.offers) set.add(o.store);
+    }
+    return [...set].sort();
+  }, [baseResults]);
+
+  const results = useMemo(() => {
+    return baseResults.filter((p) => {
+      if (minDiscount > 0 && p.discount < minDiscount) return false;
+      if (storeFilter.length > 0 && !p.offers.some((o) => storeFilter.includes(o.store))) {
+        return false;
+      }
+      if (directOnly && !p.offers.some((o) => isDirectPurchaseOffer(o))) return false;
+      return true;
+    });
+  }, [baseResults, minDiscount, storeFilter, directOnly]);
 
   useEffect(() => {
     if (q.trim() && !isImageSearch) trackSearch(q.trim());
@@ -85,6 +109,16 @@ export function SearchResults({ allProducts }: { allProducts: Product[] }) {
 
       {q.trim() ? (
         <>
+          <SearchFilters
+            availableStores={availableStores}
+            selectedStores={storeFilter}
+            onStoresChange={setStoreFilter}
+            minDiscount={minDiscount}
+            onMinDiscountChange={setMinDiscount}
+            directOnly={directOnly}
+            onDirectOnlyChange={setDirectOnly}
+          />
+
           <div className="mt-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
             <p className="text-lg">
               <span className="font-bold text-white">{results.length}</span>{" "}
@@ -107,7 +141,14 @@ export function SearchResults({ allProducts }: { allProducts: Product[] }) {
             </select>
           </div>
 
-          {results.length > 0 ? (
+          {results.length === 0 && baseResults.length > 0 ? (
+            <div className="mt-12 text-center">
+              <p className="text-lg font-semibold text-slate-300">Ningún resultado con estos filtros</p>
+              <p className="mt-2 text-sm text-slate-500">
+                Prueba quitar tiendas o bajar el descuento mínimo ({baseResults.length} sin filtrar).
+              </p>
+            </div>
+          ) : results.length > 0 ? (
             <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
               {results.map((product) => (
                 <ProductCard key={product.id} product={product} />

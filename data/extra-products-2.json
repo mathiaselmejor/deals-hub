@@ -6,24 +6,24 @@
       "name": "Crocs Classic Clog — Unisex",
       "category": "ropa",
       "description": "Los zuecos más vendidos del mundo. Comodidad extrema y tendencia global.",
-      "price": 39.99,
+      "price": 26.95,
       "originalPrice": 49.99,
-      "discount": 20,
+      "discount": 46,
       "rating": 4.6,
       "reviews": 52000,
       "badge": "Viral",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/81pr3LpY85L._AC_SX535_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BWHDDH6W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "price": 39.99,
+          "price": 26.95,
           "asin": "B0BWHDDH6W",
           "directUrl": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -32,7 +32,7 @@
           "asin": "B0014BYHHE",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -41,7 +41,7 @@
           "asin": "B0014BYHHE",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Crocs en 2026 — ¿moda o cómodos de verdad?",
@@ -51,33 +51,33 @@
         "ropa",
         "calzado"
       ],
-      "featured": false,
+      "featured": true,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "converse-chuck",
       "name": "Converse Chuck Taylor All Star — Zapatillas",
       "category": "ropa",
       "description": "Clásico atemporal desde 1917. Imprescindible en cualquier armario.",
-      "price": 54.99,
-      "originalPrice": 69.99,
-      "discount": 21,
+      "price": 57.99,
+      "originalPrice": 57.99,
+      "discount": 0,
       "rating": 4.7,
       "reviews": 31000,
       "badge": "Clásico",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/51TfG+Vl1zL._AC_SY535_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0FDHX693D&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0FDHX693D",
-          "price": 54.99,
+          "price": 65.4,
           "asin": "B0FDHX693D",
           "directUrl": "https://www.amazon.es/dp/B0FDHX693D",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -86,7 +86,7 @@
           "asin": "B0FDHX693D",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -95,7 +95,7 @@
           "asin": "B0FDHX693D",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Converse originales vs fake — cómo distinguirlas",
@@ -107,31 +107,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "casio-a168",
       "name": "Casio A168WA — Reloj retro digital",
       "category": "ropa",
       "description": "Reloj vintage trending. Barato, resistente y estilo ochentero.",
-      "price": 19.99,
-      "originalPrice": 29.99,
-      "discount": 33,
+      "price": 22.95,
+      "originalPrice": 22.95,
+      "discount": 0,
       "rating": 4.7,
       "reviews": 28000,
       "badge": "Chollo moda",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/613BThUhjoL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B000LAKYW8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B000LAKYW8",
-          "price": 19.99,
+          "price": 38,
           "asin": "B000LAKYW8",
           "directUrl": "https://www.amazon.es/dp/B000LAKYW8",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -140,7 +140,7 @@
           "asin": "B000LAKYW8",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -149,7 +149,7 @@
           "asin": "B000LAKYW8",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Reloj de 20€ que parece de 200€",
@@ -162,31 +162,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "zalando-gift-card-style",
       "name": "Zapatillas Puma Suede Classic",
       "category": "ropa",
       "description": "Suede Classic de Puma — icono del hip-hop y streetwear desde los 60.",
-      "price": 64.99,
+      "price": 63.99,
       "originalPrice": 84.99,
-      "discount": 24,
+      "discount": 25,
       "rating": 4.5,
       "reviews": 8900,
       "badge": "Streetwear",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/61bIasXTHcL._AC_SY535_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D674JDZZ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0D674JDZZ",
-          "price": 64.99,
+          "price": 63.99,
           "asin": "B0D674JDZZ",
           "directUrl": "https://www.amazon.es/dp/B0D674JDZZ",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -195,7 +195,7 @@
           "asin": "B0D674JDZZ",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -204,7 +204,7 @@
           "asin": "B0D674JDZZ",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Puma Suede — el sneaker que no pasa de moda",
@@ -216,31 +216,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "cinta-correr-plegable",
       "name": "Cinta de correr plegable — 12 km/h",
       "category": "deportes",
       "description": "Corre en casa sin ocupar espacio. Plegable y con inclinación.",
-      "price": 249.99,
+      "price": 208.99,
       "originalPrice": 349.99,
-      "discount": 29,
+      "discount": 40,
       "rating": 4.3,
       "reviews": 4200,
       "badge": "Home cardio",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/818v7ZfIg8L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F8BHZR9J&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0F8BHZR9J",
-          "price": 249.99,
+          "price": 208.99,
           "asin": "B0F8BHZR9J",
           "directUrl": "https://www.amazon.es/dp/B0F8BHZR9J",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -249,7 +249,7 @@
           "asin": "B0F8BHZR9J",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -258,7 +258,7 @@
           "asin": "B0F8BHZR9J",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Cinta plegable en un piso pequeño — ¿funciona?",
@@ -270,31 +270,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "kettlebell-16kg",
       "name": "Kettlebell 16kg — Pesa rusa hierro fundido",
       "category": "deportes",
       "description": "Entrenamiento funcional en casa. Esencial para CrossFit y fuerza.",
-      "price": 34.99,
-      "originalPrice": 49.99,
-      "discount": 30,
+      "price": 39.99,
+      "originalPrice": 39.99,
+      "discount": 0,
       "rating": 4.6,
       "reviews": 6700,
       "badge": "CrossFit",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/71FmKDwuGiL._AC_SX522_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BSX7R31K&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0BSX7R31K",
-          "price": 34.99,
+          "price": 47,
           "asin": "B0BSX7R31K",
           "directUrl": "https://www.amazon.es/dp/B0BSX7R31K",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -303,7 +303,7 @@
           "asin": "B0BSX7R31K",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "5 ejercicios con una kettlebell de 35€",
@@ -315,32 +315,32 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "gopro-hero13",
       "name": "GoPro HERO13 Black — Cámara acción",
       "category": "deportes",
       "description": "La cámara de acción #1 para deportes extremos, viajes y vlogs.",
-      "price": 349,
-      "originalPrice": 429,
-      "discount": 19,
+      "price": 354.99,
+      "originalPrice": 354.99,
+      "discount": 0,
       "rating": 4.6,
       "reviews": 2100,
       "badge": "Acción",
       "trending": false,
       "featured": false,
-      "image": "https://m.media-amazon.com/images/I/51jJ2Tv3jEL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0GWFKMJYG&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0GWFKMJYG",
-          "price": 349,
+          "price": 699.99,
           "asin": "B0GWFKMJYG",
           "directUrl": "https://www.amazon.es/dp/B0GWFKMJYG",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -349,7 +349,7 @@
           "asin": "B0GWFKMJYG",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -358,7 +358,7 @@
           "asin": "B0GWFKMJYG",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "GoPro HERO13 — la probé haciendo surf",
@@ -369,31 +369,31 @@
         "vlog"
       ],
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "la-roche-posay",
       "name": "La Roche-Posay Effaclar Duo+ — Anti imperfecciones",
       "category": "belleza",
       "description": "Tratamiento #1 farmacia para acné e imperfecciones en España.",
-      "price": 18.99,
+      "price": 13.59,
       "originalPrice": 24.99,
-      "discount": 24,
+      "discount": 46,
       "rating": 4.6,
       "reviews": 24000,
       "badge": "Farmacia top",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/41gYPAJ3ymL._SX522_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01HDGHLB4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B01HDGHLB4",
-          "price": 18.99,
+          "price": 13.59,
           "asin": "B01HDGHLB4",
           "directUrl": "https://www.amazon.es/dp/B01HDGHLB4",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -402,7 +402,7 @@
           "asin": "B01HDGHLB4",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "fnac",
@@ -411,7 +411,7 @@
           "asin": "B01HDGHLB4",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Effaclar Duo — 2 semanas en mi piel grasa",
@@ -424,31 +424,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "perfume-armani",
       "name": "Armani Stronger With You — Eau de Toilette 100ml",
       "category": "belleza",
       "description": "Uno de los perfumes masculinos más vendidos en España.",
-      "price": 59.99,
+      "price": 57.38,
       "originalPrice": 89.99,
-      "discount": 33,
+      "discount": 36,
       "rating": 4.7,
       "reviews": 18000,
       "badge": "Perfume #1",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/51it79BMc4L._AC_SX522_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07JZFBJ9P&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B07JZFBJ9P",
-          "price": 59.99,
+          "price": 57.38,
           "asin": "B07JZFBJ9P",
           "directUrl": "https://www.amazon.es/dp/B07JZFBJ9P",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -457,7 +457,7 @@
           "asin": "B07JZFBJ9P",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "fnac",
@@ -466,7 +466,7 @@
           "asin": "B07JZFBJ9P",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Perfume de 60€ que dura todo el día",
@@ -478,31 +478,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "playmobil-city",
       "name": "Playmobil City Life — Estación de bomberos",
       "category": "juguetes",
       "description": "Playmobil sigue siendo rey en juguetes educativos en Europa.",
-      "price": 49.99,
+      "price": 37.49,
       "originalPrice": 64.99,
-      "discount": 23,
+      "discount": 42,
       "rating": 4.8,
       "reviews": 3400,
       "badge": "Educativo",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/7152kwNdt8L._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BKQX79WM&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0BKQX79WM",
-          "price": 49.99,
+          "price": 37.49,
           "asin": "B0BKQX79WM",
           "directUrl": "https://www.amazon.es/dp/B0BKQX79WM",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -511,7 +511,7 @@
           "asin": "B0BKQX79WM",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "fnac",
@@ -520,7 +520,7 @@
           "asin": "B0BKQX79WM",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Playmobil vs LEGO — cuál regalar en 2026",
@@ -531,31 +531,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "hot-wheels-track",
       "name": "Hot Wheels — Pista Super Speed Blastway",
       "category": "juguetes",
       "description": "Pista de coches Hot Wheels, regalo económico que triunfa siempre.",
-      "price": 24.99,
+      "price": 16.99,
       "originalPrice": 34.99,
-      "discount": 29,
+      "discount": 51,
       "rating": 4.5,
       "reviews": 5600,
       "badge": "Regalo niños",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/81sl8VQyMuL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DPHB51XY&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0DPHB51XY",
-          "price": 24.99,
+          "price": 16.99,
           "asin": "B0DPHB51XY",
           "directUrl": "https://www.amazon.es/dp/B0DPHB51XY",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -564,7 +564,7 @@
           "asin": "B0DPHB51XY",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -573,7 +573,7 @@
           "asin": "B0DPHB51XY",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Regalo Hot Wheels por 25€ — reacción de un niño de 6 años",
@@ -585,32 +585,32 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "cargador-coche-elec",
       "name": "Wallbox Pulsar Plus — Cargador coche eléctrico",
       "category": "automovil",
       "description": "Cargador wallbox para EV. Mercado en explosión en España.",
-      "price": 599,
-      "originalPrice": 749,
-      "discount": 20,
+      "price": 619.99,
+      "originalPrice": 619.99,
+      "discount": 0,
       "rating": 4.5,
       "reviews": 890,
       "badge": "Coche eléctrico",
       "trending": false,
       "featured": false,
-      "image": "https://m.media-amazon.com/images/I/51wLbF8CVSL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B095B29DFH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B095B29DFH",
-          "price": 599,
+          "price": 741.17,
           "asin": "B095B29DFH",
           "directUrl": "https://www.amazon.es/dp/B095B29DFH",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -619,7 +619,7 @@
           "asin": "B095B29DFH",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -628,7 +628,7 @@
           "asin": "B095B29DFH",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Instalé un cargador EV en casa — cuánto cuesta de verdad",
@@ -639,7 +639,7 @@
         "automovil"
       ],
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "piscina-hinchable",
@@ -653,7 +653,7 @@
       "reviews": 22000,
       "badge": "Verano",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/61om+nYtbXS._AC_SX569_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01ARVBS3E&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
@@ -663,7 +663,7 @@
           "directUrl": "https://www.amazon.es/dp/B01ARVBS3E",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -672,7 +672,7 @@
           "asin": "B01ARVBS3E",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -681,7 +681,7 @@
           "asin": "B01ARVBS3E",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Montamos piscina en el jardín por 90€",
@@ -693,31 +693,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.279Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "robot-cocina-moulinex",
       "name": "Moulinex Companion XL — Robot de cocina",
       "category": "hogar-cocina",
       "description": "Robot de cocina todo-en-uno. Alternativa accesible a Thermomix.",
-      "price": 299,
-      "originalPrice": 399,
-      "discount": 25,
+      "price": 319,
+      "originalPrice": 319,
+      "discount": 0,
       "rating": 4.5,
       "reviews": 3400,
       "badge": "Cocina smart",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/71MXwSC-xbL._AC_SX569_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B084ZP1H7Z&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B084ZP1H7Z",
-          "price": 299,
+          "price": 561.25,
           "asin": "B084ZP1H7Z",
           "directUrl": "https://www.amazon.es/dp/B084ZP1H7Z",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.279Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -726,7 +726,7 @@
           "asin": "B084ZP1H7Z",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -735,7 +735,7 @@
           "asin": "B084ZP1H7Z",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Robot de cocina de 300€ vs Thermomix de 1200€",
@@ -747,7 +747,7 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "macbook-air-m3",
@@ -755,24 +755,24 @@
       "category": "informatica",
       "description": "Portátil Apple más vendido. Silencioso, ligero y batería de 18h.",
       "price": 999,
-      "originalPrice": 1199,
-      "discount": 17,
+      "originalPrice": 999,
+      "discount": 0,
       "rating": 4.8,
       "reviews": 4500,
       "badge": "Apple top",
       "trending": false,
       "featured": false,
-      "image": "https://m.media-amazon.com/images/I/71ZdDLeldzL._AC_SX425_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DZDCL2XV&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0DZDCL2XV",
-          "price": 999,
+          "price": 1359,
           "asin": "B0DZDCL2XV",
           "directUrl": "https://www.amazon.es/dp/B0DZDCL2XV",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -781,7 +781,7 @@
           "asin": "B0DZDCL2XV",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -790,7 +790,7 @@
           "asin": "B0DZDCL2XV",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "fnac",
@@ -799,7 +799,7 @@
           "asin": "B0DZDCL2XV",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "MacBook Air M3 para estudiantes — ¿vale la pena vs Windows?",
@@ -811,7 +811,7 @@
         "m3"
       ],
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "ssd-samsung-990",
@@ -825,7 +825,7 @@
       "reviews": 12000,
       "badge": "PC upgrade",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/515oWUMt0JL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BXX2PBXP&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
@@ -835,7 +835,7 @@
           "directUrl": "https://www.amazon.es/dp/B0BXX2PBXP",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -844,7 +844,7 @@
           "asin": "B0BXX2PBXP",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -853,7 +853,7 @@
           "asin": "B0BXX2PBXP",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "SSD de 90€ que hace volar tu PC",
@@ -866,32 +866,32 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "steam-deck-oled",
       "name": "Steam Deck OLED 512GB — Consola portátil PC",
       "category": "gaming",
       "description": "Juega tu biblioteca Steam en cualquier sitio. La handheld PC del momento.",
-      "price": 549,
-      "originalPrice": 579,
-      "discount": 5,
+      "price": 559.99,
+      "originalPrice": 559.99,
+      "discount": 0,
       "rating": 4.7,
       "reviews": 2800,
       "badge": "Handheld PC",
       "trending": false,
       "featured": false,
-      "image": "https://m.media-amazon.com/images/I/51Nw-kEg9zL._AC_SX569_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CP2YVFD4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0CP2YVFD4",
-          "price": 549,
+          "price": 949,
           "asin": "B0CP2YVFD4",
           "directUrl": "https://www.amazon.es/dp/B0CP2YVFD4",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -900,7 +900,7 @@
           "asin": "B0CP2YVFD4",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -909,7 +909,7 @@
           "asin": "B0CP2YVFD4",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Steam Deck OLED — ¿mata a la Nintendo Switch?",
@@ -920,31 +920,31 @@
         "valve"
       ],
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "mochila-viaje-cabin",
       "name": "Cabin Zero 36L — Mochila viaje cabina",
       "category": "viajes",
       "description": "Mochila aprobada como equipaje de mano. Bestseller mochileros low cost.",
-      "price": 39.99,
-      "originalPrice": 49.99,
-      "discount": 20,
+      "price": 44.99,
+      "originalPrice": 44.99,
+      "discount": 0,
       "rating": 4.6,
       "reviews": 7800,
       "badge": "Low cost travel",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/51hHF9sOrzL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01M7UBL11&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B01M7UBL11",
-          "price": 39.99,
+          "price": 51,
           "asin": "B01M7UBL11",
           "directUrl": "https://www.amazon.es/dp/B01M7UBL11",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -953,7 +953,7 @@
           "asin": "B01M7UBL11",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -962,7 +962,7 @@
           "asin": "B01M7UBL11",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Viajar solo con mochila cabina — 7 días con 36 litros",
@@ -974,16 +974,16 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "expedia-viajes",
       "name": "Vuelos + Hotel — Expedia España",
       "category": "viajes",
       "description": "Paquetes vacacionales con comisión de afiliado por reserva.",
-      "price": 0,
-      "originalPrice": 0,
-      "discount": 0,
+      "price": 129,
+      "originalPrice": 199,
+      "discount": 35,
       "rating": 4.4,
       "reviews": 0,
       "badge": "Servicio",
@@ -993,13 +993,13 @@
         {
           "store": "booking",
           "url": "https://www.booking.com/searchresults.es.html?ss=Vuelos%20%2B%20Hotel",
-          "price": 0,
-          "note": "Comisión por reserva (via Awin/TradeTracker)",
+          "price": 129,
+          "note": "Paquete orientativo",
           "asin": "B0D5V3JPPQ",
           "directUrl": "https://www.booking.com/searchresults.es.html?ss=Vuelos%20%2B%20Hotel",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Cómo encontré vuelo + hotel por 150€",
@@ -1012,31 +1012,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "shein-cupon-style",
       "name": "Set 3 camisetas básicas algodón — Unisex",
       "category": "ropa",
       "description": "Básicos de armario económicos. Alta rotación en moda low-cost.",
-      "price": 14.99,
-      "originalPrice": 24.99,
-      "discount": 40,
+      "price": 19.95,
+      "originalPrice": 19.95,
+      "discount": 0,
       "rating": 4.3,
       "reviews": 34000,
       "badge": "Básicos baratos",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/71HaSva-1xL._AC_SY741_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CSHHSVL2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0CSHHSVL2",
-          "price": 14.99,
+          "price": 37.99,
           "asin": "B0CSHHSVL2",
           "directUrl": "https://www.amazon.es/dp/B0CSHHSVL2",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -1045,7 +1045,7 @@
           "asin": "B0CSHHSVL2",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Básicos de 15€ vs Shein — calidad real",
@@ -1057,7 +1057,7 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "aliexpress-buds",
@@ -1071,17 +1071,17 @@
       "reviews": 8900,
       "badge": "Calidad-precio",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/414NozbDS7L._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DPXSW5PH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0DPXSW5PH",
-          "price": 29.99,
+          "price": 34.2,
           "asin": "B0DPXSW5PH",
           "directUrl": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "aliexpress",
@@ -1092,7 +1092,7 @@
           "directUrl": "https://es.aliexpress.com/wholesale?SearchText=Xiaomi%20Redmi%20Buds%206",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -1101,7 +1101,7 @@
           "asin": "B0DPXSW5PH",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Auriculares de 30€ vs AirPods — sorpresa",
@@ -1114,32 +1114,32 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "nordvpn-sub",
       "name": "NordVPN — Suscripción 2 años",
       "category": "informatica",
       "description": "VPN #1 del mundo. Comisión alta por suscripción de afiliado.",
-      "price": 2.99,
-      "originalPrice": 11.99,
-      "discount": 75,
+      "price": 39.99,
+      "originalPrice": 39.99,
+      "discount": 0,
       "rating": 4.5,
       "reviews": 56000,
       "badge": "Digital",
-      "trending": true,
-      "image": "https://m.media-amazon.com/images/I/61cJFu2ZiXL._AC_SX679_.jpg",
+      "trending": false,
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D7FFRHG5&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "price": 0,
+          "price": 39.99,
           "note": "Suscripción en nordvpn.com (afiliado)",
           "asin": "B0D7FFRHG5",
           "directUrl": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "VPN en 2026 — ¿NordVPN merece la pena?",
@@ -1152,32 +1152,32 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "comida-hellofresh",
       "name": "HelloFresh — Kit comidas semana (1ª caja)",
       "category": "alimentacion",
       "description": "Comida a domicilio con ingredientes. Comisión por alta de afiliado.",
-      "price": 19.99,
+      "price": 21.09,
       "originalPrice": 49.99,
-      "discount": 60,
+      "discount": 58,
       "rating": 4.3,
       "reviews": 12000,
       "badge": "1ª caja -60%",
-      "trending": true,
-      "image": "https://m.media-amazon.com/images/I/71-+45PcbEL._SY342_.jpg",
+      "trending": false,
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=1784724653&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/1784724653",
-          "price": 19.99,
+          "price": 21.09,
           "note": "Oferta afiliado Awin",
           "asin": "1784724653",
           "directUrl": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "HelloFresh vs cocinar — 1 semana de prueba",
@@ -1189,31 +1189,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "sprinter-zapatillas",
       "name": "Fila Disruptor 2 — Zapatillas chunky",
       "category": "ropa",
       "description": "Sneakers chunky trending. Muy populares en Sprinter y Amazon.",
-      "price": 49.99,
+      "price": 49.5,
       "originalPrice": 69.99,
       "discount": 29,
       "rating": 4.4,
       "reviews": 6700,
       "badge": "Chunky",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/71V1S8Nih-L._AC_SY535_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08D11R67B&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B08D11R67B",
-          "price": 49.99,
+          "price": 49.5,
           "asin": "B08D11R67B",
           "directUrl": "https://www.amazon.es/dp/B08D11R67B",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -1222,7 +1222,7 @@
           "asin": "B08D11R67B",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -1231,7 +1231,7 @@
           "asin": "B08D11R67B",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Fila Disruptor — el chunky que arrasa en TikTok",
@@ -1244,31 +1244,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "worten-tv-deal",
       "name": "LG UHD AI 55\" 4K Smart TV — 55UR73006LA",
       "category": "tv-audio",
       "description": "Smart TV 4K económica. Bestseller gama media en Worten y MediaMarkt.",
-      "price": 399,
-      "originalPrice": 549,
-      "discount": 27,
+      "price": 409,
+      "originalPrice": 409,
+      "discount": 0,
       "rating": 4.5,
       "reviews": 3400,
       "badge": "TV gama media",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/81h5Z2WKzzL._AC_SX679_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0GTRP9673&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0GTRP9673",
-          "price": 399,
+          "price": 419.99,
           "asin": "B0GTRP9673",
           "directUrl": "https://www.amazon.es/dp/B0GTRP9673",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -1277,7 +1277,7 @@
           "asin": "B0GTRP9673",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "pccomponentes",
@@ -1286,7 +1286,7 @@
           "asin": "B0GTRP9673",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "TV de 400€ vs OLED de 1200€ — ¿nota la diferencia?",
@@ -1299,7 +1299,7 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "arnes-perro-ruffwear",
@@ -1307,23 +1307,23 @@
       "category": "mascotas",
       "description": "Arnés premium para perros activos. Top en accesorios pet.",
       "price": 24.99,
-      "originalPrice": 49.99,
-      "discount": 50,
+      "originalPrice": 24.99,
+      "discount": 0,
       "rating": 4.8,
       "reviews": 5600,
       "badge": "Pet premium",
-      "trending": true,
-      "image": "https://m.media-amazon.com/images/I/61pJL0dyh4L._AC_SX522_.jpg",
+      "trending": false,
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLB6VL59&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0CLB6VL59",
-          "price": 39.99,
+          "price": 61.62,
           "asin": "B0CLB6VL59",
           "directUrl": "https://www.amazon.es/dp/B0CLB6VL59",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "decathlon",
@@ -1333,7 +1333,7 @@
           "asin": "B0CLB6VL59",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "El arnés que no roza a mi perro — Ruffwear review",
@@ -1345,7 +1345,7 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "thermomix-tm6",
@@ -1360,7 +1360,7 @@
       "badge": "Premium cocina",
       "trending": false,
       "featured": false,
-      "image": "https://m.media-amazon.com/images/I/71QgVer29JL._AC_SX569_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CQ3PR17V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
@@ -1370,7 +1370,7 @@
           "directUrl": "https://www.amazon.es/dp/B0CQ3PR17V",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -1379,7 +1379,7 @@
           "asin": "B0CQ3PR17V",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Thermomix TM6 — ¿1200€ por un robot de cocina?",
@@ -1390,31 +1390,31 @@
         "hogar-cocina"
       ],
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "bombillas-led-pack",
       "name": "Philips LED Pack 10 bombillas E27",
       "category": "hogar",
       "description": "Pack ahorro energético. Producto de alta rotación en hogar.",
-      "price": 19.99,
+      "price": 15.99,
       "originalPrice": 29.99,
-      "discount": 33,
+      "discount": 47,
       "rating": 4.6,
       "reviews": 18000,
       "badge": "Hogar básico",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/71--FpGRTGL._AC_SX569_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B09ZBKRMG1&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B09ZBKRMG1",
-          "price": 19.99,
+          "price": 15.99,
           "asin": "B09ZBKRMG1",
           "directUrl": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -1423,7 +1423,7 @@
           "asin": "B09ZBKRMG1",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -1432,7 +1432,7 @@
           "asin": "B09ZBKRMG1",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Pack 10 bombillas LED por 20€ — ahorro real",
@@ -1444,7 +1444,7 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "domestika-cursos",
@@ -1469,7 +1469,7 @@
           "directUrl": "https://www.amazon.es/dp/B00EFE2QFY",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Domestika Plus — ¿merece la pena en 2026?",
@@ -1482,31 +1482,31 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     },
     {
       "id": "carrefour-robot",
       "name": "Rowenta X-Clean 4 — Aspirador fregasuelos",
       "category": "hogar",
       "description": "Aspirador que friega a la vez. Top ventas en electrodomésticos hogar.",
-      "price": 199,
-      "originalPrice": 299,
-      "discount": 33,
+      "price": 219,
+      "originalPrice": 219,
+      "discount": 0,
       "rating": 4.4,
       "reviews": 4500,
       "badge": "Limpieza pro",
       "trending": false,
-      "image": "https://m.media-amazon.com/images/I/613+VBf3ZML._AC_SX569_.jpg",
+      "image": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0FJGFPWSS&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_",
       "offers": [
         {
           "store": "amazon",
           "url": "https://www.amazon.es/dp/B0FJGFPWSS",
-          "price": 199,
+          "price": 299.97,
           "asin": "B0FJGFPWSS",
           "directUrl": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "mediamarkt",
@@ -1515,7 +1515,7 @@
           "asin": "B0FJGFPWSS",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         },
         {
           "store": "elcorteingles",
@@ -1524,7 +1524,7 @@
           "asin": "B0FJGFPWSS",
           "linkKind": "search",
           "priceEstimated": true,
-          "lastChecked": "2026-06-03T00:15:35.280Z"
+          "lastChecked": "2026-06-03T19:47:45.693Z"
         }
       ],
       "videoHook": "Aspirador que friega — adiós fregona",
@@ -1537,7 +1537,7 @@
       ],
       "featured": false,
       "dealOfDay": false,
-      "priceUpdatedAt": "2026-06-03T00:15:35.280Z"
+      "priceUpdatedAt": "2026-06-03T19:47:45.693Z"
     }
   ]
 }

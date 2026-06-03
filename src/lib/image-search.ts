@@ -36,7 +36,7 @@ Responde SOLO con JSON válido (sin markdown):
 }
 Si no es un producto de consumo, usa productType "objeto desconocido" y keywords genéricas relacionadas.`;
 
-const GEMINI_MODELS = ["gemini-2.0-flash", "gemini-1.5-flash"];
+const GEMINI_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-flash-latest"];
 
 export function isImageSearchConfigured(): boolean {
   return !!getGeminiApiKey();

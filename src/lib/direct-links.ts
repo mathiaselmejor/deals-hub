@@ -1,4 +1,5 @@
 import type { Product, ProductOffer, StoreId } from "./types";
+import { applyConsistentProductPricing } from "./product-pricing";
 
 export type LinkKind = "direct" | "search";
 
@@ -107,20 +108,8 @@ export function normalizeProductOffers(
   asinMap?: Record<string, string | { amazon?: string; directUrl?: string }>,
 ): Product {
   const offers = product.offers.map((o) => resolveOfferUrl(o, product, asinMap));
-  const newOffers = offers.filter((o) => o.condition !== "refurbished");
-  const prices = newOffers.filter((o) => o.price > 0).map((o) => o.price);
-  const best = prices.length ? Math.min(...prices) : product.price;
-  const orig =
-    product.originalPrice > best ? product.originalPrice : best * 1.15;
-  const discount =
-    orig > best ? Math.round((1 - best / orig) * 100) : product.discount;
-
-  return {
+  return applyConsistentProductPricing({
     ...product,
     offers,
-    price: best,
-    originalPrice: Math.round(orig * 100) / 100,
-    discount,
-    priceUpdatedAt: product.priceUpdatedAt,
-  };
+  });
 }

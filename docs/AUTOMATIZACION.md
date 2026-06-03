@@ -8,6 +8,7 @@
 | **NEXT_PUBLIC_SITE_URL** | `https://deals-hub-iota.vercel.app` en Vercel |
 | **Cron Vercel cada 6 h** | `vercel.json` → `/api/cron/refresh-catalog` |
 | **GitHub: refresh catálogo** | `.github/workflows/refresh-catalog.yml` (cada 6 h + manual) |
+| **GitHub: expandir catálogo** | `.github/workflows/expand-catalog.yml` (diario: lote nuevo + ASINs + precios transparentes) |
 | **Código en GitHub** | `main` actualizado |
 
 ## Un solo paso para referidos (Supabase SQL)
@@ -61,6 +62,7 @@ Programas solicitados; estado en `data/awin-program-status.json` (pendiente de a
 npm run setup:automate    # Vercel env + índice + deploy
 npm run setup:vercel      # Solo variables Vercel
 npm run catalog:maintain  # Precios + rotación + enlaces directos
+npm run catalog:expand    # Nuevo lote transparente + ASINs + verificación
 node scripts/set-env-key.mjs CLAVE valor   # Una variable → Vercel
 ```
 

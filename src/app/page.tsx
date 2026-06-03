@@ -27,8 +27,11 @@ const ProductGrid = dynamic(
 );
 import { SearchBar } from "@/components/SearchBar";
 import { StoreMarquee } from "@/components/StoreMarquee";
+import { DealRadar } from "@/components/DealRadar";
+import { PriceAlertsPromo } from "@/components/PriceAlertsPromo";
 import { TopListsSection, TrustBar } from "@/components/TopListsSection";
 import { PersonalizedFeed } from "@/components/PersonalizedFeed";
+import { NewsletterSignup } from "@/components/NewsletterSignup";
 import {
   formatPrice,
   getCatalog,
@@ -53,7 +56,9 @@ export default function HomePage() {
   const editorsPicks = rankProductsByDealScore(catalog.products).slice(0, 3);
   const ropa = getProductsByCategory("ropa");
   const aliexpressDeals = getAliExpressDeals(8);
-  const fullCatalog = [...catalog.products].sort((a, b) => a.name.localeCompare(b.name, "es"));
+  const fullCatalog = [...catalog.products]
+    .sort((a, b) => a.name.localeCompare(b.name, "es"))
+    .slice(0, 120);
   const directCatalogCount = catalog.products.filter((p) =>
     p.offers.some((o) => o.store === "amazon" && o.linkKind === "direct"),
   ).length;
@@ -139,12 +144,14 @@ export default function HomePage() {
         </div>
       </section>
 
+      <DealRadar deals={deals} />
       <StoreMarquee />
       <div className="mx-auto max-w-7xl px-4 pt-8">
         <StoreTrustStrip />
       </div>
 
       <HowItWorksStrip />
+      <PriceAlertsPromo />
       <DealOfDayBanner />
       <ConversionBanner />
       <TrustBar />
@@ -258,6 +265,10 @@ export default function HomePage() {
       <TopListsSection />
       <CategoryRails />
 
+      <section className="mx-auto max-w-7xl px-4 py-12">
+        <NewsletterSignup />
+      </section>
+
       {aliexpressDeals.length > 0 && (
         <section id="aliexpress" className="mx-auto max-w-7xl scroll-mt-24 px-4 py-12">
           <SectionHeader
@@ -296,12 +307,20 @@ export default function HomePage() {
         <SectionHeader
           eyebrow="Tiendas afiliadas"
           title="📦 Catálogo completo"
-          description="Todos los productos en Amazon, PcComponentes, MediaMarkt, El Corte Inglés, Fnac, Decathlon, IKEA y eBay."
+          description={`Explora ${catalog.products.length} productos en Amazon, PcComponentes, MediaMarkt, El Corte Inglés, Fnac, Decathlon, IKEA y eBay. Usa el buscador para ver todos.`}
           accent="indigo"
         />
         <div className="mt-8">
           <ProductGrid products={fullCatalog} categories={catalog.categories} />
         </div>
+        <p className="mt-8 text-center">
+          <Link
+            href="/buscar"
+            className="inline-flex rounded-xl border border-indigo-500/30 bg-indigo-500/10 px-6 py-3 text-sm font-semibold text-indigo-200 transition hover:bg-indigo-500/20"
+          >
+            Ver los {catalog.products.length} productos en buscador →
+          </Link>
+        </p>
       </section>
 
       <FAQ />

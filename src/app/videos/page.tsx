@@ -1,14 +1,19 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { getCatalog } from "@/lib/products";
+import { getDealProducts, getCatalog } from "@/lib/products";
+import { rankProductsByDealScore } from "@/lib/algorithms";
 
 export const metadata: Metadata = {
   title: "Panel privado — Guiones de vídeo",
   robots: { index: false, follow: false },
 };
 
+/** Catálogo grande: render dinámico para no superar el límite ISR de Vercel. */
+export const dynamic = "force-dynamic";
+
 export default function VideosPage() {
   const catalog = getCatalog();
+  const scripts = rankProductsByDealScore(getDealProducts()).slice(0, 80);
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-12">
@@ -87,7 +92,11 @@ export default function VideosPage() {
       </div>
 
       <div className="mt-10 space-y-8">
-        {catalog.products.map((product) => (
+        <p className="text-sm text-slate-500">
+          Mostrando {scripts.length} guiones de chollos destacados · catálogo total:{" "}
+          {catalog.products.length} productos
+        </p>
+        {scripts.map((product) => (
           <div
             key={product.id}
             className="rounded-2xl border border-white/10 bg-card overflow-hidden"

@@ -1,0 +1,2860 @@
+{
+  "updatedAt": "2026-06-03T19:47:46.059Z",
+  "products": {
+    "ninja-airfryer": [
+      {
+        "date": "2026-06-03",
+        "price": 279.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 279.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 279.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 189.99,
+        "source": "amazon"
+      }
+    ],
+    "stanley-quencher": [
+      {
+        "date": "2026-06-03",
+        "price": 47,
+        "source": "amazon"
+      }
+    ],
+    "cerave-rutina": [
+      {
+        "date": "2026-06-03",
+        "price": 25.59,
+        "source": "amazon"
+      }
+    ],
+    "airpods-4": [
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      }
+    ],
+    "robot-aspirador": [
+      {
+        "date": "2026-06-03",
+        "price": 499.99,
+        "source": "amazon"
+      }
+    ],
+    "silla-gaming": [
+      {
+        "date": "2026-06-03",
+        "price": 659,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 399,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 659,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 399,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 659,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 399,
+        "source": "amazon"
+      }
+    ],
+    "creatina": [
+      {
+        "date": "2026-06-03",
+        "price": 33.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 26.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 33.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 26.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 33.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 26.99,
+        "source": "amazon"
+      }
+    ],
+    "kindle": [
+      {
+        "date": "2026-06-03",
+        "price": 119,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 119,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 119,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109.99,
+        "source": "amazon"
+      }
+    ],
+    "camara-seguridad": [
+      {
+        "date": "2026-06-03",
+        "price": 18.99,
+        "source": "amazon"
+      }
+    ],
+    "maleta-cabina": [
+      {
+        "date": "2026-06-03",
+        "price": 129,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 129,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 129,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 95,
+        "source": "amazon"
+      }
+    ],
+    "portatil-lenovo": [
+      {
+        "date": "2026-06-03",
+        "price": 599,
+        "source": "amazon"
+      }
+    ],
+    "cosori-airfryer": [
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      }
+    ],
+    "teclado-logitech": [
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 94.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 94.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 94.99,
+        "source": "amazon"
+      }
+    ],
+    "ps5-slim": [
+      {
+        "date": "2026-06-03",
+        "price": 614,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 399.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 614,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 399.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 614,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 399.99,
+        "source": "amazon"
+      }
+    ],
+    "colchon-emma": [
+      {
+        "date": "2026-06-03",
+        "price": 309.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 269,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 309.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 269,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 309.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 269,
+        "source": "amazon"
+      }
+    ],
+    "iphone-16": [
+      {
+        "date": "2026-06-03",
+        "price": 759,
+        "source": "amazon"
+      }
+    ],
+    "nike-air-force-1": [
+      {
+        "date": "2026-06-03",
+        "price": 95.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 75,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 95.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 75,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 95.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 75,
+        "source": "amazon"
+      }
+    ],
+    "adidas-samba": [
+      {
+        "date": "2026-06-03",
+        "price": 116.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 116.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 116.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      }
+    ],
+    "levis-501": [
+      {
+        "date": "2026-06-03",
+        "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 55,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 55,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 55,
+        "source": "amazon"
+      }
+    ],
+    "north-face-nuptse": [
+      {
+        "date": "2026-06-03",
+        "price": 210.8,
+        "source": "amazon"
+      }
+    ],
+    "nike-tech-fleece": [
+      {
+        "date": "2026-06-03",
+        "price": 98.3,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 98.3,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 98.3,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 70,
+        "source": "amazon"
+      }
+    ],
+    "new-balance-574": [
+      {
+        "date": "2026-06-03",
+        "price": 75.59,
+        "source": "amazon"
+      }
+    ],
+    "pack-ropa-interior-hanes": [
+      {
+        "date": "2026-06-03",
+        "price": 41.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 41.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 41.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.95,
+        "source": "amazon"
+      }
+    ],
+    "asics-gel-nimbus": [
+      {
+        "date": "2026-06-03",
+        "price": 52.95,
+        "source": "amazon"
+      }
+    ],
+    "garmin-forerunner-265": [
+      {
+        "date": "2026-06-03",
+        "price": 379,
+        "source": "amazon"
+      }
+    ],
+    "pelota-futbol-select": [
+      {
+        "date": "2026-06-03",
+        "price": 65,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 65,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 65,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 36.99,
+        "source": "amazon"
+      }
+    ],
+    "pala-padel-head": [
+      {
+        "date": "2026-06-03",
+        "price": 61.9,
+        "source": "amazon"
+      }
+    ],
+    "bici-estatica": [
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 169,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      }
+    ],
+    "tienda-campana-quechua": [
+      {
+        "date": "2026-06-03",
+        "price": 79.94,
+        "source": "amazon"
+      }
+    ],
+    "barbacoa-weber": [
+      {
+        "date": "2026-06-03",
+        "price": 89.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 74.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 74.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 74.99,
+        "source": "amazon"
+      }
+    ],
+    "purina-pro-plan": [
+      {
+        "date": "2026-06-03",
+        "price": 57.37,
+        "source": "amazon"
+      }
+    ],
+    "cama-perro-ortopedica": [
+      {
+        "date": "2026-06-03",
+        "price": 38.99,
+        "source": "amazon"
+      }
+    ],
+    "pampers-premium": [
+      {
+        "date": "2026-06-03",
+        "price": 23.9,
+        "source": "amazon"
+      }
+    ],
+    "monitor-bebe": [
+      {
+        "date": "2026-06-03",
+        "price": 106.77,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 99.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 106.77,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 99.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 106.77,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 99.99,
+        "source": "amazon"
+      }
+    ],
+    "silla-paseo-ligera": [
+      {
+        "date": "2026-06-03",
+        "price": 99.99,
+        "source": "amazon"
+      }
+    ],
+    "lego-classic": [
+      {
+        "date": "2026-06-03",
+        "price": 48.53,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 42.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 48.53,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 42.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 48.53,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 42.99,
+        "source": "amazon"
+      }
+    ],
+    "nerf-elite": [
+      {
+        "date": "2026-06-03",
+        "price": 12.99,
+        "source": "amazon"
+      }
+    ],
+    "dash-cam-70mai": [
+      {
+        "date": "2026-06-03",
+        "price": 159.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 159.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 159.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      }
+    ],
+    "aspirador-coche": [
+      {
+        "date": "2026-06-03",
+        "price": 45.05,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 32.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 45.05,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 32.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 45.05,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 32.95,
+        "source": "amazon"
+      }
+    ],
+    "nespresso-vertuo": [
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      }
+    ],
+    "proteina-myprotein": [
+      {
+        "date": "2026-06-03",
+        "price": 34.99,
+        "source": "amazon"
+      }
+    ],
+    "delonghi-dedica": [
+      {
+        "date": "2026-06-03",
+        "price": 139,
+        "source": "amazon"
+      }
+    ],
+    "samsung-tv-oled": [
+      {
+        "date": "2026-06-03",
+        "price": 766,
+        "source": "amazon"
+      }
+    ],
+    "fire-tv-stick-4k": [
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 44.99,
+        "source": "amazon"
+      }
+    ],
+    "samsung-galaxy-s25": [
+      {
+        "date": "2026-06-03",
+        "price": 685,
+        "source": "amazon"
+      }
+    ],
+    "ipad-11-2024": [
+      {
+        "date": "2026-06-03",
+        "price": 349,
+        "source": "amazon"
+      }
+    ],
+    "apple-watch-10": [
+      {
+        "date": "2026-06-03",
+        "price": 269,
+        "source": "amazon"
+      }
+    ],
+    "dyson-airwrap": [
+      {
+        "date": "2026-06-03",
+        "price": 449,
+        "source": "amazon"
+      }
+    ],
+    "monitor-27-gaming": [
+      {
+        "date": "2026-06-03",
+        "price": 479,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 289.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 479,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 289.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 479,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 289.99,
+        "source": "amazon"
+      }
+    ],
+    "purificador-xiaomi": [
+      {
+        "date": "2026-06-03",
+        "price": 151.92,
+        "source": "amazon"
+      }
+    ],
+    "cafetera-moka": [
+      {
+        "date": "2026-06-03",
+        "price": 49.9,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 29.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 49.9,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 29.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 49.9,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 29.95,
+        "source": "amazon"
+      }
+    ],
+    "theragun-mini": [
+      {
+        "date": "2026-06-03",
+        "price": 180.94,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 180.94,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 180.94,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      }
+    ],
+    "bascula-withings": [
+      {
+        "date": "2026-06-03",
+        "price": 99.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 99.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 99.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.99,
+        "source": "amazon"
+      }
+    ],
+    "raton-logitech-g502": [
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 54.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 54.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 54.99,
+        "source": "amazon"
+      }
+    ],
+    "samsung-galaxy-buds3": [
+      {
+        "date": "2026-06-03",
+        "price": 247.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 247.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 247.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 184.99,
+        "source": "amazon"
+      }
+    ],
+    "mochila-portatil": [
+      {
+        "date": "2026-06-03",
+        "price": 89.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 54.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 54.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 54.99,
+        "source": "amazon"
+      }
+    ],
+    "ring-doorbell": [
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 104.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 104.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 104.99,
+        "source": "amazon"
+      }
+    ],
+    "philips-hue-starter": [
+      {
+        "date": "2026-06-03",
+        "price": 75.98,
+        "source": "amazon"
+      }
+    ],
+    "crocs-classic": [
+      {
+        "date": "2026-06-03",
+        "price": 26.95,
+        "source": "amazon"
+      }
+    ],
+    "converse-chuck": [
+      {
+        "date": "2026-06-03",
+        "price": 65.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 57.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 65.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 57.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 65.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 57.99,
+        "source": "amazon"
+      }
+    ],
+    "casio-a168": [
+      {
+        "date": "2026-06-03",
+        "price": 38,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 22.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 38,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 22.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 38,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 22.95,
+        "source": "amazon"
+      }
+    ],
+    "zalando-gift-card-style": [
+      {
+        "date": "2026-06-03",
+        "price": 63.99,
+        "source": "amazon"
+      }
+    ],
+    "cinta-correr-plegable": [
+      {
+        "date": "2026-06-03",
+        "price": 208.99,
+        "source": "amazon"
+      }
+    ],
+    "kettlebell-16kg": [
+      {
+        "date": "2026-06-03",
+        "price": 47,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 39.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 47,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 39.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 47,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 39.99,
+        "source": "amazon"
+      }
+    ],
+    "gopro-hero13": [
+      {
+        "date": "2026-06-03",
+        "price": 699.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 354.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 699.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 354.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 699.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 354.99,
+        "source": "amazon"
+      }
+    ],
+    "la-roche-posay": [
+      {
+        "date": "2026-06-03",
+        "price": 13.59,
+        "source": "amazon"
+      }
+    ],
+    "perfume-armani": [
+      {
+        "date": "2026-06-03",
+        "price": 57.38,
+        "source": "amazon"
+      }
+    ],
+    "playmobil-city": [
+      {
+        "date": "2026-06-03",
+        "price": 37.49,
+        "source": "amazon"
+      }
+    ],
+    "hot-wheels-track": [
+      {
+        "date": "2026-06-03",
+        "price": 16.99,
+        "source": "amazon"
+      }
+    ],
+    "cargador-coche-elec": [
+      {
+        "date": "2026-06-03",
+        "price": 741.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 619.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 741.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 619.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 741.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 619.99,
+        "source": "amazon"
+      }
+    ],
+    "robot-cocina-moulinex": [
+      {
+        "date": "2026-06-03",
+        "price": 561.25,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 319,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 561.25,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 319,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 561.25,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 319,
+        "source": "amazon"
+      }
+    ],
+    "macbook-air-m3": [
+      {
+        "date": "2026-06-03",
+        "price": 1359,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 999,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 1359,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 999,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 1359,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 999,
+        "source": "amazon"
+      }
+    ],
+    "steam-deck-oled": [
+      {
+        "date": "2026-06-03",
+        "price": 949,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 559.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 949,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 559.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 949,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 559.99,
+        "source": "amazon"
+      }
+    ],
+    "mochila-viaje-cabin": [
+      {
+        "date": "2026-06-03",
+        "price": 51,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 51,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 51,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 44.99,
+        "source": "amazon"
+      }
+    ],
+    "shein-cupon-style": [
+      {
+        "date": "2026-06-03",
+        "price": 37.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 37.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 37.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.95,
+        "source": "amazon"
+      }
+    ],
+    "aliexpress-buds": [
+      {
+        "date": "2026-06-03",
+        "price": 34.2,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 34.2,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 34.2,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.99,
+        "source": "amazon"
+      }
+    ],
+    "nordvpn-sub": [
+      {
+        "date": "2026-06-03",
+        "price": 39.99,
+        "source": "amazon"
+      }
+    ],
+    "comida-hellofresh": [
+      {
+        "date": "2026-06-03",
+        "price": 21.09,
+        "source": "amazon"
+      }
+    ],
+    "sprinter-zapatillas": [
+      {
+        "date": "2026-06-03",
+        "price": 49.5,
+        "source": "amazon"
+      }
+    ],
+    "worten-tv-deal": [
+      {
+        "date": "2026-06-03",
+        "price": 419.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 409,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 419.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 409,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 419.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 409,
+        "source": "amazon"
+      }
+    ],
+    "arnes-perro-ruffwear": [
+      {
+        "date": "2026-06-03",
+        "price": 61.62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 61.62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 61.62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 24.99,
+        "source": "amazon"
+      }
+    ],
+    "bombillas-led-pack": [
+      {
+        "date": "2026-06-03",
+        "price": 15.99,
+        "source": "amazon"
+      }
+    ],
+    "carrefour-robot": [
+      {
+        "date": "2026-06-03",
+        "price": 299.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 219,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 299.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 219,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 299.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 219,
+        "source": "amazon"
+      }
+    ],
+    "samsung-galaxy-a55-5g-128gb": [
+      {
+        "date": "2026-06-03",
+        "price": 369.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 324.41,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 369.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 324.41,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 369.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 324.41,
+        "source": "amazon"
+      }
+    ],
+    "xiaomi-redmi-note-13-pro-5g": [
+      {
+        "date": "2026-06-03",
+        "price": 259,
+        "source": "amazon"
+      }
+    ],
+    "google-pixel-8a": [
+      {
+        "date": "2026-06-03",
+        "price": 379,
+        "source": "amazon"
+      }
+    ],
+    "iphone-15-128gb": [
+      {
+        "date": "2026-06-03",
+        "price": 434.99,
+        "source": "amazon"
+      }
+    ],
+    "motorola-edge-40-neo": [
+      {
+        "date": "2026-06-03",
+        "price": 228,
+        "source": "amazon"
+      }
+    ],
+    "oppo-reno-12-f-5g": [
+      {
+        "date": "2026-06-03",
+        "price": 248,
+        "source": "amazon"
+      }
+    ],
+    "realme-12-pro-5g": [
+      {
+        "date": "2026-06-03",
+        "price": 499.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 400.37,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 499.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 400.37,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 499.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 400.37,
+        "source": "amazon"
+      }
+    ],
+    "nothing-phone-2a": [
+      {
+        "date": "2026-06-03",
+        "price": 389,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 389,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 389,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 281.02,
+        "source": "amazon"
+      }
+    ],
+    "ipad-10-9-2024-64gb-wifi": [
+      {
+        "date": "2026-06-03",
+        "price": 349,
+        "source": "amazon"
+      }
+    ],
+    "samsung-galaxy-tab-s9-fe": [
+      {
+        "date": "2026-06-03",
+        "price": 399,
+        "source": "amazon"
+      }
+    ],
+    "lenovo-tab-p12": [
+      {
+        "date": "2026-06-03",
+        "price": 319,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 302.71,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 319,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 302.71,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 319,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 302.71,
+        "source": "amazon"
+      }
+    ],
+    "amazon-fire-hd-10": [
+      {
+        "date": "2026-06-03",
+        "price": 89,
+        "source": "amazon"
+      }
+    ],
+    "kindle-paperwhite-16gb": [
+      {
+        "date": "2026-06-03",
+        "price": 179.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 150.82,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 179.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 150.82,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 179.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 150.82,
+        "source": "amazon"
+      }
+    ],
+    "xiaomi-pad-6": [
+      {
+        "date": "2026-06-03",
+        "price": 299.99,
+        "source": "amazon"
+      }
+    ],
+    "logitech-mx-master-3s": [
+      {
+        "date": "2026-06-03",
+        "price": 140,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 140,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 140,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      }
+    ],
+    "keychron-k2-pro-teclado-mecanico": [
+      {
+        "date": "2026-06-03",
+        "price": 99,
+        "source": "amazon"
+      }
+    ],
+    "razer-deathadder-v3": [
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 74.86,
+        "source": "amazon"
+      }
+    ],
+    "logitech-c920-hd-pro-webcam": [
+      {
+        "date": "2026-06-03",
+        "price": 68,
+        "source": "amazon"
+      }
+    ],
+    "elgato-wave-3-microfono-usb": [
+      {
+        "date": "2026-06-03",
+        "price": 197,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 197,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 197,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 139.97,
+        "source": "amazon"
+      }
+    ],
+    "steelseries-arctis-nova-7": [
+      {
+        "date": "2026-06-03",
+        "price": 174.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 172.52,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 174.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 172.52,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 174.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 172.52,
+        "source": "amazon"
+      }
+    ],
+    "canon-eos-r50-kit-18-45mm": [
+      {
+        "date": "2026-06-03",
+        "price": 792.48,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 758.42,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 798.98,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 758.42,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 749,
+        "source": "amazon"
+      }
+    ],
+    "sony-zv-e10-vlogging": [
+      {
+        "date": "2026-06-03",
+        "price": 779,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 649.92,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 779,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 649.92,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 779,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 649.92,
+        "source": "amazon"
+      }
+    ],
+    "dji-osmo-pocket-3": [
+      {
+        "date": "2026-06-03",
+        "price": 489,
+        "source": "amazon"
+      }
+    ],
+    "gopro-hero12-black": [
+      {
+        "date": "2026-06-03",
+        "price": 358,
+        "source": "amazon"
+      }
+    ],
+    "insta360-x4": [
+      {
+        "date": "2026-06-03",
+        "price": 429,
+        "source": "amazon"
+      }
+    ],
+    "ventilador-de-torre-silencioso-rowenta": [
+      {
+        "date": "2026-06-03",
+        "price": 89,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 85.72,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 89,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 85.72,
+        "source": "amazon"
+      }
+    ],
+    "radiador-aceite-9-elementos": [
+      {
+        "date": "2026-06-03",
+        "price": 59.9,
+        "source": "amazon"
+      }
+    ],
+    "termoventilador-ceramico-2000w": [
+      {
+        "date": "2026-06-03",
+        "price": 26.58,
+        "source": "amazon"
+      }
+    ],
+    "roborock-qrevo-s-robot-aspirador": [
+      {
+        "date": "2026-06-03",
+        "price": 499.99,
+        "source": "amazon"
+      }
+    ],
+    "dyson-v15-detect-absolute": [
+      {
+        "date": "2026-06-03",
+        "price": 297,
+        "source": "amazon"
+      }
+    ],
+    "karcher-fc-7-fregona-electrica": [
+      {
+        "date": "2026-06-03",
+        "price": 263,
+        "source": "amazon"
+      }
+    ],
+    "bissell-spotclean-pro-tapiceria": [
+      {
+        "date": "2026-06-03",
+        "price": 199.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 194.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 199.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 194.22,
+        "source": "amazon"
+      }
+    ],
+    "aspirador-ciclonico-700w-compacto": [
+      {
+        "date": "2026-06-03",
+        "price": 58.46,
+        "source": "amazon"
+      }
+    ],
+    "taladro-percutor-bosch-18v-sin-bateria": [
+      {
+        "date": "2026-06-03",
+        "price": 241.51,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 241.51,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 139.97,
+        "source": "amazon"
+      }
+    ],
+    "sierra-caladora-black-decker-600w": [
+      {
+        "date": "2026-06-03",
+        "price": 31.59,
+        "source": "amazon"
+      }
+    ],
+    "escalera-aluminio-3-peldanos-plegable": [
+      {
+        "date": "2026-06-03",
+        "price": 39.93,
+        "source": "amazon"
+      }
+    ],
+    "silla-ergonomica-oficina-reposabrazos-4d": [
+      {
+        "date": "2026-06-03",
+        "price": 149.99,
+        "source": "amazon"
+      }
+    ],
+    "escritorio-elevable-electrico-140cm": [
+      {
+        "date": "2026-06-03",
+        "price": 151.99,
+        "source": "amazon"
+      }
+    ],
+    "monitor-arm-doble-vesa": [
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 53.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 53.17,
+        "source": "amazon"
+      }
+    ],
+    "mochila-antirrobo-portatil-15-6": [
+      {
+        "date": "2026-06-03",
+        "price": 30.86,
+        "source": "amazon"
+      }
+    ],
+    "pack-boligrafos-pilot-cuaderno-a5": [
+      {
+        "date": "2026-06-03",
+        "price": 13.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 13.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 13.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 13.02,
+        "source": "amazon"
+      }
+    ],
+    "sapiens-yuval-noah-harari-tapa-blanda": [
+      {
+        "date": "2026-06-03",
+        "price": 19.85,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 15.19,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.85,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 15.19,
+        "source": "amazon"
+      }
+    ],
+    "manga-one-piece-tomo-1": [
+      {
+        "date": "2026-06-03",
+        "price": 16.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 7.6,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 16.1,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 7.6,
+        "source": "amazon"
+      }
+    ],
+    "cuaderno-moleskine-a5-ruled": [
+      {
+        "date": "2026-06-03",
+        "price": 35,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.53,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 35,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.53,
+        "source": "amazon"
+      }
+    ],
+    "casio-g-shock-ga-2100": [
+      {
+        "date": "2026-06-03",
+        "price": 116.48,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 116.48,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      }
+    ],
+    "apple-watch-se-2024-gps-40mm": [
+      {
+        "date": "2026-06-03",
+        "price": 249,
+        "source": "amazon"
+      }
+    ],
+    "ray-ban-meta-wayfarer-gafas-inteligentes": [
+      {
+        "date": "2026-06-03",
+        "price": 292,
+        "source": "amazon"
+      }
+    ],
+    "gafas-polarizadas-oakley-holbrook": [
+      {
+        "date": "2026-06-03",
+        "price": 122.64,
+        "source": "amazon"
+      }
+    ],
+    "colchon-viscoelastico-135x190-medio": [
+      {
+        "date": "2026-06-03",
+        "price": 169.24,
+        "source": "amazon"
+      }
+    ],
+    "almohada-cervical-memory-foam": [
+      {
+        "date": "2026-06-03",
+        "price": 48.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 31.47,
+        "source": "amazon"
+      }
+    ],
+    "sabanas-microfibra-4-piezas": [
+      {
+        "date": "2026-06-03",
+        "price": 16.99,
+        "source": "amazon"
+      }
+    ],
+    "topper-visco-5cm-refuerzo-colchon": [
+      {
+        "date": "2026-06-03",
+        "price": 109,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 85.72,
+        "source": "amazon"
+      }
+    ],
+    "xiaomi-electric-scooter-4-lite": [
+      {
+        "date": "2026-06-03",
+        "price": 383.09,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 378.67,
+        "source": "amazon"
+      }
+    ],
+    "cascete-urbano-mips-bicicleta": [
+      {
+        "date": "2026-06-03",
+        "price": 104,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 64.02,
+        "source": "amazon"
+      }
+    ],
+    "candado-u-lock-acero-16mm": [
+      {
+        "date": "2026-06-03",
+        "price": 25.99,
+        "source": "amazon"
+      }
+    ],
+    "xiaomi-mi-electric-scooter-pro-2": [
+      {
+        "date": "2026-06-03",
+        "price": 429.45,
+        "source": "amazon"
+      }
+    ],
+    "epson-ecotank-et-2850": [
+      {
+        "date": "2026-06-03",
+        "price": 422.35,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 270.16,
+        "source": "amazon"
+      }
+    ],
+    "canon-pixma-g3590-megatank": [
+      {
+        "date": "2026-06-03",
+        "price": 252.73,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 215.92,
+        "source": "amazon"
+      }
+    ],
+    "pack-4-cartuchos-hp-305xl-compatibles": [
+      {
+        "date": "2026-06-03",
+        "price": 33.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 31.47,
+        "source": "amazon"
+      }
+    ],
+    "nvidia-rtx-4060-ti-8gb": [
+      {
+        "date": "2026-06-03",
+        "price": 610,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 432.92,
+        "source": "amazon"
+      }
+    ],
+    "fuente-corsair-rm750e-80-gold": [
+      {
+        "date": "2026-06-03",
+        "price": 104.99,
+        "source": "amazon"
+      }
+    ],
+    "wd-elements-4tb-disco-externo": [
+      {
+        "date": "2026-06-03",
+        "price": 149.59,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      }
+    ],
+    "yamaha-p-45-piano-digital-88-teclas": [
+      {
+        "date": "2026-06-03",
+        "price": 395,
+        "source": "amazon"
+      }
+    ],
+    "fender-squier-stratocaster-pack": [
+      {
+        "date": "2026-06-03",
+        "price": 248,
+        "source": "amazon"
+      }
+    ],
+    "audio-technica-at2020usb-microfono": [
+      {
+        "date": "2026-06-03",
+        "price": 95,
+        "source": "amazon"
+      }
+    ],
+    "ukulele-soprano-con-funda": [
+      {
+        "date": "2026-06-03",
+        "price": 39.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 31.47,
+        "source": "amazon"
+      }
+    ],
+    "cricut-explore-3-plotter-de-corte": [
+      {
+        "date": "2026-06-03",
+        "price": 249.99,
+        "source": "amazon"
+      }
+    ],
+    "set-120-rotuladores-alcohol-dual-tip": [
+      {
+        "date": "2026-06-03",
+        "price": 25.75,
+        "source": "amazon"
+      }
+    ],
+    "resina-epoxi-transparente-1-5l-kit": [
+      {
+        "date": "2026-06-03",
+        "price": 28.99,
+        "source": "amazon"
+      }
+    ],
+    "playstation-5-slim-digital-edition": [
+      {
+        "date": "2026-06-03",
+        "price": 719.9,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 487.17,
+        "source": "amazon"
+      }
+    ],
+    "steam-deck-oled-512gb": [
+      {
+        "date": "2026-06-03",
+        "price": 949,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 617.37,
+        "source": "amazon"
+      }
+    ],
+    "xbox-wireless-controller-carbon-black": [
+      {
+        "date": "2026-06-03",
+        "price": 119.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 53.17,
+        "source": "amazon"
+      }
+    ],
+    "lg-oled-c4-55-4k": [
+      {
+        "date": "2026-06-03",
+        "price": 939,
+        "source": "amazon"
+      }
+    ],
+    "sonos-era-100-altavoz-inteligente": [
+      {
+        "date": "2026-06-03",
+        "price": 219,
+        "source": "amazon"
+      }
+    ],
+    "fire-tv-stick-4k-max": [
+      {
+        "date": "2026-06-03",
+        "price": 79.99,
+        "source": "amazon"
+      }
+    ],
+    "barra-sonido-samsung-q990d": [
+      {
+        "date": "2026-06-03",
+        "price": 1522,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 975.42,
+        "source": "amazon"
+      }
+    ],
+    "lenovo-ideapad-slim-5-ryzen-7": [
+      {
+        "date": "2026-06-03",
+        "price": 1099,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 704.17,
+        "source": "amazon"
+      }
+    ],
+    "monitor-lg-ultragear-27-165hz": [
+      {
+        "date": "2026-06-03",
+        "price": 99,
+        "source": "amazon"
+      }
+    ],
+    "nespresso-vertuo-pop-cafetera": [
+      {
+        "date": "2026-06-03",
+        "price": 114.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 85.72,
+        "source": "amazon"
+      }
+    ],
+    "whey-protein-2kg-chocolate": [
+      {
+        "date": "2026-06-03",
+        "price": 75,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 42.32,
+        "source": "amazon"
+      }
+    ],
+    "robot-de-cocina-moulinex-cookeo": [
+      {
+        "date": "2026-06-03",
+        "price": 200.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 161.67,
+        "source": "amazon"
+      }
+    ],
+    "freidora-de-aire-cosori-5-5l": [
+      {
+        "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      }
+    ],
+    "the-north-face-borealis-mochila": [
+      {
+        "date": "2026-06-03",
+        "price": 62.13,
+        "source": "amazon"
+      }
+    ],
+    "levi-s-501-original-vaquero": [
+      {
+        "date": "2026-06-03",
+        "price": 66,
+        "source": "amazon"
+      }
+    ],
+    "chaqueta-softshell-impermeable": [
+      {
+        "date": "2026-06-03",
+        "price": 85.59,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 53.17,
+        "source": "amazon"
+      }
+    ],
+    "pelota-padel-head-delta-pro": [
+      {
+        "date": "2026-06-03",
+        "price": 99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      }
+    ],
+    "bicicleta-estatica-magnetica": [
+      {
+        "date": "2026-06-03",
+        "price": 234.64,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 215.92,
+        "source": "amazon"
+      }
+    ],
+    "garrafa-termo-1l-running": [
+      {
+        "date": "2026-06-03",
+        "price": 35.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 16.27,
+        "source": "amazon"
+      }
+    ],
+    "purina-pro-plan-gato-3kg": [
+      {
+        "date": "2026-06-03",
+        "price": 25.1,
+        "source": "amazon"
+      }
+    ],
+    "arnes-perro-reflective-l": [
+      {
+        "date": "2026-06-03",
+        "price": 21.65,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 19.53,
+        "source": "amazon"
+      }
+    ],
+    "cochecito-bugaboo-butterfly": [
+      {
+        "date": "2026-06-03",
+        "price": 479,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 432.92,
+        "source": "amazon"
+      }
+    ],
+    "lego-technic-ferrari-daytona-sp3": [
+      {
+        "date": "2026-06-03",
+        "price": 438.76,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-03",
+        "price": 378.67,
+        "source": "amazon"
+      }
+    ]
+  }
+}

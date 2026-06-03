@@ -5,16 +5,18 @@ import {
   formatPrice,
   getAffiliateConfig,
   getBestOffer,
+  getDisplayPrice,
 } from "@/lib/catalog-formatters";
+import { isOrientativePrice } from "@/lib/products";
 import type { Product } from "@/lib/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
 
 export function StickyBuyBar({ product }: { product: Product }) {
   const best = getBestOffer(product);
   const config = getAffiliateConfig();
+  const orientative = isOrientativePrice(product);
+  const displayPrice = getDisplayPrice(product);
   if (!best) return null;
-
-  const store = config.stores[best.store];
 
   return (
     <div className="fixed bottom-0 left-0 right-0 z-40 border-t border-emerald-500/30 bg-[#0a0a12]/95 p-3 backdrop-blur-md lg:hidden">
@@ -22,8 +24,10 @@ export function StickyBuyBar({ product }: { product: Product }) {
         <div className="min-w-0">
           <p className="truncate text-sm font-semibold">{product.name}</p>
           <p className="text-lg font-bold text-emerald-400">
-            {best.price > 0 ? formatPrice(best.price) : "Ver oferta"}
-            <span className="ml-2 text-xs font-normal text-slate-500">{store.label}</span>
+            {displayPrice > 0 ? formatPrice(displayPrice) : "Ver oferta"}
+            <span className="ml-2 text-xs font-normal text-slate-500">
+              {orientative ? "orientativo" : config.stores[best.store]?.label}
+            </span>
           </p>
         </div>
         <AffiliateLink

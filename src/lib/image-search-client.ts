@@ -65,6 +65,7 @@ export type ImageSearchApiResponse = {
   analysis: ImageSearchAnalysis;
   productIds: string[];
   count: number;
+  mode?: "vision" | "ocr";
 };
 
 /** OCR local — fallback sin API key (lee texto en cajas/etiquetas). */

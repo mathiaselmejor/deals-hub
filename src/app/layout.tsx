@@ -7,6 +7,9 @@ import { MobileNav } from "@/components/MobileNav";
 import { AnalyticsTracker } from "@/components/AnalyticsTracker";
 import { CookieBanner } from "@/components/CookieBanner";
 import { GlobalReferralCapture } from "@/components/GlobalReferralCapture";
+import { CompareQueueBar } from "@/components/CompareQueueBar";
+import { KeyboardShortcuts } from "@/components/KeyboardShortcuts";
+import { PwaInstallPrompt } from "@/components/PwaInstallPrompt";
 import { getAffiliateConfig } from "@/lib/products";
 
 const jakarta = Plus_Jakarta_Sans({
@@ -75,11 +78,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen flex flex-col pb-20 md:pb-0">
         <AnalyticsTracker />
         <GlobalReferralCapture />
+        <KeyboardShortcuts />
         <Header />
+        <CompareQueueBar />
         <main className="flex-1">{children}</main>
         <Footer disclaimer={config.disclaimer} />
         <MobileNav />
         <CookieBanner />
+        <PwaInstallPrompt />
       </body>
     </html>
   );

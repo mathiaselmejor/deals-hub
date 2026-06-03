@@ -4,6 +4,7 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { ImageSearchPanel } from "@/components/ImageSearchPanel";
 import { getPopularSearches } from "@/lib/search-constants";
+import { getRecentSearches, pushRecentSearch } from "@/lib/recent-searches";
 import { trackEvent } from "@/components/AnalyticsTracker";
 
 interface SearchBarProps {
@@ -25,6 +26,7 @@ export function SearchBar({
   const [query, setQuery] = useState(defaultValue);
   const [open, setOpen] = useState(false);
   const [suggestions, setSuggestions] = useState<string[]>([]);
+  const [recent, setRecent] = useState<string[]>([]);
   const wrapperRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -43,6 +45,7 @@ export function SearchBar({
 
   const updateSuggestions = useCallback((value: string) => {
     if (!value.trim()) {
+      setRecent(getRecentSearches());
       setSuggestions(getPopularSearches());
       return;
     }
@@ -58,6 +61,8 @@ export function SearchBar({
     const q = term.trim();
     if (!q) return;
     setOpen(false);
+    pushRecentSearch(q);
+    setRecent(getRecentSearches());
     trackEvent("search", { query: q });
     router.push(`/buscar?q=${encodeURIComponent(q)}`);
   };
@@ -81,6 +86,7 @@ export function SearchBar({
         </span>
         <input
           type="search"
+          data-search-main
           value={query}
           autoFocus={autoFocus}
           placeholder={placeholder}
@@ -110,25 +116,55 @@ export function SearchBar({
         {showImageSearch && <ImageSearchPanel variant="compact" />}
       </div>
 
-      {open && suggestions.length > 0 && (
+      {open && (suggestions.length > 0 || (!query.trim() && recent.length > 0)) && (
         <div className="absolute left-0 right-0 top-full z-50 mt-2 overflow-hidden rounded-xl border border-white/10 bg-card shadow-2xl">
-          <p className="border-b border-white/5 px-4 py-2 text-[10px] font-semibold uppercase tracking-wider text-slate-500">
-            {query.trim() ? "Sugerencias" : "Búsquedas populares"}
-          </p>
-          <ul>
-            {suggestions.map((s) => (
-              <li key={s}>
-                <button
-                  type="button"
-                  onClick={() => goSearch(s)}
-                  className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm text-slate-300 transition hover:bg-white/5 hover:text-white"
-                >
-                  <span className="text-slate-500">{query.trim() ? "→" : "🔥"}</span>
-                  {s}
-                </button>
-              </li>
-            ))}
-          </ul>
+          {!query.trim() && recent.length > 0 && (
+            <>
+              <p className="border-b border-white/5 px-4 py-2 text-[10px] font-semibold uppercase tracking-wider text-slate-500">
+                Recientes
+              </p>
+              <ul>
+                {recent.map((s) => (
+                  <li key={`r-${s}`}>
+                    <button
+                      type="button"
+                      onClick={() => goSearch(s)}
+                      className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm text-slate-300 transition hover:bg-white/5 hover:text-white"
+                    >
+                      <span className="text-slate-500">🕐</span>
+                      {s}
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+          {suggestions.length > 0 && (
+            <>
+              <p className="border-b border-white/5 px-4 py-2 text-[10px] font-semibold uppercase tracking-wider text-slate-500">
+                {query.trim() ? "Sugerencias" : "Búsquedas populares"}
+              </p>
+              <ul>
+                {suggestions.map((s) => (
+                  <li key={s}>
+                    <button
+                      type="button"
+                      onClick={() => goSearch(s)}
+                      className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm text-slate-300 transition hover:bg-white/5 hover:text-white"
+                    >
+                      <span className="text-slate-500">{query.trim() ? "→" : "🔥"}</span>
+                      {s}
+                    </button>
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+          {!query.trim() && (
+            <p className="border-t border-white/5 px-4 py-2 text-[10px] text-slate-600">
+              Atajo: pulsa <kbd className="rounded bg-white/10 px-1">/</kbd> para buscar
+            </p>
+          )}
         </div>
       )}
     </div>

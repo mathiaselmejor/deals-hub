@@ -14,20 +14,23 @@ import { InteractionTracker } from "@/components/InteractionTracker";
 import { CompareShortcuts } from "@/components/CompareShortcuts";
 import { PriceCompareTable } from "@/components/PriceCompareTable";
 import { ProductVerdictBanner } from "@/components/ProductVerdictBanner";
+import { PriceHistoryChart } from "@/components/PriceHistoryChart";
+import { VerifiedPriceBadge } from "@/components/VerifiedPriceBadge";
 import { computeDealScore, getRelatedProductsSmart } from "@/lib/algorithms";
 import {
   formatPrice,
   formatReviews,
-  getCatalog,
   getCategoryLabel,
+  getDisplayPrice,
   getProductById,
   getRelatedProducts,
   getSavings,
+  isOrientativePrice,
 } from "@/lib/products";
+import { getPriceHistory } from "@/lib/price-history";
 
-export function generateStaticParams() {
-  return getCatalog().products.map((p) => ({ id: p.id }));
-}
+/** 10k+ productos: no pre-render en build (evita timeout/error en Vercel). */
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,
@@ -59,6 +62,9 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
   const related = getRelatedProducts(product);
   const compareRivals = getRelatedProductsSmart(product, 3);
   const savings = getSavings(product);
+  const displayPrice = getDisplayPrice(product);
+  const orientative = isOrientativePrice(product);
+  const priceHistory = getPriceHistory(product.id);
   return (
     <>
       <JsonLd product={product} />
@@ -90,9 +96,14 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"
               />
-              {product.discount > 0 && (
+              {product.discount > 0 && !orientative && (
                 <span className="absolute left-4 top-4 rounded-xl bg-gradient-to-r from-rose-500 to-orange-500 px-4 py-2 text-sm font-bold shadow-lg">
                   -{product.discount}% OFF
+                </span>
+              )}
+              {orientative && (
+                <span className="absolute left-4 top-4 rounded-xl bg-amber-500/95 px-4 py-2 text-sm font-bold text-black shadow-lg">
+                  Precio orientativo
                 </span>
               )}
             </div>
@@ -157,28 +168,41 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
             </p>
 
             {/* Price */}
-            {product.price > 0 && (
+            {displayPrice > 0 && (
               <div className="mt-6 rounded-2xl border border-emerald-500/20 bg-emerald-500/5 p-5">
                 <div className="flex flex-wrap items-baseline gap-3">
                   <span className="text-4xl font-bold text-emerald-400">
-                    {formatPrice(product.price)}
+                    {formatPrice(displayPrice)}
                   </span>
-                  {product.originalPrice > product.price && (
+                  {!orientative && product.originalPrice > displayPrice && (
                     <span className="text-xl text-slate-500 line-through">
                       {formatPrice(product.originalPrice)}
                     </span>
                   )}
                 </div>
-                {savings > 0 && (
+                {orientative && (
+                  <p className="mt-2 text-sm text-amber-200/90">
+                    Precio de referencia en comparador — confirma el importe final en la tienda antes de comprar.
+                  </p>
+                )}
+                {savings > 0 && !orientative && (
                   <p className="mt-2 text-sm text-rose-400">
-                    🎉 Ahorras {formatPrice(savings)} ({product.discount}% de descuento)
+                    🎉 Ahorras {formatPrice(savings)} ({product.discount}% de descuento verificado)
                   </p>
                 )}
               </div>
             )}
 
+            <div className="mt-4">
+              <VerifiedPriceBadge product={product} />
+            </div>
+
             <div className="mt-6">
-              <ProductActions productId={product.id} currentPrice={product.price} />
+              <ProductActions
+                productId={product.id}
+                productName={product.name}
+                currentPrice={displayPrice}
+              />
             </div>
 
             <CompareShortcuts product={product} rivals={compareRivals} />
@@ -213,6 +237,10 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
 
             <div className="mt-8">
               <PriceCompareTable product={product} />
+            </div>
+
+            <div className="mt-8">
+              <PriceHistoryChart series={priceHistory} currentPrice={displayPrice} />
             </div>
 
             <StoreOffersPanel product={product} />

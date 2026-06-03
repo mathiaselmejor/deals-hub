@@ -4,6 +4,8 @@ import rotationData from "../../data/rotation-state.json";
 import { applyAliExpressLinks } from "./aliexpress-links";
 import { amazonProductImageUrl, normalizeProductOffers } from "./direct-links";
 import { enrichProduct } from "./offer-enrichment";
+import { enrichCatalogMetadata } from "./catalog-metadata";
+import { applyConsistentProductPricing } from "./product-pricing";
 import type { Product, ProductOffer } from "./types";
 
 type AsinMap = Record<
@@ -84,7 +86,8 @@ export function finalizeCatalogProduct(product: Product): Product {
   const withImage = applyVerifiedImage(normalized);
   const withAliExpress = applyAliExpressLinks(withImage);
   const withLive = applyLiveOverlay(withAliExpress);
-  return applyRotationFlags(withLive);
+  const priced = applyConsistentProductPricing(applyRotationFlags(withLive));
+  return enrichCatalogMetadata(priced);
 }
 
 function applyVerifiedImage(product: Product): Product {

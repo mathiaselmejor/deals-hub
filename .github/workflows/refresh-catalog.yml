@@ -27,6 +27,9 @@ jobs:
       - name: Apply direct Amazon links
         run: node scripts/apply-direct-links.mjs
 
+      - name: Sync transparent pricing
+        run: node scripts/sync-catalog-pricing.mjs
+
       - name: Update search index
         run: node scripts/generate-search-index.mjs
 

@@ -4,7 +4,9 @@ import {
   formatPrice,
   getBestOffer,
   getDealOfDay,
+  getDisplayPrice,
   getSavings,
+  isOrientativePrice,
 } from "@/lib/products";
 
 export function DealOfDayBanner() {
@@ -13,6 +15,8 @@ export function DealOfDayBanner() {
 
   const best = getBestOffer(deal);
   const savings = getSavings(deal);
+  const displayPrice = getDisplayPrice(deal);
+  const orientative = isOrientativePrice(deal);
 
   return (
     <section className="mx-auto max-w-7xl px-4 py-6">
@@ -35,9 +39,11 @@ export function DealOfDayBanner() {
               <h3 className="font-bold sm:text-lg">{deal.name}</h3>
               <p className="mt-1 text-sm text-slate-400 line-clamp-2">{deal.description}</p>
               <div className="mt-2 flex items-baseline gap-2">
-                <span className="text-2xl font-bold text-emerald-400">{formatPrice(deal.price)}</span>
-                <span className="text-sm text-slate-500 line-through">{formatPrice(deal.originalPrice)}</span>
-                {savings > 0 && (
+                <span className="text-2xl font-bold text-emerald-400">{formatPrice(displayPrice)}</span>
+                {!orientative && deal.originalPrice > displayPrice && (
+                  <span className="text-sm text-slate-500 line-through">{formatPrice(deal.originalPrice)}</span>
+                )}
+                {savings > 0 && !orientative && (
                   <span className="rounded bg-rose-500/20 px-2 py-0.5 text-xs font-bold text-rose-300">
                     Ahorras {formatPrice(savings)}
                   </span>

@@ -4,8 +4,9 @@ import {
   buildAffiliateUrl,
   formatPrice,
   getAffiliateConfig,
-  getBestOffer,
+  getDisplayPrice,
   getNewOffers,
+  isOrientativePrice,
 } from "@/lib/products";
 import type { Product } from "@/lib/types";
 
@@ -18,8 +19,8 @@ export function PriceCompareTable({ product }: { product: Product }) {
 
   if (offers.length === 0) return null;
 
-  const best = getBestOffer(product);
-  const bestPrice = best?.price ?? offers[0].price;
+  const bestPrice = getDisplayPrice(product);
+  const orientative = isOrientativePrice(product);
   const maxPrice = Math.max(...offers.map((o) => o.price));
 
   return (
@@ -27,11 +28,20 @@ export function PriceCompareTable({ product }: { product: Product }) {
       <div className="border-b border-white/5 bg-indigo-500/5 px-5 py-4">
         <h2 className="font-bold">Comparativa de precios</h2>
         <p className="mt-1 text-sm text-slate-400">
-          {offers.length} tiendas · ahorro hasta{" "}
-          <span className="font-semibold text-emerald-400">
-            {formatPrice(maxPrice - bestPrice)}
-          </span>{" "}
-          vs la más cara
+          {offers.length} tiendas
+          {!orientative && maxPrice > bestPrice && (
+            <>
+              {" "}
+              · ahorro hasta{" "}
+              <span className="font-semibold text-emerald-400">
+                {formatPrice(maxPrice - bestPrice)}
+              </span>{" "}
+              vs la más cara
+            </>
+          )}
+          {orientative && (
+            <span className="text-amber-200/80"> · precios orientativos — confirma en tienda</span>
+          )}
         </p>
       </div>
 

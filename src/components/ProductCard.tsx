@@ -12,10 +12,12 @@ import {
   getNewOffers,
   getSavings,
 } from "@/lib/catalog-formatters";
+import { isOrientativePrice } from "@/lib/products";
 import { computeDealScore } from "@/lib/algorithms";
 import { isDirectPurchaseOffer } from "@/lib/offer-target";
 import type { Product } from "@/lib/types";
 import { AffiliateLink } from "@/components/AffiliateLink";
+import { CompareToggleButton } from "@/components/CompareToggleButton";
 import { DealScoreMini } from "@/components/DealScoreMini";
 
 export function ProductCard({ product, featured = false }: { product: Product; featured?: boolean }) {
@@ -24,7 +26,8 @@ export function ProductCard({ product, featured = false }: { product: Product; f
   const best = getBestOffer(product);
   const bestRefurb = getBestRefurbishedOffer(product);
   const savings = getSavings(product);
-  const isCatalog = product.listingKind === "catalog";
+  const orientative = isOrientativePrice(product);
+  const showDiscount = product.discount > 0 && savings > 0 && !orientative;
   const storeCount = getNewOffers(product).length;
   const dealScore = computeDealScore(product);
   const bestIsAliExpress = best?.store === "aliexpress";
@@ -46,11 +49,15 @@ export function ProductCard({ product, featured = false }: { product: Product; f
           className="object-cover transition duration-700 group-hover:scale-110"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-card via-transparent to-transparent opacity-60" />
-        {product.discount > 0 ? (
+        {showDiscount ? (
           <span className="absolute left-3 top-3 rounded-lg bg-gradient-to-r from-rose-500 to-orange-500 px-2.5 py-1 text-xs font-bold shadow-lg">
             -{product.discount}%
           </span>
-        ) : isCatalog ? (
+        ) : orientative ? (
+          <span className="absolute left-3 top-3 rounded-lg bg-amber-500/90 px-2.5 py-1 text-[10px] font-bold text-black shadow-lg">
+            Precio orientativo
+          </span>
+        ) : product.listingKind === "catalog" ? (
           <span className="absolute left-3 top-3 rounded-lg bg-indigo-500/90 px-2.5 py-1 text-xs font-bold shadow-lg">
             Catálogo
           </span>
@@ -111,7 +118,9 @@ export function ProductCard({ product, featured = false }: { product: Product; f
           <div>
             {lowest > 0 ? (
               <>
-                <p className="text-[10px] uppercase tracking-wider text-slate-500">Mejor precio</p>
+                <p className="text-[10px] uppercase tracking-wider text-slate-500">
+                  {orientative ? "Desde (orientativo)" : "Mejor precio"}
+                </p>
                 <p className="text-xl font-bold text-emerald-400">{formatPrice(lowest)}</p>
                 {savings > 0 && (
                   <p className="text-[10px] text-rose-400">Ahorras {formatPrice(savings)}</p>
@@ -157,12 +166,15 @@ export function ProductCard({ product, featured = false }: { product: Product; f
             </Link>
           )}
         </div>
-        <Link
-          href={`/comparar?a=${product.id}`}
-          className="mt-2 block text-center text-[10px] font-medium text-slate-500 opacity-0 transition group-hover:opacity-100 hover:text-indigo-400"
-        >
-          ⚔️ Comparar
-        </Link>
+        <div className="mt-2 flex items-center justify-center gap-2">
+          <CompareToggleButton productId={product.id} name={product.name} image={product.image} />
+          <Link
+            href={`/comparar?a=${product.id}`}
+            className="text-[10px] font-medium text-slate-500 opacity-0 transition group-hover:opacity-100 hover:text-indigo-400"
+          >
+            Duelo →
+          </Link>
+        </div>
       </div>
     </article>
   );

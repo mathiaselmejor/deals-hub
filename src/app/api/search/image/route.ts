@@ -59,10 +59,24 @@ export async function POST(request: Request) {
     }
 
     const buffer = Buffer.from(await file.arrayBuffer());
-    const useVision = !!getGeminiApiKey();
-    const analysis = useVision
-      ? await analyzeProductImage(buffer.toString("base64"), file.type)
-      : await analyzeImageWithOcr(buffer);
+    const hasVisionKey = !!getGeminiApiKey();
+    let mode: "vision" | "ocr" = hasVisionKey ? "vision" : "ocr";
+    let analysis;
+
+    if (hasVisionKey) {
+      try {
+        analysis = await analyzeProductImage(buffer.toString("base64"), file.type);
+      } catch (err) {
+        if (err instanceof ImageSearchError && err.code === "analysis_failed") {
+          analysis = await analyzeImageWithOcr(buffer);
+          mode = "ocr";
+        } else {
+          throw err;
+        }
+      }
+    } else {
+      analysis = await analyzeImageWithOcr(buffer);
+    }
 
     const { products } = getCatalog();
     const ranked = rankProductsForImageAnalysis(analysis, products);
@@ -72,7 +86,7 @@ export async function POST(request: Request) {
       analysis,
       productIds: ranked.map((p) => p.id),
       count: ranked.length,
-      mode: useVision ? "vision" : "ocr",
+      mode,
     });
   } catch (err) {
     if (err instanceof ImageSearchError) {

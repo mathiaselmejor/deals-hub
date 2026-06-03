@@ -1,10 +1,12 @@
 import type { Product } from "@/lib/types";
-import { getCatalog } from "@/lib/products";
+import { getCatalog, getDisplayPrice, hasVerifiedPricing } from "@/lib/products";
 
 export function JsonLd({ product }: { product?: Product }) {
   const catalog = getCatalog();
 
   if (product) {
+    const displayPrice = getDisplayPrice(product);
+    const verified = hasVerifiedPricing(product);
     const schema: Record<string, unknown> = {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -13,8 +15,9 @@ export function JsonLd({ product }: { product?: Product }) {
       image: product.image,
       offers: {
         "@type": "AggregateOffer",
-        lowPrice: product.price > 0 ? product.price : undefined,
-        highPrice: product.originalPrice > 0 ? product.originalPrice : undefined,
+        lowPrice: displayPrice > 0 ? displayPrice : undefined,
+        highPrice:
+          verified && product.originalPrice > displayPrice ? product.originalPrice : undefined,
         priceCurrency: "EUR",
         offerCount: product.offers.length,
         availability: "https://schema.org/InStock",

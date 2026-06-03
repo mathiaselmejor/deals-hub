@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/client";
+import { PriceAlertButton } from "@/components/PriceAlertButton";
 
 export function FavoriteButton({ productId }: { productId: string }) {
   const [active, setActive] = useState(false);
@@ -58,97 +59,31 @@ export function FavoriteButton({ productId }: { productId: string }) {
   );
 }
 
-export function PriceAlertButton({
-  productId,
-  currentPrice,
-}: {
-  productId: string;
-  currentPrice: number;
-}) {
-  const [open, setOpen] = useState(false);
-  const [target, setTarget] = useState("");
-  const [saved, setSaved] = useState(false);
-  const [loggedIn, setLoggedIn] = useState<boolean | null>(null);
-
-  useEffect(() => {
-    createClient().auth.getUser().then(({ data: { user } }) => setLoggedIn(!!user));
-  }, []);
-
-  const suggested = currentPrice > 0 ? Math.floor(currentPrice * 0.9) : 0;
-
-  const save = async () => {
-    if (!loggedIn) {
-      window.location.href = `/login?redirect=/producto/${productId}`;
-      return;
-    }
-    const price = parseFloat(target.replace(",", "."));
-    if (!price || price <= 0) return;
-    await fetch("/api/price-alerts", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ productId, targetPrice: price }),
-    });
-    setSaved(true);
-    setOpen(false);
-  };
-
-  if (saved) {
-    return (
-      <span className="rounded-xl border border-emerald-500/30 bg-emerald-500/10 px-4 py-2.5 text-sm text-emerald-300">
-        ✓ Alerta activa
-      </span>
-    );
-  }
-
-  if (!open) {
-    return (
-      <button
-        type="button"
-        onClick={() => {
-          if (suggested) setTarget(String(suggested));
-          setOpen(true);
-        }}
-        className="rounded-xl border border-amber-500/30 bg-amber-500/10 px-4 py-2.5 text-sm font-semibold text-amber-300 transition hover:bg-amber-500/20"
-      >
-        🔔 Alerta de precio
-      </button>
-    );
-  }
-
-  return (
-    <div className="flex flex-wrap items-center gap-2">
-      <input
-        type="number"
-        value={target}
-        onChange={(e) => setTarget(e.target.value)}
-        placeholder={suggested ? `Ej. ${suggested}` : "Precio €"}
-        className="w-28 rounded-lg border border-white/10 bg-white/5 px-3 py-2 text-sm"
-      />
-      <button
-        type="button"
-        onClick={save}
-        className="rounded-lg bg-amber-500/30 px-3 py-2 text-xs font-bold text-amber-200"
-      >
-        Guardar
-      </button>
-      <button type="button" onClick={() => setOpen(false)} className="text-xs text-slate-500">
-        Cancelar
-      </button>
-    </div>
-  );
-}
-
 export function ProductActions({
   productId,
+  productName,
   currentPrice,
 }: {
   productId: string;
+  productName: string;
   currentPrice: number;
 }) {
   return (
-    <div className="flex flex-wrap gap-3">
-      <FavoriteButton productId={productId} />
-      <PriceAlertButton productId={productId} currentPrice={currentPrice} />
+    <div className="flex flex-col gap-4">
+      <div className="flex flex-wrap gap-3">
+        <FavoriteButton productId={productId} />
+        <Link
+          href="/cuenta"
+          className="rounded-xl border border-white/10 px-4 py-2.5 text-sm text-slate-400 hover:text-white"
+        >
+          Mis alertas →
+        </Link>
+      </div>
+      <PriceAlertButton
+        productId={productId}
+        currentPrice={currentPrice}
+        productName={productName}
+      />
     </div>
   );
 }

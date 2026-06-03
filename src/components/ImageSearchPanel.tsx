@@ -71,7 +71,7 @@ export function ImageSearchPanel({ variant = "full", onSuccess }: Props) {
             productType: result.analysis.productType,
             confidence: result.analysis.confidence,
             results: result.count,
-            mode: "vision",
+            mode: result.mode ?? "vision",
           });
 
           onSuccess?.(result.query, result.analysis);
@@ -175,11 +175,15 @@ export function ImageSearchPanel({ variant = "full", onSuccess }: Props) {
             Detectamos el producto y buscamos ofertas en el catálogo.
           </p>
         </div>
-        {visionEnabled === false && (
-          <span className="rounded-full bg-indigo-500/15 px-3 py-1 text-xs text-indigo-200">
-            OCR activo · IA opcional con GEMINI_API_KEY
+        {visionEnabled === true ? (
+          <span className="rounded-full bg-emerald-500/15 px-3 py-1 text-xs text-emerald-200">
+            ✨ Visión IA activa
           </span>
-        )}
+        ) : visionEnabled === false ? (
+          <span className="rounded-full bg-indigo-500/15 px-3 py-1 text-xs text-indigo-200">
+            OCR activo
+          </span>
+        ) : null}
       </div>
 
       <div

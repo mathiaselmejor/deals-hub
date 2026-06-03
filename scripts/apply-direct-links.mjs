@@ -9,6 +9,7 @@ import {
   amazonRenewedUrl,
   isSearchUrl,
 } from "./lib/store-urls.mjs";
+import { applyConsistentProductPricing } from "./lib/product-pricing.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dataDir = path.join(root, "data");
@@ -20,6 +21,10 @@ const FILES = [
   "extra-products-3.json",
   "extra-products-4.json",
   "extra-products-5.json",
+  "extra-products-6.json",
+  "extra-products-7.json",
+  "extra-products-8.json",
+  "extra-products-9.json",
   "extra-products-aliexpress.json",
   "extra-products-awin.json",
   "catalog-monetized.json",
@@ -77,14 +82,6 @@ function normalizeOffer(offer, product, asinMap) {
 
 function normalizeProduct(product, asinMap) {
   const offers = (product.offers || []).map((o) => normalizeOffer(o, product, asinMap));
-  const newOffers = offers.filter((o) => o.condition !== "refurbished");
-  const prices = newOffers.map((o) => o.price).filter((p) => p > 0);
-  const price = prices.length ? Math.min(...prices) : product.price;
-  let originalPrice = product.originalPrice || price * 1.12;
-  if (originalPrice < price) originalPrice = Math.round(price * 1.12 * 100) / 100;
-  const discount =
-    originalPrice > price ? Math.round((1 - price / originalPrice) * 100) : product.discount || 0;
-
   const mapVal = asinMap[product.id];
   const mappedAsin =
     typeof mapVal === "string" ? mapVal : mapVal?.amazon ?? mapVal?.asin;
@@ -95,7 +92,7 @@ function normalizeProduct(product, asinMap) {
       ? `https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=${mappedAsin}&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_`
       : product.image);
 
-  return { ...product, offers, price, originalPrice, discount, image };
+  return applyConsistentProductPricing({ ...product, offers, image });
 }
 
 const asinMap = loadJson("direct-asins.json");

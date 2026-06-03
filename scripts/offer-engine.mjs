@@ -17,6 +17,8 @@ import {
   amazonRenewedUrl,
   isSearchUrl,
 } from "./lib/store-urls.mjs";
+import { applyConsistentProductPricing } from "./lib/product-pricing.mjs";
+import { loadPriceHistory, savePriceHistory, recordPricePoint } from "./lib/price-history.mjs";
 
 const root = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const dataDir = path.join(root, "data");
@@ -28,6 +30,10 @@ const FILES = [
   "extra-products-3.json",
   "extra-products-4.json",
   "extra-products-5.json",
+  "extra-products-6.json",
+  "extra-products-7.json",
+  "extra-products-8.json",
+  "extra-products-9.json",
   "catalog-monetized.json",
 ];
 
@@ -147,22 +153,11 @@ function normalizeOffer(offer, product, asinMap) {
 
 function normalizeProduct(product, asinMap) {
   const offers = (product.offers || []).map((o) => normalizeOffer(o, product, asinMap));
-  const newOffers = offers.filter((o) => o.condition !== "refurbished");
-  const prices = newOffers.map((o) => o.price).filter((p) => p > 0);
-  let price = prices.length ? Math.min(...prices) : product.price;
-  let originalPrice = product.originalPrice || price * 1.12;
-  if (originalPrice < price) originalPrice = Math.round(price * 1.12 * 100) / 100;
-  const discount =
-    originalPrice > price ? Math.round((1 - price / originalPrice) * 100) : product.discount || 0;
-
-  return {
+  return applyConsistentProductPricing({
     ...product,
     offers,
-    price,
-    originalPrice,
-    discount,
     priceUpdatedAt: new Date().toISOString(),
-  };
+  });
 }
 
 async function main() {
@@ -173,7 +168,8 @@ async function main() {
   const updatedFiles = [];
   const fileCache = new Map();
   let fetchCount = 0;
-  const MAX_PRICE_FETCH = 45;
+  const MAX_PRICE_FETCH = Number(process.env.MAX_PRICE_FETCH || 120);
+  let priceHistory = loadPriceHistory();
 
   for (const file of FILES) {
     const data = loadJson(file);
@@ -203,9 +199,8 @@ async function main() {
           const prices = p.offers
             .filter((o) => o.condition !== "refurbished" && o.price > 0)
             .map((o) => o.price);
-          p.price = Math.min(...prices);
-          p.originalPrice = Math.max(p.originalPrice, p.price * 1.08);
-          p.discount = Math.round((1 - p.price / p.originalPrice) * 100);
+          Object.assign(p, applyConsistentProductPricing(p));
+          priceHistory = recordPricePoint(priceHistory, p.id, scraped, "amazon");
           live.products[p.id] = {
             price: p.price,
             originalPrice: p.originalPrice,
@@ -216,6 +211,7 @@ async function main() {
                 asin: amazonOffer.asin,
                 url: amazonOffer.url,
                 linkKind: "direct",
+                priceEstimated: false,
               },
             },
           };
@@ -258,6 +254,8 @@ async function main() {
   });
 
   saveJson("catalog-live.json", live);
+  savePriceHistory(priceHistory);
+  console.log(`📈 Historial precios: ${Object.keys(priceHistory.products ?? {}).length} productos`);
 
   const idSet = (ids) => new Set(ids);
   const trendSet = idSet(trendingIds);

@@ -9,6 +9,8 @@ import { getAliExpressLinkMapSize } from "@/lib/aliexpress-links";
 import { referralsSqlAvailable } from "@/lib/referrals-store";
 import { getAliExpressProducts, getCatalog } from "@/lib/products";
 import { isImageSearchConfigured } from "@/lib/image-search";
+import { isEmailConfigured } from "@/lib/notify-email";
+import { priceAlertsTableAvailable } from "@/lib/user-features";
 
 export const dynamic = "force-dynamic";
 
@@ -31,12 +33,14 @@ export async function GET() {
   let supabase = false;
   let referralsSql = false;
   let referralsStorage = false;
+  let priceAlertsSql = false;
 
   try {
     const admin = createServiceClient();
     const { error } = await admin.from("analytics_events").select("id").limit(1);
     supabase = !error;
     referralsSql = await referralsSqlAvailable();
+    priceAlertsSql = await priceAlertsTableAvailable();
     const { data: buckets } = await admin.storage.listBuckets();
     referralsStorage = buckets?.some((b) => b.name === "deals-hub-data") ?? false;
   } catch {
@@ -75,10 +79,12 @@ export async function GET() {
     imageSearch: isImageSearchConfigured(),
     imageSearchOcr: true,
     tradedoublerSiteId: process.env.NEXT_PUBLIC_TRADEDOUBLER_SITE_ID ? "configured" : "missing",
+    priceAlertsSql,
+    priceAlertEmail: isEmailConfigured() ? "resend" : "panel_only",
   };
 
   const allOk =
-    checks.catalogProducts > 400 &&
+    checks.catalogProducts > 5000 &&
     checks.amazonDirectLinks > 400 &&
     checks.aliexpressProducts >= 6 &&
     monetization.coreNetworksReady &&

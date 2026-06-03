@@ -1,0 +1,153 @@
+{
+  "generatedAt": "2026-06-03T19:47:46.309Z",
+  "total": 10322,
+  "images": {
+    "amazonWidget": 2328,
+    "amazonCdn": 0,
+    "placeholder": 7994,
+    "other": 0
+  },
+  "pricing": {
+    "verifiedDisplay": 2244,
+    "orientative": 8078,
+    "withDiscount": 362,
+    "zeroPrice": 0,
+    "priceMismatch": 0
+  },
+  "amazon": {
+    "directLink": 2322,
+    "asinInMap": 2328,
+    "verifiedOffer": 2322,
+    "searchOnly": 8000
+  },
+  "metadata": {
+    "withSpecs": 9832,
+    "withLongDesc": 9819,
+    "withFaq": 9815,
+    "catalogListing": 9815
+  },
+  "batches": {
+    "curated": {
+      "count": 593,
+      "amazonImage": 524,
+      "placeholder": 69,
+      "verified": 440
+    },
+    "c6": {
+      "count": 1217,
+      "amazonImage": 1216,
+      "placeholder": 1,
+      "verified": 1216
+    },
+    "c7": {
+      "count": 3952,
+      "amazonImage": 588,
+      "placeholder": 3364,
+      "verified": 588
+    },
+    "c8": {
+      "count": 2964,
+      "amazonImage": 0,
+      "placeholder": 2964,
+      "verified": 0
+    },
+    "c9": {
+      "count": 1596,
+      "amazonImage": 0,
+      "placeholder": 1596,
+      "verified": 0
+    }
+  },
+  "categories": {
+    "electronica": 286,
+    "tablets": 264,
+    "telefonia": 275,
+    "tv-audio": 278,
+    "informatica": 299,
+    "perifericos": 264,
+    "smart-home": 276,
+    "aspiracion-limpieza": 265,
+    "pequeno-electro": 266,
+    "colchones": 262,
+    "hogar": 284,
+    "climatizacion": 262,
+    "lavado-planchado": 9,
+    "hogar-cocina": 275,
+    "ropa": 286,
+    "deportes": 289,
+    "automovil": 271,
+    "juguetes": 272,
+    "gaming": 284,
+    "foto-video": 263,
+    "drones-rc": 9,
+    "belleza": 279,
+    "instrumentos": 261,
+    "componentes-pc": 266,
+    "impresion": 261,
+    "maletas-viaje": 265,
+    "cafe-te": 265,
+    "vinos-gourmet": 266,
+    "salud-hogar": 9,
+    "movilidad": 262,
+    "relojes-accesorios": 264,
+    "mascotas": 271,
+    "bebes-ninos": 270,
+    "jardin": 273,
+    "bricolaje": 262,
+    "oficina": 264,
+    "viajes": 5,
+    "libros": 266,
+    "alimentacion": 271,
+    "piscina-playa": 264,
+    "fiesta-eventos": 8,
+    "cables-cargadores": 8,
+    "manualidades": 260,
+    "salud-deporte": 263
+  },
+  "qualityScore": 45,
+  "recommendations": [
+    "Resolver ASINs: 7994 productos con placeholder (77%)",
+    "Ampliar direct-asins.json (2333 ASINs / 10322 productos)"
+  ],
+  "summary": {
+    "realImagesPct": 23,
+    "verifiedPricesPct": 22,
+    "asinMapPct": 23,
+    "directAmazonLinks": 2322,
+    "qualityScore": 45,
+    "topCategories": [
+      {
+        "id": "informatica",
+        "count": 299
+      },
+      {
+        "id": "deportes",
+        "count": 289
+      },
+      {
+        "id": "electronica",
+        "count": 286
+      },
+      {
+        "id": "ropa",
+        "count": 286
+      },
+      {
+        "id": "hogar",
+        "count": 284
+      },
+      {
+        "id": "gaming",
+        "count": 284
+      },
+      {
+        "id": "belleza",
+        "count": 279
+      },
+      {
+        "id": "tv-audio",
+        "count": 278
+      }
+    ]
+  }
+}

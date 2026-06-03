@@ -5,6 +5,10 @@ import extraProducts2Data from "../../data/extra-products-2.json";
 import extraProducts3Data from "../../data/extra-products-3.json";
 import extraProducts4Data from "../../data/extra-products-4.json";
 import extraProducts5Data from "../../data/extra-products-5.json";
+import extraProducts6Data from "../../data/extra-products-6.json";
+import extraProducts7Data from "../../data/extra-products-7.json";
+import extraProducts8Data from "../../data/extra-products-8.json";
+import extraProducts9Data from "../../data/extra-products-9.json";
 import extraProductsAliexpressData from "../../data/extra-products-aliexpress.json";
 import extraProductsAwinData from "../../data/extra-products-awin.json";
 import catalogMonetizedData from "../../data/catalog-monetized.json";
@@ -14,6 +18,14 @@ import { buildAffiliateUrl as buildAffiliateLink } from "./affiliate";
 import { finalizeCatalogProduct, getCatalogLiveUpdatedAt } from "./catalog-pipeline";
 import { isNewOffer, isRefurbishedOffer } from "./offer-enrichment";
 import { isDirectPurchaseOffer } from "./offer-target";
+import {
+  getDisplayDiscount,
+  getDisplayPrice,
+  getDisplaySavings,
+  getPrimaryOffer,
+  hasVerifiedPricing,
+  isOrientativePrice,
+} from "./product-pricing";
 import type { AffiliateConfig, Category, Product, ProductsData, ProductOffer, SortOption, TopList } from "./types";
 
 const config = affiliateConfig as AffiliateConfig;
@@ -34,6 +46,26 @@ function mergeCatalog(): ProductsData {
     lastUpdated?: string;
   };
   const extra5 = extraProducts5Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
+  const extra6 = extraProducts6Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
+  const extra7 = extraProducts7Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
+  const extra8 = extraProducts8Data as {
+    products: Product[];
+    categories: Category[];
+    lastUpdated?: string;
+  };
+  const extra9 = extraProducts9Data as {
     products: Product[];
     categories: Category[];
     lastUpdated?: string;
@@ -68,6 +100,10 @@ function mergeCatalog(): ProductsData {
     ...extra2.products,
     ...extra.products,
     ...extra5.products,
+    ...extra6.products,
+    ...extra7.products,
+    ...extra8.products,
+    ...extra9.products,
     ...extraAliexpress.products,
     ...extraAwin.products,
     ...base.products,
@@ -82,6 +118,10 @@ function mergeCatalog(): ProductsData {
     lastUpdated:
       liveAt?.slice(0, 10) ??
       monetized.lastUpdated ??
+      extra7.lastUpdated ??
+      extra8.lastUpdated ??
+      extra9.lastUpdated ??
+      extra6.lastUpdated ??
       extra5.lastUpdated ??
       extra4.lastUpdated ??
       extra3.lastUpdated ??
@@ -280,8 +320,10 @@ export function sortProducts(products: Product[], sort: SortOption): Product[] {
 }
 
 export function getSavings(product: Product): number {
-  return Math.max(0, product.originalPrice - product.price);
+  return getDisplaySavings(product);
 }
+
+export { hasVerifiedPricing, isOrientativePrice, getDisplayPrice, getDisplayDiscount };
 
 export function getMaxDiscount(): number {
   return Math.max(...catalog.products.map((p) => p.discount), 0);
@@ -312,27 +354,18 @@ export function getRefurbishedOffers(product: { offers: ProductOffer[] }): Produ
   return product.offers.filter(isRefurbishedOffer).sort((a, b) => a.price - b.price);
 }
 
-export function getLowestPrice(product: { offers: ProductOffer[] }, refurbished = false): number {
-  const pool = refurbished
-    ? product.offers.filter(isRefurbishedOffer)
-    : product.offers.filter(isNewOffer);
-  const prices = pool.map((o) => o.price).filter((p) => p > 0);
-  return prices.length ? Math.min(...prices) : 0;
+export function getLowestPrice(product: { offers: ProductOffer[]; price?: number }, refurbished = false): number {
+  if (refurbished) {
+    const prices = getRefurbishedOffers(product)
+      .map((o) => o.price)
+      .filter((p) => p > 0);
+    return prices.length ? Math.min(...prices) : 0;
+  }
+  return getDisplayPrice(product as Product);
 }
 
-/** Mejor precio en producto nuevo (principal). Prioriza fichas directas verificadas. */
-export function getBestOffer(product: { offers: ProductOffer[] }): ProductOffer | undefined {
-  const newOffers = getNewOffers(product);
-  const direct = newOffers.filter((o) => o.price > 0 && isDirectPurchaseOffer(o));
-  const pool = direct.length ? direct : newOffers.filter((o) => o.price > 0);
-  if (!pool.length) return newOffers[0];
-  return pool.sort((a, b) => {
-    const priceDiff = a.price - b.price;
-    if (Math.abs(priceDiff) > 0.5) return priceDiff;
-    if (a.store === "amazon" && b.store !== "amazon") return -1;
-    if (b.store === "amazon" && a.store !== "amazon") return 1;
-    return priceDiff;
-  })[0];
+export function getBestOffer(product: Product): ProductOffer | undefined {
+  return getPrimaryOffer(product);
 }
 
 export function getBestRefurbishedOffer(

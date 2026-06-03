@@ -25,6 +25,7 @@ if (-not $token) {
 
 if ($token) {
   $sqlFiles = @(
+    "supabase\price-alert-leads-migration.sql",
     "supabase\user-features.sql",
     "supabase\referrals.sql",
     "supabase\fix-rls.sql"

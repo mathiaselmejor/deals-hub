@@ -10,6 +10,8 @@ export const metadata = {
   description: "Busca chollos y compara precios en Amazon, MediaMarkt, PcComponentes y más.",
 };
 
+export const dynamic = "force-dynamic";
+
 export default function BuscarPage() {
   const catalog = getCatalog();
 

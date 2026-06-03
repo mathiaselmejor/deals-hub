@@ -14,7 +14,17 @@ type HistoryFile = {
 const history = historyData as unknown as HistoryFile;
 
 export function getPriceHistory(productId: string): PriceHistoryPoint[] {
-  return history.products?.[productId] ?? [];
+  return compactPriceHistory(history.products?.[productId] ?? []);
+}
+
+/** Un punto por día, ordenado cronológicamente. */
+export function compactPriceHistory(series: PriceHistoryPoint[]): PriceHistoryPoint[] {
+  const byDay = new Map<string, PriceHistoryPoint>();
+  for (const pt of series) {
+    if (!pt?.date || pt.price <= 0) continue;
+    byDay.set(pt.date, pt);
+  }
+  return [...byDay.values()].sort((a, b) => a.date.localeCompare(b.date));
 }
 
 export function getPriceHistoryUpdatedAt(): string | undefined {

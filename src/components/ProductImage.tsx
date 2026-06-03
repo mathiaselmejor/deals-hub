@@ -18,10 +18,15 @@ function shouldUnoptimize(src: string): boolean {
 
 function buildFallbackChain(src: string, asin?: string | null): string[] {
   const chain: string[] = [];
-  if (src?.trim()) chain.push(src.trim());
+  const trimmed = src?.trim() ?? "";
+  const isPlaceholder = !trimmed || trimmed.includes("placeholder");
+
   if (asin) {
     const widget = amazonProductImageUrl(asin);
-    if (!chain.includes(widget)) chain.push(widget);
+    chain.push(widget);
+  }
+  if (trimmed && !isPlaceholder && !chain.includes(trimmed)) {
+    chain.push(trimmed);
   }
   if (!chain.includes(PLACEHOLDER)) chain.push(PLACEHOLDER);
   return chain;

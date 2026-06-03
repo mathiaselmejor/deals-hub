@@ -85,11 +85,15 @@ function normalizeProduct(product, asinMap) {
   const mapVal = asinMap[product.id];
   const mappedAsin =
     typeof mapVal === "string" ? mapVal : mapVal?.amazon ?? mapVal?.asin;
+  const offerAsin = offers.find(
+    (o) => o.store === "amazon" && o.condition !== "refurbished",
+  )?.asin;
+  const asin = mappedAsin ?? offerAsin;
   const mappedImage = typeof mapVal === "object" ? mapVal?.imageUrl : null;
   const image =
     mappedImage ||
-    (mappedAsin
-      ? `https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=${mappedAsin}&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_`
+    (asin
+      ? `https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=${asin}&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_`
       : product.image);
 
   return applyConsistentProductPricing({ ...product, offers, image });

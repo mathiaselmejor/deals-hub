@@ -28,7 +28,8 @@
     "check-alerts": "node scripts/check-price-alerts.mjs",
     "verify-catalog": "node scripts/verify-catalog.mjs --images --sample=100",
     "catalog:analysis": "node scripts/catalog-analysis.mjs --json",
-    "init-price-history": "node scripts/init-price-history.mjs"
+    "init-price-history": "node scripts/init-price-history.mjs",
+    "dedupe-price-history": "node scripts/dedupe-price-history.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.10.3",

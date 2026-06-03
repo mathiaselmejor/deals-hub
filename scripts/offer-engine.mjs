@@ -200,7 +200,7 @@ async function main() {
             .filter((o) => o.condition !== "refurbished" && o.price > 0)
             .map((o) => o.price);
           Object.assign(p, applyConsistentProductPricing(p));
-          priceHistory = recordPricePoint(priceHistory, p.id, scraped, "amazon");
+          priceHistory = recordPricePoint(priceHistory, p.id, p.price, "amazon");
           live.products[p.id] = {
             price: p.price,
             originalPrice: p.originalPrice,

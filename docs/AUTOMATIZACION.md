@@ -25,12 +25,43 @@ $env:SB_ACCESS_TOKEN = "sbp_..."
 npm run setup:sql supabase/referrals.sql
 ```
 
+## GEMINI_API_KEY (búsqueda por imagen con IA)
+
+Google bloquea la creación automática de claves desde el navegador del agente. Haz **un clic manual**:
+
+1. [aistudio.google.com/app/api-keys](https://aistudio.google.com/app/api-keys) → marcar checkbox de desarrollador → **Continuar**
+2. **Crear clave de API** → nombre `deals-hub` → **Crear clave** → copiar `AIza...`
+3. En PowerShell (sincroniza `.env.local` + Vercel):
+
+```powershell
+node scripts/set-env-key.mjs GEMINI_API_KEY AIzaTU_CLAVE_AQUI
+npx vercel --prod
+```
+
+Sin clave, `/buscar/imagen` sigue funcionando con **OCR** (tesseract en el navegador).
+
+## Tradedoubler (MediaMarkt ES, programa 270504)
+
+1. [publishers.tradedoubler.com/en/login](https://publishers.tradedoubler.com/en/login) → registro o login
+2. Unirse al programa [MediaMarkt 270504](https://directory.tradedoubler.com/es/programs/270504-MediaMarkt)
+3. Copiar tu **Site ID** (parámetro `a=` en los enlaces de tracking)
+
+```powershell
+node scripts/set-env-key.mjs NEXT_PUBLIC_TRADEDOUBLER_SITE_ID TU_SITE_ID
+npx vercel --prod
+```
+
+## Awin
+
+Programas solicitados; estado en `data/awin-program-status.json` (pendiente de aprobación). No requiere acción hasta que Awin apruebe.
+
 ## Comandos útiles
 
 ```bash
 npm run setup:automate    # Vercel env + índice + deploy
 npm run setup:vercel      # Solo variables Vercel
 npm run catalog:maintain  # Precios + rotación + enlaces directos
+node scripts/set-env-key.mjs CLAVE valor   # Una variable → Vercel
 ```
 
 ## Opcional: deploy hook tras GitHub

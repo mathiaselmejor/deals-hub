@@ -1,5 +1,8 @@
 import type { ImageSearchAnalysis, ImageSearchSession } from "./image-search";
 import { IMAGE_SEARCH_SESSION_KEY } from "./image-search";
+import { buildQueryFromOcr } from "./image-search-ocr";
+
+export { buildQueryFromOcr };
 
 export async function resizeImageForUpload(
   file: File,
@@ -74,16 +77,6 @@ export async function extractTextFromImage(file: File): Promise<string> {
   } finally {
     await worker.terminate();
   }
-}
-
-export function buildQueryFromOcr(text: string): string | null {
-  const cleaned = text
-    .replace(/[^\w\sáéíóúñüÁÉÍÓÚÑÜ%+\-/]/gi, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-  if (cleaned.length < 4) return null;
-  const words = cleaned.split(" ").filter((w) => w.length >= 3);
-  return words.length ? words.slice(0, 8).join(" ") : null;
 }
 
 export async function searchByImageFile(file: File): Promise<ImageSearchApiResponse> {

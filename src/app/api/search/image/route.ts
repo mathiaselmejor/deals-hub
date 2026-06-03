@@ -2,9 +2,10 @@ import { NextResponse } from "next/server";
 import {
   analyzeProductImage,
   ImageSearchError,
-  isImageSearchConfigured,
+  getGeminiApiKey,
   rankProductsForImageAnalysis,
 } from "@/lib/image-search";
+import { analyzeImageWithOcr } from "@/lib/image-search-ocr";
 import { getCatalog } from "@/lib/products";
 import { clientIp, rateLimit } from "@/lib/rate-limit";
 
@@ -15,8 +16,11 @@ const MAX_BYTES = 4 * 1024 * 1024;
 const ALLOWED_TYPES = new Set(["image/jpeg", "image/png", "image/webp", "image/gif"]);
 
 export async function GET() {
+  const vision = !!getGeminiApiKey();
   return NextResponse.json({
-    configured: isImageSearchConfigured(),
+    configured: true,
+    vision,
+    ocr: true,
     maxSizeMb: 4,
     formats: ["jpeg", "png", "webp", "gif"],
   });
@@ -29,16 +33,6 @@ export async function POST(request: Request) {
     return NextResponse.json(
       { error: "Demasiadas búsquedas por imagen. Espera un momento.", code: "rate_limited" },
       { status: 429, headers: { "Retry-After": String(limited.retryAfter) } },
-    );
-  }
-
-  if (!isImageSearchConfigured()) {
-    return NextResponse.json(
-      {
-        error: "Búsqueda por imagen no disponible. Configura GEMINI_API_KEY en el servidor.",
-        code: "not_configured",
-      },
-      { status: 503 },
     );
   }
 
@@ -65,8 +59,10 @@ export async function POST(request: Request) {
     }
 
     const buffer = Buffer.from(await file.arrayBuffer());
-    const base64 = buffer.toString("base64");
-    const analysis = await analyzeProductImage(base64, file.type);
+    const useVision = !!getGeminiApiKey();
+    const analysis = useVision
+      ? await analyzeProductImage(buffer.toString("base64"), file.type)
+      : await analyzeImageWithOcr(buffer);
 
     const { products } = getCatalog();
     const ranked = rankProductsForImageAnalysis(analysis, products);
@@ -76,6 +72,7 @@ export async function POST(request: Request) {
       analysis,
       productIds: ranked.map((p) => p.id),
       count: ranked.length,
+      mode: useVision ? "vision" : "ocr",
     });
   } catch (err) {
     if (err instanceof ImageSearchError) {

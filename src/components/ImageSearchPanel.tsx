@@ -26,14 +26,14 @@ export function ImageSearchPanel({ variant = "full", onSuccess }: Props) {
   const [dragOver, setDragOver] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
-  const [configured, setConfigured] = useState<boolean | null>(null);
+  const [visionEnabled, setVisionEnabled] = useState<boolean | null>(null);
   const [lastSession, setLastSession] = useState<ReturnType<typeof loadImageSearchSession>>(null);
 
   useEffect(() => {
     fetch("/api/search/image")
       .then((r) => r.json())
-      .then((d) => setConfigured(!!d.configured))
-      .catch(() => setConfigured(false));
+      .then((d) => setVisionEnabled(!!d.vision))
+      .catch(() => setVisionEnabled(false));
     setLastSession(loadImageSearchSession());
   }, []);
 
@@ -175,9 +175,9 @@ export function ImageSearchPanel({ variant = "full", onSuccess }: Props) {
             Detectamos el producto y buscamos ofertas en el catálogo.
           </p>
         </div>
-        {configured === false && (
+        {visionEnabled === false && (
           <span className="rounded-full bg-indigo-500/15 px-3 py-1 text-xs text-indigo-200">
-            OCR incluido · IA opcional con GEMINI_API_KEY
+            OCR activo · IA opcional con GEMINI_API_KEY
           </span>
         )}
       </div>

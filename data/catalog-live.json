@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-06-04T11:36:50.828Z",
+  "updatedAt": "2026-06-04T14:20:59.493Z",
   "engineVersion": 1,
   "products": {
-    "nike-air-force-1": {
-      "price": 75,
-      "originalPrice": 75,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 79.3,
-          "asin": "B08Q8SW7NW",
-          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 34.02,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "asics-gel-nimbus": {
       "price": 43.76,
       "originalPrice": 179.95,
@@ -44,15 +16,15 @@
         }
       }
     },
-    "playmobil-city": {
-      "price": 30.98,
-      "originalPrice": 64.99,
-      "discount": 52,
+    "garmin-forerunner-265": {
+      "price": 313.22,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 30.98,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 313.22,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }

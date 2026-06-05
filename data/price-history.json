@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T14:09:40.441Z",
+  "updatedAt": "2026-06-05T18:32:50.122Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -238,6 +238,11 @@
       {
         "date": "2026-06-03",
         "price": 74.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-05",
+        "price": 74.37,
         "source": "amazon"
       }
     ],
@@ -571,6 +576,11 @@
     "nordvpn-sub": [
       {
         "date": "2026-06-03",
+        "price": 39.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-05",
         "price": 39.99,
         "source": "amazon"
       }
@@ -1263,6 +1273,13 @@
       {
         "date": "2026-06-03",
         "price": 378.67,
+        "source": "amazon"
+      }
+    ],
+    "nintendo-switch-oled": [
+      {
+        "date": "2026-06-05",
+        "price": 299.99,
         "source": "amazon"
       }
     ]

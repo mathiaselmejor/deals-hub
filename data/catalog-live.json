@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-06-05T11:51:37.471Z",
+  "updatedAt": "2026-06-05T14:07:45.780Z",
   "engineVersion": 1,
-  "products": {
-    "teclado-logitech": {
-      "price": 94.99,
-      "originalPrice": 94.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 173,
-          "asin": "B07W6JF66R",
-          "url": "https://www.amazon.es/dp/B07W6JF66R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 65.5,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T19:51:13.343Z",
+  "updatedAt": "2026-06-05T11:53:31.280Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -88,6 +88,11 @@
     "teclado-logitech": [
       {
         "date": "2026-06-03",
+        "price": 94.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-05",
         "price": 94.99,
         "source": "amazon"
       }
@@ -199,6 +204,11 @@
     "pelota-futbol-select": [
       {
         "date": "2026-06-03",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-05",
         "price": 36.99,
         "source": "amazon"
       }

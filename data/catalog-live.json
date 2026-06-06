@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-06-06T10:59:21.907Z",
+  "updatedAt": "2026-06-06T15:59:39.851Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 34.02,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "nothing-phone-2a": {
       "price": 281.02,
       "originalPrice": 281.02,

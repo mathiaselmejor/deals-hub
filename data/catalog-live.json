@@ -1,48 +1,5 @@
 {
-  "updatedAt": "2026-06-05T18:30:42.911Z",
+  "updatedAt": "2026-06-06T09:14:18.223Z",
   "engineVersion": 1,
-  "products": {
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
-      "offers": {
-        "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nintendo-switch-oled": {
-      "price": 299.99,
-      "originalPrice": 299.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 339.9,
-          "asin": "B098RKWHHZ",
-          "url": "https://www.amazon.es/dp/B098RKWHHZ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 39.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

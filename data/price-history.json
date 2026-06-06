@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T16:01:44.904Z",
+  "updatedAt": "2026-06-06T21:46:07.473Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -154,6 +154,11 @@
     "nike-tech-fleece": [
       {
         "date": "2026-06-03",
+        "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-06",
         "price": 70,
         "source": "amazon"
       }

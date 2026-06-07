@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T11:20:25.151Z",
+  "updatedAt": "2026-06-07T16:56:24.901Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -168,6 +168,11 @@
         "date": "2026-06-03",
         "price": 75.59,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 74.37,
+        "source": "amazon"
       }
     ],
     "pack-ropa-interior-hanes": [
@@ -208,6 +213,11 @@
       {
         "date": "2026-06-04",
         "price": 313.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 314.04,
         "source": "amazon"
       }
     ],
@@ -605,12 +615,22 @@
         "date": "2026-06-03",
         "price": 21.09,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
       {
         "date": "2026-06-03",
         "price": 49.5,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-07",
+        "price": 40.91,
         "source": "amazon"
       }
     ],
@@ -699,6 +719,11 @@
       },
       {
         "date": "2026-06-06",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-07",
         "price": 281.02,
         "source": "amazon"
       }

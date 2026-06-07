@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-07T10:15:02.475Z",
+  "updatedAt": "2026-06-07T11:18:25.079Z",
   "engineVersion": 1,
   "products": {
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
+    "nordvpn-sub": {
+      "price": 39.99,
+      "originalPrice": 39.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 162.81,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

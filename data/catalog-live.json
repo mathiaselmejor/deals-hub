@@ -1,72 +1,16 @@
 {
-  "updatedAt": "2026-06-07T16:54:23.750Z",
+  "updatedAt": "2026-06-07T21:52:24.475Z",
   "engineVersion": 1,
   "products": {
-    "new-balance-574": {
-      "price": 74.37,
-      "originalPrice": 99.99,
-      "discount": 26,
+    "google-pixel-8a": {
+      "price": 313.22,
+      "originalPrice": 549,
+      "discount": 43,
       "offers": {
         "amazon": {
-          "price": 74.37,
-          "asin": "B093R4T9BR",
-          "url": "https://www.amazon.es/dp/B093R4T9BR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "garmin-forerunner-265": {
-      "price": 314.04,
-      "originalPrice": 449,
-      "discount": 30,
-      "offers": {
-        "amazon": {
-          "price": 314.04,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "sprinter-zapatillas": {
-      "price": 40.91,
-      "originalPrice": 69.99,
-      "discount": 42,
-      "offers": {
-        "amazon": {
-          "price": 40.91,
-          "asin": "B08D11R67B",
-          "url": "https://www.amazon.es/dp/B08D11R67B",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 321.49,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 313.22,
+          "asin": "B0DSWFHTL2",
+          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
           "linkKind": "direct",
           "priceEstimated": false
         }

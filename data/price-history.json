@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T21:54:20.473Z",
+  "updatedAt": "2026-06-08T14:43:29.882Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -620,6 +620,11 @@
         "date": "2026-06-07",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-08",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -630,6 +635,11 @@
       },
       {
         "date": "2026-06-07",
+        "price": 40.91,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-08",
         "price": 40.91,
         "source": "amazon"
       }
@@ -778,6 +788,11 @@
     "logitech-mx-master-3s": [
       {
         "date": "2026-06-03",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-08",
         "price": 96.57,
         "source": "amazon"
       }

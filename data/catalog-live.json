@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-06-07T21:52:24.475Z",
+  "updatedAt": "2026-06-08T14:41:19.339Z",
   "engineVersion": 1,
   "products": {
-    "google-pixel-8a": {
-      "price": 313.22,
-      "originalPrice": 549,
-      "discount": 43,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 313.22,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "sprinter-zapatillas": {
+      "price": 40.91,
+      "originalPrice": 69.99,
+      "discount": 42,
+      "offers": {
+        "amazon": {
+          "price": 40.91,
+          "asin": "B08D11R67B",
+          "url": "https://www.amazon.es/dp/B08D11R67B",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "logitech-mx-master-3s": {
+      "price": 96.57,
+      "originalPrice": 96.57,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 122,
+          "asin": "B09HM94VDS",
+          "url": "https://www.amazon.es/dp/B09HM94VDS",
           "linkKind": "direct",
           "priceEstimated": false
         }

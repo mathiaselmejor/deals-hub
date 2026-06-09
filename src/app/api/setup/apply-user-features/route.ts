@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { readFileSync } from "fs";
 import { join } from "path";
-import { priceAlertLeadsTableAvailable, priceAlertsTableAvailable } from "@/lib/user-features";
+import { priceAlertLeadsTableAvailable, priceAlertsTableAvailable, newsletterSubscribersTableAvailable } from "@/lib/user-features";
 
 const PROJECT_REF = process.env.SUPABASE_PROJECT_REF ?? "xawuoysscwpkzwhkxruu";
 
@@ -26,9 +26,11 @@ async function runSql(query: string): Promise<{ ok: boolean; status: number; bod
 export async function GET() {
   const alerts = await priceAlertsTableAvailable();
   const leads = await priceAlertLeadsTableAvailable();
+  const newsletter = await newsletterSubscribersTableAvailable();
   return NextResponse.json({
     priceAlerts: alerts,
     priceAlertLeads: leads,
+    newsletterSubscribers: newsletter,
     managementToken: !!(process.env.SB_ACCESS_TOKEN ?? process.env.SUPABASE_ACCESS_TOKEN),
   });
 }
@@ -67,11 +69,13 @@ export async function POST(request: Request) {
 
   const alerts = await priceAlertsTableAvailable();
   const leads = await priceAlertLeadsTableAvailable();
+  const newsletter = await newsletterSubscribersTableAvailable();
 
   return NextResponse.json({
-    ok: alerts && leads,
+    ok: alerts && leads && newsletter,
     priceAlerts: alerts,
     priceAlertLeads: leads,
+    newsletterSubscribers: newsletter,
     results,
   });
 }

@@ -10,7 +10,7 @@ import { referralsSqlAvailable } from "@/lib/referrals-store";
 import { getAliExpressProducts, getCatalog } from "@/lib/products";
 import { isImageSearchConfigured } from "@/lib/image-search";
 import { isEmailConfigured } from "@/lib/notify-email";
-import { priceAlertsTableAvailable } from "@/lib/user-features";
+import { priceAlertsTableAvailable, newsletterSubscribersTableAvailable } from "@/lib/user-features";
 
 export const dynamic = "force-dynamic";
 
@@ -34,6 +34,7 @@ export async function GET() {
   let referralsSql = false;
   let referralsStorage = false;
   let priceAlertsSql = false;
+  let newsletterSql = false;
 
   try {
     const admin = createServiceClient();
@@ -41,6 +42,7 @@ export async function GET() {
     supabase = !error;
     referralsSql = await referralsSqlAvailable();
     priceAlertsSql = await priceAlertsTableAvailable();
+    newsletterSql = await newsletterSubscribersTableAvailable();
     const { data: buckets } = await admin.storage.listBuckets();
     referralsStorage = buckets?.some((b) => b.name === "deals-hub-data") ?? false;
   } catch {
@@ -80,6 +82,7 @@ export async function GET() {
     imageSearchOcr: true,
     tradedoublerSiteId: process.env.NEXT_PUBLIC_TRADEDOUBLER_SITE_ID ? "configured" : "missing",
     priceAlertsSql,
+    newsletterSql,
     priceAlertEmail: isEmailConfigured() ? "resend" : "panel_only",
   };
 

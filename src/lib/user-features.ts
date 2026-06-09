@@ -19,3 +19,13 @@ export async function priceAlertLeadsTableAvailable(): Promise<boolean> {
     return false;
   }
 }
+
+export async function newsletterSubscribersTableAvailable(): Promise<boolean> {
+  try {
+    const admin = createServiceClient();
+    const { error } = await admin.from("newsletter_subscribers").select("email").limit(1);
+    return !error;
+  } catch {
+    return false;
+  }
+}

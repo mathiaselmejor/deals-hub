@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T11:46:22.143Z",
+  "updatedAt": "2026-06-09T12:39:14.209Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -12,6 +12,11 @@
       {
         "date": "2026-06-03",
         "price": 47,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 46.99,
         "source": "amazon"
       }
     ],
@@ -33,6 +38,11 @@
       {
         "date": "2026-06-03",
         "price": 499.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 559,
         "source": "amazon"
       }
     ],
@@ -60,6 +70,11 @@
     "camara-seguridad": [
       {
         "date": "2026-06-03",
+        "price": 18.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 18.99,
         "source": "amazon"
       }
@@ -95,6 +110,11 @@
         "date": "2026-06-05",
         "price": 94.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 94.99,
+        "source": "amazon"
       }
     ],
     "ps5-slim": [
@@ -114,6 +134,11 @@
     "iphone-16": [
       {
         "date": "2026-06-03",
+        "price": 759,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 759,
         "source": "amazon"
       }
@@ -219,6 +244,11 @@
         "date": "2026-06-07",
         "price": 314.04,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 379.99,
+        "source": "amazon"
       }
     ],
     "pelota-futbol-select": [
@@ -229,6 +259,11 @@
       },
       {
         "date": "2026-06-05",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 36.99,
         "source": "amazon"
       }
@@ -348,6 +383,11 @@
         "date": "2026-06-03",
         "price": 139,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 141.44,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -432,6 +472,11 @@
         "date": "2026-06-03",
         "price": 54.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 54.99,
+        "source": "amazon"
       }
     ],
     "samsung-galaxy-buds3": [
@@ -451,6 +496,11 @@
     "ring-doorbell": [
       {
         "date": "2026-06-03",
+        "price": 104.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 104.99,
         "source": "amazon"
       }
@@ -479,6 +529,11 @@
     "casio-a168": [
       {
         "date": "2026-06-03",
+        "price": 22.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 22.95,
         "source": "amazon"
       }
@@ -538,7 +593,7 @@
       },
       {
         "date": "2026-06-09",
-        "price": 30.98,
+        "price": 37.49,
         "source": "amazon"
       }
     ],
@@ -546,6 +601,11 @@
       {
         "date": "2026-06-03",
         "price": 16.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 17.99,
         "source": "amazon"
       }
     ],
@@ -654,6 +714,11 @@
         "date": "2026-06-03",
         "price": 409,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 409,
+        "source": "amazon"
       }
     ],
     "arnes-perro-ruffwear": [
@@ -758,6 +823,11 @@
     "samsung-galaxy-tab-s9-fe": [
       {
         "date": "2026-06-03",
+        "price": 399,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 399,
         "source": "amazon"
       }
@@ -1048,6 +1118,11 @@
         "date": "2026-06-03",
         "price": 169.24,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 169.24,
+        "source": "amazon"
       }
     ],
     "almohada-cervical-memory-foam": [
@@ -1188,6 +1263,11 @@
         "date": "2026-06-03",
         "price": 28.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 26.99,
+        "source": "amazon"
       }
     ],
     "playstation-5-slim-digital-edition": [
@@ -1286,12 +1366,22 @@
         "date": "2026-06-03",
         "price": 62.13,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 62.95,
+        "source": "amazon"
       }
     ],
     "levi-s-501-original-vaquero": [
       {
         "date": "2026-06-03",
         "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 60,
         "source": "amazon"
       }
     ],
@@ -1328,6 +1418,11 @@
         "date": "2026-06-03",
         "price": 25.1,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
+        "price": 25.24,
+        "source": "amazon"
       }
     ],
     "arnes-perro-reflective-l": [
@@ -1347,6 +1442,11 @@
     "lego-technic-ferrari-daytona-sp3": [
       {
         "date": "2026-06-03",
+        "price": 378.67,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-09",
         "price": 378.67,
         "source": "amazon"
       }

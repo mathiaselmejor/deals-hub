@@ -9,6 +9,7 @@
     "update-products": "node scripts/update-products.mjs",
     "sync-asins": "node scripts/sync-direct-asins.mjs",
     "resolve-asins": "python scripts/resolve_all_asins.py",
+    "resolve-asins:c8": "python scripts/resolve_all_asins.py 500 1200 c8",
     "apply-direct-links": "node scripts/apply-direct-links.mjs",
     "catalog:dedupe": "node scripts/dedupe-catalog-files.mjs",
     "catalog:fix-asins": "node scripts/fix-asin-collisions.mjs && python scripts/resolve_all_asins.py",
@@ -29,7 +30,8 @@
     "verify-catalog": "node scripts/verify-catalog.mjs --images --sample=100",
     "catalog:analysis": "node scripts/catalog-analysis.mjs --json",
     "init-price-history": "node scripts/init-price-history.mjs",
-    "dedupe-price-history": "node scripts/dedupe-price-history.mjs"
+    "dedupe-price-history": "node scripts/dedupe-price-history.mjs",
+    "apply-newsletter-sql": "node scripts/apply-newsletter-sql.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.10.3",

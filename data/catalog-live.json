@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-06-09T11:44:16.657Z",
+  "updatedAt": "2026-06-09T12:36:23.634Z",
   "engineVersion": 1,
   "products": {
-    "playmobil-city": {
-      "price": 30.98,
-      "originalPrice": 64.99,
-      "discount": 52,
+    "ring-doorbell": {
+      "price": 104.99,
+      "originalPrice": 104.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 30.98,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 149.99,
+          "asin": "B09WZBVWL9",
+          "url": "https://www.amazon.es/dp/B09WZBVWL9",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "hot-wheels-track": {
+      "price": 17.99,
+      "originalPrice": 34.99,
+      "discount": 49,
+      "offers": {
+        "amazon": {
+          "price": 17.99,
+          "asin": "B0DPHB51XY",
+          "url": "https://www.amazon.es/dp/B0DPHB51XY",
           "linkKind": "direct",
           "priceEstimated": false
         }

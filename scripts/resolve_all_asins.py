@@ -130,6 +130,10 @@ def save_direct_map(m: dict) -> None:
 def main() -> None:
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 0
     delay_ms = int(sys.argv[2]) if len(sys.argv) > 2 else 1400
+    prefix = sys.argv[3] if len(sys.argv) > 3 else ""
+    retry_failed = len(sys.argv) > 4 and sys.argv[4] == "retry"
+    if prefix and re.match(r"^c\d$", prefix):
+        prefix = f"{prefix}-"
 
     catalog = load_catalog_ids()
     direct = load_direct_map()
@@ -137,6 +141,8 @@ def main() -> None:
 
     todo: list[tuple[str, str]] = []
     for pid, name in catalog.items():
+        if prefix and not (pid == prefix or pid.startswith(prefix)):
+            continue
         cur = direct.get(pid)
         existing = cur.get("amazon") if isinstance(cur, dict) else cur
         if existing and ASIN_RE.match(str(existing).upper()):
@@ -144,14 +150,15 @@ def main() -> None:
         if pid in prog["resolved"]:
             direct[pid] = {"amazon": prog["resolved"][pid]}
             continue
-        if pid in prog.get("failed", []):
+        if pid in prog.get("failed", []) and not retry_failed:
             continue
         todo.append((pid, name))
 
     if limit > 0:
         todo = todo[:limit]
 
-    print(f"Catálogo: {len(catalog)} productos | Pendientes: {len(todo)} | Ya mapeados: {len(direct)}")
+    label = f" prefijo={prefix}" if prefix else ""
+    print(f"Catálogo: {len(catalog)} productos | Pendientes{label}: {len(todo)} | Ya mapeados: {len(direct)}")
 
     if not todo:
         save_direct_map(direct)

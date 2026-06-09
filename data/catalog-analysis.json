@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-06-03T19:47:46.309Z",
+  "generatedAt": "2026-06-09T12:39:14.690Z",
   "total": 10322,
   "images": {
-    "amazonWidget": 2328,
+    "amazonWidget": 4302,
     "amazonCdn": 0,
-    "placeholder": 7994,
+    "placeholder": 6020,
     "other": 0
   },
   "pricing": {
-    "verifiedDisplay": 2244,
-    "orientative": 8078,
-    "withDiscount": 362,
+    "verifiedDisplay": 4217,
+    "orientative": 6105,
+    "withDiscount": 361,
     "zeroPrice": 0,
     "priceMismatch": 0
   },
   "amazon": {
-    "directLink": 2322,
-    "asinInMap": 2328,
-    "verifiedOffer": 2322,
-    "searchOnly": 8000
+    "directLink": 4296,
+    "asinInMap": 4302,
+    "verifiedOffer": 4296,
+    "searchOnly": 6026
   },
   "metadata": {
     "withSpecs": 9832,
@@ -31,7 +31,7 @@
       "count": 593,
       "amazonImage": 524,
       "placeholder": 69,
-      "verified": 440
+      "verified": 439
     },
     "c6": {
       "count": 1217,
@@ -41,15 +41,15 @@
     },
     "c7": {
       "count": 3952,
-      "amazonImage": 588,
-      "placeholder": 3364,
-      "verified": 588
+      "amazonImage": 2062,
+      "placeholder": 1890,
+      "verified": 2062
     },
     "c8": {
       "count": 2964,
-      "amazonImage": 0,
-      "placeholder": 2964,
-      "verified": 0
+      "amazonImage": 500,
+      "placeholder": 2464,
+      "verified": 500
     },
     "c9": {
       "count": 1596,
@@ -104,17 +104,16 @@
     "manualidades": 260,
     "salud-deporte": 263
   },
-  "qualityScore": 45,
+  "qualityScore": 58,
   "recommendations": [
-    "Resolver ASINs: 7994 productos con placeholder (77%)",
-    "Ampliar direct-asins.json (2333 ASINs / 10322 productos)"
+    "Resolver ASINs: 6020 productos con placeholder (58%)"
   ],
   "summary": {
-    "realImagesPct": 23,
-    "verifiedPricesPct": 22,
-    "asinMapPct": 23,
-    "directAmazonLinks": 2322,
-    "qualityScore": 45,
+    "realImagesPct": 42,
+    "verifiedPricesPct": 41,
+    "asinMapPct": 42,
+    "directAmazonLinks": 4296,
+    "qualityScore": 58,
     "topCategories": [
       {
         "id": "informatica",

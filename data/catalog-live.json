@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-06-08T23:03:15.205Z",
+  "updatedAt": "2026-06-09T11:44:16.657Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "playmobil-city": {
+      "price": 30.98,
+      "originalPrice": 64.99,
+      "discount": 52,
+      "offers": {
+        "amazon": {
+          "price": 30.98,
+          "asin": "B0BKQX79WM",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

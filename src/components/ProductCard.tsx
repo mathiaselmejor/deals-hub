@@ -1,5 +1,5 @@
 import { ProductImage } from "@/components/ProductImage";
-import { getAmazonAsinFromOffers } from "@/lib/product-images";
+import { getAmazonAsinFromOffers, isPlaceholderImage } from "@/lib/product-images";
 import Link from "next/link";
 import {
   buildAffiliateUrl,
@@ -12,7 +12,7 @@ import {
   getNewOffers,
   getSavings,
 } from "@/lib/catalog-formatters";
-import { isOrientativePrice } from "@/lib/products";
+import { isOrientativePrice, hasVerifiedPricing } from "@/lib/products";
 import { computeDealScore } from "@/lib/algorithms";
 import { isDirectPurchaseOffer } from "@/lib/offer-target";
 import type { Product } from "@/lib/types";
@@ -26,12 +26,14 @@ export function ProductCard({ product, featured = false }: { product: Product; f
   const best = getBestOffer(product);
   const bestRefurb = getBestRefurbishedOffer(product);
   const savings = getSavings(product);
-  const orientative = isOrientativePrice(product);
-  const showDiscount = product.discount > 0 && savings > 0 && !orientative;
   const storeCount = getNewOffers(product).length;
   const dealScore = computeDealScore(product);
   const bestIsAliExpress = best?.store === "aliexpress";
   const amazonAsin = getAmazonAsinFromOffers(product.offers);
+  const orientative = isOrientativePrice(product);
+  const verified = hasVerifiedPricing(product);
+  const placeholderImg = isPlaceholderImage(product.image) && !amazonAsin;
+  const showDiscount = product.discount > 0 && savings > 0 && !orientative;
 
   return (
     <article
@@ -57,6 +59,10 @@ export function ProductCard({ product, featured = false }: { product: Product; f
           <span className="absolute left-3 top-3 rounded-lg bg-amber-500/90 px-2.5 py-1 text-[10px] font-bold text-black shadow-lg">
             Precio orientativo
           </span>
+        ) : verified ? (
+          <span className="absolute left-3 top-3 rounded-lg bg-emerald-500/90 px-2.5 py-1 text-[10px] font-bold text-black shadow-lg">
+            ✓ Precio verificado
+          </span>
         ) : product.listingKind === "catalog" ? (
           <span className="absolute left-3 top-3 rounded-lg bg-indigo-500/90 px-2.5 py-1 text-xs font-bold shadow-lg">
             Catálogo
@@ -68,6 +74,11 @@ export function ProductCard({ product, featured = false }: { product: Product; f
         <div className="absolute bottom-3 right-3">
           <DealScoreMini score={dealScore} />
         </div>
+        {placeholderImg && (
+          <span className="absolute bottom-3 left-3 rounded-lg bg-black/60 px-2 py-0.5 text-[9px] font-medium text-slate-300 backdrop-blur-sm">
+            Foto en catálogo
+          </span>
+        )}
         {product.dealOfDay && (
           <span className="absolute bottom-3 left-3 rounded-lg bg-amber-500/90 px-2 py-0.5 text-[10px] font-bold text-black">
             ⚡ OFERTA DEL DÍA

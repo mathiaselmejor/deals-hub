@@ -62,6 +62,11 @@ export function Footer({ disclaimer }: { disclaimer: string }) {
                 </Link>
               </li>
               <li>
+                <Link href="/cuenta" className="hover:text-indigo-400">
+                  Mi cuenta y alertas
+                </Link>
+              </li>
+              <li>
                 <Link href="/privacidad" className="hover:text-indigo-400">
                   Privacidad
                 </Link>

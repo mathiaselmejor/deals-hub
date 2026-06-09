@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-06-09T12:39:14.690Z",
+  "generatedAt": "2026-06-09T13:14:04.260Z",
   "total": 10322,
   "images": {
-    "amazonWidget": 4302,
+    "amazonWidget": 4802,
     "amazonCdn": 0,
-    "placeholder": 6020,
+    "placeholder": 5520,
     "other": 0
   },
   "pricing": {
-    "verifiedDisplay": 4217,
-    "orientative": 6105,
+    "verifiedDisplay": 4717,
+    "orientative": 5605,
     "withDiscount": 361,
     "zeroPrice": 0,
     "priceMismatch": 0
   },
   "amazon": {
-    "directLink": 4296,
-    "asinInMap": 4302,
-    "verifiedOffer": 4296,
-    "searchOnly": 6026
+    "directLink": 4796,
+    "asinInMap": 4802,
+    "verifiedOffer": 4796,
+    "searchOnly": 5526
   },
   "metadata": {
     "withSpecs": 9832,
@@ -53,9 +53,9 @@
     },
     "c9": {
       "count": 1596,
-      "amazonImage": 0,
-      "placeholder": 1596,
-      "verified": 0
+      "amazonImage": 500,
+      "placeholder": 1096,
+      "verified": 500
     }
   },
   "categories": {
@@ -104,16 +104,16 @@
     "manualidades": 260,
     "salud-deporte": 263
   },
-  "qualityScore": 58,
+  "qualityScore": 62,
   "recommendations": [
-    "Resolver ASINs: 6020 productos con placeholder (58%)"
+    "Resolver ASINs: 5520 productos con placeholder (53%)"
   ],
   "summary": {
-    "realImagesPct": 42,
-    "verifiedPricesPct": 41,
-    "asinMapPct": 42,
-    "directAmazonLinks": 4296,
-    "qualityScore": 58,
+    "realImagesPct": 47,
+    "verifiedPricesPct": 46,
+    "asinMapPct": 47,
+    "directAmazonLinks": 4796,
+    "qualityScore": 62,
     "topCategories": [
       {
         "id": "informatica",

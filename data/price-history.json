@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T12:42:50.228Z",
+  "updatedAt": "2026-06-10T16:50:00.603Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -271,6 +271,11 @@
         "date": "2026-06-09",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -302,6 +307,11 @@
       },
       {
         "date": "2026-06-05",
+        "price": 74.37,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-10",
         "price": 74.37,
         "source": "amazon"
       }
@@ -487,6 +497,11 @@
     "samsung-galaxy-buds3": [
       {
         "date": "2026-06-03",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-10",
         "price": 184.99,
         "source": "amazon"
       }
@@ -816,6 +831,11 @@
         "date": "2026-06-07",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-10",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -911,6 +931,11 @@
       },
       {
         "date": "2026-06-07",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-10",
         "price": 139.97,
         "source": "amazon"
       }

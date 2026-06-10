@@ -1,72 +1,30 @@
 {
-  "updatedAt": "2026-06-10T16:48:01.922Z",
+  "updatedAt": "2026-06-10T23:16:19.915Z",
   "engineVersion": 1,
   "products": {
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
+    "dyson-airwrap": {
+      "price": 359.5,
+      "originalPrice": 549,
+      "discount": 35,
       "offers": {
         "amazon": {
-          "price": 66.47,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "price": 359.5,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 329.75,
+      "originalPrice": 549,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 204.95,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 321.49,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 162.81,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 329.75,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
           "linkKind": "direct",
           "priceEstimated": false
         }

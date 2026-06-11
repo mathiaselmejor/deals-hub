@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-06-10",
-  "updatedAt": "2026-06-10T23:18:27.968Z",
+  "dayKey": "2026-06-11",
+  "updatedAt": "2026-06-11T13:07:18.771Z",
   "trendingIds": [
-    "playmobil-city",
-    "ambientador-coche-difusor-premium",
-    "picadora-electrica-500w",
-    "plancha-vapor-3000w-ceramica",
-    "dyson-airwrap",
-    "almohadilla-electrica-lumbar",
-    "aspirador-coche-12v-potente",
-    "saco-dormir-bebe-invierno",
-    "escalera-aluminio-3-peldanos-plegable",
-    "aceite-coco-virgen-500ml",
-    "omega-3-1000mg-180-perlas",
-    "tabla-planchar-xl-con-soporte",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "radiador-aceite-9-elementos",
-    "cable-hdmi-2-1-3m-8k",
-    "vendas-kinesiologicas-6-rollos",
-    "sandwichera-grill-2000w",
-    "bascula-cocina-digital-5kg"
-  ],
-  "featuredIds": [
     "asics-gel-nimbus",
     "tiras-reactivas-glucosa-x50",
     "camara-seguridad",
-    "set-120-rotuladores-alcohol-dual-tip",
+    "sabanas-microfibra-4-piezas",
     "monitor-lg-ultragear-27-165hz",
-    "rodillera-voleibol-padel-pack-2",
+    "gafas-natacion-anti-vaho-pack-2",
     "purina-pro-plan-gato-3kg",
-    "cinturon-cuero-genuino"
+    "cinturon-cuero-genuino",
+    "escritorio-elevable-electrico-140cm",
+    "nerf-elite",
+    "cable-hdmi-2-1-3m-8k",
+    "almohada-cervical-viaje-memory-foam",
+    "set-skincare-coreano-5-pasos",
+    "neceser-viaje-colgante-organizador",
+    "saco-dormir-bebe-invierno",
+    "sensor-inundacion-wifi-3-pack",
+    "crocs-classic",
+    "toalla-microfibra-playa-xl"
   ],
-  "dealOfDayId": "playmobil-city"
+  "featuredIds": [
+    "monitor-lg-ultragear-27-165hz",
+    "helices-repuesto-dji-mini-pack",
+    "escalera-aluminio-3-peldanos-plegable",
+    "playmobil-city",
+    "globos-helio-kit-cumpleanos-50u",
+    "almohadilla-electrica-lumbar",
+    "the-north-face-borealis-mochila",
+    "bolsa-vacio-ropa-6u-bomba"
+  ],
+  "dealOfDayId": "asics-gel-nimbus"
 }

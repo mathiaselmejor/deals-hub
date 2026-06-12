@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T23:11:14.465Z",
+  "updatedAt": "2026-06-12T12:39:32.492Z",
   "engineVersion": 1,
   "products": {
     "sprinter-zapatillas": {
@@ -11,6 +11,20 @@
           "price": 52.69,
           "asin": "B08D11R67B",
           "url": "https://www.amazon.es/dp/B08D11R67B",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 329.75,
+      "originalPrice": 549,
+      "discount": 40,
+      "offers": {
+        "amazon": {
+          "price": 329.75,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
           "linkKind": "direct",
           "priceEstimated": false
         }

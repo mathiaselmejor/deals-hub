@@ -1,30 +1,16 @@
 {
-  "updatedAt": "2026-06-12T12:39:32.492Z",
+  "updatedAt": "2026-06-12T14:22:45.437Z",
   "engineVersion": 1,
   "products": {
-    "sprinter-zapatillas": {
-      "price": 52.69,
-      "originalPrice": 69.99,
-      "discount": 25,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 52.69,
-          "asin": "B08D11R67B",
-          "url": "https://www.amazon.es/dp/B08D11R67B",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 329.75,
-      "originalPrice": 549,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 329.75,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 66.47,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-06-12T14:22:45.437Z",
+  "updatedAt": "2026-06-12T23:03:36.963Z",
   "engineVersion": 1,
-  "products": {
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 66.47,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

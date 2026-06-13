@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T11:31:16.752Z",
+  "updatedAt": "2026-06-13T17:04:01.176Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -282,6 +282,11 @@
       },
       {
         "date": "2026-06-11",
+        "price": 314.04,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-13",
         "price": 314.04,
         "source": "amazon"
       }
@@ -1574,6 +1579,11 @@
     "nintendo-switch-oled": [
       {
         "date": "2026-06-05",
+        "price": 299.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-13",
         "price": 299.99,
         "source": "amazon"
       }

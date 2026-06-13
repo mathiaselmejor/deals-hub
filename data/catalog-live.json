@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-06-13T11:29:20.294Z",
+  "updatedAt": "2026-06-13T17:01:56.818Z",
   "engineVersion": 1,
   "products": {
-    "asics-gel-nimbus": {
-      "price": 42.93,
-      "originalPrice": 179.95,
-      "discount": 76,
+    "garmin-forerunner-265": {
+      "price": 314.04,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 42.93,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 314.04,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "playmobil-city": {
-      "price": 30.98,
-      "originalPrice": 64.99,
-      "discount": 52,
-      "offers": {
-        "amazon": {
-          "price": 30.98,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 39.99,
+    "nintendo-switch-oled": {
+      "price": 299.99,
+      "originalPrice": 299.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 334.11,
+          "asin": "B098RKWHHZ",
+          "url": "https://www.amazon.es/dp/B098RKWHHZ",
           "linkKind": "direct",
           "priceEstimated": false
         }

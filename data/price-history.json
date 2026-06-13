@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T17:04:01.176Z",
+  "updatedAt": "2026-06-13T21:55:06.209Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -523,6 +523,11 @@
         "date": "2026-06-03",
         "price": 79.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 79.99,
+        "source": "amazon"
       }
     ],
     "bascula-withings": [
@@ -770,6 +775,11 @@
         "date": "2026-06-08",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -843,6 +853,11 @@
       {
         "date": "2026-06-03",
         "price": 259,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-13",
+        "price": 262,
         "source": "amazon"
       }
     ],
@@ -997,6 +1012,11 @@
     "razer-deathadder-v3": [
       {
         "date": "2026-06-03",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-13",
         "price": 74.86,
         "source": "amazon"
       }

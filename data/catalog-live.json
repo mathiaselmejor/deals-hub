@@ -1,30 +1,58 @@
 {
-  "updatedAt": "2026-06-13T17:01:56.818Z",
+  "updatedAt": "2026-06-13T21:53:04.085Z",
   "engineVersion": 1,
   "products": {
-    "garmin-forerunner-265": {
-      "price": 314.04,
-      "originalPrice": 449,
-      "discount": 30,
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 314.04,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 164,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nintendo-switch-oled": {
-      "price": 299.99,
-      "originalPrice": 299.99,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "xiaomi-redmi-note-13-pro-5g": {
+      "price": 262,
+      "originalPrice": 329,
+      "discount": 20,
+      "offers": {
+        "amazon": {
+          "price": 262,
+          "asin": "B0CQ32CLZQ",
+          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "razer-deathadder-v3": {
+      "price": 74.86,
+      "originalPrice": 74.86,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 334.11,
-          "asin": "B098RKWHHZ",
-          "url": "https://www.amazon.es/dp/B098RKWHHZ",
+          "price": 90.08,
+          "asin": "B09ZLV2531",
+          "url": "https://www.amazon.es/dp/B09ZLV2531",
           "linkKind": "direct",
           "priceEstimated": false
         }

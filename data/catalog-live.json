@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-06-13T10:13:53.575Z",
+  "updatedAt": "2026-06-13T11:29:20.294Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 36.74,
-      "originalPrice": 46.99,
-      "discount": 22,
+    "asics-gel-nimbus": {
+      "price": 42.93,
+      "originalPrice": 179.95,
+      "discount": 76,
       "offers": {
         "amazon": {
-          "price": 36.74,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 42.93,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "camara-seguridad": {
-      "price": 15.69,
-      "originalPrice": 39.99,
-      "discount": 61,
-      "offers": {
-        "amazon": {
-          "price": 15.69,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 34.02,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "iphone-15-128gb": {
-      "price": 434.99,
-      "originalPrice": 899,
+    "playmobil-city": {
+      "price": 30.98,
+      "originalPrice": 64.99,
       "discount": 52,
       "offers": {
         "amazon": {
-          "price": 434.99,
-          "asin": "B0CVJ23L79",
-          "url": "https://www.amazon.es/dp/B0CVJ23L79",
+          "price": 30.98,
+          "asin": "B0BKQX79WM",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 39.99,
+      "originalPrice": 39.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

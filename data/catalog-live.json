@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-06-13T21:53:04.085Z",
+  "updatedAt": "2026-06-14T10:53:53.376Z",
   "engineVersion": 1,
   "products": {
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 379.34,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
     "theragun-mini": {
       "price": 79.99,
       "originalPrice": 79.99,
@@ -16,43 +30,29 @@
         }
       }
     },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
+    "realme-12-pro-5g": {
+      "price": 219.83,
+      "originalPrice": 400.37,
+      "discount": 45,
       "offers": {
         "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 219.83,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 262,
-      "originalPrice": 329,
-      "discount": 20,
-      "offers": {
-        "amazon": {
-          "price": 262,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 90.08,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 162.81,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

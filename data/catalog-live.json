@@ -1,72 +1,30 @@
 {
-  "updatedAt": "2026-06-14T17:01:29.426Z",
+  "updatedAt": "2026-06-14T22:01:12.585Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 495,
-      "originalPrice": 799,
-      "discount": 38,
-      "offers": {
-        "amazon": {
-          "price": 495,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cosori-airfryer": {
-      "price": 82.64,
-      "originalPrice": 129.99,
-      "discount": 36,
-      "offers": {
-        "amazon": {
-          "price": 82.64,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nerf-elite": {
-      "price": 10.74,
-      "originalPrice": 24.99,
-      "discount": 57,
-      "offers": {
-        "amazon": {
-          "price": 10.74,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 39.99,
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 809,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

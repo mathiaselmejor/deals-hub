@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-06-15T18:09:34.070Z",
+  "updatedAt": "2026-06-15T19:09:32.916Z",
   "engineVersion": 1,
   "products": {
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 160.92,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "sprinter-zapatillas": {
-      "price": 52.69,
-      "originalPrice": 69.99,
-      "discount": 25,
+    "nike-air-force-1": {
+      "price": 74.34,
+      "originalPrice": 75,
+      "discount": 1,
       "offers": {
         "amazon": {
-          "price": 52.69,
-          "asin": "B08D11R67B",
-          "url": "https://www.amazon.es/dp/B08D11R67B",
+          "price": 74.34,
+          "asin": "B08Q8SW7NW",
+          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 329.75,
-      "originalPrice": 549,
-      "discount": 40,
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 329.75,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 28.92,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }

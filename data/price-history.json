@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T18:21:37.623Z",
+  "updatedAt": "2026-06-16T18:59:17.890Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -816,6 +816,11 @@
         "date": "2026-06-15",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -868,6 +873,11 @@
       },
       {
         "date": "2026-06-14",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
         "price": 20.28,
         "source": "amazon"
       }
@@ -945,6 +955,11 @@
         "date": "2026-06-14",
         "price": 219,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 219,
+        "source": "amazon"
       }
     ],
     "samsung-galaxy-a55-5g-128gb": [
@@ -1017,6 +1032,11 @@
       },
       {
         "date": "2026-06-14",
+        "price": 219.83,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
         "price": 219.83,
         "source": "amazon"
       }

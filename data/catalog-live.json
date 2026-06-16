@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:09:32.916Z",
+  "updatedAt": "2026-06-16T18:19:40.488Z",
   "engineVersion": 1,
   "products": {
     "ninja-airfryer": {
@@ -16,29 +16,57 @@
         }
       }
     },
-    "nike-air-force-1": {
-      "price": 74.34,
-      "originalPrice": 75,
-      "discount": 1,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 74.34,
-          "asin": "B08Q8SW7NW",
-          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
+          "price": 34.02,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aliexpress-buds": {
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "discount": 38,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 28.92,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "price": 64.47,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "lego-classic": {
+      "price": 40.11,
+      "originalPrice": 42.99,
+      "discount": 7,
+      "offers": {
+        "amazon": {
+          "price": 40.11,
+          "asin": "B00PY3EYQO",
+          "url": "https://www.amazon.es/dp/B00PY3EYQO",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 204.95,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }

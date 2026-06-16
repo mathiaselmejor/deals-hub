@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:11:40.667Z",
+  "updatedAt": "2026-06-16T18:21:37.623Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -9,6 +9,11 @@
       },
       {
         "date": "2026-06-15",
+        "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
         "price": 189.99,
         "source": "amazon"
       }
@@ -265,6 +270,11 @@
         "date": "2026-06-14",
         "price": 24.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 24.95,
+        "source": "amazon"
       }
     ],
     "asics-gel-nimbus": [
@@ -339,6 +349,11 @@
       },
       {
         "date": "2026-06-12",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
         "price": 36.99,
         "source": "amazon"
       }
@@ -425,6 +440,11 @@
       {
         "date": "2026-06-03",
         "price": 42.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
+        "price": 40.11,
         "source": "amazon"
       }
     ],
@@ -602,6 +622,11 @@
       },
       {
         "date": "2026-06-10",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-16",
         "price": 184.99,
         "source": "amazon"
       }

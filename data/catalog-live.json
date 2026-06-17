@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-06-17T16:46:46.464Z",
+  "updatedAt": "2026-06-17T23:08:44.535Z",
   "engineVersion": 1,
   "products": {
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 70,
-      "discount": 0,
+    "silla-paseo-ligera": {
+      "price": 82.64,
+      "originalPrice": 169,
+      "discount": 51,
       "offers": {
         "amazon": {
-          "price": 92.66,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "price": 82.64,
+          "asin": "B0DLWK3LKH",
+          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
-      "discount": 0,
+    "nerf-elite": {
+      "price": 10.74,
+      "originalPrice": 24.99,
+      "discount": 57,
       "offers": {
         "amazon": {
-          "price": 35.83,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 10.74,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 262,
-      "originalPrice": 329,
-      "discount": 20,
-      "offers": {
-        "amazon": {
-          "price": 262,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "realme-12-pro-5g": {
-      "price": 219.83,
-      "originalPrice": 400.37,
+    "delonghi-dedica": {
+      "price": 108.6,
+      "originalPrice": 199,
       "discount": 45,
       "offers": {
         "amazon": {
-          "price": 219.83,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 108.6,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 134.55,
-      "originalPrice": 139.97,
-      "discount": 4,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 134.55,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 205.31,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 144.62,
+      "originalPrice": 172.52,
+      "discount": 16,
+      "offers": {
+        "amazon": {
+          "price": 144.62,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

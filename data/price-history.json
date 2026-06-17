@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T16:48:48.823Z",
+  "updatedAt": "2026-06-17T23:10:46.810Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -449,6 +449,11 @@
         "date": "2026-06-03",
         "price": 99.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 82.64,
+        "source": "amazon"
       }
     ],
     "lego-classic": [
@@ -476,6 +481,11 @@
       },
       {
         "date": "2026-06-14",
+        "price": 10.74,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-17",
         "price": 10.74,
         "source": "amazon"
       }
@@ -522,6 +532,11 @@
       {
         "date": "2026-06-09",
         "price": 141.44,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 108.6,
         "source": "amazon"
       }
     ],
@@ -657,6 +672,11 @@
       },
       {
         "date": "2026-06-16",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-17",
         "price": 184.99,
         "source": "amazon"
       }
@@ -1259,6 +1279,11 @@
       {
         "date": "2026-06-03",
         "price": 172.52,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-17",
+        "price": 144.62,
         "source": "amazon"
       }
     ],

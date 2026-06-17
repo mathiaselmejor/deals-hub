@@ -1,72 +1,86 @@
 {
-  "updatedAt": "2026-06-16T18:57:15.902Z",
+  "updatedAt": "2026-06-17T13:02:40.162Z",
   "engineVersion": 1,
   "products": {
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 204.95,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aliexpress-buds": {
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "discount": 38,
-      "offers": {
-        "amazon": {
-          "price": 28.92,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 280.98,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 92.66,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "realme-12-pro-5g": {
-      "price": 219.83,
-      "originalPrice": 400.37,
-      "discount": 45,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 219.83,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 64.48,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "lego-classic": {
+      "price": 40.11,
+      "originalPrice": 42.99,
+      "discount": 7,
+      "offers": {
+        "amazon": {
+          "price": 40.11,
+          "asin": "B00PY3EYQO",
+          "url": "https://www.amazon.es/dp/B00PY3EYQO",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "dyson-airwrap": {
+      "price": 395.87,
+      "originalPrice": 549,
+      "discount": 28,
+      "offers": {
+        "amazon": {
+          "price": 395.87,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

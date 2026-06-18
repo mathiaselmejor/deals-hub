@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-06-18T02:59:12.977Z",
+  "updatedAt": "2026-06-18T10:13:39.068Z",
   "engineVersion": 1,
   "products": {
-    "nerf-elite": {
-      "price": 10.74,
-      "originalPrice": 24.99,
-      "discount": 57,
-      "offers": {
-        "amazon": {
-          "price": 10.74,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "realme-12-pro-5g": {
-      "price": 362.64,
-      "originalPrice": 400.37,
-      "discount": 9,
-      "offers": {
-        "amazon": {
-          "price": 362.64,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "keychron-k2-pro-teclado-mecanico": {
-      "price": 107.42,
-      "originalPrice": 107.42,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 141,
-          "asin": "B0BZ8HPT5S",
-          "url": "https://www.amazon.es/dp/B0BZ8HPT5S",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cosori-airfryer": {
+      "price": 66,
+      "originalPrice": 129.99,
+      "discount": 49,
+      "offers": {
+        "amazon": {
+          "price": 66,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "silla-paseo-ligera": {
+      "price": 82.64,
+      "originalPrice": 169,
+      "discount": 51,
+      "offers": {
+        "amazon": {
+          "price": 82.64,
+          "asin": "B0DLWK3LKH",
+          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
           "linkKind": "direct",
           "priceEstimated": false
         }

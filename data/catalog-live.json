@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-06-18T10:13:39.068Z",
+  "updatedAt": "2026-06-18T14:35:53.999Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "cosori-airfryer": {
       "price": 66,
       "originalPrice": 129.99,
@@ -30,6 +16,20 @@
         }
       }
     },
+    "nike-air-force-1": {
+      "price": 74.34,
+      "originalPrice": 75,
+      "discount": 1,
+      "offers": {
+        "amazon": {
+          "price": 74.34,
+          "asin": "B08Q8SW7NW",
+          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
     "silla-paseo-ligera": {
       "price": 82.64,
       "originalPrice": 169,
@@ -39,6 +39,20 @@
           "price": 82.64,
           "asin": "B0DLWK3LKH",
           "url": "https://www.amazon.es/dp/B0DLWK3LKH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "realme-12-pro-5g": {
+      "price": 368.97,
+      "originalPrice": 400.37,
+      "discount": 8,
+      "offers": {
+        "amazon": {
+          "price": 368.97,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
           "linkKind": "direct",
           "priceEstimated": false
         }

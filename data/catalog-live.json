@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-06-17T23:08:44.535Z",
+  "updatedAt": "2026-06-18T02:59:12.977Z",
   "engineVersion": 1,
   "products": {
-    "silla-paseo-ligera": {
-      "price": 82.64,
-      "originalPrice": 169,
-      "discount": 51,
-      "offers": {
-        "amazon": {
-          "price": 82.64,
-          "asin": "B0DLWK3LKH",
-          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "nerf-elite": {
       "price": 10.74,
       "originalPrice": 24.99,
@@ -30,43 +16,43 @@
         }
       }
     },
-    "delonghi-dedica": {
-      "price": 108.6,
-      "originalPrice": 199,
-      "discount": 45,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 108.6,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
+    "realme-12-pro-5g": {
+      "price": 362.64,
+      "originalPrice": 400.37,
+      "discount": 9,
+      "offers": {
+        "amazon": {
+          "price": 362.64,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "keychron-k2-pro-teclado-mecanico": {
+      "price": 107.42,
+      "originalPrice": 107.42,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 205.31,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "steelseries-arctis-nova-7": {
-      "price": 144.62,
-      "originalPrice": 172.52,
-      "discount": 16,
-      "offers": {
-        "amazon": {
-          "price": 144.62,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 141,
+          "asin": "B0BZ8HPT5S",
+          "url": "https://www.amazon.es/dp/B0BZ8HPT5S",
           "linkKind": "direct",
           "priceEstimated": false
         }

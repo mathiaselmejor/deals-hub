@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-06-18",
-  "updatedAt": "2026-06-18T20:19:09.377Z",
+  "dayKey": "2026-06-19",
+  "updatedAt": "2026-06-19T03:48:24.815Z",
   "trendingIds": [
-    "sudadera-oversize-unisex",
-    "camara-seguridad",
-    "nevera-playa-24l-isotermica",
-    "comida-hellofresh",
-    "tp-link-tapo-camara-2k-interior",
-    "samsung-tv-oled",
-    "samsung-galaxy-tab-s9-fe",
-    "protector-solar-spf50-200ml-pack-x2",
-    "delonghi-dedica",
-    "globos-helio-kit-cumpleanos-50u",
-    "neceser-viaje-colgante-organizador",
-    "cosori-airfryer",
-    "sierra-caladora-black-decker-600w",
-    "dyson-v15-detect-absolute",
-    "ambientador-coche-difusor-premium",
-    "rodillera-voleibol-padel-pack-2",
-    "bombillas-led-pack",
-    "sandwichera-grill-2000w"
-  ],
-  "featuredIds": [
     "philips-hue-starter",
     "camara-seguridad",
     "perfume-armani",
@@ -29,7 +9,27 @@
     "protector-pantalla-cristal-9h-pack-3",
     "juguete-interactivo-perro-iq",
     "alfombrilla-xxl-rgb",
-    "cerave-rutina"
+    "samsung-galaxy-tab-s9-fe",
+    "amazon-fire-hd-10",
+    "radiador-aceite-9-elementos",
+    "aspirador-coche-12v-potente",
+    "google-pixel-8a",
+    "salsa-trufa-negra-100ml",
+    "aliexpress-buds",
+    "purina-pro-plan-gato-3kg",
+    "neceser-viaje-colgante-organizador",
+    "gafas-natacion-anti-vaho-pack-2",
+    "the-north-face-borealis-mochila"
   ],
-  "dealOfDayId": "sudadera-oversize-unisex"
+  "featuredIds": [
+    "monitor-lg-ultragear-27-165hz",
+    "vestido-verano-midi-fluido",
+    "organizador-maletero-plegable",
+    "amazon-fire-hd-10",
+    "playmobil-city",
+    "aspirador-coche-12v-potente",
+    "set-herramientas-jardin-8-piezas",
+    "baterias-lipo-cargador-balanceador"
+  ],
+  "dealOfDayId": "philips-hue-starter"
 }

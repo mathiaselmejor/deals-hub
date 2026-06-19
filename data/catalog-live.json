@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T20:17:00.228Z",
+  "updatedAt": "2026-06-19T03:46:26.771Z",
   "engineVersion": 1,
   "products": {
     "nike-tech-fleece": {
@@ -16,29 +16,15 @@
         }
       }
     },
-    "aliexpress-buds": {
-      "price": 24.99,
+    "nordvpn-sub": {
+      "price": 39.99,
       "originalPrice": 39.99,
-      "discount": 38,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 28.92,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "realme-12-pro-5g": {
-      "price": 368.97,
-      "originalPrice": 400.37,
-      "discount": 8,
-      "offers": {
-        "amazon": {
-          "price": 368.97,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

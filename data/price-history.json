@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T09:10:34.221Z",
+  "updatedAt": "2026-06-19T10:20:49.376Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -213,6 +213,11 @@
         "date": "2026-06-18",
         "price": 74.34,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 74.34,
+        "source": "amazon"
       }
     ],
     "adidas-samba": [
@@ -420,6 +425,11 @@
         "date": "2026-06-03",
         "price": 149.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 90.72,
+        "source": "amazon"
       }
     ],
     "tienda-campana-quechua": [
@@ -531,6 +541,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 10.74,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
         "price": 10.74,
         "source": "amazon"
       }
@@ -722,6 +737,11 @@
       },
       {
         "date": "2026-06-17",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
         "price": 184.99,
         "source": "amazon"
       }
@@ -988,6 +1008,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
         "price": 20.28,
         "source": "amazon"
       }
@@ -1297,6 +1322,11 @@
         "date": "2026-06-18",
         "price": 107.42,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 107.42,
+        "source": "amazon"
       }
     ],
     "razer-deathadder-v3": [
@@ -1307,6 +1337,11 @@
       },
       {
         "date": "2026-06-13",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
         "price": 74.86,
         "source": "amazon"
       }

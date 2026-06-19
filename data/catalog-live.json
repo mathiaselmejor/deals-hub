@@ -1,72 +1,58 @@
 {
-  "updatedAt": "2026-06-19T14:52:47.019Z",
+  "updatedAt": "2026-06-19T19:41:59.889Z",
   "engineVersion": 1,
   "products": {
-    "delonghi-dedica": {
-      "price": 114.88,
-      "originalPrice": 199,
-      "discount": 42,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 114.88,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "dyson-airwrap": {
-      "price": 395.87,
-      "originalPrice": 549,
-      "discount": 28,
+    "portatil-lenovo": {
+      "price": 544,
+      "originalPrice": 799,
+      "discount": 32,
       "offers": {
         "amazon": {
-          "price": 395.87,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "price": 544,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "playmobil-city": {
-      "price": 30.98,
-      "originalPrice": 64.99,
-      "discount": 52,
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 30.98,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 92.66,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
+    "garmin-forerunner-265": {
+      "price": 314.02,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "google-pixel-8a": {
-      "price": 304,
-      "originalPrice": 549,
-      "discount": 45,
-      "offers": {
-        "amazon": {
-          "price": 304,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "price": 314.02,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }

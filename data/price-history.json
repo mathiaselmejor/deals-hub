@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T03:48:24.815Z",
+  "updatedAt": "2026-06-19T09:10:34.221Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -327,6 +327,11 @@
         "date": "2026-06-13",
         "price": 42.93,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
+        "price": 42.93,
+        "source": "amazon"
       }
     ],
     "garmin-forerunner-265": [
@@ -394,6 +399,11 @@
       },
       {
         "date": "2026-06-17",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
         "price": 36.99,
         "source": "amazon"
       }
@@ -1010,6 +1020,11 @@
       },
       {
         "date": "2026-06-15",
+        "price": 52.69,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-19",
         "price": 52.69,
         "source": "amazon"
       }

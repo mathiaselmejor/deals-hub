@@ -1,58 +1,58 @@
 {
-  "updatedAt": "2026-06-19T19:41:59.889Z",
+  "updatedAt": "2026-06-20T02:50:06.264Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "portatil-lenovo": {
-      "price": 544,
-      "originalPrice": 799,
-      "discount": 32,
+    "nerf-elite": {
+      "price": 10.74,
+      "originalPrice": 24.99,
+      "discount": 57,
       "offers": {
         "amazon": {
-          "price": 544,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 10.74,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 70,
+    "nordvpn-sub": {
+      "price": 39.99,
+      "originalPrice": 39.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 92.66,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "garmin-forerunner-265": {
-      "price": 314.02,
-      "originalPrice": 449,
-      "discount": 30,
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 314.02,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

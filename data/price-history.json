@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T19:44:03.371Z",
+  "updatedAt": "2026-06-20T02:52:15.136Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -117,6 +117,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 95,
         "source": "amazon"
       }
@@ -563,6 +568,11 @@
         "date": "2026-06-19",
         "price": 10.74,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 10.74,
+        "source": "amazon"
       }
     ],
     "dash-cam-70mai": [
@@ -1003,6 +1013,11 @@
         "date": "2026-06-19",
         "price": 39.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 39.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -1121,6 +1136,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 13.21,
         "source": "amazon"
       }

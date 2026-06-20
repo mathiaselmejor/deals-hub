@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-06-20T08:47:00.161Z",
+  "updatedAt": "2026-06-20T13:49:56.533Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 40.45,
-      "originalPrice": 46.99,
-      "discount": 14,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 40.45,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 34.02,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pala-padel-head": {
-      "price": 55.45,
-      "originalPrice": 79.99,
-      "discount": 31,
+    "delonghi-dedica": {
+      "price": 114.88,
+      "originalPrice": 199,
+      "discount": 42,
       "offers": {
         "amazon": {
-          "price": 55.45,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
-      "offers": {
-        "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "price": 114.88,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -53,6 +39,20 @@
           "price": 13.21,
           "asin": "B09ZBKRMG1",
           "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "razer-deathadder-v3": {
+      "price": 74.86,
+      "originalPrice": 74.86,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 90.08,
+          "asin": "B09ZLV2531",
+          "url": "https://www.amazon.es/dp/B09ZLV2531",
           "linkKind": "direct",
           "priceEstimated": false
         }

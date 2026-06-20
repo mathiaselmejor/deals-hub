@@ -27112,582 +27112,1369 @@
     "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0FMJCCJPZ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-modulo-rele-mini-wifi": {
-    "amazon": "B0DDTD6JDX"
+    "amazon": "B0DDTD6JDX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DDTD6JDX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-modulo-rele-mini-pack-2": {
-    "amazon": "B0DDTD6JDX"
+    "amazon": "B0DDTD6JDX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DDTD6JDX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-modulo-rele-mini-pack-4": {
-    "amazon": "B0DDTD6JDX"
+    "amazon": "B0DDTD6JDX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DDTD6JDX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-modulo-rele-mini-blanco": {
-    "amazon": "B0DDTD6JDX"
+    "amazon": "B0DDTD6JDX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DDTD6JDX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-modulo-rele-mini-sin-neutro": {
-    "amazon": "B0DDTD6JDX"
+    "amazon": "B0DDTD6JDX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0DDTD6JDX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-matter": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-thread": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-zigbee": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-wifi": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-pack-2": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-pack-4": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-blanco": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-temperatura-sin-neutro": {
-    "amazon": "B0CLR7V3W7"
+    "amazon": "B0CLR7V3W7",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CLR7V3W7&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-matter": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-thread": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-zigbee": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-wifi": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-pack-2": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-pack-4": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-blanco": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-hub-matter-sin-neutro": {
-    "amazon": "B08NDH9NXN"
+    "amazon": "B08NDH9NXN",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B08NDH9NXN&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-matter": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-thread": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-zigbee": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-wifi": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-pack-2": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-pack-4": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-blanco": {
-    "amazon": "B098FJ6LXB"
+    "amazon": "B098FJ6LXB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B098FJ6LXB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-tira-led-wifi-sin-neutro": {
-    "amazon": "B0D3LZDW67"
+    "amazon": "B0D3LZDW67",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D3LZDW67&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-matter": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-thread": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-zigbee": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-wifi": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-pack-2": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-pack-4": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-blanco": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-movimiento-sin-neutro": {
-    "amazon": "B07D1CRRVF"
+    "amazon": "B07D1CRRVF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07D1CRRVF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-matter": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-thread": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-zigbee": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-wifi": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-pack-2": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-pack-4": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-blanco": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-enchufe-medidor-energia-sin-neutro": {
-    "amazon": "B0B7NKLDXW"
+    "amazon": "B0B7NKLDXW",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0B7NKLDXW&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-matter": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-thread": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-zigbee": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-wifi": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-pack-2": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-pack-4": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-blanco": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-sensor-inundacion-sin-neutro": {
-    "amazon": "B0BJ6B1LPQ"
+    "amazon": "B0BJ6B1LPQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0BJ6B1LPQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-control-ir-universal-matter": {
-    "amazon": "B0F1NBW3Y9"
+    "amazon": "B0F1NBW3Y9",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F1NBW3Y9&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-control-ir-universal-thread": {
-    "amazon": "B0F1NBW3Y9"
+    "amazon": "B0F1NBW3Y9",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F1NBW3Y9&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-control-ir-universal-zigbee": {
-    "amazon": "B0F1NBW3Y9"
+    "amazon": "B0F1NBW3Y9",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F1NBW3Y9&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-control-ir-universal-wifi": {
-    "amazon": "B0F1NBW3Y9"
+    "amazon": "B0F1NBW3Y9",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F1NBW3Y9&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-control-ir-universal-pack-2": {
-    "amazon": "B0F1NBW3Y9"
+    "amazon": "B0F1NBW3Y9",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F1NBW3Y9&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-aqara-control-ir-universal-pack-4": {
-    "amazon": "B0F1NBW3Y9"
+    "amazon": "B0F1NBW3Y9",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0F1NBW3Y9&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-inox": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-negro": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-rojo": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-set-3": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-set-5": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-apta-lavavajillas": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-regalo": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-pelador-juliana-chef": {
-    "amazon": "B07L5D3QQ8"
+    "amazon": "B07L5D3QQ8",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07L5D3QQ8&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-inox": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-negro": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-rojo": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-set-3": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-set-5": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-apta-lavavajillas": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-regalo": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-termometro-carne-digital-chef": {
-    "amazon": "B01N8RUOMB"
+    "amazon": "B01N8RUOMB",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N8RUOMB&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-inox": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-negro": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-rojo": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-set-3": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-set-5": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-apta-lavavajillas": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-regalo": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-balanza-cocina-5kg-chef": {
-    "amazon": "B079D9B82W"
+    "amazon": "B079D9B82W",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079D9B82W&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-inox": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-negro": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-rojo": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-set-3": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-set-5": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-apta-lavavajillas": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-regalo": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-rodillo-silicona-chef": {
-    "amazon": "B082WXVXWH"
+    "amazon": "B082WXVXWH",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B082WXVXWH&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-inox": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-negro": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-rojo": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-set-3": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-set-5": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-apta-lavavajillas": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-regalo": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-tapas-hermeticas-set-chef": {
-    "amazon": "B07MYYXW9V"
+    "amazon": "B07MYYXW9V",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B07MYYXW9V&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-inox": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-negro": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-rojo": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-set-3": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-set-5": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-apta-lavavajillas": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-regalo": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-organizador-nevera-chef": {
-    "amazon": "B0D185QGF6"
+    "amazon": "B0D185QGF6",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0D185QGF6&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-inox": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-negro": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-rojo": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-set-3": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-set-5": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-apta-lavavajillas": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-regalo": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-abrebotellas-sommelier-chef": {
-    "amazon": "B01N5SZTPR"
+    "amazon": "B01N5SZTPR",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B01N5SZTPR&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-inox": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-negro": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-rojo": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-set-3": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-set-5": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-apta-lavavajillas": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-regalo": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-molinillo-sal-pimienta-chef": {
-    "amazon": "B001CDP6EE"
+    "amazon": "B001CDP6EE",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001CDP6EE&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-inox": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-negro": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-rojo": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-set-3": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-set-5": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-apta-lavavajillas": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-regalo": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-espatula-acero-chef": {
-    "amazon": "B079NRDW9C"
+    "amazon": "B079NRDW9C",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B079NRDW9C&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-colador-plegable-inox": {
-    "amazon": "B00004OCLX"
+    "amazon": "B00004OCLX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00004OCLX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-colador-plegable-negro": {
-    "amazon": "B00004OCLX"
+    "amazon": "B00004OCLX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00004OCLX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-colador-plegable-rojo": {
-    "amazon": "B00004OCLX"
+    "amazon": "B00004OCLX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00004OCLX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-colador-plegable-set-3": {
-    "amazon": "B00004OCLX"
+    "amazon": "B00004OCLX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00004OCLX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-colador-plegable-set-5": {
-    "amazon": "B00004OCLX"
+    "amazon": "B00004OCLX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00004OCLX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-oxo-colador-plegable-apta-lavavajillas": {
-    "amazon": "B00004OCLX"
+    "amazon": "B00004OCLX",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00004OCLX&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-compatible-original": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-pack-ahorro": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-universal": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-serie-5000": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-serie-7000": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-xl": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-oferta": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-hepa-repuesto-oferta-pack": {
-    "amazon": "B001ANVK50"
+    "amazon": "B001ANVK50",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001ANVK50&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-compatible-origin": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-pack-ahorro": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-universal": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-serie-5000": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-serie-7000": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-xl": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-oferta": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-bolsa-aspirador-pack-4-oferta-pack": {
-    "amazon": "B0052E6H0G"
+    "amazon": "B0052E6H0G",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0052E6H0G&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-compatible-orig": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-pack-ahorro": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-universal": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-serie-5000": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-serie-7000": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-xl": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-oferta": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-descalcificador-cafetera-oferta-pack": {
-    "amazon": "B0CL9YN8N4"
+    "amazon": "B0CL9YN8N4",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0CL9YN8N4&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-compatible-original": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-pack-ahorro": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-universal": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-serie-5000": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-serie-7000": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-xl": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-oferta": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-filtro-agua-jarra-oferta-pack": {
-    "amazon": "B001FR9XSC"
+    "amazon": "B001FR9XSC",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B001FR9XSC&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-compatible-origi": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-pack-ahorro": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-universal": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-serie-5000": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-serie-7000": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-xl": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-oferta": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-accesorio-plancha-vapor-oferta-pack": {
-    "amazon": "B010LSZIVQ"
+    "amazon": "B010LSZIVQ",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B010LSZIVQ&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-compatible-original": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-pack-ahorro": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-universal": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-serie-5000": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-serie-7000": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-xl": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-oferta": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-cepillo-turbo-oferta-pack": {
-    "amazon": "B00422X0W2"
+    "amazon": "B00422X0W2",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B00422X0W2&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-compatible-or": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-pack-ahorro": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-universal": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-serie-5000": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-serie-7000": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-xl": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-oferta": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
   },
   "c8-melitta-recambio-cuchilla-batidora-oferta-pack": {
-    "amazon": "B0H28FJSDF"
+    "amazon": "B0H28FJSDF",
+    "imageUrl": "https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=ES&ASIN=B0H28FJSDF&ServiceVersion=20070822&ID=AsinImage&Format=_SL500_"
+  },
+  "c8-melitta-filtro-freidora-universal": {
+    "amazon": "B001FR9XSC"
+  },
+  "c8-melitta-filtro-freidora-serie-5000": {
+    "amazon": "B001FR9XSC"
+  },
+  "c8-melitta-filtro-freidora-serie-7000": {
+    "amazon": "B001FR9XSC"
+  },
+  "c8-melitta-filtro-freidora-xl": {
+    "amazon": "B001FR9XSC"
+  },
+  "c8-melitta-filtro-freidora-oferta": {
+    "amazon": "B001FR9XSC"
+  },
+  "c8-melitta-filtro-freidora-oferta-pack": {
+    "amazon": "B001FR9XSC"
+  },
+  "c8-melitta-base-carga-robot-compatible-original": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-pack-ahorro": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-universal": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-serie-5000": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-serie-7000": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-xl": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-oferta": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-base-carga-robot-oferta-pack": {
+    "amazon": "B08C7T23F5"
+  },
+  "c8-melitta-mopa-microfibra-2-uds-compatible-origina": {
+    "amazon": "B07C1JMS54"
+  },
+  "c8-melitta-mopa-microfibra-2-uds-pack-ahorro": {
+    "amazon": "B07C1JMS54"
+  },
+  "c8-melitta-mopa-microfibra-2-uds-universal": {
+    "amazon": "B07C1JMS54"
+  },
+  "c8-melitta-mopa-microfibra-2-uds-serie-5000": {
+    "amazon": "B07C1JMS54"
+  },
+  "c8-melitta-mopa-microfibra-2-uds-serie-7000": {
+    "amazon": "B07C1JMS54"
+  },
+  "c8-melitta-mopa-microfibra-2-uds-xl": {
+    "amazon": "B07C1JMS54"
+  },
+  "c8-ikea-acc-organizador-cajon-blanco": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-gris": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-beige": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-40cm": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-60cm": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-bambu": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-reciclado": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-organizador-cajon-pack-2": {
+    "amazon": "B0CD2WY7C9"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-blanco": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-gris": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-beige": {
+    "amazon": "B0D31P7WDV"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-40cm": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-60cm": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-bambu": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-reciclado": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-percha-madera-5-uds-pack-2": {
+    "amazon": "B084J6M6Y5"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-blanco": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-gris": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-beige": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-40cm": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-60cm": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-bambu": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-reciclado": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-caja-almacenaje-tapa-pack-2": {
+    "amazon": "B01C883KOO"
+  },
+  "c8-ikea-acc-separador-armario-blanco": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-gris": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-beige": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-40cm": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-60cm": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-bambu": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-reciclado": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-separador-armario-pack-2": {
+    "amazon": "B0GRVXMTDN"
+  },
+  "c8-ikea-acc-espejo-aumento-blanco": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-gris": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-beige": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-40cm": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-60cm": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-bambu": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-reciclado": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-espejo-aumento-pack-2": {
+    "amazon": "B09QLVRZPC"
+  },
+  "c8-ikea-acc-dispensador-jabon-blanco": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-gris": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-beige": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-40cm": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-60cm": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-bambu": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-reciclado": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-dispensador-jabon-pack-2": {
+    "amazon": "B08RXPHMZ9"
+  },
+  "c8-ikea-acc-escobilla-wc-blanco": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-gris": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-beige": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-40cm": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-60cm": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-bambu": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-reciclado": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-escobilla-wc-pack-2": {
+    "amazon": "B01IDLOFEO"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-blanco": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-gris": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-beige": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-40cm": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-60cm": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-bambu": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-reciclado": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-cortina-bano-antimoho-pack-2": {
+    "amazon": "B01E6ZGTBS"
+  },
+  "c8-ikea-acc-alfombrilla-bano-blanco": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-gris": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-beige": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-40cm": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-60cm": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-bambu": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-reciclado": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-alfombrilla-bano-pack-2": {
+    "amazon": "B0CQN9W6Y8"
+  },
+  "c8-ikea-acc-perchero-pared-blanco": {
+    "amazon": "B005M8YWUO"
+  },
+  "c8-ikea-acc-perchero-pared-gris": {
+    "amazon": "B005M8YWUO"
+  },
+  "c8-ikea-acc-perchero-pared-beige": {
+    "amazon": "B005M8YWUO"
+  },
+  "c8-ikea-acc-perchero-pared-40cm": {
+    "amazon": "B005M8YWUO"
+  },
+  "c8-ikea-acc-perchero-pared-60cm": {
+    "amazon": "B005M8YWUO"
+  },
+  "c8-ikea-acc-perchero-pared-bambu": {
+    "amazon": "B005M8YWUO"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-original": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-compatible": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-pack-2": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-pack-4": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-xl": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-antialergenico": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-lavable": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-filtro-hepa-repuesto-recambio": {
+    "amazon": "B0D9BF7MTQ"
+  },
+  "c8-dyson-acc-cepillo-turbo-original": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-compatible": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-pack-2": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-pack-4": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-xl": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-antialergenico": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-lavable": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-cepillo-turbo-recambio": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-original": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-compatible": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-pack-2": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-pack-4": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-xl": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-antialergenico": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-lavable": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-mopa-lavable-2-uds-recambio": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-original": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-compatible": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-pack-2": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-pack-4": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-xl": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-antialergenico": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-lavable": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-bolsa-polvo-pack-recambio": {
+    "amazon": "B0GVP7XY36"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-original": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-compatible": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-pack-2": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-pack-4": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-xl": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-antialergenico": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-lavable": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-kit-rodillos-roomba-recambio": {
+    "amazon": "B0D9W3MCDR"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-original": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-compatible": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-pack-2": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-pack-4": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-xl": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-antialergenico": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-lavable": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-detergente-suelos-1l-recambio": {
+    "amazon": "B01JYUU2ZY"
+  },
+  "c8-dyson-acc-recambio-escoba-original": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-compatible": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-pack-2": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-pack-4": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-xl": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-antialergenico": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-lavable": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-recambio-escoba-recambio": {
+    "amazon": "B0DPMNJSNJ"
+  },
+  "c8-dyson-acc-fregona-microfibra-original": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-compatible": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-pack-2": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-pack-4": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-xl": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-antialergenico": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-lavable": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-fregona-microfibra-recambio": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-original": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-compatible": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-pack-2": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-pack-4": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-xl": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-antialergenico": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-lavable": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-accesorio-grietas-recambio": {
+    "amazon": "B07J6FZWTH"
+  },
+  "c8-dyson-acc-bateria-repuesto-original": {
+    "amazon": "B0FWKDT22T"
+  },
+  "c8-dyson-acc-bateria-repuesto-compatible": {
+    "amazon": "B0FWKDT22T"
+  },
+  "c8-dyson-acc-bateria-repuesto-pack-2": {
+    "amazon": "B0FWKDT22T"
+  },
+  "c8-dyson-acc-bateria-repuesto-pack-4": {
+    "amazon": "B0FWKDT22T"
+  },
+  "c8-dyson-acc-bateria-repuesto-xl": {
+    "amazon": "B0FWKDT22T"
+  },
+  "c8-dyson-acc-bateria-repuesto-antialergenico": {
+    "amazon": "B0FWKDT22T"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-universal": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-9000-btu": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-12000-btu": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-hepa": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-carbon": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-wifi": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-pack-2": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-filtro-hepa-purificador-silencioso": {
+    "amazon": "B0DK4QJ52C"
+  },
+  "c8-taurus-acc-mando-universal-ac-universal": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-9000-btu": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-12000-btu": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-hepa": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-carbon": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-wifi": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-pack-2": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-mando-universal-ac-silencioso": {
+    "amazon": "B00EVQFL7Q"
+  },
+  "c8-taurus-acc-kit-ventana-portatil-universal": {
+    "amazon": "B0CT2PL3CN"
+  },
+  "c8-taurus-acc-kit-ventana-portatil-9000-btu": {
+    "amazon": "B0CT2PL3CN"
+  },
+  "c8-taurus-acc-kit-ventana-portatil-12000-btu": {
+    "amazon": "B0CT2PL3CN"
+  },
+  "c8-taurus-acc-kit-ventana-portatil-hepa": {
+    "amazon": "B0CT2PL3CN"
+  },
+  "c8-taurus-acc-kit-ventana-portatil-carbon": {
+    "amazon": "B0CT2PL3CN"
+  },
+  "c8-taurus-acc-kit-ventana-portatil-wifi": {
+    "amazon": "B0CT2PL3CN"
   }
 }

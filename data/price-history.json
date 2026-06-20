@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T02:52:15.136Z",
+  "updatedAt": "2026-06-20T07:56:40.578Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -438,6 +438,11 @@
         "date": "2026-06-03",
         "price": 61.9,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 61.94,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -590,6 +595,11 @@
       },
       {
         "date": "2026-06-17",
+        "price": 32.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 32.95,
         "source": "amazon"
       }
@@ -979,6 +989,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 24.99,
         "source": "amazon"
       }
@@ -1382,6 +1397,11 @@
         "date": "2026-06-19",
         "price": 107.42,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 107.42,
+        "source": "amazon"
       }
     ],
     "razer-deathadder-v3": [
@@ -1397,6 +1417,11 @@
       },
       {
         "date": "2026-06-19",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 74.86,
         "source": "amazon"
       }
@@ -1458,6 +1483,11 @@
       },
       {
         "date": "2026-06-17",
+        "price": 144.62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 144.62,
         "source": "amazon"
       }

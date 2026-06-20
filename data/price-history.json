@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T13:51:58.237Z",
+  "updatedAt": "2026-06-20T19:18:59.720Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -161,6 +161,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
         "price": 66,
         "source": "amazon"
       }
@@ -842,6 +847,11 @@
         "date": "2026-06-03",
         "price": 26.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 22.27,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -1253,6 +1263,11 @@
         "date": "2026-06-13",
         "price": 434.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 424.99,
+        "source": "amazon"
       }
     ],
     "motorola-edge-40-neo": [
@@ -1361,6 +1376,11 @@
       {
         "date": "2026-06-03",
         "price": 302.71,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-20",
+        "price": 263.64,
         "source": "amazon"
       }
     ],

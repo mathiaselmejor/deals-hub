@@ -1,72 +1,16 @@
 {
-  "updatedAt": "2026-06-21T03:33:49.221Z",
+  "updatedAt": "2026-06-21T08:38:18.553Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 16.52,
-      "originalPrice": 39.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 16.52,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 70,
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 92.66,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nerf-elite": {
-      "price": 10.74,
-      "originalPrice": 24.99,
-      "discount": 57,
-      "offers": {
-        "amazon": {
-          "price": 10.74,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 39.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "iphone-15-128gb": {
-      "price": 424.99,
-      "originalPrice": 899,
-      "discount": 53,
-      "offers": {
-        "amazon": {
-          "price": 424.99,
-          "asin": "B0CVJ23L79",
-          "url": "https://www.amazon.es/dp/B0CVJ23L79",
+          "price": 280.98,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

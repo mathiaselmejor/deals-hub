@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T11:45:57.370Z",
+  "updatedAt": "2026-06-22T16:47:38.642Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -365,6 +365,11 @@
         "date": "2026-06-20",
         "price": 24.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 24.95,
+        "source": "amazon"
       }
     ],
     "asics-gel-nimbus": [
@@ -677,6 +682,11 @@
         "date": "2026-06-21",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -716,6 +726,11 @@
       },
       {
         "date": "2026-06-20",
+        "price": 114.88,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
         "price": 114.88,
         "source": "amazon"
       }
@@ -774,6 +789,11 @@
       {
         "date": "2026-06-19",
         "price": 395.87,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 453.72,
         "source": "amazon"
       }
     ],
@@ -872,6 +892,11 @@
       },
       {
         "date": "2026-06-19",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
         "price": 184.99,
         "source": "amazon"
       }
@@ -1611,6 +1636,11 @@
       },
       {
         "date": "2026-06-18",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
         "price": 139.97,
         "source": "amazon"
       }

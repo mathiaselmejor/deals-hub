@@ -1,16 +1,58 @@
 {
-  "updatedAt": "2026-06-22T03:38:28.049Z",
+  "updatedAt": "2026-06-22T09:51:31.552Z",
   "engineVersion": 1,
   "products": {
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 65.03,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nerf-elite": {
+      "price": 10.74,
+      "originalPrice": 24.99,
+      "discount": 57,
+      "offers": {
+        "amazon": {
+          "price": 10.74,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 156,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 49.99,
+      "originalPrice": 49.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 49.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

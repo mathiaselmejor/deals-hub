@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T16:47:38.642Z",
+  "updatedAt": "2026-06-22T20:40:22.375Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -258,6 +258,11 @@
         "date": "2026-06-19",
         "price": 74.34,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 75,
+        "source": "amazon"
       }
     ],
     "adidas-samba": [
@@ -515,6 +520,11 @@
         "date": "2026-06-21",
         "price": 149.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 149.99,
+        "source": "amazon"
       }
     ],
     "tienda-campana-quechua": [
@@ -547,6 +557,11 @@
       },
       {
         "date": "2026-06-20",
+        "price": 74.37,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
         "price": 74.37,
         "source": "amazon"
       }
@@ -1111,6 +1126,11 @@
         "date": "2026-06-20",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -1494,6 +1514,11 @@
       {
         "date": "2026-06-15",
         "price": 329.75,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-22",
+        "price": 401.73,
         "source": "amazon"
       }
     ],

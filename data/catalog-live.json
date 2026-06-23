@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-06-23T07:54:22.428Z",
+  "updatedAt": "2026-06-23T09:29:38.079Z",
   "engineVersion": 1,
   "products": {
+    "maleta-cabina": {
+      "price": 91,
+      "originalPrice": 95,
+      "discount": 4,
+      "offers": {
+        "amazon": {
+          "price": 91,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "aspirador-coche": {
+      "price": 28,
+      "originalPrice": 32.95,
+      "discount": 15,
+      "offers": {
+        "amazon": {
+          "price": 28,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 44.56,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
     "playmobil-city": {
       "price": 26,
       "originalPrice": 64.99,
@@ -11,34 +53,6 @@
           "price": 26,
           "asin": "B0BKQX79WM",
           "url": "https://www.amazon.es/dp/B0BKQX79WM",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "aliexpress-buds": {
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "discount": 38,
-      "offers": {
-        "amazon": {
-          "price": 27,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 132,
-      "originalPrice": 139.97,
-      "discount": 6,
-      "offers": {
-        "amazon": {
-          "price": 132,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

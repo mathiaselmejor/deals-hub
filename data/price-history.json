@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T14:39:15.857Z",
+  "updatedAt": "2026-06-23T19:56:08.922Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -818,6 +818,11 @@
         "date": "2026-06-03",
         "price": 269,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-23",
+        "price": 178,
+        "source": "amazon"
       }
     ],
     "dyson-airwrap": [
@@ -1381,6 +1386,11 @@
       },
       {
         "date": "2026-06-21",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-23",
         "price": 13.21,
         "source": "amazon"
       }

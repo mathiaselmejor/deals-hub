@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T14:37:15.124Z",
+  "updatedAt": "2026-06-23T19:54:01.741Z",
   "engineVersion": 1,
   "products": {
     "stanley-quencher": {
@@ -16,43 +16,15 @@
         }
       }
     },
-    "camara-seguridad": {
-      "price": 16.52,
-      "originalPrice": 39.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 16.52,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "garmin-forerunner-265": {
-      "price": 253,
+    "apple-watch-10": {
+      "price": 178,
       "originalPrice": 449,
-      "discount": 44,
+      "discount": 60,
       "offers": {
         "amazon": {
-          "price": 253,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 156,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 178,
+          "asin": "B0DW4KHND4",
+          "url": "https://www.amazon.es/dp/B0DW4KHND4",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -67,6 +39,48 @@
           "price": 172,
           "asin": "B0G9BBMM6K",
           "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 27,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 132,
+      "originalPrice": 139.97,
+      "discount": 6,
+      "offers": {
+        "amazon": {
+          "price": 132,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

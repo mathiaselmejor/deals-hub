@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-06-23T02:43:52.690Z",
+  "updatedAt": "2026-06-23T07:54:22.428Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 577,
-      "originalPrice": 799,
-      "discount": 28,
+    "playmobil-city": {
+      "price": 26,
+      "originalPrice": 64.99,
+      "discount": 60,
       "offers": {
         "amazon": {
-          "price": 577,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 26,
+          "asin": "B0BKQX79WM",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bici-estatica": {
-      "price": 149.99,
-      "originalPrice": 149.99,
-      "discount": 0,
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 165,
-          "asin": "B003FSTA0U",
-          "url": "https://www.amazon.es/dp/B003FSTA0U",
+          "price": 27,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "dyson-airwrap": {
-      "price": 371,
-      "originalPrice": 549,
-      "discount": 32,
-      "offers": {
-        "amazon": {
-          "price": 371,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 70,
-      "originalPrice": 74.86,
+    "elgato-wave-3-microfono-usb": {
+      "price": 132,
+      "originalPrice": 139.97,
       "discount": 6,
       "offers": {
         "amazon": {
-          "price": 70,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 132,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

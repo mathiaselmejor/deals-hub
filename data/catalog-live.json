@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-06-24T08:58:22.129Z",
+  "updatedAt": "2026-06-24T14:15:53.442Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 16.52,
-      "originalPrice": 39.99,
-      "discount": 59,
+    "maleta-cabina": {
+      "price": 91,
+      "originalPrice": 95,
+      "discount": 4,
       "offers": {
         "amazon": {
-          "price": 16.52,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 91,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 33.78,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xbox-series-x": {
-      "price": 449.99,
-      "originalPrice": 449.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 727.25,
-          "asin": "B08H75RTZ8",
-          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "price": 92.66,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -58,15 +44,29 @@
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 313,
-      "originalPrice": 549,
-      "discount": 43,
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 313,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 321.49,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "keychron-k2-pro-teclado-mecanico": {
+      "price": 107.42,
+      "originalPrice": 107.42,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 141,
+          "asin": "B0BZ8HPT5S",
+          "url": "https://www.amazon.es/dp/B0BZ8HPT5S",
           "linkKind": "direct",
           "priceEstimated": false
         }

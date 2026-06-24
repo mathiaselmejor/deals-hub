@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T02:46:17.034Z",
+  "updatedAt": "2026-06-24T07:51:44.772Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -206,6 +206,11 @@
       },
       {
         "date": "2026-06-20",
+        "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
         "price": 66,
         "source": "amazon"
       }
@@ -708,6 +713,11 @@
         "date": "2026-06-22",
         "price": 10.74,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 19.95,
+        "source": "amazon"
       }
     ],
     "dash-cam-70mai": [
@@ -1010,6 +1020,11 @@
         "date": "2026-06-03",
         "price": 75.98,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 38,
+        "source": "amazon"
       }
     ],
     "crocs-classic": [
@@ -1167,6 +1182,11 @@
         "date": "2026-06-03",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -1303,6 +1323,11 @@
       },
       {
         "date": "2026-06-22",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
         "price": 20.28,
         "source": "amazon"
       }

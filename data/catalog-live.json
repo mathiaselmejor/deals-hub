@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T02:44:19.829Z",
+  "updatedAt": "2026-06-24T07:49:36.713Z",
   "engineVersion": 1,
   "products": {
     "ninja-airfryer": {
@@ -16,43 +16,71 @@
         }
       }
     },
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 70,
+    "cosori-airfryer": {
+      "price": 66,
+      "originalPrice": 129.99,
+      "discount": 49,
+      "offers": {
+        "amazon": {
+          "price": 66,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nerf-elite": {
+      "price": 19.95,
+      "originalPrice": 19.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 92.66,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "price": 42.97,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "lenovo-tab-p12": {
-      "price": 234,
-      "originalPrice": 302.71,
-      "discount": 23,
+    "philips-hue-starter": {
+      "price": 38,
+      "originalPrice": 119.99,
+      "discount": 68,
       "offers": {
         "amazon": {
-          "price": 234,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 38,
+          "asin": "B099NQM99M",
+          "url": "https://www.amazon.es/dp/B099NQM99M",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 132,
-      "originalPrice": 139.97,
-      "discount": 6,
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 132,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 50.45,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,86 +1,72 @@
 {
-  "updatedAt": "2026-06-24T07:49:36.713Z",
+  "updatedAt": "2026-06-24T08:58:22.129Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 148,
-      "originalPrice": 189.99,
-      "discount": 22,
-      "offers": {
-        "amazon": {
-          "price": 148,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cosori-airfryer": {
-      "price": 66,
-      "originalPrice": 129.99,
-      "discount": 49,
-      "offers": {
-        "amazon": {
-          "price": 66,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nerf-elite": {
-      "price": 19.95,
-      "originalPrice": 19.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 42.97,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "philips-hue-starter": {
-      "price": 38,
-      "originalPrice": 119.99,
-      "discount": 68,
-      "offers": {
-        "amazon": {
-          "price": 38,
-          "asin": "B099NQM99M",
-          "url": "https://www.amazon.es/dp/B099NQM99M",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "mochila-viaje-cabin": {
-      "price": 44.99,
-      "originalPrice": 44.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 50.45,
-          "asin": "B01M7UBL11",
-          "url": "https://www.amazon.es/dp/B01M7UBL11",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
       "discount": 59,
       "offers": {
         "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 33.78,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "xbox-series-x": {
+      "price": 449.99,
+      "originalPrice": 449.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 727.25,
+          "asin": "B08H75RTZ8",
+          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 44.56,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 313,
+      "originalPrice": 549,
+      "discount": 43,
+      "offers": {
+        "amazon": {
+          "price": 313,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
           "linkKind": "direct",
           "priceEstimated": false
         }

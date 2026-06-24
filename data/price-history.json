@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T07:51:44.772Z",
+  "updatedAt": "2026-06-24T09:00:31.190Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -130,6 +130,11 @@
       },
       {
         "date": "2026-06-23",
+        "price": 16.52,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
         "price": 16.52,
         "source": "amazon"
       }
@@ -408,6 +413,11 @@
       },
       {
         "date": "2026-06-22",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
         "price": 24.95,
         "source": "amazon"
       }
@@ -904,6 +914,11 @@
       },
       {
         "date": "2026-06-23",
+        "price": 29.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
         "price": 29.95,
         "source": "amazon"
       }
@@ -1629,6 +1644,11 @@
       {
         "date": "2026-06-22",
         "price": 401.73,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-24",
+        "price": 313,
         "source": "amazon"
       }
     ],
@@ -2365,6 +2385,13 @@
       {
         "date": "2026-06-13",
         "price": 299.99,
+        "source": "amazon"
+      }
+    ],
+    "xbox-series-x": [
+      {
+        "date": "2026-06-24",
+        "price": 449.99,
         "source": "amazon"
       }
     ]

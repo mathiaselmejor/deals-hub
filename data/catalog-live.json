@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-06-25T07:50:52.832Z",
+  "updatedAt": "2026-06-25T08:53:05.027Z",
   "engineVersion": 1,
   "products": {
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
     "nike-air-force-1": {
       "price": 64,
       "originalPrice": 75,
@@ -16,29 +30,15 @@
         }
       }
     },
-    "nerf-elite": {
-      "price": 19.95,
-      "originalPrice": 19.95,
-      "discount": 0,
+    "lego-classic": {
+      "price": 41.28,
+      "originalPrice": 42.99,
+      "discount": 4,
       "offers": {
         "amazon": {
-          "price": 42.97,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 21,
-      "originalPrice": 49.99,
-      "discount": 58,
-      "offers": {
-        "amazon": {
-          "price": 21,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 41.28,
+          "asin": "B00PY3EYQO",
+          "url": "https://www.amazon.es/dp/B00PY3EYQO",
           "linkKind": "direct",
           "priceEstimated": false
         }

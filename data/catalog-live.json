@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-06-27T13:21:36.285Z",
+  "updatedAt": "2026-06-27T19:12:28.585Z",
   "engineVersion": 1,
   "products": {
-    "nerf-elite": {
-      "price": 19.95,
-      "originalPrice": 19.95,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 26.72,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
+          "price": 204.95,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "dyson-airwrap": {
-      "price": 362.81,
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 400.42,
       "originalPrice": 549,
-      "discount": 34,
+      "discount": 27,
       "offers": {
         "amazon": {
-          "price": 362.81,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "price": 400.42,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
+    "steelseries-arctis-nova-7": {
+      "price": 125.61,
+      "originalPrice": 172.52,
+      "discount": 27,
       "offers": {
         "amazon": {
-          "price": 321.49,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 125.61,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T06:59:54.108Z",
+  "updatedAt": "2026-06-27T08:32:29.469Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -492,6 +492,11 @@
         "date": "2026-06-19",
         "price": 42.93,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 39.67,
+        "source": "amazon"
       }
     ],
     "garmin-forerunner-265": [
@@ -808,6 +813,11 @@
         "date": "2026-06-26",
         "price": 19.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 19.95,
+        "source": "amazon"
       }
     ],
     "dash-cam-70mai": [
@@ -851,6 +861,11 @@
       {
         "date": "2026-06-26",
         "price": 28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 32.95,
         "source": "amazon"
       }
     ],
@@ -1692,6 +1707,11 @@
         "date": "2026-06-03",
         "price": 248,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 122,
+        "source": "amazon"
       }
     ],
     "realme-12-pro-5g": [
@@ -1794,6 +1814,11 @@
       {
         "date": "2026-06-24",
         "price": 313,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 400.42,
         "source": "amazon"
       }
     ],

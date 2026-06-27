@@ -1,44 +1,72 @@
 {
-  "updatedAt": "2026-06-27T06:57:51.803Z",
+  "updatedAt": "2026-06-27T08:30:20.136Z",
   "engineVersion": 1,
   "products": {
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
+    "asics-gel-nimbus": {
+      "price": 39.67,
+      "originalPrice": 179.95,
+      "discount": 78,
+      "offers": {
+        "amazon": {
+          "price": 39.67,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nerf-elite": {
+      "price": 19.95,
+      "originalPrice": 19.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 204.95,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "price": 26.72,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "google-pixel-8a": {
-      "price": 456,
-      "originalPrice": 549,
-      "discount": 17,
+    "aspirador-coche": {
+      "price": 32.95,
+      "originalPrice": 32.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 456,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "price": 34.5,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steelseries-arctis-nova-7": {
-      "price": 125.61,
-      "originalPrice": 172.52,
+    "oppo-reno-12-f-5g": {
+      "price": 122,
+      "originalPrice": 399,
+      "discount": 69,
+      "offers": {
+        "amazon": {
+          "price": 122,
+          "asin": "B0DDL1DMZ2",
+          "url": "https://www.amazon.es/dp/B0DDL1DMZ2",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 400.42,
+      "originalPrice": 549,
       "discount": 27,
       "offers": {
         "amazon": {
-          "price": 125.61,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 400.42,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-06-27T02:40:15.118Z",
+  "updatedAt": "2026-06-27T06:57:51.803Z",
   "engineVersion": 1,
   "products": {
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 204.95,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "google-pixel-8a": {
+      "price": 456,
+      "originalPrice": 549,
+      "discount": 17,
+      "offers": {
+        "amazon": {
+          "price": 456,
+          "asin": "B0DSWFHTL2",
+          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 125.61,
+      "originalPrice": 172.52,
+      "discount": 27,
+      "offers": {
+        "amazon": {
+          "price": 125.61,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

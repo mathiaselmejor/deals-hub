@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T02:42:17.645Z",
+  "updatedAt": "2026-06-27T06:59:54.108Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1104,6 +1104,11 @@
         "date": "2026-06-23",
         "price": 172,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 184.99,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -1641,6 +1646,11 @@
         "date": "2026-06-21",
         "price": 218,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 456,
+        "source": "amazon"
       }
     ],
     "iphone-15-128gb": [
@@ -1989,6 +1999,11 @@
       {
         "date": "2026-06-21",
         "price": 144.62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-27",
+        "price": 125.61,
         "source": "amazon"
       }
     ],

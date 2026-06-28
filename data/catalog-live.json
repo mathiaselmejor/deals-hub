@@ -1,16 +1,58 @@
 {
-  "updatedAt": "2026-06-28T08:45:12.645Z",
+  "updatedAt": "2026-06-28T13:25:32.529Z",
   "engineVersion": 1,
   "products": {
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 400.42,
-      "originalPrice": 549,
-      "discount": 27,
+    "portatil-lenovo": {
+      "price": 561,
+      "originalPrice": 799,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 400.42,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 561,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "playmobil-city": {
+      "price": 37.15,
+      "originalPrice": 64.99,
+      "discount": 43,
+      "offers": {
+        "amazon": {
+          "price": 37.15,
+          "asin": "B0BKQX79WM",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "sprinter-zapatillas": {
+      "price": 52.69,
+      "originalPrice": 69.99,
+      "discount": 25,
+      "offers": {
+        "amazon": {
+          "price": 52.69,
+          "asin": "B08D11R67B",
+          "url": "https://www.amazon.es/dp/B08D11R67B",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "iphone-15-128gb": {
+      "price": 479,
+      "originalPrice": 899,
+      "discount": 47,
+      "offers": {
+        "amazon": {
+          "price": 479,
+          "asin": "B0CVJ23L79",
+          "url": "https://www.amazon.es/dp/B0CVJ23L79",
           "linkKind": "direct",
           "priceEstimated": false
         }

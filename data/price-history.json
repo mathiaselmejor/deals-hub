@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T08:47:08.601Z",
+  "updatedAt": "2026-06-28T13:27:29.352Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -230,6 +230,11 @@
       {
         "date": "2026-06-25",
         "price": 577,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 561,
         "source": "amazon"
       }
     ],
@@ -1285,6 +1290,11 @@
         "date": "2026-06-23",
         "price": 26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 37.15,
+        "source": "amazon"
       }
     ],
     "hot-wheels-track": [
@@ -1537,6 +1547,11 @@
         "date": "2026-06-21",
         "price": 52.69,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 52.69,
+        "source": "amazon"
       }
     ],
     "worten-tv-deal": [
@@ -1712,6 +1727,11 @@
       {
         "date": "2026-06-25",
         "price": 559,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 479,
         "source": "amazon"
       }
     ],

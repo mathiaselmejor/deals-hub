@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T02:56:43.808Z",
+  "updatedAt": "2026-06-28T07:56:33.980Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -66,6 +66,11 @@
       },
       {
         "date": "2026-06-26",
+        "price": 40.45,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
         "price": 40.45,
         "source": "amazon"
       }
@@ -1620,6 +1625,11 @@
         "date": "2026-06-26",
         "price": 219,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
+        "price": 219,
+        "source": "amazon"
       }
     ],
     "samsung-galaxy-a55-5g-128gb": [
@@ -1893,6 +1903,11 @@
       },
       {
         "date": "2026-06-14",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-28",
         "price": 96.57,
         "source": "amazon"
       }

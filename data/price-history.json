@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T02:57:16.272Z",
+  "updatedAt": "2026-06-29T09:04:44.184Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -498,6 +498,11 @@
       },
       {
         "date": "2026-06-26",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-29",
         "price": 24.95,
         "source": "amazon"
       }
@@ -1222,6 +1227,11 @@
         "date": "2026-06-26",
         "price": 22.27,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 23.1,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -1841,6 +1851,11 @@
         "date": "2026-06-27",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -1965,6 +1980,11 @@
         "date": "2026-06-28",
         "price": 96.57,
         "source": "amazon"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 96.57,
+        "source": "amazon"
       }
     ],
     "keychron-k2-pro-teclado-mecanico": [
@@ -2018,6 +2038,11 @@
       {
         "date": "2026-06-23",
         "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-06-29",
+        "price": 74.86,
         "source": "amazon"
       }
     ],

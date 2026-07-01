@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-07-01T02:54:43.947Z",
+  "updatedAt": "2026-07-01T08:17:35.242Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "lenovo-tab-p12": {
+      "price": 247.11,
+      "originalPrice": 302.71,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 247.11,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

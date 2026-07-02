@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-07-02T08:47:49.316Z",
+  "updatedAt": "2026-07-02T13:47:10.002Z",
   "engineVersion": 1,
-  "products": {
-    "iphone-15-128gb": {
-      "price": 482.54,
-      "originalPrice": 899,
-      "discount": 46,
-      "offers": {
-        "amazon": {
-          "price": 482.54,
-          "asin": "B0CVJ23L79",
-          "url": "https://www.amazon.es/dp/B0CVJ23L79",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

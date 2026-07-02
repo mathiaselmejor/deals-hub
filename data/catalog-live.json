@@ -1,5 +1,62 @@
 {
-  "updatedAt": "2026-07-02T13:47:10.002Z",
+  "updatedAt": "2026-07-02T19:16:42.053Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "barbacoa-weber": {
+      "price": 74.37,
+      "originalPrice": 74.99,
+      "discount": 1,
+      "offers": {
+        "amazon": {
+          "price": 74.37,
+          "asin": "B002S2S9PQ",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 48.59,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

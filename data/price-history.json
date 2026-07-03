@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T08:56:39.168Z",
+  "updatedAt": "2026-07-03T13:53:31.553Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -444,6 +444,11 @@
       },
       {
         "date": "2026-06-24",
+        "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
         "price": 70,
         "source": "amazon"
       }
@@ -903,6 +908,11 @@
         "date": "2026-06-27",
         "price": 19.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 15.81,
+        "source": "amazon"
       }
     ],
     "dash-cam-70mai": [
@@ -1134,6 +1144,11 @@
       },
       {
         "date": "2026-06-26",
+        "price": 29.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
         "price": 29.95,
         "source": "amazon"
       }
@@ -1672,6 +1687,11 @@
         "date": "2026-06-29",
         "price": 52.69,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 40.91,
+        "source": "amazon"
       }
     ],
     "worten-tv-deal": [
@@ -1763,6 +1783,11 @@
       },
       {
         "date": "2026-06-28",
+        "price": 219,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
         "price": 219,
         "source": "amazon"
       }

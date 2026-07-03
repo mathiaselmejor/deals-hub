@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T07:30:18.842Z",
+  "updatedAt": "2026-07-03T08:56:39.168Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -764,6 +764,11 @@
         "date": "2026-07-02",
         "price": 74.37,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 74.37,
+        "source": "amazon"
       }
     ],
     "purina-pro-plan": [
@@ -1083,6 +1088,11 @@
       },
       {
         "date": "2026-06-27",
+        "price": 362.81,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
         "price": 362.81,
         "source": "amazon"
       }
@@ -1445,6 +1455,11 @@
       },
       {
         "date": "2026-07-02",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
         "price": 44.99,
         "source": "amazon"
       }
@@ -2208,6 +2223,11 @@
         "date": "2026-06-30",
         "price": 132.22,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 132.22,
+        "source": "amazon"
       }
     ],
     "steelseries-arctis-nova-7": [
@@ -2234,6 +2254,11 @@
       {
         "date": "2026-06-27",
         "price": 125.61,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-03",
+        "price": 144.62,
         "source": "amazon"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T08:31:32.983Z",
+  "updatedAt": "2026-07-04T13:13:33.050Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -718,6 +718,11 @@
         "date": "2026-06-30",
         "price": 56.93,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 61.9,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -1051,6 +1056,11 @@
       },
       {
         "date": "2026-07-03",
+        "price": 122.31,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
         "price": 122.31,
         "source": "amazon"
       }

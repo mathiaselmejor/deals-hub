@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T02:27:28.856Z",
+  "updatedAt": "2026-07-04T06:53:58.663Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -219,6 +219,11 @@
         "date": "2026-07-02",
         "price": 95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 95,
+        "source": "amazon"
       }
     ],
     "portatil-lenovo": [
@@ -388,6 +393,11 @@
         "date": "2026-06-26",
         "price": 64,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
+        "price": 75,
+        "source": "amazon"
       }
     ],
     "adidas-samba": [
@@ -555,6 +565,11 @@
       },
       {
         "date": "2026-06-27",
+        "price": 39.67,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
         "price": 39.67,
         "source": "amazon"
       }
@@ -1164,6 +1179,11 @@
       },
       {
         "date": "2026-07-03",
+        "price": 29.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
         "price": 29.95,
         "source": "amazon"
       }
@@ -2266,6 +2286,11 @@
       },
       {
         "date": "2026-07-03",
+        "price": 132.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-04",
         "price": 132.22,
         "source": "amazon"
       }

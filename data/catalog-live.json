@@ -1,44 +1,16 @@
 {
-  "updatedAt": "2026-07-04T13:11:37.527Z",
+  "updatedAt": "2026-07-04T19:02:09.997Z",
   "engineVersion": 1,
   "products": {
-    "pala-padel-head": {
-      "price": 61.9,
-      "originalPrice": 79.99,
-      "discount": 23,
+    "portatil-lenovo": {
+      "price": 470,
+      "originalPrice": 799,
+      "discount": 41,
       "offers": {
         "amazon": {
-          "price": 61.9,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "delonghi-dedica": {
-      "price": 122.31,
-      "originalPrice": 199,
-      "discount": 39,
-      "offers": {
-        "amazon": {
-          "price": 122.31,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 44.56,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "price": 470,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-07-04T19:02:09.997Z",
+  "updatedAt": "2026-07-05T02:34:50.012Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 470,
-      "originalPrice": 799,
-      "discount": 41,
+    "silla-paseo-ligera": {
+      "price": 82.64,
+      "originalPrice": 169,
+      "discount": 51,
       "offers": {
         "amazon": {
-          "price": 470,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 82.64,
+          "asin": "B0DLWK3LKH",
+          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "lenovo-tab-p12": {
+      "price": 247.11,
+      "originalPrice": 302.71,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 247.11,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

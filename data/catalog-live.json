@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-05T02:34:50.012Z",
+  "updatedAt": "2026-07-05T07:33:07.784Z",
   "engineVersion": 1,
   "products": {
-    "silla-paseo-ligera": {
-      "price": 82.64,
-      "originalPrice": 169,
-      "discount": 51,
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 82.64,
-          "asin": "B0DLWK3LKH",
-          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "lenovo-tab-p12": {
-      "price": 247.11,
-      "originalPrice": 302.71,
-      "discount": 18,
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 247.11,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 99.17,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
           "linkKind": "direct",
           "priceEstimated": false
         }

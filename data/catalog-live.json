@@ -1,58 +1,114 @@
 {
-  "updatedAt": "2026-07-06T10:06:32.787Z",
+  "updatedAt": "2026-07-06T15:20:18.036Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
-      "discount": 0,
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bici-estatica": {
-      "price": 103.94,
-      "originalPrice": 149.99,
-      "discount": 31,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 103.94,
-          "asin": "B003FSTA0U",
-          "url": "https://www.amazon.es/dp/B003FSTA0U",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
-      "discount": 0,
+    "garmin-forerunner-265": {
+      "price": 314.04,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 172,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 314.04,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
-      "discount": 0,
+    "barbacoa-weber": {
+      "price": 74.37,
+      "originalPrice": 74.99,
+      "discount": 1,
       "offers": {
         "amazon": {
-          "price": 189.26,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "price": 74.37,
+          "asin": "B002S2S9PQ",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
+      "discount": 55,
+      "offers": {
+        "amazon": {
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "playmobil-city": {
+      "price": 34.88,
+      "originalPrice": 64.99,
+      "discount": 46,
+      "offers": {
+        "amazon": {
+          "price": 34.88,
+          "asin": "B0BKQX79WM",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 29.99,
+      "originalPrice": 49.99,
+      "discount": 40,
+      "offers": {
+        "amazon": {
+          "price": 29.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

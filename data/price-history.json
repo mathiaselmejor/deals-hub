@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T10:08:33.345Z",
+  "updatedAt": "2026-07-06T15:22:26.967Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -192,6 +192,11 @@
         "date": "2026-07-05",
         "price": 16.52,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 16.52,
+        "source": "amazon"
       }
     ],
     "maleta-cabina": [
@@ -232,6 +237,11 @@
       },
       {
         "date": "2026-07-04",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
         "price": 95,
         "source": "amazon"
       }
@@ -653,6 +663,11 @@
       {
         "date": "2026-06-23",
         "price": 253,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 314.04,
         "source": "amazon"
       }
     ],
@@ -1437,6 +1452,11 @@
         "date": "2026-07-03",
         "price": 22.26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 22.26,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -1534,6 +1554,11 @@
       {
         "date": "2026-06-28",
         "price": 37.15,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 34.88,
         "source": "amazon"
       }
     ],
@@ -1773,6 +1798,11 @@
       },
       {
         "date": "2026-06-26",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
         "price": 20.28,
         "source": "amazon"
       }

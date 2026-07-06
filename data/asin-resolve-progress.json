@@ -10042,7 +10042,24 @@
     "c9-anker-cargador-gan-65w-blanco": "B09LLRNGSD",
     "c9-anker-cargador-gan-65w-pack-2": "B09LLRNGSD",
     "c9-anker-cable-usb-c-pack-usb-c": "B07DC5PPFV",
-    "c9-anker-cable-usb-c-pack-65w": "B07DC5PPFV"
+    "c9-anker-cable-usb-c-pack-65w": "B07DC5PPFV",
+    "c9-anker-hub-hdmi-65w": "B0BN2793F5",
+    "c9-anker-hub-hdmi-100w": "B0BN2793F5",
+    "c9-anker-hub-hdmi-magsafe": "B0BN2793F5",
+    "c9-anker-hub-hdmi-gan": "B0BN2793F5",
+    "c9-anker-hub-hdmi-negro": "B0BN2793F5",
+    "c9-anker-hub-hdmi-blanco": "B0BN2793F5",
+    "c9-anker-hub-hdmi-pack-2": "B0BN2793F5",
+    "c9-anker-localizador-tile-usb-c": "B0D63657GY",
+    "c9-anker-localizador-tile-65w": "B0D63657GY",
+    "c9-anker-localizador-tile-100w": "B0D63657GY",
+    "c9-anker-localizador-tile-magsafe": "B0D63657GY",
+    "c9-anker-localizador-tile-gan": "B0D63657GY",
+    "c9-anker-localizador-tile-negro": "B0D63657GY",
+    "c9-anker-localizador-tile-blanco": "B0D63657GY",
+    "c9-anker-localizador-tile-pack-2": "B0D63657GY",
+    "c9-anker-estacion-carga-3-en-1-usb-c": "B0D8T79TCP",
+    "c9-anker-estacion-carga-3-en-1-65w": "B0D8T79TCP"
   },
   "failed": [
     "c6-aspirador-coche-black-decker-18v",
@@ -10175,6 +10192,13 @@
     "c9-fellowes-fundas-plastificar-oficina",
     "c9-fellowes-fundas-plastificar-colores",
     "c9-fellowes-fundas-plastificar-profesional",
-    "c9-fellowes-organizador-escritorio-a4"
+    "c9-fellowes-organizador-escritorio-a4",
+    "c9-anker-cable-usb-c-pack-100w",
+    "c9-anker-cable-usb-c-pack-magsafe",
+    "c9-anker-cable-usb-c-pack-gan",
+    "c9-anker-cable-usb-c-pack-negro",
+    "c9-anker-cable-usb-c-pack-blanco",
+    "c9-anker-cable-usb-c-pack-pack-2",
+    "c9-anker-hub-hdmi-usb-c"
   ]
 }

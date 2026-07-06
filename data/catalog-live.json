@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-06T08:26:35.929Z",
+  "updatedAt": "2026-07-06T10:06:32.787Z",
   "engineVersion": 1,
   "products": {
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
     "bici-estatica": {
       "price": 103.94,
       "originalPrice": 149.99,
@@ -16,29 +30,29 @@
         }
       }
     },
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "price": 172,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 189.26,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }

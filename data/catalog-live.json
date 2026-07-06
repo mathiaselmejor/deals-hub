@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T15:20:18.036Z",
+  "updatedAt": "2026-07-06T19:48:35.459Z",
   "engineVersion": 1,
   "products": {
     "camara-seguridad": {
@@ -16,99 +16,85 @@
         }
       }
     },
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
+    "nike-air-force-1": {
+      "price": 75,
+      "originalPrice": 75,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 79.3,
+          "asin": "B08Q8SW7NW",
+          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "garmin-forerunner-265": {
-      "price": 314.04,
-      "originalPrice": 449,
-      "discount": 30,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 314.04,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 33.92,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "price": 68.92,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "crocs-classic": {
-      "price": 22.26,
-      "originalPrice": 49.99,
-      "discount": 55,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 189.26,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "playmobil-city": {
-      "price": 34.88,
-      "originalPrice": 64.99,
-      "discount": 46,
+    "elgato-wave-3-microfono-usb": {
+      "price": 132.23,
+      "originalPrice": 139.97,
+      "discount": 6,
       "offers": {
         "amazon": {
-          "price": 34.88,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 132.23,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
+    "steelseries-arctis-nova-7": {
+      "price": 144.62,
+      "originalPrice": 172.52,
+      "discount": 16,
       "offers": {
         "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 144.62,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

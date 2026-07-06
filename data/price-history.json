@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T15:22:26.967Z",
+  "updatedAt": "2026-07-06T19:50:45.945Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -433,6 +433,11 @@
         "date": "2026-07-04",
         "price": 75,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 75,
+        "source": "amazon"
       }
     ],
     "adidas-samba": [
@@ -578,6 +583,11 @@
       },
       {
         "date": "2026-06-29",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
         "price": 24.95,
         "source": "amazon"
       }
@@ -734,6 +744,11 @@
       },
       {
         "date": "2026-07-05",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
         "price": 36.99,
         "source": "amazon"
       }
@@ -2448,6 +2463,11 @@
         "date": "2026-07-04",
         "price": 132.22,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
+        "price": 132.23,
+        "source": "amazon"
       }
     ],
     "steelseries-arctis-nova-7": [
@@ -2478,6 +2498,11 @@
       },
       {
         "date": "2026-07-03",
+        "price": 144.62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-06",
         "price": 144.62,
         "source": "amazon"
       }

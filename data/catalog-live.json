@@ -1,100 +1,30 @@
 {
-  "updatedAt": "2026-07-07T14:18:07.064Z",
+  "updatedAt": "2026-07-07T19:47:31.136Z",
   "engineVersion": 1,
   "products": {
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
+    "garmin-forerunner-265": {
+      "price": 296,
+      "originalPrice": 449,
+      "discount": 34,
+      "offers": {
+        "amazon": {
+          "price": 296,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 68.92,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nerf-elite": {
-      "price": 14.02,
-      "originalPrice": 19.95,
-      "discount": 30,
-      "offers": {
-        "amazon": {
-          "price": 14.02,
-          "asin": "B09Q8CK8YX",
-          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 189.26,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 22.26,
-      "originalPrice": 49.99,
-      "discount": 55,
-      "offers": {
-        "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "playmobil-city": {
-      "price": 34.88,
-      "originalPrice": 64.99,
-      "discount": 46,
-      "offers": {
-        "amazon": {
-          "price": 34.88,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 280.98,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 321.49,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

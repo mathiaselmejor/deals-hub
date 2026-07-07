@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T02:37:38.521Z",
+  "updatedAt": "2026-07-07T07:48:24.016Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -761,6 +761,11 @@
         "date": "2026-07-06",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -939,6 +944,11 @@
         "date": "2026-07-05",
         "price": 82.64,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 82.64,
+        "source": "amazon"
       }
     ],
     "lego-classic": [
@@ -970,6 +980,11 @@
       {
         "date": "2026-07-04",
         "price": 41.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 41.3,
         "source": "amazon"
       }
     ],
@@ -1041,6 +1056,11 @@
       },
       {
         "date": "2026-07-04",
+        "price": 14.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
         "price": 14.02,
         "source": "amazon"
       }
@@ -1485,6 +1505,11 @@
       },
       {
         "date": "2026-07-06",
+        "price": 22.26,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
         "price": 22.26,
         "source": "amazon"
       }
@@ -2056,6 +2081,11 @@
         "date": "2026-06-27",
         "price": 456,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 299,
+        "source": "amazon"
       }
     ],
     "iphone-15-128gb": [
@@ -2244,6 +2274,11 @@
       {
         "date": "2026-06-29",
         "price": 400.42,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-07",
+        "price": 329.75,
         "source": "amazon"
       }
     ],

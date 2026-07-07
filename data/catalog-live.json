@@ -1,58 +1,100 @@
 {
-  "updatedAt": "2026-07-07T09:32:11.971Z",
+  "updatedAt": "2026-07-07T14:18:07.064Z",
   "engineVersion": 1,
   "products": {
-    "silla-paseo-ligera": {
-      "price": 82.64,
-      "originalPrice": 169,
-      "discount": 51,
-      "offers": {
-        "amazon": {
-          "price": 82.64,
-          "asin": "B0DLWK3LKH",
-          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-s25": {
-      "price": 564.51,
-      "originalPrice": 909,
-      "discount": 38,
-      "offers": {
-        "amazon": {
-          "price": 564.51,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 172,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 68.92,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "nerf-elite": {
+      "price": 14.02,
+      "originalPrice": 19.95,
+      "discount": 30,
+      "offers": {
+        "amazon": {
+          "price": 14.02,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 90.08,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 189.26,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
+      "discount": 55,
+      "offers": {
+        "amazon": {
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "playmobil-city": {
+      "price": 34.88,
+      "originalPrice": 64.99,
+      "discount": 46,
+      "offers": {
+        "amazon": {
+          "price": 34.88,
+          "asin": "B0BKQX79WM",
+          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 29.99,
+      "originalPrice": 49.99,
+      "discount": 40,
+      "offers": {
+        "amazon": {
+          "price": 29.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 280.98,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

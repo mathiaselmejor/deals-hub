@@ -1,100 +1,44 @@
 {
-  "updatedAt": "2026-07-06T19:48:35.459Z",
+  "updatedAt": "2026-07-07T02:35:03.561Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 16.52,
-      "originalPrice": 39.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 16.52,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nike-air-force-1": {
-      "price": 75,
-      "originalPrice": 75,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 79.3,
-          "asin": "B08Q8SW7NW",
-          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 33.92,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 68.92,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 189.26,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 132.23,
-      "originalPrice": 139.97,
-      "discount": 6,
-      "offers": {
-        "amazon": {
-          "price": 132.23,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "steelseries-arctis-nova-7": {
-      "price": 144.62,
-      "originalPrice": 172.52,
-      "discount": 16,
-      "offers": {
-        "amazon": {
-          "price": 144.62,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 172,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,100 +1,44 @@
 {
-  "updatedAt": "2026-07-08T08:17:03.699Z",
+  "updatedAt": "2026-07-08T13:50:03.095Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
-      "discount": 0,
+    "portatil-lenovo": {
+      "price": 470,
+      "originalPrice": 799,
+      "discount": 41,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 470,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "stanley-quencher": {
-      "price": 41.32,
-      "originalPrice": 46.99,
-      "discount": 12,
+    "asics-gel-nimbus": {
+      "price": 43.79,
+      "originalPrice": 179.95,
+      "discount": 76,
       "offers": {
         "amazon": {
-          "price": 41.32,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 43.79,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nike-air-force-1": {
-      "price": 64.42,
-      "originalPrice": 75,
-      "discount": 14,
-      "offers": {
-        "amazon": {
-          "price": 64.42,
-          "asin": "B08Q8SW7NW",
-          "url": "https://www.amazon.es/dp/B08Q8SW7NW",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "garmin-forerunner-265": {
-      "price": 292,
-      "originalPrice": 449,
-      "discount": 35,
-      "offers": {
-        "amazon": {
-          "price": 292,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 44.56,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 172,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 22.26,
+    "comida-hellofresh": {
+      "price": 20.28,
       "originalPrice": 49.99,
-      "discount": 55,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

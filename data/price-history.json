@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T06:35:35.446Z",
+  "updatedAt": "2026-07-08T08:19:14.430Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -56,6 +56,11 @@
         "date": "2026-07-07",
         "price": 189.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 189.99,
+        "source": "amazon"
       }
     ],
     "stanley-quencher": [
@@ -92,6 +97,11 @@
       {
         "date": "2026-06-28",
         "price": 40.45,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 41.32,
         "source": "amazon"
       }
     ],
@@ -708,6 +718,11 @@
       {
         "date": "2026-07-07",
         "price": 296,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 292,
         "source": "amazon"
       }
     ],
@@ -1351,6 +1366,11 @@
         "date": "2026-07-04",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -1391,6 +1411,11 @@
       },
       {
         "date": "2026-07-07",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
         "price": 79.99,
         "source": "amazon"
       }
@@ -1545,6 +1570,11 @@
       },
       {
         "date": "2026-07-07",
+        "price": 22.26,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
         "price": 22.26,
         "source": "amazon"
       }

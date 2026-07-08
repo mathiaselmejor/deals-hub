@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T02:10:38.242Z",
+  "updatedAt": "2026-07-08T06:35:35.446Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -306,6 +306,11 @@
         "date": "2026-07-05",
         "price": 470,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 470,
+        "source": "amazon"
       }
     ],
     "cosori-airfryer": [
@@ -346,6 +351,11 @@
       },
       {
         "date": "2026-07-06",
+        "price": 70.24,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
         "price": 70.24,
         "source": "amazon"
       }
@@ -994,6 +1004,11 @@
       },
       {
         "date": "2026-07-07",
+        "price": 41.3,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
         "price": 41.3,
         "source": "amazon"
       }
@@ -1828,6 +1843,11 @@
         "date": "2026-07-07",
         "price": 29.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
+        "price": 29.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -2011,6 +2031,11 @@
       },
       {
         "date": "2026-07-06",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
         "price": 13.21,
         "source": "amazon"
       }
@@ -2561,6 +2586,11 @@
       },
       {
         "date": "2026-07-06",
+        "price": 132.23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-08",
         "price": 132.23,
         "source": "amazon"
       }

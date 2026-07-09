@@ -1,58 +1,58 @@
 {
-  "updatedAt": "2026-07-08T19:16:39.298Z",
+  "updatedAt": "2026-07-09T02:27:09.223Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "asics-gel-nimbus": {
+      "price": 43.79,
+      "originalPrice": 179.95,
+      "discount": 76,
+      "offers": {
+        "amazon": {
+          "price": 43.79,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 33.92,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 172,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "playmobil-city": {
-      "price": 32.79,
-      "originalPrice": 64.99,
-      "discount": 50,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 32.79,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 189.26,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
+    "lenovo-tab-p12": {
+      "price": 302.71,
+      "originalPrice": 302.71,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "iphone-15-128gb": {
-      "price": 509.29,
-      "originalPrice": 899,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 509.29,
-          "asin": "B0CVJ23L79",
-          "url": "https://www.amazon.es/dp/B0CVJ23L79",
+          "price": 330.76,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-09T02:27:09.223Z",
+  "updatedAt": "2026-07-09T07:47:25.262Z",
   "engineVersion": 1,
   "products": {
-    "asics-gel-nimbus": {
-      "price": 43.79,
-      "originalPrice": 179.95,
-      "discount": 76,
+    "nerf-elite": {
+      "price": 19.95,
+      "originalPrice": 19.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 43.79,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 41.4,
+          "asin": "B09Q8CK8YX",
+          "url": "https://www.amazon.es/dp/B09Q8CK8YX",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
-      "discount": 0,
+    "delonghi-dedica": {
+      "price": 111.74,
+      "originalPrice": 199,
+      "discount": 44,
       "offers": {
         "amazon": {
-          "price": 172,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 111.74,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -44,15 +44,15 @@
         }
       }
     },
-    "lenovo-tab-p12": {
-      "price": 302.71,
-      "originalPrice": 302.71,
-      "discount": 0,
+    "iphone-15-128gb": {
+      "price": 509.29,
+      "originalPrice": 899,
+      "discount": 43,
       "offers": {
         "amazon": {
-          "price": 330.76,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 509.29,
+          "asin": "B0CVJ23L79",
+          "url": "https://www.amazon.es/dp/B0CVJ23L79",
           "linkKind": "direct",
           "priceEstimated": false
         }

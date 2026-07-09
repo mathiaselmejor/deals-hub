@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T07:49:24.636Z",
+  "updatedAt": "2026-07-09T09:35:51.722Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -61,6 +61,11 @@
         "date": "2026-07-08",
         "price": 189.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 189.99,
+        "source": "amazon"
       }
     ],
     "stanley-quencher": [
@@ -109,6 +114,11 @@
       {
         "date": "2026-06-03",
         "price": 25.59,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 26,
         "source": "amazon"
       }
     ],
@@ -858,6 +868,11 @@
         "date": "2026-07-04",
         "price": 61.9,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 61.94,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -997,6 +1012,11 @@
       },
       {
         "date": "2026-07-07",
+        "price": 82.64,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-09",
         "price": 82.64,
         "source": "amazon"
       }
@@ -2271,7 +2291,7 @@
       },
       {
         "date": "2026-07-09",
-        "price": 509.29,
+        "price": 556.09,
         "source": "amazon"
       }
     ],
@@ -2465,7 +2485,7 @@
       },
       {
         "date": "2026-07-09",
-        "price": 302.71,
+        "price": 271.9,
         "source": "amazon"
       }
     ],
@@ -2682,6 +2702,11 @@
       {
         "date": "2026-07-08",
         "price": 132.23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-09",
+        "price": 139.97,
         "source": "amazon"
       }
     ],

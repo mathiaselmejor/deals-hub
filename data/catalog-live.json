@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-07-10T09:25:03.599Z",
+  "updatedAt": "2026-07-10T14:09:36.187Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 45.4,
-      "originalPrice": 46.99,
-      "discount": 3,
-      "offers": {
-        "amazon": {
-          "price": 45.4,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "nike-tech-fleece": {
       "price": 70,
       "originalPrice": 70,
@@ -30,57 +16,15 @@
         }
       }
     },
-    "apple-watch-10": {
-      "price": 325,
-      "originalPrice": 449,
-      "discount": 28,
+    "lenovo-tab-p12": {
+      "price": 271.9,
+      "originalPrice": 302.71,
+      "discount": 10,
       "offers": {
         "amazon": {
-          "price": 325,
-          "asin": "B0DW4KHND4",
-          "url": "https://www.amazon.es/dp/B0DW4KHND4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 321.49,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 90.08,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 271.9,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

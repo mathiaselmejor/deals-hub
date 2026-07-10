@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T02:31:04.205Z",
+  "updatedAt": "2026-07-10T07:43:48.141Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -107,6 +107,11 @@
       {
         "date": "2026-07-08",
         "price": 41.32,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 43.83,
         "source": "amazon"
       }
     ],
@@ -974,6 +979,11 @@
         "date": "2026-07-06",
         "price": 74.37,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 74.37,
+        "source": "amazon"
       }
     ],
     "purina-pro-plan": [
@@ -1569,6 +1579,11 @@
         "date": "2026-07-09",
         "price": 184.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 184.99,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -2030,6 +2045,11 @@
         "date": "2026-07-08",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-10",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -2419,6 +2439,11 @@
       },
       {
         "date": "2026-07-07",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-10",
         "price": 281.02,
         "source": "amazon"
       }

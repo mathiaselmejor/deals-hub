@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-07-11",
-  "updatedAt": "2026-07-11T18:55:34.865Z",
+  "dayKey": "2026-07-12",
+  "updatedAt": "2026-07-12T02:11:54.512Z",
   "trendingIds": [
-    "guirnalda-led-fiesta-10m",
-    "kit-emergencia-carretera-65-piezas",
-    "cafe-grano-especial-1kg",
-    "portatil-lenovo",
-    "playmobil-city",
-    "la-roche-posay",
-    "asics-gel-nimbus",
-    "vestido-verano-midi-fluido",
-    "bascula-equipaje-digital-50kg",
-    "soporte-portatil-aluminio-ajustable",
-    "exprimidor-citricos-85w",
-    "sierra-caladora-black-decker-600w",
-    "set-skincare-coreano-5-pasos",
-    "sudadera-oversize-unisex",
-    "philips-hue-starter",
-    "the-north-face-borealis-mochila",
-    "purina-pro-plan-gato-3kg",
-    "tp-link-tapo-camara-2k-interior"
-  ],
-  "featuredIds": [
     "vendas-kinesiologicas-6-rollos",
     "cable-usb-c-a-lightning-2m-mfi",
     "asics-gel-nimbus",
-    "kit-emergencia-carretera-65-piezas",
-    "philips-hue-starter",
-    "colchon-viscoelastico-135x190-medio",
+    "ambientador-coche-difusor-premium",
+    "oppo-reno-12-f-5g",
+    "set-skincare-coreano-5-pasos",
     "aliexpress-buds",
-    "chocolate-valor-surtido-500g"
+    "chocolate-valor-surtido-500g",
+    "audio-technica-at2020usb-microfono",
+    "etiquetas-identificacion-maleta-x8",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "hot-wheels-pista-looping",
+    "protector-solar-spf50-200ml-pack-x2",
+    "helices-repuesto-dji-mini-pack",
+    "nordvpn-sub",
+    "plancha-vapor-3000w-ceramica",
+    "purina-pro-plan-gato-3kg",
+    "the-north-face-borealis-mochila"
   ],
-  "dealOfDayId": "guirnalda-led-fiesta-10m"
+  "featuredIds": [
+    "neceser-viaje-colgante-organizador",
+    "samsung-galaxy-tab-s9-fe",
+    "bufanda-lana-merino",
+    "sabanas-microfibra-4-piezas",
+    "garmin-forerunner-265",
+    "organizador-cables-escritorio",
+    "comida-hellofresh",
+    "helices-repuesto-dji-mini-pack"
+  ],
+  "dealOfDayId": "vendas-kinesiologicas-6-rollos"
 }

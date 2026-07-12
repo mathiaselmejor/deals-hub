@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T02:11:54.513Z",
+  "updatedAt": "2026-07-12T06:41:17.855Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1496,6 +1496,11 @@
         "date": "2026-07-10",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -1961,6 +1966,11 @@
         "date": "2026-07-03",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -2329,6 +2339,11 @@
         "date": "2026-07-11",
         "price": 269,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 269,
+        "source": "amazon"
       }
     ],
     "google-pixel-8a": [
@@ -2524,6 +2539,11 @@
       },
       {
         "date": "2026-07-11",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
         "price": 281.02,
         "source": "amazon"
       }

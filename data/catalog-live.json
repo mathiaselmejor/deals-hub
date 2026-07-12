@@ -1,16 +1,58 @@
 {
-  "updatedAt": "2026-07-12T02:09:55.738Z",
+  "updatedAt": "2026-07-12T06:39:15.612Z",
   "engineVersion": 1,
   "products": {
-    "lenovo-tab-p12": {
-      "price": 271.9,
-      "originalPrice": 302.71,
-      "discount": 10,
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 271.9,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 44.56,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 28.92,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "xiaomi-redmi-note-13-pro-5g": {
+      "price": 269,
+      "originalPrice": 270.16,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 269,
+          "asin": "B0CQ32CLZQ",
+          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 321.49,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,58 +1,86 @@
 {
-  "updatedAt": "2026-07-12T13:07:02.919Z",
+  "updatedAt": "2026-07-12T18:57:56.321Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
-      "discount": 0,
+    "cerave-rutina": {
+      "price": 26,
+      "originalPrice": 42.99,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 26,
+          "asin": "B0G8Z5GF3D",
+          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aliexpress-buds": {
-      "price": 24.99,
-      "originalPrice": 39.99,
+    "portatil-lenovo": {
+      "price": 495,
+      "originalPrice": 799,
       "discount": 38,
       "offers": {
         "amazon": {
-          "price": 28.92,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "price": 495,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "comida-hellofresh": {
-      "price": 20.28,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 68.9,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-s25": {
+      "price": 548.84,
+      "originalPrice": 909,
+      "discount": 40,
+      "offers": {
+        "amazon": {
+          "price": 548.84,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 189.26,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 29.99,
       "originalPrice": 49.99,
-      "discount": 59,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "lenovo-tab-p12": {
-      "price": 271.9,
-      "originalPrice": 302.71,
-      "discount": 10,
-      "offers": {
-        "amazon": {
-          "price": 271.9,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 29.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

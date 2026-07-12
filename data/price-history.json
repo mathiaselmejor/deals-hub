@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T06:41:17.855Z",
+  "updatedAt": "2026-07-12T08:10:11.378Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -121,6 +121,11 @@
       },
       {
         "date": "2026-07-11",
+        "price": 45.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
         "price": 45.4,
         "source": "amazon"
       }
@@ -304,6 +309,11 @@
         "date": "2026-07-07",
         "price": 95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 95,
+        "source": "amazon"
       }
     ],
     "portatil-lenovo": [
@@ -360,6 +370,11 @@
       {
         "date": "2026-07-08",
         "price": 470,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 495,
         "source": "amazon"
       }
     ],
@@ -594,6 +609,11 @@
       },
       {
         "date": "2026-07-10",
+        "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
         "price": 70,
         "source": "amazon"
       }
@@ -1267,6 +1287,11 @@
         "date": "2026-07-03",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -1637,6 +1662,11 @@
       },
       {
         "date": "2026-07-10",
+        "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-12",
         "price": 184.99,
         "source": "amazon"
       }

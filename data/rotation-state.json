@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-07-12",
-  "updatedAt": "2026-07-12T19:00:05.075Z",
+  "dayKey": "2026-07-13",
+  "updatedAt": "2026-07-13T02:13:41.335Z",
   "trendingIds": [
-    "bolsa-vacio-ropa-6u-bomba",
-    "plancha-vapor-3000w-ceramica",
-    "asics-gel-nimbus",
-    "aceite-coco-virgen-500ml",
-    "oppo-reno-12-f-5g",
-    "amazon-fire-hd-10",
-    "north-face-nuptse",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "saco-dormir-bebe-invierno",
-    "mochila-antirrobo-portatil-15-6",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "vendas-kinesiologicas-6-rollos",
-    "sandwichera-grill-2000w",
-    "set-herramientas-jardin-8-piezas",
-    "bascula-cocina-digital-5kg",
-    "soporte-movil-magnetico-ventilacion",
-    "base-carga-inalambrica-magsafe-15w",
-    "the-north-face-borealis-mochila"
-  ],
-  "featuredIds": [
     "tabla-planchar-xl-con-soporte",
-    "samsung-galaxy-tab-s9-fe",
+    "toalla-microfibra-playa-xl",
     "neceser-viaje-colgante-organizador",
     "samsung-tv-oled",
     "protector-solar-spf50-200ml-pack-x2",
-    "roborock-qrevo-s-robot-aspirador",
+    "aceite-coco-virgen-500ml",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "linterna-led-coche-recargable",
+    "organizador-cables-escritorio",
+    "etiquetas-identificacion-maleta-x8",
     "crocs-classic",
-    "set-herramientas-jardin-8-piezas"
+    "google-pixel-8a",
+    "bombillas-led-pack",
+    "playmobil-city",
+    "north-face-nuptse",
+    "guirnalda-led-fiesta-10m",
+    "philips-hue-starter",
+    "sensor-inundacion-wifi-3-pack"
   ],
-  "dealOfDayId": "bolsa-vacio-ropa-6u-bomba"
+  "featuredIds": [
+    "portatil-lenovo",
+    "gafas-natacion-anti-vaho-pack-2",
+    "almohada-cervical-viaje-memory-foam",
+    "photobooth-accesorios-30-piezas",
+    "nevera-playa-24l-isotermica",
+    "aliexpress-buds",
+    "gafas-snorkel-mascara-panorramica",
+    "sierra-caladora-black-decker-600w"
+  ],
+  "dealOfDayId": "tabla-planchar-xl-con-soporte"
 }

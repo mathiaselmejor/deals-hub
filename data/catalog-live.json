@@ -1,72 +1,16 @@
 {
-  "updatedAt": "2026-07-12T18:57:56.321Z",
+  "updatedAt": "2026-07-13T02:11:46.089Z",
   "engineVersion": 1,
   "products": {
-    "cerave-rutina": {
-      "price": 26,
-      "originalPrice": 42.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 26,
-          "asin": "B0G8Z5GF3D",
-          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "portatil-lenovo": {
-      "price": 495,
-      "originalPrice": 799,
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
       "discount": 38,
       "offers": {
         "amazon": {
-          "price": 495,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 68.9,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-s25": {
-      "price": 548.84,
-      "originalPrice": 909,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 548.84,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-buds3": {
-      "price": 184.99,
-      "originalPrice": 184.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 189.26,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "price": 28.92,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -86,15 +30,15 @@
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
+    "razer-deathadder-v3": {
+      "price": 71.07,
+      "originalPrice": 74.86,
+      "discount": 5,
       "offers": {
         "amazon": {
-          "price": 157.02,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 71.07,
+          "asin": "B09ZLV2531",
+          "url": "https://www.amazon.es/dp/B09ZLV2531",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,86 +1,44 @@
 {
-  "updatedAt": "2026-07-13T14:20:45.628Z",
+  "updatedAt": "2026-07-13T19:17:20.183Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
+    "pampers-premium": {
+      "price": 14,
+      "originalPrice": 44.99,
+      "discount": 69,
+      "offers": {
+        "amazon": {
+          "price": 14,
+          "asin": "B08P71V7L8",
+          "url": "https://www.amazon.es/dp/B08P71V7L8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "portatil-lenovo": {
-      "price": 495,
-      "originalPrice": 799,
-      "discount": 38,
-      "offers": {
-        "amazon": {
-          "price": 495,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 68.9,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
-      "offers": {
-        "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "aliexpress-buds": {
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "discount": 38,
-      "offers": {
-        "amazon": {
-          "price": 28.92,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 157.02,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 247.93,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

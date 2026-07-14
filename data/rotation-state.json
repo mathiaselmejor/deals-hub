@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-07-13",
-  "updatedAt": "2026-07-13T19:19:18.711Z",
+  "dayKey": "2026-07-14",
+  "updatedAt": "2026-07-14T01:59:23.780Z",
   "trendingIds": [
-    "sandwichera-grill-2000w",
-    "samsung-galaxy-s25",
-    "neceser-viaje-colgante-organizador",
-    "crocs-classic",
-    "protector-solar-spf50-200ml-pack-x2",
-    "organizador-cables-escritorio",
-    "dyson-v15-detect-absolute",
-    "anillo-soporte-movil-magsafe",
-    "chocolate-valor-surtido-500g",
-    "samsung-galaxy-tab-s9-fe",
-    "sabanas-microfibra-4-piezas",
-    "playmobil-city",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "sierra-caladora-black-decker-600w",
-    "north-face-nuptse",
-    "candado-tsa-maleta-4-digitos",
-    "pampers-premium",
-    "omega-3-1000mg-180-perlas"
-  ],
-  "featuredIds": [
     "cable-usb-c-a-lightning-2m-mfi",
     "gafas-natacion-anti-vaho-pack-2",
     "soporte-portatil-aluminio-ajustable",
@@ -29,7 +9,27 @@
     "nevera-playa-24l-isotermica",
     "plancha-vapor-3000w-ceramica",
     "soporte-movil-magnetico-ventilacion",
-    "silla-paseo-ligera"
+    "escritorio-elevable-electrico-140cm",
+    "radiador-aceite-9-elementos",
+    "north-face-nuptse",
+    "linterna-led-coche-recargable",
+    "tp-link-tapo-camara-2k-interior",
+    "asics-gel-nimbus",
+    "aliexpress-buds",
+    "vendas-kinesiologicas-6-rollos",
+    "vestido-verano-midi-fluido",
+    "salsa-trufa-negra-100ml",
+    "protector-pantalla-cristal-9h-pack-3"
   ],
-  "dealOfDayId": "sandwichera-grill-2000w"
+  "featuredIds": [
+    "purina-pro-plan-gato-3kg",
+    "guirnalda-led-fiesta-10m",
+    "powerbank-magnetica-5000mah",
+    "monitor-lg-ultragear-27-165hz",
+    "aspirador-coche-12v-potente",
+    "escalera-aluminio-3-peldanos-plegable",
+    "vendas-kinesiologicas-6-rollos",
+    "oximetro-pulso-dedo"
+  ],
+  "dealOfDayId": "cable-usb-c-a-lightning-2m-mfi"
 }

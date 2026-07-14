@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T06:18:38.300Z",
+  "updatedAt": "2026-07-14T07:55:17.178Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -158,6 +158,11 @@
       },
       {
         "date": "2026-07-12",
+        "price": 26,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
         "price": 26,
         "source": "amazon"
       }
@@ -1837,6 +1842,11 @@
         "date": "2026-07-08",
         "price": 22.26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 22.26,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -2181,6 +2191,11 @@
       },
       {
         "date": "2026-07-13",
+        "price": 29.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
         "price": 29.99,
         "source": "amazon"
       }

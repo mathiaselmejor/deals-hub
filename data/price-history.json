@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T13:22:59.854Z",
+  "updatedAt": "2026-07-14T19:12:43.942Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -347,6 +347,11 @@
       },
       {
         "date": "2026-07-13",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
         "price": 95,
         "source": "amazon"
       }
@@ -1377,6 +1382,11 @@
         "date": "2026-07-12",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -2052,6 +2062,11 @@
         "date": "2026-07-11",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -2293,6 +2308,11 @@
       },
       {
         "date": "2026-07-13",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-14",
         "price": 20.28,
         "source": "amazon"
       }
@@ -3143,7 +3163,7 @@
       },
       {
         "date": "2026-07-14",
-        "price": 148.75,
+        "price": 145.83,
         "source": "amazon"
       }
     ],

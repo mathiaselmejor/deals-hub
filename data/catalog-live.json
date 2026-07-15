@@ -1,72 +1,44 @@
 {
-  "updatedAt": "2026-07-15T06:20:08.262Z",
+  "updatedAt": "2026-07-15T07:57:37.197Z",
   "engineVersion": 1,
   "products": {
-    "samsung-galaxy-s25": {
-      "price": 548.83,
-      "originalPrice": 909,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 548.83,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "steam-deck-oled": {
-      "price": 559.99,
-      "originalPrice": 559.99,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 999,
-          "asin": "B0CP2YVFD4",
-          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 247.93,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 412.4,
-      "originalPrice": 549,
-      "discount": 25,
+    "samsung-galaxy-buds3": {
+      "price": 81,
+      "originalPrice": 184.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 412.4,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 160.33,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 81,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }

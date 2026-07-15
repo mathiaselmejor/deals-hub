@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T07:59:42.225Z",
+  "updatedAt": "2026-07-15T13:26:26.211Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -488,6 +488,11 @@
         "date": "2026-07-09",
         "price": 70.24,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 70.24,
+        "source": "amazon"
       }
     ],
     "teclado-logitech": [
@@ -894,6 +899,11 @@
         "date": "2026-07-14",
         "price": 296.69,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 311.38,
+        "source": "amazon"
       }
     ],
     "pelota-futbol-select": [
@@ -1041,7 +1051,7 @@
       },
       {
         "date": "2026-07-15",
-        "price": 61.94,
+        "price": 59.56,
         "source": "amazon"
       }
     ],
@@ -1892,6 +1902,11 @@
         "date": "2026-07-14",
         "price": 22.26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 22.26,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -2483,6 +2498,11 @@
         "date": "2026-07-14",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-15",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -3042,6 +3062,11 @@
       },
       {
         "date": "2026-07-13",
+        "price": 71.07,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-15",
         "price": 71.07,
         "source": "amazon"
       }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T13:17:44.366Z",
+  "updatedAt": "2026-07-17T19:01:52.268Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2261,6 +2261,11 @@
         "date": "2026-07-13",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -2591,6 +2596,11 @@
       },
       {
         "date": "2026-07-15",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-17",
         "price": 13.21,
         "source": "amazon"
       }

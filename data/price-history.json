@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T19:03:56.865Z",
+  "updatedAt": "2026-07-17T02:10:09.273Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -148,6 +148,11 @@
         "date": "2026-07-15",
         "price": 41.32,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-17",
+        "price": 41.32,
+        "source": "amazon"
       }
     ],
     "cerave-rutina": [
@@ -178,6 +183,11 @@
       },
       {
         "date": "2026-07-16",
+        "price": 26,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-17",
         "price": 26,
         "source": "amazon"
       }

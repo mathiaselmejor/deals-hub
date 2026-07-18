@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T19:01:52.268Z",
+  "updatedAt": "2026-07-18T01:58:49.687Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -81,6 +81,11 @@
         "date": "2026-07-15",
         "price": 189.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-18",
+        "price": 189.99,
+        "source": "amazon"
       }
     ],
     "stanley-quencher": [
@@ -151,6 +156,11 @@
       },
       {
         "date": "2026-07-17",
+        "price": 41.32,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-18",
         "price": 41.32,
         "source": "amazon"
       }
@@ -1064,6 +1074,11 @@
       },
       {
         "date": "2026-07-16",
+        "price": 36.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-18",
         "price": 36.99,
         "source": "amazon"
       }
@@ -2993,6 +3008,11 @@
       },
       {
         "date": "2026-07-15",
+        "price": 412.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-18",
         "price": 412.4,
         "source": "amazon"
       }

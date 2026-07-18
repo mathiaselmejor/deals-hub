@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-07-18T13:01:47.133Z",
+  "updatedAt": "2026-07-18T18:54:56.879Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 41.32,
-      "originalPrice": 46.99,
-      "discount": 12,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 41.32,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 70,
-      "discount": 0,
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 99.17,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 68.86,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

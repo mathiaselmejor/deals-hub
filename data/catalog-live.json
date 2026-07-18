@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-07-18T07:40:05.628Z",
+  "updatedAt": "2026-07-18T13:01:47.133Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 15.69,
-      "originalPrice": 39.99,
-      "discount": 61,
+    "stanley-quencher": {
+      "price": 41.32,
+      "originalPrice": 46.99,
+      "discount": 12,
       "offers": {
         "amazon": {
-          "price": 15.69,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 41.32,
+          "asin": "B0CNTWY3VM",
+          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "garmin-forerunner-265": {
-      "price": 293.14,
-      "originalPrice": 449,
-      "discount": 35,
-      "offers": {
-        "amazon": {
-          "price": 293.14,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 22.26,
-      "originalPrice": 49.99,
-      "discount": 55,
-      "offers": {
-        "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "mochila-viaje-cabin": {
-      "price": 44.99,
-      "originalPrice": 44.99,
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 53.02,
-          "asin": "B01M7UBL11",
-          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "price": 99.17,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 68.86,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:06:04.372Z",
+  "updatedAt": "2026-07-19T18:59:49.686Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2438,6 +2438,11 @@
         "date": "2026-07-14",
         "price": 29.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-19",
+        "price": 29.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -2743,6 +2748,11 @@
       },
       {
         "date": "2026-07-15",
+        "price": 219,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-19",
         "price": 219,
         "source": "amazon"
       }

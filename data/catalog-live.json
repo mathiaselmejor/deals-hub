@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-19T02:08:01.072Z",
+  "updatedAt": "2026-07-19T06:35:09.346Z",
   "engineVersion": 1,
   "products": {
-    "playmobil-city": {
-      "price": 32.79,
-      "originalPrice": 64.99,
-      "discount": 50,
+    "bici-estatica": {
+      "price": 103.08,
+      "originalPrice": 149.99,
+      "discount": 31,
       "offers": {
         "amazon": {
-          "price": 32.79,
-          "asin": "B0BKQX79WM",
-          "url": "https://www.amazon.es/dp/B0BKQX79WM",
+          "price": 103.08,
+          "asin": "B003FSTA0U",
+          "url": "https://www.amazon.es/dp/B003FSTA0U",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 412.4,
-      "originalPrice": 549,
-      "discount": 25,
+    "steelseries-arctis-nova-7": {
+      "price": 145.83,
+      "originalPrice": 172.52,
+      "discount": 15,
       "offers": {
         "amazon": {
-          "price": 412.4,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 145.83,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

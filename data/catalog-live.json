@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-07-20T02:28:39.219Z",
+  "updatedAt": "2026-07-20T06:53:01.150Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
-      "discount": 0,
+    "cerave-rutina": {
+      "price": 26,
+      "originalPrice": 42.99,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 26,
+          "asin": "B0G8Z5GF3D",
+          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "camara-seguridad": {
+      "price": 15.69,
+      "originalPrice": 39.99,
+      "discount": 61,
+      "offers": {
+        "amazon": {
+          "price": 15.69,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-s25": {
+      "price": 652.07,
+      "originalPrice": 909,
+      "discount": 28,
+      "offers": {
+        "amazon": {
+          "price": 652.07,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
           "linkKind": "direct",
           "priceEstimated": false
         }

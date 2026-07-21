@@ -1,58 +1,30 @@
 {
-  "updatedAt": "2026-07-21T08:16:27.370Z",
+  "updatedAt": "2026-07-21T13:25:40.371Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 70.24,
-      "originalPrice": 129.99,
-      "discount": 46,
-      "offers": {
-        "amazon": {
-          "price": 70.24,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 68.86,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "delonghi-dedica": {
-      "price": 123,
-      "originalPrice": 199,
+    "dyson-airwrap": {
+      "price": 338.02,
+      "originalPrice": 549,
       "discount": 38,
       "offers": {
         "amazon": {
-          "price": 123,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "price": 338.02,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-s25": {
-      "price": 652.07,
-      "originalPrice": 909,
-      "discount": 28,
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 652.07,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

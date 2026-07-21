@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-07-20",
-  "updatedAt": "2026-07-20T19:39:27.424Z",
+  "dayKey": "2026-07-21",
+  "updatedAt": "2026-07-21T02:09:04.330Z",
   "trendingIds": [
-    "sabanas-microfibra-4-piezas",
-    "tiras-reactivas-glucosa-x50",
-    "silla-paseo-ligera",
-    "comida-hellofresh",
-    "vasos-desechables-premium-50u",
-    "bombillas-led-pack",
-    "protector-pantalla-cristal-9h-pack-3",
-    "samsung-tv-oled",
     "sierra-caladora-black-decker-600w",
-    "sudadera-oversize-unisex",
     "aspirador-coche-12v-potente",
-    "ambientador-coche-difusor-premium",
-    "amazon-echo-pop-altavoz-alexa",
-    "gafas-snorkel-mascara-panorramica",
-    "bascula-cocina-digital-5kg",
-    "almohadilla-electrica-lumbar",
-    "crocs-classic",
-    "the-north-face-borealis-mochila"
-  ],
-  "featuredIds": [
-    "sierra-caladora-black-decker-600w",
-    "roborock-qrevo-s-robot-aspirador",
     "omega-3-1000mg-180-perlas",
     "exprimidor-citricos-85w",
     "sudadera-oversize-unisex",
     "powerbank-magnetica-5000mah",
     "set-skincare-coreano-5-pasos",
-    "gafas-natacion-anti-vaho-pack-2"
+    "gafas-natacion-anti-vaho-pack-2",
+    "roborock-qrevo-s-robot-aspirador",
+    "termometro-infrarrojos-sin-contacto",
+    "soporte-portatil-aluminio-ajustable",
+    "google-pixel-8a",
+    "oximetro-pulso-dedo",
+    "the-north-face-borealis-mochila",
+    "asics-gel-nimbus",
+    "tp-link-tapo-camara-2k-interior",
+    "cinta-correr-plegable",
+    "camara-seguridad"
   ],
-  "dealOfDayId": "sabanas-microfibra-4-piezas"
+  "featuredIds": [
+    "protector-solar-spf50-200ml-pack-x2",
+    "garmin-forerunner-265",
+    "asics-gel-nimbus",
+    "saco-dormir-bebe-invierno",
+    "nevera-playa-24l-isotermica",
+    "comida-hellofresh",
+    "pinata-rellenable-unicornio",
+    "cable-usb-c-a-lightning-2m-mfi"
+  ],
+  "dealOfDayId": "sierra-caladora-black-decker-600w"
 }

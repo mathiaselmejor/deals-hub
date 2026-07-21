@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-07-20T19:37:26.754Z",
+  "updatedAt": "2026-07-21T02:07:04.510Z",
   "engineVersion": 1,
-  "products": {
-    "asics-gel-nimbus": {
-      "price": 51,
-      "originalPrice": 179.95,
-      "discount": 72,
-      "offers": {
-        "amazon": {
-          "price": 51,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "google-pixel-8a": {
-      "price": 304,
-      "originalPrice": 549,
-      "discount": 45,
-      "offers": {
-        "amazon": {
-          "price": 304,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

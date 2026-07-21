@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T06:36:25.764Z",
+  "updatedAt": "2026-07-21T08:18:27.476Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -583,6 +583,11 @@
         "date": "2026-07-19",
         "price": 70.24,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 70.24,
+        "source": "amazon"
       }
     ],
     "teclado-logitech": [
@@ -1141,6 +1146,11 @@
         "date": "2026-07-18",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -1663,6 +1673,11 @@
         "date": "2026-07-19",
         "price": 123,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 123,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -1702,6 +1717,11 @@
       },
       {
         "date": "2026-07-20",
+        "price": 652.07,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
         "price": 652.07,
         "source": "amazon"
       }

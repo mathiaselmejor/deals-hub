@@ -1,44 +1,58 @@
 {
-  "updatedAt": "2026-07-21T06:34:15.106Z",
+  "updatedAt": "2026-07-21T08:16:27.370Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 40.45,
-      "originalPrice": 46.99,
-      "discount": 14,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 40.45,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bici-estatica": {
-      "price": 103.08,
-      "originalPrice": 149.99,
-      "discount": 31,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 103.08,
-          "asin": "B003FSTA0U",
-          "url": "https://www.amazon.es/dp/B003FSTA0U",
+          "price": 68.86,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steelseries-arctis-nova-7": {
-      "price": 145.83,
-      "originalPrice": 172.52,
-      "discount": 15,
+    "delonghi-dedica": {
+      "price": 123,
+      "originalPrice": 199,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 145.83,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 123,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-s25": {
+      "price": 652.07,
+      "originalPrice": 909,
+      "discount": 28,
+      "offers": {
+        "amazon": {
+          "price": 652.07,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
           "linkKind": "direct",
           "priceEstimated": false
         }

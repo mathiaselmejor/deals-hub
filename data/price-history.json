@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T13:27:38.285Z",
+  "updatedAt": "2026-07-21T19:13:15.625Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -213,6 +213,11 @@
       },
       {
         "date": "2026-07-20",
+        "price": 26,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
         "price": 26,
         "source": "amazon"
       }
@@ -1218,6 +1223,11 @@
         "date": "2026-07-20",
         "price": 52.98,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 52.98,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -2127,6 +2137,11 @@
         "date": "2026-07-18",
         "price": 22.26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 22.26,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -2835,6 +2850,11 @@
         "date": "2026-07-19",
         "price": 219,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
+        "price": 219,
+        "source": "amazon"
       }
     ],
     "samsung-galaxy-a55-5g-128gb": [
@@ -3104,6 +3124,11 @@
       },
       {
         "date": "2026-07-20",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-21",
         "price": 281.02,
         "source": "amazon"
       }

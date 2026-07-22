@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-07-21",
-  "updatedAt": "2026-07-21T19:13:15.625Z",
+  "dayKey": "2026-07-22",
+  "updatedAt": "2026-07-22T02:07:30.573Z",
   "trendingIds": [
-    "sabanas-microfibra-4-piezas",
-    "tp-link-tapo-camara-2k-interior",
-    "aceite-coco-virgen-500ml",
-    "baterias-lipo-cargador-balanceador",
-    "rodillera-voleibol-padel-pack-2",
-    "protector-solar-spf50-200ml-pack-x2",
-    "set-skincare-coreano-5-pasos",
-    "powerbank-magnetica-5000mah",
-    "organizador-maletero-plegable",
-    "cerave-rutina",
-    "picadora-electrica-500w",
-    "google-pixel-8a",
-    "soporte-portatil-aluminio-ajustable",
-    "the-north-face-borealis-mochila",
-    "asics-gel-nimbus",
-    "ambientador-coche-difusor-premium",
-    "cinta-correr-plegable",
-    "camara-seguridad"
-  ],
-  "featuredIds": [
     "harry-potter-coleccion-7-libros",
     "anillo-soporte-movil-magsafe",
     "asics-gel-nimbus",
@@ -29,7 +9,27 @@
     "bascula-equipaje-digital-50kg",
     "dyson-v15-detect-absolute",
     "base-carga-inalambrica-magsafe-15w",
-    "portatil-lenovo"
+    "portatil-lenovo",
+    "sabanas-microfibra-4-piezas",
+    "amazon-echo-pop-altavoz-alexa",
+    "samsung-tv-oled",
+    "globos-helio-kit-cumpleanos-50u",
+    "colchon-viscoelastico-135x190-medio",
+    "escalera-aluminio-3-peldanos-plegable",
+    "cosori-airfryer",
+    "candado-tsa-maleta-4-digitos",
+    "sandwichera-grill-2000w",
+    "audio-technica-at2020usb-microfono"
   ],
-  "dealOfDayId": "sabanas-microfibra-4-piezas"
+  "featuredIds": [
+    "bombillas-led-pack",
+    "audio-technica-at2020usb-microfono",
+    "samsung-galaxy-buds3",
+    "dyson-v15-detect-absolute",
+    "harry-potter-coleccion-7-libros",
+    "set-skincare-coreano-5-pasos",
+    "plancha-vapor-3000w-ceramica",
+    "organizador-armario-12-cajones"
+  ],
+  "dealOfDayId": "harry-potter-coleccion-7-libros"
 }

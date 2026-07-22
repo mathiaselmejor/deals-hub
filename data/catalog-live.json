@@ -1,100 +1,30 @@
 {
-  "updatedAt": "2026-07-21T19:11:12.089Z",
+  "updatedAt": "2026-07-22T02:05:20.883Z",
   "engineVersion": 1,
   "products": {
-    "cerave-rutina": {
-      "price": 26,
-      "originalPrice": 42.99,
-      "discount": 40,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 26,
-          "asin": "B0G8Z5GF3D",
-          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pala-padel-head": {
-      "price": 52.98,
-      "originalPrice": 79.99,
-      "discount": 34,
+    "delonghi-dedica": {
+      "price": 114,
+      "originalPrice": 199,
+      "discount": 43,
       "offers": {
         "amazon": {
-          "price": 52.98,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "bici-estatica": {
-      "price": 103.08,
-      "originalPrice": 149.99,
-      "discount": 31,
-      "offers": {
-        "amazon": {
-          "price": 103.08,
-          "asin": "B003FSTA0U",
-          "url": "https://www.amazon.es/dp/B003FSTA0U",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-s25": {
-      "price": 652.07,
-      "originalPrice": 909,
-      "discount": 28,
-      "offers": {
-        "amazon": {
-          "price": 652.07,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 22.26,
-      "originalPrice": 49.99,
-      "discount": 55,
-      "offers": {
-        "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 247.93,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 321.49,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 114,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }

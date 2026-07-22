@@ -1,72 +1,44 @@
 {
-  "updatedAt": "2026-07-22T06:34:29.795Z",
+  "updatedAt": "2026-07-22T08:17:17.987Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 40.45,
-      "originalPrice": 46.99,
-      "discount": 14,
+    "cerave-rutina": {
+      "price": 26,
+      "originalPrice": 42.99,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 40.45,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 26,
+          "asin": "B0G8Z5GF3D",
+          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "google-pixel-8a": {
+      "price": 304,
+      "originalPrice": 549,
+      "discount": 45,
+      "offers": {
+        "amazon": {
+          "price": 304,
+          "asin": "B0DSWFHTL2",
+          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "lenovo-tab-p12": {
+      "price": 302.71,
+      "originalPrice": 302.71,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 37.31,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-s25": {
-      "price": 649.21,
-      "originalPrice": 909,
-      "discount": 29,
-      "offers": {
-        "amazon": {
-          "price": 649.21,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 22.26,
-      "originalPrice": 49.99,
-      "discount": 55,
-      "offers": {
-        "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 247.93,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 303.71,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

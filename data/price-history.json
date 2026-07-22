@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T08:19:14.668Z",
+  "updatedAt": "2026-07-22T13:40:03.676Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -977,6 +977,11 @@
         "date": "2026-07-20",
         "price": 51,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 51,
+        "source": "amazon"
       }
     ],
     "garmin-forerunner-265": [
@@ -1058,6 +1063,11 @@
       {
         "date": "2026-07-18",
         "price": 293.14,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 311.37,
         "source": "amazon"
       }
     ],
@@ -1242,6 +1252,11 @@
       {
         "date": "2026-07-21",
         "price": 52.98,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 58.86,
         "source": "amazon"
       }
     ],
@@ -3176,6 +3191,11 @@
         "date": "2026-07-21",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-22",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -3571,6 +3591,11 @@
       },
       {
         "date": "2026-07-15",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-22",
         "price": 139.97,
         "source": "amazon"
       }

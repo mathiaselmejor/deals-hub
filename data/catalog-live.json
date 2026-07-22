@@ -1,44 +1,86 @@
 {
-  "updatedAt": "2026-07-22T08:17:17.987Z",
+  "updatedAt": "2026-07-22T13:38:02.424Z",
   "engineVersion": 1,
   "products": {
-    "cerave-rutina": {
-      "price": 26,
-      "originalPrice": 42.99,
-      "discount": 40,
+    "asics-gel-nimbus": {
+      "price": 51,
+      "originalPrice": 179.95,
+      "discount": 72,
       "offers": {
         "amazon": {
-          "price": 26,
-          "asin": "B0G8Z5GF3D",
-          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
+          "price": 51,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "google-pixel-8a": {
-      "price": 304,
-      "originalPrice": 549,
-      "discount": 45,
+    "garmin-forerunner-265": {
+      "price": 311.37,
+      "originalPrice": 449,
+      "discount": 31,
       "offers": {
         "amazon": {
-          "price": 304,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "price": 311.37,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "lenovo-tab-p12": {
-      "price": 302.71,
-      "originalPrice": 302.71,
+    "pala-padel-head": {
+      "price": 58.86,
+      "originalPrice": 79.99,
+      "discount": 26,
+      "offers": {
+        "amazon": {
+          "price": 58.86,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
+      "discount": 55,
+      "offers": {
+        "amazon": {
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 303.71,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 321.49,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 160.33,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

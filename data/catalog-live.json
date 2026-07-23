@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-07-22T19:05:01.278Z",
+  "updatedAt": "2026-07-23T02:12:02.249Z",
   "engineVersion": 1,
-  "products": {
-    "cerave-rutina": {
-      "price": 27,
-      "originalPrice": 42.99,
-      "discount": 37,
-      "offers": {
-        "amazon": {
-          "price": 27,
-          "asin": "B0G8Z5GF3D",
-          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "dyson-airwrap": {
-      "price": 354.55,
-      "originalPrice": 549,
-      "discount": 35,
-      "offers": {
-        "amazon": {
-          "price": 354.55,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

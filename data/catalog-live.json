@@ -1,58 +1,30 @@
 {
-  "updatedAt": "2026-07-25T13:12:25.570Z",
+  "updatedAt": "2026-07-25T18:59:08.793Z",
   "engineVersion": 1,
   "products": {
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
+      "offers": {
+        "amazon": {
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 37.41,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 264.45,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 245,
-      "originalPrice": 270.16,
-      "discount": 9,
-      "offers": {
-        "amazon": {
-          "price": 245,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "google-pixel-8a": {
-      "price": 314,
-      "originalPrice": 549,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 314,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "price": 160.33,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

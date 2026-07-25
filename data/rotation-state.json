@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-07-24",
-  "updatedAt": "2026-07-24T19:19:24.695Z",
+  "dayKey": "2026-07-25",
+  "updatedAt": "2026-07-25T02:09:48.201Z",
   "trendingIds": [
-    "perfume-armani",
-    "soporte-movil-magnetico-ventilacion",
-    "vestido-verano-midi-fluido",
-    "silla-paseo-ligera",
-    "set-skincare-coreano-5-pasos",
-    "dyson-v15-detect-absolute",
-    "playmobil-city",
-    "cinturon-cuero-genuino",
-    "asics-gel-nimbus",
-    "photobooth-accesorios-30-piezas",
-    "toalla-microfibra-playa-xl",
-    "bolsa-vacio-ropa-6u-bomba",
-    "anillo-soporte-movil-magsafe",
-    "iphone-15-128gb",
-    "sprinter-zapatillas",
-    "aspirador-coche-12v-potente",
-    "radiador-aceite-9-elementos",
-    "organizador-maletero-plegable"
-  ],
-  "featuredIds": [
     "asics-gel-nimbus",
     "cinta-correr-plegable",
-    "samsung-galaxy-buds3",
-    "radiador-aceite-9-elementos",
-    "colchon-viscoelastico-135x190-medio",
-    "aspirador-coche-12v-potente",
+    "escritorio-elevable-electrico-140cm",
+    "hot-wheels-track",
+    "sprinter-zapatillas",
+    "bascula-equipaje-digital-50kg",
     "oppo-reno-12-f-5g",
-    "funda-magsafe-transparente-iphone"
+    "funda-magsafe-transparente-iphone",
+    "sierra-caladora-black-decker-600w",
+    "audio-technica-at2020usb-microfono",
+    "bombillas-led-pack",
+    "rodillera-voleibol-padel-pack-2",
+    "amazon-echo-pop-altavoz-alexa",
+    "candado-tsa-maleta-4-digitos",
+    "perfume-armani",
+    "tp-link-tapo-camara-2k-interior",
+    "samsung-tv-oled",
+    "resina-epoxi-transparente-1-5l-kit"
   ],
-  "dealOfDayId": "perfume-armani"
+  "featuredIds": [
+    "samsung-tv-oled",
+    "iphone-15-128gb",
+    "kit-emergencia-carretera-65-piezas",
+    "amazon-fire-hd-10",
+    "asics-gel-nimbus",
+    "bombillas-led-pack",
+    "sabanas-microfibra-4-piezas",
+    "perchas-terciopelo-50-unidades"
+  ],
+  "dealOfDayId": "asics-gel-nimbus"
 }

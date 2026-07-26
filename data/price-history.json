@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T06:43:12.146Z",
+  "updatedAt": "2026-07-26T08:18:48.121Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1469,6 +1469,11 @@
         "date": "2026-07-15",
         "price": 74.37,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 74.37,
+        "source": "amazon"
       }
     ],
     "purina-pro-plan": [
@@ -2713,6 +2718,11 @@
         "date": "2026-07-19",
         "price": 29.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-26",
+        "price": 29.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -3806,6 +3816,11 @@
       },
       {
         "date": "2026-07-25",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-26",
         "price": 139.97,
         "source": "amazon"
       }

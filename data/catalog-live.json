@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T06:41:14.971Z",
+  "updatedAt": "2026-07-26T08:16:51.313Z",
   "engineVersion": 1,
   "products": {
     "pack-ropa-interior-hanes": {
@@ -16,15 +16,43 @@
         }
       }
     },
-    "aliexpress-buds": {
-      "price": 24.99,
-      "originalPrice": 39.99,
-      "discount": 38,
+    "barbacoa-weber": {
+      "price": 74.37,
+      "originalPrice": 74.99,
+      "discount": 1,
       "offers": {
         "amazon": {
-          "price": 28.92,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "price": 74.37,
+          "asin": "B002S2S9PQ",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 29.99,
+      "originalPrice": 49.99,
+      "discount": 40,
+      "offers": {
+        "amazon": {
+          "price": 29.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 160.33,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

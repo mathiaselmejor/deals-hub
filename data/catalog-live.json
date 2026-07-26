@@ -1,58 +1,30 @@
 {
-  "updatedAt": "2026-07-26T08:16:51.313Z",
+  "updatedAt": "2026-07-26T13:07:30.807Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 34.79,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 201.31,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "barbacoa-weber": {
-      "price": 74.37,
-      "originalPrice": 74.99,
-      "discount": 1,
+    "google-pixel-8a": {
+      "price": 322,
+      "originalPrice": 549,
+      "discount": 41,
       "offers": {
         "amazon": {
-          "price": 74.37,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 160.33,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 322,
+          "asin": "B0DSWFHTL2",
+          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
           "linkKind": "direct",
           "priceEstimated": false
         }

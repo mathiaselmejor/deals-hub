@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-07-27T14:19:28.913Z",
+  "updatedAt": "2026-07-27T19:18:51.744Z",
   "engineVersion": 1,
   "products": {
-    "pala-padel-head": {
-      "price": 55.79,
-      "originalPrice": 79.99,
-      "discount": 30,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 55.79,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "price": 102.06,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
+    "samsung-galaxy-s25": {
+      "price": 649.08,
+      "originalPrice": 909,
+      "discount": 29,
       "offers": {
         "amazon": {
-          "price": 44.56,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "price": 649.08,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 264.45,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

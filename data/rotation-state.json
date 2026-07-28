@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-07-27",
-  "updatedAt": "2026-07-27T19:20:57.731Z",
+  "dayKey": "2026-07-28",
+  "updatedAt": "2026-07-28T02:03:29.971Z",
   "trendingIds": [
-    "escalera-aluminio-3-peldanos-plegable",
-    "comida-hellofresh",
-    "almohada-cervical-memory-foam",
-    "monitor-lg-ultragear-27-165hz",
-    "portatil-lenovo",
-    "vestido-verano-midi-fluido",
-    "oppo-reno-12-f-5g",
-    "radiador-aceite-9-elementos",
-    "protector-solar-spf50-200ml-pack-x2",
-    "tp-link-tapo-camara-2k-interior",
-    "cama-perro-ortopedica",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "asics-gel-nimbus",
-    "base-carga-inalambrica-magsafe-15w",
-    "pampers-premium",
-    "hot-wheels-pista-looping",
-    "resina-epoxi-transparente-1-5l-kit",
-    "sabanas-microfibra-4-piezas"
-  ],
-  "featuredIds": [
     "gafas-snorkel-mascara-panorramica",
-    "globos-helio-kit-cumpleanos-50u",
+    "oximetro-pulso-dedo",
     "oppo-reno-12-f-5g",
     "vasos-desechables-premium-50u",
     "pinata-rellenable-unicornio",
     "almohadilla-electrica-lumbar",
     "sabanas-microfibra-4-piezas",
-    "bombillas-led-pack"
+    "bombillas-led-pack",
+    "bufanda-lana-merino",
+    "dyson-airwrap",
+    "asics-gel-nimbus",
+    "north-face-nuptse",
+    "aceite-coco-virgen-500ml",
+    "cinta-correr-plegable",
+    "sudadera-oversize-unisex",
+    "amazon-echo-pop-altavoz-alexa",
+    "sprinter-zapatillas",
+    "helices-repuesto-dji-mini-pack"
   ],
-  "dealOfDayId": "escalera-aluminio-3-peldanos-plegable"
+  "featuredIds": [
+    "asics-gel-nimbus",
+    "candado-tsa-maleta-4-digitos",
+    "levi-s-501-original-vaquero",
+    "philips-hue-starter",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "omega-3-1000mg-180-perlas",
+    "etiquetas-identificacion-maleta-x8",
+    "samsung-tv-oled"
+  ],
+  "dealOfDayId": "gafas-snorkel-mascara-panorramica"
 }

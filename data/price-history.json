@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T13:58:04.120Z",
+  "updatedAt": "2026-07-29T19:07:23.972Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3392,6 +3392,11 @@
         "date": "2026-07-28",
         "price": 222,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-29",
+        "price": 222,
+        "source": "amazon"
       }
     ],
     "realme-12-pro-5g": [
@@ -3966,6 +3971,11 @@
       },
       {
         "date": "2026-07-28",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-29",
         "price": 139.97,
         "source": "amazon"
       }

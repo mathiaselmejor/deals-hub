@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-07-29T02:03:43.636Z",
+  "updatedAt": "2026-07-29T06:36:09.696Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 1185,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

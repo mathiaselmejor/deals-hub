@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-07-29T19:05:13.147Z",
+  "updatedAt": "2026-07-30T01:53:47.635Z",
   "engineVersion": 1,
   "products": {
-    "oppo-reno-12-f-5g": {
-      "price": 222,
-      "originalPrice": 399,
-      "discount": 44,
-      "offers": {
-        "amazon": {
-          "price": 222,
-          "asin": "B0DDL1DMZ2",
-          "url": "https://www.amazon.es/dp/B0DDL1DMZ2",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "samsung-galaxy-tab-s9-fe": {
       "price": 412.4,
       "originalPrice": 549,
@@ -25,20 +11,6 @@
           "price": 412.4,
           "asin": "B0F1DLNG74",
           "url": "https://www.amazon.es/dp/B0F1DLNG74",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 160.33,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

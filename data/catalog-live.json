@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-07-30T19:16:50.993Z",
+  "updatedAt": "2026-07-31T02:12:44.263Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 15.69,
-      "originalPrice": 39.99,
-      "discount": 61,
+    "cerave-rutina": {
+      "price": 27,
+      "originalPrice": 42.99,
+      "discount": 37,
       "offers": {
         "amazon": {
-          "price": 15.69,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 27,
+          "asin": "B0G8Z5GF3D",
+          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-s25": {
+      "price": 652.07,
+      "originalPrice": 909,
+      "discount": 28,
+      "offers": {
+        "amazon": {
+          "price": 652.07,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 22.23,
+      "originalPrice": 49.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 22.23,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -25,20 +53,6 @@
           "price": 412.4,
           "asin": "B0F1DLNG74",
           "url": "https://www.amazon.es/dp/B0F1DLNG74",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 90.08,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
           "linkKind": "direct",
           "priceEstimated": false
         }

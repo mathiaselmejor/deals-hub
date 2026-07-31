@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T13:52:43.027Z",
+  "updatedAt": "2026-07-31T19:17:56.166Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -527,6 +527,11 @@
       },
       {
         "date": "2026-07-30",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-31",
         "price": 95,
         "source": "amazon"
       }
@@ -3837,6 +3842,11 @@
         "date": "2026-07-24",
         "price": 107.42,
         "source": "amazon"
+      },
+      {
+        "date": "2026-07-31",
+        "price": 107.42,
+        "source": "amazon"
       }
     ],
     "razer-deathadder-v3": [
@@ -4056,6 +4066,11 @@
       },
       {
         "date": "2026-07-29",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-07-31",
         "price": 139.97,
         "source": "amazon"
       }

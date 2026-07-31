@@ -1,30 +1,58 @@
 {
-  "updatedAt": "2026-07-31T13:50:40.141Z",
+  "updatedAt": "2026-07-31T19:15:56.213Z",
   "engineVersion": 1,
   "products": {
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 321.49,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 101.2,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steelseries-arctis-nova-7": {
-      "price": 145.83,
-      "originalPrice": 172.52,
-      "discount": 15,
+    "portatil-lenovo": {
+      "price": 440,
+      "originalPrice": 799,
+      "discount": 45,
       "offers": {
         "amazon": {
-          "price": 145.83,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 440,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "keychron-k2-pro-teclado-mecanico": {
+      "price": 107.42,
+      "originalPrice": 107.42,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 137,
+          "asin": "B0BZ8HPT5S",
+          "url": "https://www.amazon.es/dp/B0BZ8HPT5S",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 160.33,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

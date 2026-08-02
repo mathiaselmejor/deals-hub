@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-01",
-  "updatedAt": "2026-08-01T19:02:20.632Z",
+  "dayKey": "2026-08-02",
+  "updatedAt": "2026-08-02T02:13:01.359Z",
   "trendingIds": [
-    "cosori-airfryer",
-    "philips-hue-starter",
-    "amazon-echo-pop-altavoz-alexa",
-    "monitor-lg-ultragear-27-165hz",
-    "delonghi-dedica",
-    "pala-padel-head",
-    "audio-technica-at2020usb-microfono",
-    "escritorio-elevable-electrico-140cm",
-    "omega-3-1000mg-180-perlas",
-    "guirnalda-led-fiesta-10m",
-    "sierra-caladora-black-decker-600w",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "crocs-classic",
-    "tabla-planchar-xl-con-soporte",
-    "sensor-inundacion-wifi-3-pack",
-    "amazon-fire-hd-10",
-    "oximetro-pulso-dedo",
-    "termometro-infrarrojos-sin-contacto"
-  ],
-  "featuredIds": [
-    "lampara-pie-led-regulable",
+    "juguete-interactivo-perro-iq",
     "hot-wheels-track",
     "camara-seguridad",
     "hot-wheels-pista-looping",
     "monitor-lg-ultragear-27-165hz",
     "rodillera-voleibol-padel-pack-2",
     "alfombrilla-xxl-rgb",
-    "candado-tsa-maleta-4-digitos"
+    "gafas-snorkel-mascara-panorramica",
+    "aliexpress-buds",
+    "vestido-verano-midi-fluido",
+    "pampers-premium",
+    "sabanas-microfibra-4-piezas",
+    "almohada-cervical-memory-foam",
+    "silla-paseo-ligera",
+    "la-roche-posay",
+    "aspirador-coche-12v-potente",
+    "set-pesas-kettlebell-8kg-12kg",
+    "radiador-aceite-9-elementos"
   ],
-  "dealOfDayId": "cosori-airfryer"
+  "featuredIds": [
+    "asics-gel-nimbus",
+    "guirnalda-led-fiesta-10m",
+    "amazon-fire-hd-10",
+    "levi-s-501-original-vaquero",
+    "set-skincare-coreano-5-pasos",
+    "dyson-airwrap",
+    "dyson-v15-detect-absolute",
+    "helices-repuesto-dji-mini-pack"
+  ],
+  "dealOfDayId": "juguete-interactivo-perro-iq"
 }

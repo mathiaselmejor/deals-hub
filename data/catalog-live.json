@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-08-02T06:38:13.361Z",
+  "updatedAt": "2026-08-02T08:12:34.264Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "iphone-16": {
+      "price": 815,
+      "originalPrice": 959,
+      "discount": 15,
+      "offers": {
+        "amazon": {
+          "price": 815,
+          "asin": "B0DGJJXBM5",
+          "url": "https://www.amazon.es/dp/B0DGJJXBM5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

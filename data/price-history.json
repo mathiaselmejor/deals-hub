@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T14:28:13.601Z",
+  "updatedAt": "2026-08-03T19:25:29.414Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -432,6 +432,11 @@
         "date": "2026-07-30",
         "price": 15.69,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 16.52,
+        "source": "amazon"
       }
     ],
     "maleta-cabina": [
@@ -751,6 +756,11 @@
       },
       {
         "date": "2026-08-02",
+        "price": 70.24,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
         "price": 70.24,
         "source": "amazon"
       }
@@ -1488,6 +1498,11 @@
         "date": "2026-08-02",
         "price": 60.35,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 61.93,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -1539,6 +1554,11 @@
       {
         "date": "2026-07-23",
         "price": 103.23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
+        "price": 104.02,
         "source": "amazon"
       }
     ],
@@ -1986,6 +2006,11 @@
       },
       {
         "date": "2026-08-01",
+        "price": 114.88,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
         "price": 114.88,
         "source": "amazon"
       }
@@ -2535,6 +2560,11 @@
       },
       {
         "date": "2026-08-02",
+        "price": 19.79,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
         "price": 19.79,
         "source": "amazon"
       }
@@ -4176,6 +4206,11 @@
       },
       {
         "date": "2026-07-31",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-03",
         "price": 139.97,
         "source": "amazon"
       }

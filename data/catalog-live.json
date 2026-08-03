@@ -1,44 +1,16 @@
 {
-  "updatedAt": "2026-08-03T09:32:39.481Z",
+  "updatedAt": "2026-08-03T14:26:16.906Z",
   "engineVersion": 1,
   "products": {
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
+    "gopro-hero12-black": {
+      "price": 148,
+      "originalPrice": 449,
+      "discount": 67,
       "offers": {
         "amazon": {
-          "price": 67.92,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "offers": {
-        "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 297.51,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 148,
+          "asin": "B0CF3VVTLG",
+          "url": "https://www.amazon.es/dp/B0CF3VVTLG",
           "linkKind": "direct",
           "priceEstimated": false
         }

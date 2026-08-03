@@ -1,72 +1,30 @@
 {
-  "updatedAt": "2026-08-02T19:01:38.970Z",
+  "updatedAt": "2026-08-03T02:13:08.238Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 70.24,
-      "originalPrice": 129.99,
-      "discount": 46,
-      "offers": {
-        "amazon": {
-          "price": 70.24,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pala-padel-head": {
-      "price": 60.35,
-      "originalPrice": 79.99,
-      "discount": 25,
-      "offers": {
-        "amazon": {
-          "price": 60.35,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 44.56,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 19.79,
+    "nordvpn-sub": {
+      "price": 39.99,
       "originalPrice": 49.99,
-      "discount": 60,
+      "discount": 20,
       "offers": {
         "amazon": {
-          "price": 19.79,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 90.08,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 297.51,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

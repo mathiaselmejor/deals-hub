@@ -1,16 +1,72 @@
 {
-  "updatedAt": "2026-08-04T13:57:05.681Z",
+  "updatedAt": "2026-08-04T19:23:13.890Z",
   "engineVersion": 1,
   "products": {
-    "garmin-forerunner-265": {
-      "price": 314.04,
-      "originalPrice": 449,
-      "discount": 30,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 314.04,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 34.09,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 67.92,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pala-padel-head": {
+      "price": 61.93,
+      "originalPrice": 79.99,
+      "discount": 23,
+      "offers": {
+        "amazon": {
+          "price": 61.93,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 19.79,
+      "originalPrice": 49.99,
+      "discount": 60,
+      "offers": {
+        "amazon": {
+          "price": 19.79,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }

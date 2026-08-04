@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T02:01:20.663Z",
+  "updatedAt": "2026-08-04T06:34:06.828Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3268,6 +3268,11 @@
         "date": "2026-08-01",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-04",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -3427,6 +3432,11 @@
       },
       {
         "date": "2026-08-01",
+        "price": 245,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-04",
         "price": 245,
         "source": "amazon"
       }

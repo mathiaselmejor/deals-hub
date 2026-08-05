@@ -1,72 +1,58 @@
 {
-  "updatedAt": "2026-08-04T19:23:13.890Z",
+  "updatedAt": "2026-08-05T01:58:37.109Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
+    "delonghi-dedica": {
+      "price": 114.88,
+      "originalPrice": 199,
+      "discount": 42,
+      "offers": {
+        "amazon": {
+          "price": 114.88,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-s25": {
+      "price": 651.41,
+      "originalPrice": 909,
+      "discount": 28,
+      "offers": {
+        "amazon": {
+          "price": 651.41,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 34.68,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
+    "nothing-phone-2a": {
+      "price": 271,
+      "originalPrice": 281.02,
+      "discount": 4,
       "offers": {
         "amazon": {
-          "price": 34.09,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 67.92,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pala-padel-head": {
-      "price": 61.93,
-      "originalPrice": 79.99,
-      "discount": 23,
-      "offers": {
-        "amazon": {
-          "price": 61.93,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 19.79,
-      "originalPrice": 49.99,
-      "discount": 60,
-      "offers": {
-        "amazon": {
-          "price": 19.79,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 271,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

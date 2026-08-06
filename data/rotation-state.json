@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-05",
-  "updatedAt": "2026-08-05T19:23:35.132Z",
+  "dayKey": "2026-08-06",
+  "updatedAt": "2026-08-06T02:04:26.366Z",
   "trendingIds": [
-    "hot-wheels-pista-looping",
     "linterna-led-coche-recargable",
-    "gafas-natacion-anti-vaho-pack-2",
-    "dyson-v15-detect-absolute",
-    "set-pesas-kettlebell-8kg-12kg",
-    "crocs-classic",
-    "bascula-equipaje-digital-50kg",
-    "organizador-cables-escritorio",
-    "almohada-cervical-viaje-memory-foam",
-    "soporte-movil-magnetico-ventilacion",
-    "hot-wheels-track",
-    "amazon-fire-hd-10",
-    "soporte-portatil-aluminio-ajustable",
-    "aspirador-coche-12v-potente",
-    "samsung-galaxy-buds3",
-    "oppo-reno-12-f-5g",
-    "base-carga-inalambrica-magsafe-15w",
-    "omega-3-1000mg-180-perlas"
-  ],
-  "featuredIds": [
-    "anillo-soporte-movil-magsafe",
     "sprinter-zapatillas",
     "monitor-lg-ultragear-27-165hz",
     "aliexpress-buds",
-    "picadora-electrica-500w",
-    "almohada-cervical-viaje-memory-foam",
+    "protector-pantalla-cristal-9h-pack-3",
+    "perfume-armani",
     "sabanas-microfibra-4-piezas",
-    "bombillas-led-pack"
+    "bombillas-led-pack",
+    "organizador-cables-escritorio",
+    "cable-usb-c-a-lightning-2m-mfi",
+    "silla-ergonomica-oficina-reposabrazos-4d",
+    "baterias-lipo-cargador-balanceador",
+    "samsung-galaxy-buds3",
+    "playmobil-city",
+    "asics-gel-nimbus",
+    "guirnalda-led-fiesta-10m",
+    "bolsa-vacio-ropa-6u-bomba",
+    "vestido-verano-midi-fluido"
   ],
-  "dealOfDayId": "hot-wheels-pista-looping"
+  "featuredIds": [
+    "perfume-armani",
+    "cerave-rutina",
+    "pinata-rellenable-unicornio",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "nevera-playa-24l-isotermica",
+    "playmobil-city",
+    "saco-dormir-bebe-invierno",
+    "vestido-verano-midi-fluido"
+  ],
+  "dealOfDayId": "linterna-led-coche-recargable"
 }

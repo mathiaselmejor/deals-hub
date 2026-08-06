@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T08:26:52.830Z",
+  "updatedAt": "2026-08-06T13:53:44.772Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -293,6 +293,11 @@
       },
       {
         "date": "2026-08-05",
+        "price": 27,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-06",
         "price": 27,
         "source": "amazon"
       }
@@ -1699,6 +1704,11 @@
         "date": "2026-07-28",
         "price": 74.37,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-06",
+        "price": 69,
+        "source": "amazon"
       }
     ],
     "purina-pro-plan": [
@@ -2655,6 +2665,11 @@
       },
       {
         "date": "2026-08-05",
+        "price": 19.79,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-06",
         "price": 19.79,
         "source": "amazon"
       }
@@ -3938,6 +3953,11 @@
       },
       {
         "date": "2026-08-01",
+        "price": 412.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-06",
         "price": 412.4,
         "source": "amazon"
       }

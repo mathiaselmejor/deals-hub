@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-08-07T07:05:44.922Z",
+  "updatedAt": "2026-08-07T12:50:33.630Z",
   "engineVersion": 1,
   "products": {
-    "cerave-rutina": {
-      "price": 27,
-      "originalPrice": 42.99,
-      "discount": 37,
+    "delonghi-dedica": {
+      "price": 114.88,
+      "originalPrice": 199,
+      "discount": 42,
       "offers": {
         "amazon": {
-          "price": 27,
-          "asin": "B0G8Z5GF3D",
-          "url": "https://www.amazon.es/dp/B0G8Z5GF3D",
+          "price": 114.88,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 38.6,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "offers": {
-        "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 160.33,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

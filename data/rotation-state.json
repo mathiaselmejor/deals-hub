@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-06",
-  "updatedAt": "2026-08-06T23:55:17.190Z",
+  "dayKey": "2026-08-07",
+  "updatedAt": "2026-08-07T02:25:29.732Z",
   "trendingIds": [
-    "set-pesas-kettlebell-8kg-12kg",
-    "protector-pantalla-cristal-9h-pack-3",
-    "monitor-lg-ultragear-27-165hz",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "vasos-desechables-premium-50u",
-    "cafe-grano-especial-1kg",
-    "samsung-galaxy-buds3",
-    "comida-hellofresh",
-    "juguete-interactivo-perro-iq",
-    "audio-technica-at2020usb-microfono",
-    "portatil-lenovo",
-    "baterias-lipo-cargador-balanceador",
-    "escritorio-elevable-electrico-140cm",
-    "playmobil-city",
-    "asics-gel-nimbus",
-    "toalla-microfibra-playa-xl",
-    "linterna-led-coche-recargable",
-    "vestido-verano-midi-fluido"
-  ],
-  "featuredIds": [
-    "cafe-grano-especial-1kg",
+    "saco-dormir-bebe-invierno",
     "gafas-snorkel-mascara-panorramica",
     "helices-repuesto-dji-mini-pack",
-    "bombillas-led-pack",
+    "set-120-rotuladores-alcohol-dual-tip",
     "bascula-equipaje-digital-50kg",
-    "playmobil-city",
+    "silla-paseo-ligera",
     "pinata-rellenable-unicornio",
-    "vestido-verano-midi-fluido"
+    "cinturon-cuero-genuino",
+    "lampara-pie-led-regulable",
+    "levi-s-501-original-vaquero",
+    "philips-hue-starter",
+    "guirnalda-led-fiesta-10m",
+    "set-skincare-coreano-5-pasos",
+    "cosori-airfryer",
+    "purina-pro-plan-gato-3kg",
+    "north-face-nuptse",
+    "the-north-face-borealis-mochila",
+    "soporte-movil-magnetico-ventilacion"
   ],
-  "dealOfDayId": "set-pesas-kettlebell-8kg-12kg"
+  "featuredIds": [
+    "amazon-echo-pop-altavoz-alexa",
+    "cable-usb-c-a-lightning-2m-mfi",
+    "masajeador-cuello-shiatsu",
+    "the-north-face-borealis-mochila",
+    "bascula-cocina-digital-5kg",
+    "comida-hellofresh",
+    "ambientador-coche-difusor-premium",
+    "helices-repuesto-dji-mini-pack"
+  ],
+  "dealOfDayId": "saco-dormir-bebe-invierno"
 }

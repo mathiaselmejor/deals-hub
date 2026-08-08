@@ -1,44 +1,16 @@
 {
-  "updatedAt": "2026-08-07T18:46:06.681Z",
+  "updatedAt": "2026-08-08T01:09:31.888Z",
   "engineVersion": 1,
   "products": {
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 68.06,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 297.51,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "steelseries-arctis-nova-7": {
-      "price": 148.75,
-      "originalPrice": 172.52,
-      "discount": 14,
-      "offers": {
-        "amazon": {
-          "price": 148.75,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
           "linkKind": "direct",
           "priceEstimated": false
         }

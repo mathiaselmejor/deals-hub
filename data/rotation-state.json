@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-08",
-  "updatedAt": "2026-08-08T18:30:28.578Z",
+  "dayKey": "2026-08-09",
+  "updatedAt": "2026-08-09T01:16:22.133Z",
   "trendingIds": [
-    "termometro-infrarrojos-sin-contacto",
-    "termoventilador-ceramico-2000w",
-    "baterias-lipo-cargador-balanceador",
-    "cosori-airfryer",
-    "masajeador-cuello-shiatsu",
-    "dyson-v15-detect-absolute",
-    "kit-emergencia-carretera-65-piezas",
-    "vendas-kinesiologicas-6-rollos",
-    "delonghi-dedica",
-    "bufanda-lana-merino",
-    "protector-pantalla-cristal-9h-pack-3",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "nevera-playa-24l-isotermica",
-    "saco-dormir-bebe-invierno",
-    "gafas-natacion-anti-vaho-pack-2",
-    "sierra-caladora-black-decker-600w",
-    "monitor-lg-ultragear-27-165hz",
-    "audio-technica-at2020usb-microfono"
-  ],
-  "featuredIds": [
     "google-pixel-8a",
-    "levi-s-501-original-vaquero",
-    "etiquetas-identificacion-maleta-x8",
+    "oximetro-pulso-dedo",
+    "mochila-antirrobo-portatil-15-6",
     "comida-hellofresh",
     "asics-gel-nimbus",
-    "alfombrilla-xxl-rgb",
-    "photobooth-accesorios-30-piezas",
-    "picadora-electrica-500w"
+    "powerbank-magnetica-5000mah",
+    "guirnalda-led-fiesta-10m",
+    "plancha-vapor-3000w-ceramica",
+    "dyson-v15-detect-absolute",
+    "oppo-reno-12-f-5g",
+    "bolsa-vacio-ropa-6u-bomba",
+    "set-skincare-coreano-5-pasos",
+    "philips-hue-starter",
+    "silla-paseo-ligera",
+    "cerave-rutina",
+    "etiquetas-identificacion-maleta-x8",
+    "audio-technica-at2020usb-microfono",
+    "almohada-cervical-viaje-memory-foam"
   ],
-  "dealOfDayId": "termometro-infrarrojos-sin-contacto"
+  "featuredIds": [
+    "guirnalda-led-fiesta-10m",
+    "amazon-echo-pop-altavoz-alexa",
+    "harry-potter-coleccion-7-libros",
+    "tabla-planchar-xl-con-soporte",
+    "monitor-lg-ultragear-27-165hz",
+    "almohada-cervical-memory-foam",
+    "cinta-correr-plegable",
+    "protector-pantalla-cristal-9h-pack-3"
+  ],
+  "dealOfDayId": "google-pixel-8a"
 }

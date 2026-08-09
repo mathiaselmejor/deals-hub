@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-08-09T12:37:33.481Z",
+  "updatedAt": "2026-08-09T18:31:04.535Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 99.17,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 68.01,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "xiaomi-redmi-note-13-pro-5g": {
+      "price": 245,
+      "originalPrice": 270.16,
+      "discount": 9,
+      "offers": {
+        "amazon": {
+          "price": 245,
+          "asin": "B0CQ32CLZQ",
+          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

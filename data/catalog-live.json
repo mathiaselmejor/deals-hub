@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-08-09T06:44:33.295Z",
+  "updatedAt": "2026-08-09T12:37:33.481Z",
   "engineVersion": 1,
-  "products": {
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 68.01,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 90.9,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

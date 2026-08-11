@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-08-11T05:14:07.657Z",
+  "updatedAt": "2026-08-11T06:56:45.131Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 362.81,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 19.79,
+      "originalPrice": 49.99,
+      "discount": 60,
+      "offers": {
+        "amazon": {
+          "price": 19.79,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -30,29 +58,29 @@
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 412.4,
-      "originalPrice": 549,
-      "discount": 25,
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 412.4,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 354,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
+    "razer-deathadder-v3": {
+      "price": 74.86,
+      "originalPrice": 74.86,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 160.33,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 90.9,
+          "asin": "B09ZLV2531",
+          "url": "https://www.amazon.es/dp/B09ZLV2531",
           "linkKind": "direct",
           "priceEstimated": false
         }

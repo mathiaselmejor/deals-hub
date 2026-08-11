@@ -1,58 +1,16 @@
 {
-  "updatedAt": "2026-08-11T12:51:03.327Z",
+  "updatedAt": "2026-08-11T18:54:40.933Z",
   "engineVersion": 1,
   "products": {
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 39.35,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "delonghi-dedica": {
-      "price": 114.88,
-      "originalPrice": 199,
-      "discount": 42,
-      "offers": {
-        "amazon": {
-          "price": 114.88,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 297.51,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 354,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 33.87,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }

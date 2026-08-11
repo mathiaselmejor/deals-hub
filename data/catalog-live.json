@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-08-11T06:56:45.131Z",
+  "updatedAt": "2026-08-11T12:51:03.327Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 16.52,
-      "originalPrice": 39.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 16.52,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "monitor-27-gaming": {
-      "price": 289.99,
-      "originalPrice": 289.99,
+    "aspirador-coche": {
+      "price": 32.95,
+      "originalPrice": 32.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 362.81,
-          "asin": "B09CD32DNH",
-          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "price": 39.35,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "crocs-classic": {
-      "price": 19.79,
-      "originalPrice": 49.99,
-      "discount": 60,
+    "delonghi-dedica": {
+      "price": 114.88,
+      "originalPrice": 199,
+      "discount": 42,
       "offers": {
         "amazon": {
-          "price": 19.79,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 114.88,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 49.99,
-      "discount": 20,
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 297.51,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -67,20 +53,6 @@
           "price": 354,
           "asin": "B0GHNXX9WY",
           "url": "https://www.amazon.es/dp/B0GHNXX9WY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 90.9,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
           "linkKind": "direct",
           "priceEstimated": false
         }

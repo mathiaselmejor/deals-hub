@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-10",
-  "updatedAt": "2026-08-10T18:50:36.283Z",
+  "dayKey": "2026-08-11",
+  "updatedAt": "2026-08-11T01:16:48.978Z",
   "trendingIds": [
-    "asics-gel-nimbus",
-    "cinta-correr-plegable",
-    "soporte-portatil-aluminio-ajustable",
-    "soporte-movil-magnetico-ventilacion",
-    "plancha-vapor-3000w-ceramica",
-    "cosori-airfryer",
-    "picadora-electrica-500w",
-    "perchas-terciopelo-50-unidades",
-    "cable-hdmi-2-1-3m-8k",
-    "oppo-reno-12-f-5g",
-    "crocs-classic",
-    "tabla-planchar-xl-con-soporte",
-    "resina-epoxi-transparente-1-5l-kit",
-    "logitech-c920-hd-pro-webcam",
-    "set-pesas-kettlebell-8kg-12kg",
-    "helices-repuesto-dji-mini-pack",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "la-roche-posay"
-  ],
-  "featuredIds": [
     "chocolate-valor-surtido-500g",
     "philips-hue-starter",
     "purina-pro-plan-gato-3kg",
     "sprinter-zapatillas",
-    "silla-paseo-ligera",
-    "dyson-v15-detect-absolute",
+    "resina-epoxi-transparente-1-5l-kit",
+    "crocs-classic",
     "bufanda-lana-merino",
-    "escritorio-elevable-electrico-140cm"
+    "set-120-rotuladores-alcohol-dual-tip",
+    "set-skincare-coreano-5-pasos",
+    "escritorio-elevable-electrico-140cm",
+    "baterias-lipo-cargador-balanceador",
+    "plancha-vapor-3000w-ceramica",
+    "monitor-lg-ultragear-27-165hz",
+    "almohada-cervical-viaje-memory-foam",
+    "aceite-coco-virgen-500ml",
+    "vestido-verano-midi-fluido",
+    "powerbank-magnetica-5000mah",
+    "sandwichera-grill-2000w"
   ],
-  "dealOfDayId": "asics-gel-nimbus"
+  "featuredIds": [
+    "candado-tsa-maleta-4-digitos",
+    "philips-hue-starter",
+    "sabanas-microfibra-4-piezas",
+    "picadora-electrica-500w",
+    "bascula-cocina-digital-5kg",
+    "set-herramientas-jardin-8-piezas",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "anillo-soporte-movil-magsafe"
+  ],
+  "dealOfDayId": "chocolate-valor-surtido-500g"
 }

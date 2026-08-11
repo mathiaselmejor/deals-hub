@@ -1,86 +1,16 @@
 {
-  "updatedAt": "2026-08-10T18:48:31.341Z",
+  "updatedAt": "2026-08-11T01:14:49.947Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 440,
-      "originalPrice": 799,
-      "discount": 45,
-      "offers": {
-        "amazon": {
-          "price": 440,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "asics-gel-nimbus": {
-      "price": 51,
-      "originalPrice": 179.95,
-      "discount": 72,
-      "offers": {
-        "amazon": {
-          "price": 51,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 68.01,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "delonghi-dedica": {
-      "price": 114.88,
-      "originalPrice": 199,
-      "discount": 42,
-      "offers": {
-        "amazon": {
-          "price": 114.88,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 245,
-      "originalPrice": 270.16,
-      "discount": 9,
-      "offers": {
-        "amazon": {
-          "price": 245,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 412.4,
-      "originalPrice": 549,
-      "discount": 25,
-      "offers": {
-        "amazon": {
-          "price": 412.4,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 354,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

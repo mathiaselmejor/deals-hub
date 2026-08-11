@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:16:48.978Z",
+  "updatedAt": "2026-08-11T05:16:04.036Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -124,6 +124,11 @@
       },
       {
         "date": "2026-08-10",
+        "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-11",
         "price": 189.99,
         "source": "amazon"
       }
@@ -3223,6 +3228,11 @@
         "date": "2026-08-07",
         "price": 39.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 39.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -4120,6 +4130,11 @@
         "date": "2026-08-10",
         "price": 412.4,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-11",
+        "price": 412.4,
+        "source": "amazon"
       }
     ],
     "lenovo-tab-p12": [
@@ -4526,6 +4541,11 @@
       },
       {
         "date": "2026-08-07",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-11",
         "price": 139.97,
         "source": "amazon"
       }

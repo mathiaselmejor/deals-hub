@@ -1,16 +1,58 @@
 {
-  "updatedAt": "2026-08-11T01:14:49.947Z",
+  "updatedAt": "2026-08-11T05:14:07.657Z",
   "engineVersion": 1,
   "products": {
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 354,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "discount": 20,
+      "offers": {
+        "amazon": {
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 412.4,
+      "originalPrice": 549,
+      "discount": 25,
+      "offers": {
+        "amazon": {
+          "price": 412.4,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 160.33,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

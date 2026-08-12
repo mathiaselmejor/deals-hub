@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T12:55:47.172Z",
+  "updatedAt": "2026-08-12T18:54:21.656Z",
   "engineVersion": 1,
   "products": {
     "camara-seguridad": {
@@ -16,29 +16,29 @@
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
+    "cosori-airfryer": {
+      "price": 82.64,
+      "originalPrice": 129.99,
+      "discount": 36,
       "offers": {
         "amazon": {
-          "price": 33.87,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 82.64,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 412.4,
-      "originalPrice": 549,
-      "discount": 25,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 412.4,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

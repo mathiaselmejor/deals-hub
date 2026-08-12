@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-08-11T18:54:40.933Z",
+  "updatedAt": "2026-08-12T01:22:42.415Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
+    "asics-gel-nimbus": {
+      "price": 50,
+      "originalPrice": 179.95,
+      "discount": 72,
       "offers": {
         "amazon": {
-          "price": 33.87,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 50,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 19.79,
+      "originalPrice": 49.99,
+      "discount": 60,
+      "offers": {
+        "amazon": {
+          "price": 19.79,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }

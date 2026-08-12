@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:24:40.858Z",
+  "updatedAt": "2026-08-12T05:43:06.585Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -242,6 +242,11 @@
       {
         "date": "2026-08-08",
         "price": 37.94,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 46.14,
         "source": "amazon"
       }
     ],
@@ -2385,6 +2390,11 @@
         "date": "2026-07-26",
         "price": 338.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 453.72,
+        "source": "amazon"
       }
     ],
     "monitor-27-gaming": [
@@ -4046,6 +4056,11 @@
         "date": "2026-08-11",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-12",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -4178,6 +4193,11 @@
       },
       {
         "date": "2026-08-11",
+        "price": 412.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-12",
         "price": 412.4,
         "source": "amazon"
       }
@@ -4596,6 +4616,11 @@
       },
       {
         "date": "2026-08-11",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-12",
         "price": 139.97,
         "source": "amazon"
       }

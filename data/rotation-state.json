@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-12",
-  "updatedAt": "2026-08-12T18:56:16.502Z",
+  "dayKey": "2026-08-13",
+  "updatedAt": "2026-08-13T01:26:18.676Z",
   "trendingIds": [
-    "soporte-movil-magnetico-ventilacion",
-    "gopro-hero12-black",
-    "samsung-tv-oled",
-    "protector-pantalla-cristal-9h-pack-3",
-    "aliexpress-buds",
-    "set-herramientas-jardin-8-piezas",
-    "bombillas-led-pack",
-    "anillo-soporte-movil-magsafe",
-    "asics-gel-nimbus",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "samsung-galaxy-buds3",
-    "linterna-led-coche-recargable",
-    "la-roche-posay",
-    "organizador-cables-escritorio",
-    "cosori-airfryer",
-    "colchon-viscoelastico-135x190-medio",
-    "sabanas-microfibra-4-piezas",
-    "pampers-premium"
-  ],
-  "featuredIds": [
     "purina-pro-plan-gato-3kg",
     "bombillas-led-pack",
-    "philips-hue-starter",
+    "pampers-premium",
     "set-120-rotuladores-alcohol-dual-tip",
-    "picadora-electrica-500w",
+    "soporte-movil-magnetico-ventilacion",
     "tp-link-tapo-camara-2k-interior",
     "vestido-verano-midi-fluido",
-    "audio-technica-at2020usb-microfono"
+    "audio-technica-at2020usb-microfono",
+    "resina-epoxi-transparente-1-5l-kit",
+    "colchon-viscoelastico-135x190-medio",
+    "organizador-maletero-plegable",
+    "globos-helio-kit-cumpleanos-50u",
+    "the-north-face-borealis-mochila",
+    "cable-usb-c-a-lightning-2m-mfi",
+    "almohada-cervical-memory-foam",
+    "portatil-lenovo",
+    "nevera-playa-24l-isotermica",
+    "hot-wheels-pista-looping"
   ],
-  "dealOfDayId": "soporte-movil-magnetico-ventilacion"
+  "featuredIds": [
+    "silla-paseo-ligera",
+    "omega-3-1000mg-180-perlas",
+    "almohada-cervical-viaje-memory-foam",
+    "monitor-lg-ultragear-27-165hz",
+    "hot-wheels-pista-looping",
+    "bufanda-lana-merino",
+    "protector-pantalla-cristal-9h-pack-3",
+    "set-herramientas-jardin-8-piezas"
+  ],
+  "dealOfDayId": "purina-pro-plan-gato-3kg"
 }

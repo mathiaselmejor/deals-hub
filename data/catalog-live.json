@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-08-13T05:43:51.931Z",
+  "updatedAt": "2026-08-13T07:17:55.761Z",
   "engineVersion": 1,
   "products": {
-    "nike-tech-fleece": {
-      "price": 70,
-      "originalPrice": 70,
-      "discount": 0,
+    "bici-estatica": {
+      "price": 105.85,
+      "originalPrice": 149.99,
+      "discount": 29,
       "offers": {
         "amazon": {
-          "price": 99.17,
-          "asin": "B0DNHSZG1Z",
-          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
+          "price": 105.85,
+          "asin": "B003FSTA0U",
+          "url": "https://www.amazon.es/dp/B003FSTA0U",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-s25": {
-      "price": 544.45,
-      "originalPrice": 909,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 544.45,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 90.9,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 362.81,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:26:12.704Z",
+  "updatedAt": "2026-08-14T05:42:57.754Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1596,6 +1596,11 @@
         "date": "2026-08-10",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -3155,6 +3160,11 @@
       },
       {
         "date": "2026-08-07",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
         "price": 44.99,
         "source": "amazon"
       }

@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-08-14T01:24:11.833Z",
+  "updatedAt": "2026-08-14T05:40:51.447Z",
   "engineVersion": 1,
   "products": {
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 39.5,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 68.09,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 245,
-      "originalPrice": 270.16,
-      "discount": 9,
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 245,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
+          "price": 50.5,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
           "linkKind": "direct",
           "priceEstimated": false
         }

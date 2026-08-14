@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T05:42:57.754Z",
+  "updatedAt": "2026-08-14T07:17:53.095Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -333,6 +333,11 @@
       },
       {
         "date": "2026-08-13",
+        "price": 27,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
         "price": 27,
         "source": "amazon"
       }
@@ -2298,6 +2303,11 @@
         "date": "2026-08-13",
         "price": 114.88,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 114.88,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -3790,6 +3800,11 @@
         "date": "2026-08-11",
         "price": 219,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 219,
+        "source": "amazon"
       }
     ],
     "samsung-galaxy-a55-5g-128gb": [
@@ -4171,6 +4186,11 @@
         "date": "2026-08-12",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -4308,6 +4328,11 @@
       },
       {
         "date": "2026-08-12",
+        "price": 412.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
         "price": 412.4,
         "source": "amazon"
       }

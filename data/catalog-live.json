@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-08-13T18:55:00.174Z",
+  "updatedAt": "2026-08-14T01:24:11.833Z",
   "engineVersion": 1,
   "products": {
-    "asics-gel-nimbus": {
-      "price": 50,
-      "originalPrice": 179.95,
-      "discount": 72,
-      "offers": {
-        "amazon": {
-          "price": 50,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pala-padel-head": {
-      "price": 52.98,
-      "originalPrice": 79.99,
-      "discount": 34,
-      "offers": {
-        "amazon": {
-          "price": 52.98,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "aspirador-coche": {
       "price": 32.95,
       "originalPrice": 32.95,
@@ -39,6 +11,20 @@
           "price": 39.5,
           "asin": "B017COMWTS",
           "url": "https://www.amazon.es/dp/B017COMWTS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "xiaomi-redmi-note-13-pro-5g": {
+      "price": 245,
+      "originalPrice": 270.16,
+      "discount": 9,
+      "offers": {
+        "amazon": {
+          "price": 245,
+          "asin": "B0CQ32CLZQ",
+          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

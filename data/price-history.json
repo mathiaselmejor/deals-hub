@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T18:56:59.718Z",
+  "updatedAt": "2026-08-14T01:26:12.704Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2157,6 +2157,11 @@
         "date": "2026-08-13",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -3852,6 +3857,11 @@
       },
       {
         "date": "2026-08-10",
+        "price": 245,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-14",
         "price": 245,
         "source": "amazon"
       }

@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-13",
-  "updatedAt": "2026-08-13T18:56:59.717Z",
+  "dayKey": "2026-08-14",
+  "updatedAt": "2026-08-14T01:26:12.704Z",
   "trendingIds": [
-    "linterna-led-coche-recargable",
-    "bombillas-led-pack",
-    "pampers-premium",
-    "comida-hellofresh",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "organizador-maletero-plegable",
-    "omega-3-1000mg-180-perlas",
-    "chocolate-valor-surtido-500g",
-    "radiador-aceite-9-elementos",
-    "silla-ergonomica-oficina-reposabrazos-4d",
-    "organizador-armario-12-cajones",
-    "escalera-aluminio-3-peldanos-plegable",
-    "portatil-lenovo",
-    "cerave-rutina",
-    "anillo-soporte-movil-magsafe",
-    "colchon-viscoelastico-135x190-medio",
-    "bascula-equipaje-digital-50kg",
-    "soporte-portatil-aluminio-ajustable"
-  ],
-  "featuredIds": [
-    "sierra-caladora-black-decker-600w",
+    "silla-paseo-ligera",
     "kit-emergencia-carretera-65-piezas",
     "picadora-electrica-500w",
     "monitor-lg-ultragear-27-165hz",
-    "soporte-portatil-aluminio-ajustable",
+    "base-carga-inalambrica-magsafe-15w",
     "vendas-kinesiologicas-6-rollos",
     "delonghi-dedica",
-    "bolsa-vacio-ropa-6u-bomba"
+    "linterna-led-coche-recargable",
+    "asics-gel-nimbus",
+    "ambientador-coche-difusor-premium",
+    "aceite-coco-virgen-500ml",
+    "sprinter-zapatillas",
+    "gafas-natacion-anti-vaho-pack-2",
+    "saco-dormir-bebe-invierno",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "amazon-fire-hd-10",
+    "rodillera-voleibol-padel-pack-2",
+    "logitech-c920-hd-pro-webcam"
   ],
-  "dealOfDayId": "linterna-led-coche-recargable"
+  "featuredIds": [
+    "organizador-cables-escritorio",
+    "philips-hue-starter",
+    "asics-gel-nimbus",
+    "sabanas-microfibra-4-piezas",
+    "protector-solar-spf50-200ml-pack-x2",
+    "aliexpress-buds",
+    "hot-wheels-track",
+    "organizador-armario-12-cajones"
+  ],
+  "dealOfDayId": "silla-paseo-ligera"
 }

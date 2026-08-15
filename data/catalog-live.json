@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-08-15T06:27:50.488Z",
+  "updatedAt": "2026-08-15T12:25:27.282Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 46.99,
-      "originalPrice": 46.99,
-      "discount": 0,
+    "bici-estatica": {
+      "price": 128.1,
+      "originalPrice": 149.99,
+      "discount": 15,
       "offers": {
         "amazon": {
-          "price": 54.93,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 128.1,
+          "asin": "B003FSTA0U",
+          "url": "https://www.amazon.es/dp/B003FSTA0U",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 359.99,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
+          "price": 439,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
           "linkKind": "direct",
           "priceEstimated": false
         }

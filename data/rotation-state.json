@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-14",
-  "updatedAt": "2026-08-14T18:46:39.021Z",
+  "dayKey": "2026-08-15",
+  "updatedAt": "2026-08-15T00:56:28.694Z",
   "trendingIds": [
-    "silla-paseo-ligera",
-    "kit-emergencia-carretera-65-piezas",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "monitor-lg-ultragear-27-165hz",
-    "base-carga-inalambrica-magsafe-15w",
-    "vendas-kinesiologicas-6-rollos",
-    "set-skincare-coreano-5-pasos",
-    "powerbank-magnetica-5000mah",
-    "asics-gel-nimbus",
-    "ambientador-coche-difusor-premium",
-    "aceite-coco-virgen-500ml",
-    "amazon-echo-pop-altavoz-alexa",
-    "gafas-natacion-anti-vaho-pack-2",
-    "soporte-portatil-aluminio-ajustable",
-    "samsung-galaxy-buds3",
-    "mochila-antirrobo-portatil-15-6",
-    "rodillera-voleibol-padel-pack-2",
-    "etiquetas-identificacion-maleta-x8"
-  ],
-  "featuredIds": [
     "organizador-cables-escritorio",
     "philips-hue-starter",
     "asics-gel-nimbus",
-    "set-120-rotuladores-alcohol-dual-tip",
+    "sabanas-microfibra-4-piezas",
     "purina-pro-plan-gato-3kg",
     "north-face-nuptse",
     "radiador-aceite-9-elementos",
-    "organizador-armario-12-cajones"
+    "rodillera-voleibol-padel-pack-2",
+    "set-pesas-kettlebell-8kg-12kg",
+    "protector-solar-spf50-200ml-pack-x2",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "organizador-maletero-plegable",
+    "oximetro-pulso-dedo",
+    "la-roche-posay",
+    "dyson-v15-detect-absolute",
+    "levi-s-501-original-vaquero",
+    "vestido-verano-midi-fluido",
+    "cerave-rutina"
   ],
-  "dealOfDayId": "silla-paseo-ligera"
+  "featuredIds": [
+    "linterna-led-coche-recargable",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "resina-epoxi-transparente-1-5l-kit",
+    "nevera-playa-24l-isotermica",
+    "radiador-aceite-9-elementos",
+    "samsung-galaxy-buds3",
+    "soporte-portatil-aluminio-ajustable",
+    "almohada-cervical-viaje-memory-foam"
+  ],
+  "dealOfDayId": "organizador-cables-escritorio"
 }

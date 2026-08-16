@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-15",
-  "updatedAt": "2026-08-15T18:21:24.941Z",
+  "dayKey": "2026-08-16",
+  "updatedAt": "2026-08-16T00:59:41.880Z",
   "trendingIds": [
-    "north-face-nuptse",
-    "gopro-hero12-black",
-    "pampers-premium",
-    "sabanas-microfibra-4-piezas",
-    "tiras-reactivas-glucosa-x50",
-    "chocolate-valor-surtido-500g",
-    "la-roche-posay",
-    "lampara-pie-led-regulable",
-    "protector-solar-spf50-200ml-pack-x2",
-    "powerbank-magnetica-5000mah",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "kit-emergencia-carretera-65-piezas",
-    "levi-s-501-original-vaquero",
-    "radiador-aceite-9-elementos",
-    "dyson-v15-detect-absolute",
-    "protector-pantalla-cristal-9h-pack-3",
-    "vestido-verano-midi-fluido",
-    "gafas-snorkel-mascara-panorramica"
-  ],
-  "featuredIds": [
     "bufanda-lana-merino",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "resina-epoxi-transparente-1-5l-kit",
+    "samsung-galaxy-buds3",
+    "radiador-aceite-9-elementos",
     "salsa-trufa-negra-100ml",
     "la-roche-posay",
-    "samsung-galaxy-buds3",
+    "set-120-rotuladores-alcohol-dual-tip",
     "oximetro-pulso-dedo",
-    "cosori-airfryer"
+    "cosori-airfryer",
+    "comida-hellofresh",
+    "tiras-reactivas-glucosa-x50",
+    "protector-pantalla-cristal-9h-pack-3",
+    "lampara-pie-led-regulable",
+    "the-north-face-borealis-mochila",
+    "almohada-cervical-memory-foam",
+    "audio-technica-at2020usb-microfono",
+    "candado-tsa-maleta-4-digitos",
+    "picadora-electrica-500w",
+    "guirnalda-led-fiesta-10m"
   ],
-  "dealOfDayId": "north-face-nuptse"
+  "featuredIds": [
+    "dyson-v15-detect-absolute",
+    "aceite-coco-virgen-500ml",
+    "protector-pantalla-cristal-9h-pack-3",
+    "toalla-microfibra-playa-xl",
+    "ambientador-coche-difusor-premium",
+    "crocs-classic",
+    "chocolate-valor-surtido-500g",
+    "sabanas-microfibra-4-piezas"
+  ],
+  "dealOfDayId": "bufanda-lana-merino"
 }

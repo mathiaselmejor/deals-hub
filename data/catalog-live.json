@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-08-15T18:19:19.778Z",
+  "updatedAt": "2026-08-16T00:57:43.379Z",
   "engineVersion": 1,
   "products": {
-    "asics-gel-nimbus": {
-      "price": 65,
-      "originalPrice": 179.95,
-      "discount": 64,
+    "aspirador-coche": {
+      "price": 32.95,
+      "originalPrice": 32.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 65,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 33.92,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "garmin-forerunner-265": {
-      "price": 378.4,
-      "originalPrice": 449,
-      "discount": 16,
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 378.4,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 359.99,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

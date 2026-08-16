@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T00:59:41.881Z",
+  "updatedAt": "2026-08-16T04:42:45.662Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -256,6 +256,11 @@
       },
       {
         "date": "2026-08-15",
+        "price": 46.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-16",
         "price": 46.99,
         "source": "amazon"
       }
@@ -1464,6 +1469,11 @@
         "date": "2026-08-15",
         "price": 378.4,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-16",
+        "price": 378.4,
+        "source": "amazon"
       }
     ],
     "pelota-futbol-select": [
@@ -2555,6 +2565,11 @@
       },
       {
         "date": "2026-08-15",
+        "price": 289.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-16",
         "price": 289.99,
         "source": "amazon"
       }

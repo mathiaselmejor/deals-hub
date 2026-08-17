@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-08-17T06:41:22.681Z",
+  "updatedAt": "2026-08-17T12:31:55.246Z",
   "engineVersion": 1,
   "products": {
-    "nordvpn-sub": {
-      "price": 49.99,
-      "originalPrice": 49.99,
+    "dyson-airwrap": {
+      "price": 449,
+      "originalPrice": 549,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 449,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 49.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 41.96,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 15.99,
-      "originalPrice": 29.99,
-      "discount": 47,
+    "comida-hellofresh": {
+      "price": 21.09,
+      "originalPrice": 49.99,
+      "discount": 58,
       "offers": {
         "amazon": {
-          "price": 15.99,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 249,
-      "originalPrice": 270.16,
-      "discount": 8,
-      "offers": {
-        "amazon": {
-          "price": 249,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
+          "price": 21.09,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

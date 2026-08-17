@@ -1,44 +1,16 @@
 {
-  "updatedAt": "2026-08-17T12:31:55.246Z",
+  "updatedAt": "2026-08-17T18:30:20.821Z",
   "engineVersion": 1,
   "products": {
-    "dyson-airwrap": {
-      "price": 449,
-      "originalPrice": 549,
-      "discount": 18,
-      "offers": {
-        "amazon": {
-          "price": 449,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 41.96,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 21.09,
-      "originalPrice": 49.99,
-      "discount": 58,
-      "offers": {
-        "amazon": {
-          "price": 21.09,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 359.99,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

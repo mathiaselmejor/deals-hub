@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-08-19T00:54:39.558Z",
+  "updatedAt": "2026-08-19T04:42:03.904Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "camara-seguridad": {
+      "price": 19.99,
+      "originalPrice": 39.99,
+      "discount": 50,
+      "offers": {
+        "amazon": {
+          "price": 19.99,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "portatil-lenovo": {
+      "price": 549,
+      "originalPrice": 799,
+      "discount": 31,
+      "offers": {
+        "amazon": {
+          "price": 549,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 159.99,
+      "originalPrice": 172.52,
+      "discount": 7,
+      "offers": {
+        "amazon": {
+          "price": 159.99,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

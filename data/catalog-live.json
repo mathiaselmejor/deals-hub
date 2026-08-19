@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-08-19T12:34:41.808Z",
+  "updatedAt": "2026-08-19T18:25:11.064Z",
   "engineVersion": 1,
   "products": {
-    "barbacoa-weber": {
-      "price": 74.99,
-      "originalPrice": 74.99,
-      "discount": 0,
+    "camara-seguridad": {
+      "price": 16.52,
+      "originalPrice": 39.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 89.99,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "price": 16.52,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "crocs-classic": {
-      "price": 26.9,
-      "originalPrice": 49.99,
-      "discount": 46,
+    "pala-padel-head": {
+      "price": 58.86,
+      "originalPrice": 79.99,
+      "discount": 26,
       "offers": {
         "amazon": {
-          "price": 26.9,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "logitech-c920-hd-pro-webcam": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 78.9,
-          "asin": "B006H967FA",
-          "url": "https://www.amazon.es/dp/B006H967FA",
+          "price": 58.86,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
           "linkKind": "direct",
           "priceEstimated": false
         }

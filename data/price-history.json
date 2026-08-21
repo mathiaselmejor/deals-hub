@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T00:59:54.138Z",
+  "updatedAt": "2026-08-21T04:46:03.670Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2297,6 +2297,11 @@
         "date": "2026-08-16",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -3269,6 +3274,11 @@
         "date": "2026-06-03",
         "price": 619.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 532,
+        "source": "amazon"
       }
     ],
     "robot-cocina-moulinex": [
@@ -3385,6 +3395,11 @@
       },
       {
         "date": "2026-08-18",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
         "price": 44.99,
         "source": "amazon"
       }

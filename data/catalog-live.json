@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-08-20T18:30:19.935Z",
+  "updatedAt": "2026-08-21T00:57:51.777Z",
   "engineVersion": 1,
   "products": {
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 33.87,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "garmin-forerunner-265": {
+      "price": 314.04,
+      "originalPrice": 449,
+      "discount": 30,
+      "offers": {
+        "amazon": {
+          "price": 314.04,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }

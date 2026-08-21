@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:32:27.433Z",
+  "updatedAt": "2026-08-21T00:59:54.138Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1305,6 +1305,11 @@
         "date": "2026-08-12",
         "price": 24.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 24.95,
+        "source": "amazon"
       }
     ],
     "asics-gel-nimbus": [
@@ -1537,6 +1542,11 @@
       },
       {
         "date": "2026-08-20",
+        "price": 314.04,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
         "price": 314.04,
         "source": "amazon"
       }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:36:42.730Z",
+  "updatedAt": "2026-08-21T18:30:05.704Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1905,6 +1905,11 @@
         "date": "2026-08-15",
         "price": 128.1,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 105.81,
+        "source": "amazon"
       }
     ],
     "tienda-campana-quechua": [
@@ -3760,6 +3765,11 @@
         "date": "2026-08-17",
         "price": 21.09,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -5106,6 +5116,11 @@
       },
       {
         "date": "2026-08-20",
+        "price": 132.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-21",
         "price": 132.22,
         "source": "amazon"
       }

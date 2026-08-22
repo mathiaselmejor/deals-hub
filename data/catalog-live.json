@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-08-22T00:54:22.657Z",
+  "updatedAt": "2026-08-22T04:38:10.765Z",
   "engineVersion": 1,
   "products": {
-    "cafetera-moka": {
-      "price": 29.47,
-      "originalPrice": 29.47,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 29.47,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "xiaomi-redmi-note-13-pro-5g": {
       "price": 245,
       "originalPrice": 270.16,

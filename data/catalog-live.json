@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-08-22T06:29:25.311Z",
+  "updatedAt": "2026-08-22T12:27:04.762Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 35.15,
-      "originalPrice": 46.99,
-      "discount": 25,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 35.15,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 57.77,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

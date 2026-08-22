@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T18:30:05.704Z",
+  "updatedAt": "2026-08-22T00:56:17.246Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2836,6 +2836,11 @@
         "date": "2026-08-18",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 29.47,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -3770,6 +3775,11 @@
         "date": "2026-08-21",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -4203,6 +4213,11 @@
       {
         "date": "2026-08-18",
         "price": 249,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-22",
+        "price": 245,
         "source": "amazon"
       }
     ],

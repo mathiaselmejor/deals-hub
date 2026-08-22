@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-21",
-  "updatedAt": "2026-08-21T18:30:05.704Z",
+  "dayKey": "2026-08-22",
+  "updatedAt": "2026-08-22T00:56:17.246Z",
   "trendingIds": [
-    "gafas-snorkel-mascara-panorramica",
-    "philips-hue-starter",
-    "aliexpress-buds",
-    "picadora-electrica-500w",
-    "crocs-classic",
-    "exprimidor-citricos-85w",
-    "termometro-infrarrojos-sin-contacto",
-    "playmobil-city",
-    "cerave-rutina",
-    "linterna-led-coche-recargable",
-    "purina-pro-plan-gato-3kg",
-    "escritorio-elevable-electrico-140cm",
-    "dyson-v15-detect-absolute",
-    "chocolate-valor-surtido-500g",
-    "comida-hellofresh",
-    "sandwichera-grill-2000w",
-    "asics-gel-nimbus",
-    "guirnalda-led-fiesta-10m"
-  ],
-  "featuredIds": [
     "radiador-aceite-9-elementos",
     "audio-technica-at2020usb-microfono",
     "levi-s-501-original-vaquero",
-    "exprimidor-citricos-85w",
-    "portatil-lenovo",
+    "hervidor-agua-vidrio-led-1-7l",
+    "termometro-infrarrojos-sin-contacto",
     "gafas-natacion-anti-vaho-pack-2",
     "alfombrilla-xxl-rgb",
-    "escritorio-elevable-electrico-140cm"
+    "sabanas-microfibra-4-piezas",
+    "tiras-reactivas-glucosa-x50",
+    "harry-potter-coleccion-7-libros",
+    "silla-paseo-ligera",
+    "purina-pro-plan-gato-3kg",
+    "plancha-vapor-3000w-ceramica",
+    "sandwichera-grill-2000w",
+    "philips-hue-starter",
+    "crocs-classic",
+    "cable-usb-c-a-lightning-2m-mfi",
+    "nevera-playa-24l-isotermica"
   ],
-  "dealOfDayId": "gafas-snorkel-mascara-panorramica"
+  "featuredIds": [
+    "asics-gel-nimbus",
+    "tiras-reactivas-glucosa-x50",
+    "pampers-premium",
+    "portatil-lenovo",
+    "la-roche-posay",
+    "amazon-fire-hd-10",
+    "perfume-armani",
+    "oximetro-pulso-dedo"
+  ],
+  "dealOfDayId": "radiador-aceite-9-elementos"
 }

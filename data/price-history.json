@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T06:32:49.345Z",
+  "updatedAt": "2026-08-23T12:29:45.273Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -805,6 +805,11 @@
       {
         "date": "2026-08-20",
         "price": 470,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 412,
         "source": "amazon"
       }
     ],
@@ -2859,6 +2864,11 @@
       },
       {
         "date": "2026-08-22",
+        "price": 29.47,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-23",
         "price": 29.47,
         "source": "amazon"
       }
@@ -5183,6 +5193,11 @@
         "date": "2026-08-21",
         "price": 132.22,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-23",
+        "price": 132.22,
+        "source": "amazon"
       }
     ],
     "steelseries-arctis-nova-7": [
@@ -5872,6 +5887,13 @@
       {
         "date": "2026-06-24",
         "price": 449.99,
+        "source": "amazon"
+      }
+    ],
+    "barra-sonido-samsung": [
+      {
+        "date": "2026-08-23",
+        "price": 390,
         "source": "amazon"
       }
     ]

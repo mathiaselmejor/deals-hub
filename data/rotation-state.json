@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-22",
-  "updatedAt": "2026-08-22T18:22:02.970Z",
+  "dayKey": "2026-08-23",
+  "updatedAt": "2026-08-23T01:00:41.189Z",
   "trendingIds": [
-    "resina-epoxi-transparente-1-5l-kit",
-    "plancha-vapor-3000w-ceramica",
-    "levi-s-501-original-vaquero",
-    "hervidor-agua-vidrio-led-1-7l",
-    "termometro-infrarrojos-sin-contacto",
-    "rodillera-voleibol-padel-pack-2",
-    "sandwichera-grill-2000w",
-    "escritorio-elevable-electrico-140cm",
-    "harry-potter-coleccion-7-libros",
-    "anillo-soporte-movil-magsafe",
-    "sierra-caladora-black-decker-600w",
-    "purina-pro-plan-gato-3kg",
-    "candado-tsa-maleta-4-digitos",
-    "cable-hdmi-2-1-3m-8k",
-    "philips-hue-starter",
-    "hot-wheels-track",
-    "aliexpress-buds",
-    "nevera-playa-24l-isotermica"
-  ],
-  "featuredIds": [
     "asics-gel-nimbus",
-    "harry-potter-coleccion-7-libros",
+    "almohada-cervical-memory-foam",
     "pampers-premium",
     "portatil-lenovo",
     "silla-ergonomica-oficina-reposabrazos-4d",
     "amazon-fire-hd-10",
     "chocolate-valor-surtido-500g",
-    "cinta-correr-plegable"
+    "cinta-correr-plegable",
+    "omega-3-1000mg-180-perlas",
+    "sudadera-oversize-unisex",
+    "samsung-galaxy-s25",
+    "la-roche-posay",
+    "monitor-lg-ultragear-27-165hz",
+    "cerave-rutina",
+    "roborock-qrevo-s-robot-aspirador",
+    "harry-potter-coleccion-7-libros",
+    "sabanas-microfibra-4-piezas",
+    "playmobil-city"
   ],
-  "dealOfDayId": "resina-epoxi-transparente-1-5l-kit"
+  "featuredIds": [
+    "gopro-hero12-black",
+    "protector-solar-spf50-200ml-pack-x2",
+    "omega-3-1000mg-180-perlas",
+    "vestido-verano-midi-fluido",
+    "guirnalda-led-fiesta-10m",
+    "cerave-rutina",
+    "portatil-lenovo",
+    "alfombrilla-xxl-rgb"
+  ],
+  "dealOfDayId": "asics-gel-nimbus"
 }

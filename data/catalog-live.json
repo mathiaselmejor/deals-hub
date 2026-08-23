@@ -1,72 +1,30 @@
 {
-  "updatedAt": "2026-08-23T12:27:45.963Z",
+  "updatedAt": "2026-08-23T18:20:22.257Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 412,
-      "originalPrice": 799,
-      "discount": 48,
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 412,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "barra-sonido-samsung": {
-      "price": 390,
-      "originalPrice": 1199,
-      "discount": 67,
-      "offers": {
-        "amazon": {
-          "price": 390,
-          "asin": "B0F1D9PZ98",
-          "url": "https://www.amazon.es/dp/B0F1D9PZ98",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cafetera-moka": {
-      "price": 29.47,
-      "originalPrice": 29.47,
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 29.47,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "carrefour-robot": {
-      "price": 219,
-      "originalPrice": 219,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 297.51,
-          "asin": "B0FJGFPWSS",
-          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 132.22,
-      "originalPrice": 139.97,
-      "discount": 6,
-      "offers": {
-        "amazon": {
-          "price": 132.22,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 354,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

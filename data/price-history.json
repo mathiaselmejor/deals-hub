@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:53:31.904Z",
+  "updatedAt": "2026-08-24T06:46:11.012Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -4765,6 +4765,11 @@
         "date": "2026-08-17",
         "price": 487.17,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-24",
+        "price": 412.4,
+        "source": "amazon"
       }
     ],
     "lenovo-tab-p12": [
@@ -5039,6 +5044,11 @@
       },
       {
         "date": "2026-08-19",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-24",
         "price": 74.86,
         "source": "amazon"
       }

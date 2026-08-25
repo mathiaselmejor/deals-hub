@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-24",
-  "updatedAt": "2026-08-24T18:33:26.707Z",
+  "dayKey": "2026-08-25",
+  "updatedAt": "2026-08-25T00:58:39.769Z",
   "trendingIds": [
-    "monitor-lg-ultragear-27-165hz",
-    "neceser-viaje-colgante-organizador",
-    "sensor-inundacion-wifi-3-pack",
-    "vestido-verano-midi-fluido",
-    "vasos-desechables-premium-50u",
-    "portatil-lenovo",
-    "levi-s-501-original-vaquero",
-    "powerbank-magnetica-5000mah",
-    "bascula-equipaje-digital-50kg",
-    "crocs-classic",
-    "globos-helio-kit-cumpleanos-50u",
-    "alfombrilla-xxl-rgb",
-    "colchon-viscoelastico-135x190-medio",
-    "la-roche-posay",
-    "philips-hue-starter",
-    "sierra-caladora-black-decker-600w",
     "playmobil-city",
-    "harry-potter-coleccion-7-libros"
-  ],
-  "featuredIds": [
-    "playmobil-city",
-    "philips-hue-starter",
-    "portatil-lenovo",
+    "pampers-premium",
+    "the-north-face-borealis-mochila",
     "lampara-pie-led-regulable",
     "cama-perro-ortopedica",
     "saco-dormir-bebe-invierno",
     "monitor-lg-ultragear-27-165hz",
-    "gafas-snorkel-mascara-panorramica"
+    "gafas-snorkel-mascara-panorramica",
+    "sierra-caladora-black-decker-600w",
+    "levi-s-501-original-vaquero",
+    "photobooth-accesorios-30-piezas",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "bascula-equipaje-digital-50kg",
+    "set-skincare-coreano-5-pasos",
+    "barra-sonido-samsung",
+    "almohada-cervical-viaje-memory-foam",
+    "cosori-airfryer",
+    "sprinter-zapatillas"
   ],
-  "dealOfDayId": "monitor-lg-ultragear-27-165hz"
+  "featuredIds": [
+    "exprimidor-citricos-85w",
+    "escritorio-elevable-electrico-140cm",
+    "altavoz-bluetooth-fiesta-40w",
+    "cama-perro-ortopedica",
+    "termoventilador-ceramico-2000w",
+    "dyson-v15-detect-absolute",
+    "vestido-verano-midi-fluido",
+    "bombillas-led-pack"
+  ],
+  "dealOfDayId": "playmobil-city"
 }

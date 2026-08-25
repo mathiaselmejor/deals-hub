@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:33:26.708Z",
+  "updatedAt": "2026-08-25T00:58:39.769Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2609,6 +2609,11 @@
         "date": "2026-08-24",
         "price": 543.97,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 543.97,
+        "source": "amazon"
       }
     ],
     "ipad-11-2024": [
@@ -5059,6 +5064,11 @@
         "date": "2026-08-16",
         "price": 74.86,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 74.45,
+        "source": "amazon"
       }
     ],
     "logitech-c920-hd-pro-webcam": [
@@ -5262,6 +5272,11 @@
       {
         "date": "2026-08-23",
         "price": 132.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 115.43,
         "source": "amazon"
       }
     ],

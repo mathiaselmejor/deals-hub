@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T06:38:22.275Z",
+  "updatedAt": "2026-08-25T12:38:19.638Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2362,6 +2362,11 @@
         "date": "2026-08-21",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -3611,6 +3616,11 @@
         "date": "2026-08-24",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -3868,6 +3878,11 @@
       },
       {
         "date": "2026-08-22",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
         "price": 20.28,
         "source": "amazon"
       }
@@ -4808,6 +4823,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 412.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-25",
         "price": 412.4,
         "source": "amazon"
       }

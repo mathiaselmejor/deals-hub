@@ -1,48 +1,5 @@
 {
-  "updatedAt": "2026-08-26T19:41:31.994Z",
+  "updatedAt": "2026-08-27T06:46:04.565Z",
   "engineVersion": 1,
-  "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 190.07,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pala-padel-head": {
-      "price": 57.81,
-      "originalPrice": 79.99,
-      "discount": 28,
-      "offers": {
-        "amazon": {
-          "price": 57.81,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "barbacoa-weber": {
-      "price": 69,
-      "originalPrice": 74.99,
-      "discount": 8,
-      "offers": {
-        "amazon": {
-          "price": 69,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

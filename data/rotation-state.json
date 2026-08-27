@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-08-26",
-  "updatedAt": "2026-08-26T19:43:32.805Z",
+  "dayKey": "2026-08-27",
+  "updatedAt": "2026-08-27T06:47:58.647Z",
   "trendingIds": [
-    "exprimidor-citricos-85w",
-    "samsung-galaxy-buds3",
-    "baterias-lipo-cargador-balanceador",
-    "cosori-airfryer",
-    "escalera-aluminio-3-peldanos-plegable",
-    "comida-hellofresh",
-    "sensor-inundacion-wifi-3-pack",
-    "escritorio-elevable-electrico-140cm",
-    "set-herramientas-jardin-8-piezas",
-    "vasos-desechables-premium-50u",
-    "sandwichera-grill-2000w",
-    "sabanas-microfibra-4-piezas",
-    "omega-3-1000mg-180-perlas",
-    "almohada-cervical-memory-foam",
-    "altavoz-bluetooth-fiesta-40w",
-    "the-north-face-borealis-mochila",
-    "amazon-echo-pop-altavoz-alexa",
-    "colchon-viscoelastico-135x190-medio"
-  ],
-  "featuredIds": [
     "delonghi-dedica",
     "globos-helio-kit-cumpleanos-50u",
-    "escalera-aluminio-3-peldanos-plegable",
-    "cable-hdmi-2-1-3m-8k",
+    "termoventilador-ceramico-2000w",
+    "tiras-reactivas-glucosa-x50",
     "comida-hellofresh",
     "gopro-hero12-black",
     "crocs-classic",
-    "vendas-kinesiologicas-6-rollos"
+    "pinata-rellenable-unicornio",
+    "asics-gel-nimbus",
+    "north-face-nuptse",
+    "sprinter-zapatillas",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "escalera-aluminio-3-peldanos-plegable",
+    "portatil-lenovo",
+    "samsung-galaxy-s25",
+    "etiquetas-identificacion-maleta-x8",
+    "hot-wheels-pista-looping",
+    "chocolate-valor-surtido-500g"
   ],
-  "dealOfDayId": "exprimidor-citricos-85w"
+  "featuredIds": [
+    "escritorio-elevable-electrico-140cm",
+    "cinta-correr-plegable",
+    "samsung-galaxy-buds3",
+    "organizador-armario-12-cajones",
+    "sierra-caladora-black-decker-600w",
+    "soporte-portatil-aluminio-ajustable",
+    "photobooth-accesorios-30-piezas",
+    "camara-seguridad"
+  ],
+  "dealOfDayId": "delonghi-dedica"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T16:30:30.918Z",
+  "updatedAt": "2026-08-28T21:41:57.778Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -144,6 +144,11 @@
       },
       {
         "date": "2026-08-26",
+        "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
         "price": 189.99,
         "source": "amazon"
       }
@@ -854,6 +859,11 @@
       },
       {
         "date": "2026-08-23",
+        "price": 412,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
         "price": 412,
         "source": "amazon"
       }
@@ -2447,6 +2457,11 @@
         "date": "2026-08-27",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -2607,6 +2622,11 @@
       {
         "date": "2026-08-24",
         "price": 123,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
+        "price": 114,
         "source": "amazon"
       }
     ],
@@ -2824,6 +2844,11 @@
       {
         "date": "2026-08-18",
         "price": 449,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
+        "price": 371.07,
         "source": "amazon"
       }
     ],
@@ -3548,6 +3573,11 @@
       },
       {
         "date": "2026-08-26",
+        "price": 559.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
         "price": 559.99,
         "source": "amazon"
       }
@@ -5249,6 +5279,11 @@
       },
       {
         "date": "2026-08-24",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-28",
         "price": 74.86,
         "source": "amazon"
       }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T10:59:06.734Z",
+  "updatedAt": "2026-08-29T12:10:13.662Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -871,6 +871,11 @@
         "date": "2026-08-28",
         "price": 412,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
+        "price": 412,
+        "source": "amazon"
       }
     ],
     "cosori-airfryer": [
@@ -1393,6 +1398,11 @@
       },
       {
         "date": "2026-08-26",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
         "price": 24.95,
         "source": "amazon"
       }
@@ -2739,6 +2749,11 @@
         "date": "2026-08-27",
         "price": 544.03,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
+        "price": 542.95,
+        "source": "amazon"
       }
     ],
     "ipad-11-2024": [
@@ -3209,6 +3224,11 @@
         "date": "2026-07-15",
         "price": 81,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
+        "price": 184.99,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -3382,12 +3402,22 @@
         "date": "2026-08-23",
         "price": 22.23,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
+        "price": 22.26,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
       {
         "date": "2026-06-03",
         "price": 57.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
+        "price": 26,
         "source": "amazon"
       }
     ],
@@ -3670,6 +3700,11 @@
       },
       {
         "date": "2026-08-22",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
         "price": 44.99,
         "source": "amazon"
       }
@@ -4248,6 +4283,11 @@
         "date": "2026-08-27",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -4408,6 +4448,11 @@
       },
       {
         "date": "2026-08-28",
+        "price": 219,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
         "price": 219,
         "source": "amazon"
       }
@@ -5003,6 +5048,11 @@
       },
       {
         "date": "2026-08-26",
+        "price": 412.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-29",
         "price": 412.4,
         "source": "amazon"
       }

@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-08-30T11:04:05.452Z",
+  "updatedAt": "2026-08-30T15:53:15.142Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 190.07,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 33.87,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "camara-seguridad": {
-      "price": 16.52,
-      "originalPrice": 39.99,
-      "discount": 59,
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 16.52,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "logitech-c920-hd-pro-webcam": {
+      "price": 74.86,
+      "originalPrice": 74.86,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 44.55,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 78.83,
+          "asin": "B006H967FA",
+          "url": "https://www.amazon.es/dp/B006H967FA",
           "linkKind": "direct",
           "priceEstimated": false
         }

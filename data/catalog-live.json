@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-08-30T15:53:15.142Z",
+  "updatedAt": "2026-08-30T20:23:48.430Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
+    "portatil-lenovo": {
+      "price": 412,
+      "originalPrice": 799,
+      "discount": 48,
       "offers": {
         "amazon": {
-          "price": 33.87,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 412,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "samsung-galaxy-buds3": {
+      "price": 184.99,
+      "originalPrice": 184.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 190.94,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "logitech-c920-hd-pro-webcam": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 78.83,
-          "asin": "B006H967FA",
-          "url": "https://www.amazon.es/dp/B006H967FA",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

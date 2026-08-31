@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-08-31T10:43:06.980Z",
+  "updatedAt": "2026-08-31T12:26:47.913Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 42.97,
-      "originalPrice": 46.99,
-      "discount": 9,
+    "asics-gel-nimbus": {
+      "price": 55,
+      "originalPrice": 179.95,
+      "discount": 69,
       "offers": {
         "amazon": {
-          "price": 42.97,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 55,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
+    "pala-padel-head": {
+      "price": 58.86,
+      "originalPrice": 79.99,
+      "discount": 26,
       "offers": {
         "amazon": {
-          "price": 293,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 58.86,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "carrefour-robot": {
+      "price": 219,
+      "originalPrice": 219,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 85.47,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 297.51,
+          "asin": "B0FJGFPWSS",
+          "url": "https://www.amazon.es/dp/B0FJGFPWSS",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:28:57.002Z",
+  "updatedAt": "2026-08-31T22:19:30.793Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2997,6 +2997,11 @@
         "date": "2026-08-24",
         "price": 289.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-08-31",
+        "price": 289.99,
+        "source": "amazon"
       }
     ],
     "purificador-xiaomi": [
@@ -3628,6 +3633,11 @@
       {
         "date": "2026-08-25",
         "price": 524,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-08-31",
+        "price": 532,
         "source": "amazon"
       }
     ],

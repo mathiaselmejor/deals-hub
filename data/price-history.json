@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:20:21.836Z",
+  "updatedAt": "2026-09-01T10:59:11.338Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -752,6 +752,11 @@
       },
       {
         "date": "2026-08-30",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
         "price": 95,
         "source": "amazon"
       }
@@ -3319,6 +3324,11 @@
         "date": "2026-08-30",
         "price": 184.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 172.73,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -3524,6 +3534,11 @@
         "date": "2026-08-31",
         "price": 26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 26,
+        "source": "amazon"
       }
     ],
     "casio-a168": [
@@ -3668,6 +3683,11 @@
       {
         "date": "2026-08-31",
         "price": 532,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 535,
         "source": "amazon"
       }
     ],
@@ -4053,6 +4073,11 @@
         "date": "2026-08-17",
         "price": 49.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 29.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -4406,6 +4431,11 @@
       },
       {
         "date": "2026-08-30",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
         "price": 13.21,
         "source": "amazon"
       }
@@ -5487,6 +5517,11 @@
       },
       {
         "date": "2026-08-31",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
         "price": 74.86,
         "source": "amazon"
       }

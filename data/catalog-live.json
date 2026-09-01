@@ -1,100 +1,30 @@
 {
-  "updatedAt": "2026-09-01T10:57:12.938Z",
+  "updatedAt": "2026-09-01T15:56:30.648Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 67.28,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-buds3": {
-      "price": 172.73,
-      "originalPrice": 184.99,
-      "discount": 7,
-      "offers": {
-        "amazon": {
-          "price": 172.73,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "converse-chuck": {
-      "price": 26,
-      "originalPrice": 57.99,
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
       "discount": 55,
       "offers": {
         "amazon": {
-          "price": 26,
-          "asin": "B0FDHX693D",
-          "url": "https://www.amazon.es/dp/B0FDHX693D",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "cargador-coche-elec": {
-      "price": 535,
-      "originalPrice": 619.99,
-      "discount": 14,
-      "offers": {
-        "amazon": {
-          "price": 535,
-          "asin": "B095B29DFH",
-          "url": "https://www.amazon.es/dp/B095B29DFH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
-      "offers": {
-        "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 85.39,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }

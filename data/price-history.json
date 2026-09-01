@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T03:10:01.163Z",
+  "updatedAt": "2026-09-01T09:20:21.836Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1032,6 +1032,11 @@
       {
         "date": "2026-08-19",
         "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 66.11,
         "source": "amazon"
       }
     ],
@@ -2950,6 +2955,11 @@
         "date": "2026-08-29",
         "price": 371.07,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 371.07,
+        "source": "amazon"
       }
     ],
     "monitor-27-gaming": [
@@ -3339,6 +3349,11 @@
       {
         "date": "2026-06-24",
         "price": 38,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 18,
         "source": "amazon"
       }
     ],
@@ -5308,6 +5323,11 @@
       },
       {
         "date": "2026-08-29",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
         "price": 96.57,
         "source": "amazon"
       }

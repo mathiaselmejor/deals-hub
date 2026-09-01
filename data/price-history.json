@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T22:19:30.793Z",
+  "updatedAt": "2026-09-01T03:10:01.163Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -316,6 +316,11 @@
       },
       {
         "date": "2026-08-31",
+        "price": 42.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
         "price": 42.97,
         "source": "amazon"
       }
@@ -1689,6 +1694,11 @@
         "date": "2026-08-30",
         "price": 314.04,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 314.04,
+        "source": "amazon"
       }
     ],
     "pelota-futbol-select": [
@@ -2208,6 +2218,11 @@
       {
         "date": "2026-08-28",
         "price": 69,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 74.99,
         "source": "amazon"
       }
     ],
@@ -4783,6 +4798,11 @@
         "date": "2026-08-08",
         "price": 593,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 333,
+        "source": "amazon"
       }
     ],
     "motorola-edge-40-neo": [
@@ -5672,6 +5692,11 @@
       {
         "date": "2026-08-25",
         "price": 115.43,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-01",
+        "price": 98,
         "source": "amazon"
       }
     ],

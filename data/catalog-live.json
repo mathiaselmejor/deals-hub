@@ -1,14 +1,56 @@
 {
-  "updatedAt": "2026-09-02T02:27:08.853Z",
+  "updatedAt": "2026-09-02T08:39:30.793Z",
   "engineVersion": 1,
   "products": {
-    "steelseries-arctis-nova-7": {
-      "price": 109.27,
-      "originalPrice": 172.52,
-      "discount": 37,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 109.27,
+          "price": 67.28,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 166.36,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 293,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 132,
+      "originalPrice": 172.52,
+      "discount": 23,
+      "offers": {
+        "amazon": {
+          "price": 132,
           "asin": "B0FS7L9CK4",
           "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",

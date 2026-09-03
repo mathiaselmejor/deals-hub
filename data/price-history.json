@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T08:49:53.993Z",
+  "updatedAt": "2026-09-03T10:35:08.798Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1575,6 +1575,11 @@
       },
       {
         "date": "2026-09-02",
+        "price": 62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-03",
         "price": 62,
         "source": "amazon"
       }
@@ -3381,6 +3386,11 @@
         "date": "2026-06-03",
         "price": 54.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-03",
+        "price": 52,
+        "source": "amazon"
       }
     ],
     "ring-doorbell": [
@@ -4491,6 +4501,11 @@
       },
       {
         "date": "2026-09-01",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-03",
         "price": 13.21,
         "source": "amazon"
       }
@@ -5821,6 +5836,11 @@
       },
       {
         "date": "2026-09-01",
+        "price": 98,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-03",
         "price": 98,
         "source": "amazon"
       }

@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-09-02",
-  "updatedAt": "2026-09-02T20:26:39.021Z",
+  "dayKey": "2026-09-03",
+  "updatedAt": "2026-09-03T02:37:01.917Z",
   "trendingIds": [
-    "oximetro-pulso-dedo",
-    "powerbank-magnetica-5000mah",
-    "domestika-cursos",
-    "dyson-v15-detect-absolute",
-    "asics-gel-nimbus",
-    "aceite-coco-virgen-500ml",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "converse-chuck",
-    "termometro-infrarrojos-sin-contacto",
-    "sandwichera-grill-2000w",
-    "cinta-correr-plegable",
-    "playmobil-city",
-    "lampara-pie-led-regulable",
-    "silla-ergonomica-oficina-reposabrazos-4d",
-    "delonghi-dedica",
-    "set-skincare-coreano-5-pasos",
-    "toalla-microfibra-playa-xl",
-    "linterna-led-coche-recargable"
-  ],
-  "featuredIds": [
     "organizador-maletero-plegable",
     "almohada-cervical-memory-foam",
     "hot-wheels-track",
-    "asics-gel-nimbus",
+    "monitor-lg-ultragear-27-165hz",
     "amazon-fire-hd-10",
-    "base-carga-inalambrica-magsafe-15w",
+    "soporte-portatil-aluminio-ajustable",
     "rodillera-voleibol-padel-pack-2",
-    "set-pesas-kettlebell-8kg-12kg"
+    "sandwichera-grill-2000w",
+    "oximetro-pulso-dedo",
+    "tiras-reactivas-glucosa-x50",
+    "amazon-echo-pop-altavoz-alexa",
+    "sabanas-microfibra-4-piezas",
+    "delonghi-dedica",
+    "portatil-lenovo",
+    "photobooth-accesorios-30-piezas",
+    "silla-paseo-ligera",
+    "cable-usb-c-a-lightning-2m-mfi",
+    "termoventilador-ceramico-2000w"
   ],
-  "dealOfDayId": "oximetro-pulso-dedo"
+  "featuredIds": [
+    "amazon-fire-hd-10",
+    "roborock-qrevo-s-robot-aspirador",
+    "silla-paseo-ligera",
+    "powerbank-magnetica-5000mah",
+    "saco-dormir-bebe-invierno",
+    "comida-hellofresh",
+    "sudadera-oversize-unisex",
+    "sabanas-microfibra-4-piezas"
+  ],
+  "dealOfDayId": "organizador-maletero-plegable"
 }

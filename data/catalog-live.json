@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-09-03T10:33:03.659Z",
+  "updatedAt": "2026-09-03T15:38:09.879Z",
   "engineVersion": 1,
   "products": {
-    "asics-gel-nimbus": {
-      "price": 62,
-      "originalPrice": 179.95,
-      "discount": 66,
+    "portatil-lenovo": {
+      "price": 412,
+      "originalPrice": 799,
+      "discount": 48,
       "offers": {
         "amazon": {
-          "price": 62,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 412,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "mochila-portatil": {
-      "price": 52,
-      "originalPrice": 54.99,
-      "discount": 5,
+    "samsung-galaxy-s25": {
+      "price": 541.67,
+      "originalPrice": 909,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 52,
-          "asin": "B07KYSH6BS",
-          "url": "https://www.amazon.es/dp/B07KYSH6BS",
+          "price": 541.67,
+          "asin": "B0DPXMJNV7",
+          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "lenovo-tab-p12": {
+      "price": 271.9,
+      "originalPrice": 302.71,
+      "discount": 10,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 98,
-      "originalPrice": 139.97,
-      "discount": 30,
-      "offers": {
-        "amazon": {
-          "price": 98,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 271.9,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-09-03T15:38:09.879Z",
+  "updatedAt": "2026-09-03T20:23:42.431Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 412,
-      "originalPrice": 799,
-      "discount": 48,
-      "offers": {
-        "amazon": {
-          "price": 412,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "samsung-galaxy-s25": {
       "price": 541.67,
       "originalPrice": 909,
@@ -30,15 +16,29 @@
         }
       }
     },
-    "lenovo-tab-p12": {
-      "price": 271.9,
-      "originalPrice": 302.71,
-      "discount": 10,
+    "mochila-portatil": {
+      "price": 52,
+      "originalPrice": 54.99,
+      "discount": 5,
       "offers": {
         "amazon": {
-          "price": 271.9,
-          "asin": "B0DT4ZHQGQ",
-          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
+          "price": 52,
+          "asin": "B07KYSH6BS",
+          "url": "https://www.amazon.es/dp/B07KYSH6BS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 29.01,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }

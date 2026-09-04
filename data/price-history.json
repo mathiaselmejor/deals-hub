@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:25:38.261Z",
+  "updatedAt": "2026-09-04T02:39:17.876Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2778,6 +2778,11 @@
         "date": "2026-08-28",
         "price": 114,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
+        "price": 123,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -4158,6 +4163,11 @@
         "date": "2026-09-01",
         "price": 29.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
+        "price": 29.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -4521,6 +4531,11 @@
       },
       {
         "date": "2026-09-03",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
         "price": 13.21,
         "source": "amazon"
       }
@@ -4941,6 +4956,11 @@
       },
       {
         "date": "2026-09-02",
+        "price": 593,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
         "price": 593,
         "source": "amazon"
       }

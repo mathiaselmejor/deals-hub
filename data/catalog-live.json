@@ -1,44 +1,72 @@
 {
-  "updatedAt": "2026-09-04T10:24:35.225Z",
+  "updatedAt": "2026-09-04T15:36:47.233Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 31.99,
-      "originalPrice": 31.99,
-      "discount": 0,
+    "stanley-quencher": {
+      "price": 42.97,
+      "originalPrice": 46.99,
+      "discount": 9,
       "offers": {
         "amazon": {
-          "price": 38.81,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 42.97,
+          "asin": "B0CNTWY3VM",
+          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 49.55,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 98,
-      "originalPrice": 139.97,
-      "discount": 30,
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 412.4,
+      "originalPrice": 487.17,
+      "discount": 15,
       "offers": {
         "amazon": {
-          "price": 98,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 412.4,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "logitech-mx-master-3s": {
+      "price": 96.57,
+      "originalPrice": 96.57,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 118,
+          "asin": "B09HM94VDS",
+          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 109.27,
+      "originalPrice": 172.52,
+      "discount": 37,
+      "offers": {
+        "amazon": {
+          "price": 109.27,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

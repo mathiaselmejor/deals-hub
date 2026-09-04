@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T10:26:41.333Z",
+  "updatedAt": "2026-09-04T15:38:49.663Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -321,6 +321,11 @@
       },
       {
         "date": "2026-09-01",
+        "price": 42.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
         "price": 42.97,
         "source": "amazon"
       }
@@ -4330,6 +4335,11 @@
         "date": "2026-08-30",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -5365,6 +5375,11 @@
         "date": "2026-08-29",
         "price": 412.4,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
+        "price": 412.4,
+        "source": "amazon"
       }
     ],
     "lenovo-tab-p12": [
@@ -5508,6 +5523,11 @@
       },
       {
         "date": "2026-09-01",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
         "price": 96.57,
         "source": "amazon"
       }
@@ -6044,6 +6064,11 @@
       {
         "date": "2026-09-02",
         "price": 132,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-04",
+        "price": 109.27,
         "source": "amazon"
       }
     ],

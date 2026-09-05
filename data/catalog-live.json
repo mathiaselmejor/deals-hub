@@ -1,58 +1,16 @@
 {
-  "updatedAt": "2026-09-05T08:14:25.008Z",
+  "updatedAt": "2026-09-05T09:50:17.216Z",
   "engineVersion": 1,
   "products": {
-    "samsung-galaxy-s25": {
-      "price": 642.3,
-      "originalPrice": 909,
-      "discount": 29,
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 642.3,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "dyson-airwrap": {
-      "price": 359.5,
-      "originalPrice": 549,
-      "discount": 35,
-      "offers": {
-        "amazon": {
-          "price": 359.5,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xiaomi-redmi-note-13-pro-5g": {
-      "price": 245,
-      "originalPrice": 270.16,
-      "discount": 9,
-      "offers": {
-        "amazon": {
-          "price": 245,
-          "asin": "B0CQ32CLZQ",
-          "url": "https://www.amazon.es/dp/B0CQ32CLZQ",
+          "price": 29.01,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }

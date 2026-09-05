@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-09-05T14:24:39.586Z",
+  "updatedAt": "2026-09-05T19:48:42.556Z",
   "engineVersion": 1,
   "products": {
-    "logitech-c920-hd-pro-webcam": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "delonghi-dedica": {
+      "price": 123,
+      "originalPrice": 199,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 123,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 78.83,
-          "asin": "B006H967FA",
-          "url": "https://www.amazon.es/dp/B006H967FA",
+          "price": 354,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 98,
+      "originalPrice": 139.97,
+      "discount": 30,
+      "offers": {
+        "amazon": {
+          "price": 98,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

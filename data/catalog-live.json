@@ -1,48 +1,5 @@
 {
-  "updatedAt": "2026-09-06T08:33:12.456Z",
+  "updatedAt": "2026-09-06T10:06:48.790Z",
   "engineVersion": 1,
-  "products": {
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 49.55,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 98,
-      "originalPrice": 139.97,
-      "discount": 30,
-      "offers": {
-        "amazon": {
-          "price": 98,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

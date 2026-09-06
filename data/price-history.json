@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T02:30:04.503Z",
+  "updatedAt": "2026-09-06T08:35:07.262Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3266,6 +3266,11 @@
         "date": "2026-09-04",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-06",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -4383,6 +4388,11 @@
       },
       {
         "date": "2026-09-05",
+        "price": 20.28,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-06",
         "price": 20.28,
         "source": "amazon"
       }
@@ -6001,6 +6011,11 @@
       },
       {
         "date": "2026-09-05",
+        "price": 98,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-06",
         "price": 98,
         "source": "amazon"
       }

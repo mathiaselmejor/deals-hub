@@ -1,5 +1,62 @@
 {
-  "updatedAt": "2026-09-06T10:06:48.790Z",
+  "updatedAt": "2026-09-06T14:46:45.754Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "portatil-lenovo": {
+      "price": 412,
+      "originalPrice": 799,
+      "discount": 48,
+      "offers": {
+        "amazon": {
+          "price": 412,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
+      "discount": 55,
+      "offers": {
+        "amazon": {
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 49.75,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 412.4,
+      "originalPrice": 487.17,
+      "discount": 15,
+      "offers": {
+        "amazon": {
+          "price": 412.4,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

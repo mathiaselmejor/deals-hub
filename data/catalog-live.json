@@ -1,16 +1,58 @@
 {
-  "updatedAt": "2026-09-08T02:38:01.481Z",
+  "updatedAt": "2026-09-08T08:46:01.268Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 45.4,
-      "originalPrice": 46.99,
-      "discount": 3,
+    "levis-501": {
+      "price": 55,
+      "originalPrice": 55,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 45.4,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 82.98,
+          "asin": "B0DNNZ2NMF",
+          "url": "https://www.amazon.es/dp/B0DNNZ2NMF",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 33.87,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "delonghi-dedica": {
+      "price": 123,
+      "originalPrice": 199,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 123,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
           "linkKind": "direct",
           "priceEstimated": false
         }

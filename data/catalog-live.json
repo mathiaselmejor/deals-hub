@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T15:50:41.116Z",
+  "updatedAt": "2026-09-08T20:35:07.901Z",
   "engineVersion": 1,
   "products": {
     "pack-ropa-interior-hanes": {
@@ -16,43 +16,15 @@
         }
       }
     },
-    "monitor-27-gaming": {
-      "price": 289.99,
-      "originalPrice": 289.99,
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 354.55,
-          "asin": "B09CD32DNH",
-          "url": "https://www.amazon.es/dp/B09CD32DNH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "aliexpress-buds": {
-      "price": 16,
-      "originalPrice": 39.99,
-      "discount": 60,
-      "offers": {
-        "amazon": {
-          "price": 16,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
-      "offers": {
-        "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 293,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

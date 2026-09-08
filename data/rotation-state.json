@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-09-07",
-  "updatedAt": "2026-09-07T21:02:51.265Z",
+  "dayKey": "2026-09-08",
+  "updatedAt": "2026-09-08T02:39:55.738Z",
   "trendingIds": [
-    "almohadilla-electrica-lumbar",
-    "oximetro-pulso-dedo",
-    "oppo-reno-12-f-5g",
-    "set-herramientas-jardin-8-piezas",
     "protector-solar-spf50-200ml-pack-x2",
-    "the-north-face-borealis-mochila",
-    "domestika-cursos",
-    "organizador-cables-escritorio",
-    "toalla-microfibra-playa-xl",
-    "organizador-maletero-plegable",
-    "masajeador-cuello-shiatsu",
-    "resina-epoxi-transparente-1-5l-kit",
-    "levi-s-501-original-vaquero",
-    "samsung-tv-oled",
-    "termometro-infrarrojos-sin-contacto",
-    "hot-wheels-track",
-    "pampers-premium",
-    "purina-pro-plan-gato-3kg"
-  ],
-  "featuredIds": [
-    "tiras-reactivas-glucosa-x50",
     "bombillas-led-pack",
     "gopro-hero12-black",
-    "resina-epoxi-transparente-1-5l-kit",
+    "cerave-rutina",
     "sandwichera-grill-2000w",
     "bufanda-lana-merino",
     "anillo-soporte-movil-magsafe",
-    "cable-hdmi-2-1-3m-8k"
+    "cable-hdmi-2-1-3m-8k",
+    "radiador-aceite-9-elementos",
+    "organizador-armario-12-cajones",
+    "cama-perro-ortopedica",
+    "almohada-cervical-viaje-memory-foam",
+    "monitor-lg-ultragear-27-165hz",
+    "vasos-desechables-premium-50u",
+    "almohadilla-electrica-lumbar",
+    "hot-wheels-track",
+    "dyson-v15-detect-absolute",
+    "aceite-coco-virgen-500ml"
   ],
-  "dealOfDayId": "almohadilla-electrica-lumbar"
+  "featuredIds": [
+    "etiquetas-identificacion-maleta-x8",
+    "almohada-cervical-memory-foam",
+    "set-herramientas-jardin-8-piezas",
+    "monitor-lg-ultragear-27-165hz",
+    "crocs-classic",
+    "protector-solar-spf50-200ml-pack-x2",
+    "gopro-hero12-black",
+    "bombillas-led-pack"
+  ],
+  "dealOfDayId": "protector-solar-spf50-200ml-pack-x2"
 }

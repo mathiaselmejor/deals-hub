@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T10:28:35.689Z",
+  "updatedAt": "2026-09-08T15:52:49.692Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3207,6 +3207,11 @@
         "date": "2026-08-31",
         "price": 289.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-08",
+        "price": 289.99,
+        "source": "amazon"
       }
     ],
     "purificador-xiaomi": [
@@ -4181,6 +4186,11 @@
         "date": "2026-09-05",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-08",
+        "price": 16,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -4721,6 +4731,11 @@
       },
       {
         "date": "2026-09-07",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-08",
         "price": 13.21,
         "source": "amazon"
       }

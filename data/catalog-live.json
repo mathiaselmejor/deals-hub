@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-09-09T02:38:30.865Z",
+  "updatedAt": "2026-09-09T08:52:37.505Z",
   "engineVersion": 1,
-  "products": {
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

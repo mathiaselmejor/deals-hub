@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T10:38:50.911Z",
+  "updatedAt": "2026-09-09T15:48:37.359Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -449,6 +449,11 @@
       {
         "date": "2026-08-26",
         "price": 22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
+        "price": 14,
         "source": "amazon"
       }
     ],
@@ -1247,6 +1252,11 @@
         "date": "2026-09-08",
         "price": 55,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
+        "price": 55,
+        "source": "amazon"
       }
     ],
     "north-face-nuptse": [
@@ -1991,6 +2001,11 @@
         "date": "2026-09-03",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -2702,6 +2717,11 @@
         "date": "2026-08-30",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -2881,6 +2901,11 @@
       },
       {
         "date": "2026-09-08",
+        "price": 123,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
         "price": 123,
         "source": "amazon"
       }
@@ -3774,6 +3799,11 @@
         "date": "2026-09-04",
         "price": 54,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
+        "price": 26,
+        "source": "amazon"
       }
     ],
     "casio-a168": [
@@ -4515,6 +4545,11 @@
         "date": "2026-09-08",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -4756,6 +4791,11 @@
       },
       {
         "date": "2026-09-08",
+        "price": 13.21,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-09",
         "price": 13.21,
         "source": "amazon"
       }

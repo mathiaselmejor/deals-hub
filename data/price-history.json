@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T10:26:50.572Z",
+  "updatedAt": "2026-09-10T15:43:31.583Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -650,6 +650,11 @@
       },
       {
         "date": "2026-09-08",
+        "price": 15.69,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-10",
         "price": 15.69,
         "source": "amazon"
       }
@@ -2732,6 +2737,11 @@
         "date": "2026-09-09",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-10",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -3831,6 +3841,11 @@
         "date": "2026-09-07",
         "price": 22.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-10",
+        "price": 22.95,
+        "source": "amazon"
       }
     ],
     "zalando-gift-card-style": [
@@ -4125,6 +4140,11 @@
       },
       {
         "date": "2026-09-09",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-10",
         "price": 44.99,
         "source": "amazon"
       }

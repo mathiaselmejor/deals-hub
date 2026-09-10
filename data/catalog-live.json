@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-09-10T02:40:34.113Z",
+  "updatedAt": "2026-09-10T08:50:58.523Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
+      "offers": {
+        "amazon": {
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

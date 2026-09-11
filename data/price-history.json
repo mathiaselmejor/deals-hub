@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:29:02.547Z",
+  "updatedAt": "2026-09-11T15:44:42.367Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1700,6 +1700,11 @@
       },
       {
         "date": "2026-09-10",
+        "price": 62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 62,
         "source": "amazon"
       }
@@ -4463,6 +4468,11 @@
         "date": "2026-09-09",
         "price": 29.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 29.99,
+        "source": "amazon"
       }
     ],
     "comida-hellofresh": [
@@ -4625,6 +4635,11 @@
         "date": "2026-09-09",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -4700,6 +4715,11 @@
       {
         "date": "2026-06-03",
         "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 11,
         "source": "amazon"
       }
     ],

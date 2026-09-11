@@ -1,58 +1,72 @@
 {
-  "updatedAt": "2026-09-11T02:33:55.576Z",
+  "updatedAt": "2026-09-11T08:48:21.786Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
+    "ninja-airfryer": {
+      "price": 166.12,
+      "originalPrice": 189.99,
+      "discount": 13,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 166.12,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
+    "pala-padel-head": {
+      "price": 55.35,
+      "originalPrice": 79.99,
+      "discount": 31,
       "offers": {
         "amazon": {
-          "price": 37.45,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 55.35,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
+    "delonghi-dedica": {
+      "price": 123,
+      "originalPrice": 199,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 293,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 123,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
+    "razer-deathadder-v3": {
+      "price": 74.86,
+      "originalPrice": 74.86,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 118,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 94.53,
+          "asin": "B09ZLV2531",
+          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "logitech-c920-hd-pro-webcam": {
+      "price": 74.86,
+      "originalPrice": 74.86,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 78.83,
+          "asin": "B006H967FA",
+          "url": "https://www.amazon.es/dp/B006H967FA",
           "linkKind": "direct",
           "priceEstimated": false
         }

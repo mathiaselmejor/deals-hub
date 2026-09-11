@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:35:53.200Z",
+  "updatedAt": "2026-09-11T08:50:26.031Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -165,6 +165,11 @@
       {
         "date": "2026-09-07",
         "price": 168.6,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 166.12,
         "source": "amazon"
       }
     ],
@@ -2178,6 +2183,11 @@
         "date": "2026-09-04",
         "price": 58.86,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 55.35,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -2941,6 +2951,11 @@
       },
       {
         "date": "2026-09-09",
+        "price": 123,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 123,
         "source": "amazon"
       }
@@ -6014,6 +6029,11 @@
         "date": "2026-09-06",
         "price": 74.86,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 74.86,
+        "source": "amazon"
       }
     ],
     "logitech-c920-hd-pro-webcam": [
@@ -6054,6 +6074,11 @@
       },
       {
         "date": "2026-09-05",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 74.86,
         "source": "amazon"
       }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:21:57.932Z",
+  "updatedAt": "2026-09-11T02:35:53.200Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -804,6 +804,11 @@
         "date": "2026-09-01",
         "price": 95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 95,
+        "source": "amazon"
       }
     ],
     "portatil-lenovo": [
@@ -1538,6 +1543,11 @@
       },
       {
         "date": "2026-09-08",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 24.95,
         "source": "amazon"
       }
@@ -5486,6 +5496,11 @@
         "date": "2026-09-08",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -5818,6 +5833,11 @@
       },
       {
         "date": "2026-09-04",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 96.57,
         "source": "amazon"
       }

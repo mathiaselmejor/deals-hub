@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-09-10",
-  "updatedAt": "2026-09-10T20:21:57.932Z",
+  "dayKey": "2026-09-11",
+  "updatedAt": "2026-09-11T02:35:53.200Z",
   "trendingIds": [
-    "monitor-lg-ultragear-27-165hz",
-    "pampers-premium",
-    "barra-sonido-samsung",
-    "gopro-hero12-black",
-    "picadora-electrica-500w",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "almohada-cervical-memory-foam",
-    "crocs-classic",
-    "dyson-v15-detect-absolute",
-    "camara-seguridad",
-    "soporte-movil-magnetico-ventilacion",
-    "pinata-rellenable-unicornio",
-    "resina-epoxi-transparente-1-5l-kit",
-    "base-carga-inalambrica-magsafe-15w",
-    "guirnalda-led-fiesta-10m",
-    "omega-3-1000mg-180-perlas",
-    "portatil-lenovo",
-    "toalla-microfibra-playa-xl"
-  ],
-  "featuredIds": [
     "north-face-nuptse",
     "cafe-grano-especial-1kg",
     "bascula-equipaje-digital-50kg",
@@ -29,7 +9,27 @@
     "set-pesas-kettlebell-8kg-12kg",
     "levi-s-501-original-vaquero",
     "neceser-viaje-colgante-organizador",
-    "escritorio-elevable-electrico-140cm"
+    "escritorio-elevable-electrico-140cm",
+    "dyson-airwrap",
+    "almohada-cervical-viaje-memory-foam",
+    "comida-hellofresh",
+    "harry-potter-coleccion-7-libros",
+    "cerave-rutina",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "converse-chuck",
+    "organizador-armario-12-cajones",
+    "the-north-face-borealis-mochila",
+    "amazon-fire-hd-10"
   ],
-  "dealOfDayId": "monitor-lg-ultragear-27-165hz"
+  "featuredIds": [
+    "bascula-cocina-digital-5kg",
+    "vestido-verano-midi-fluido",
+    "exprimidor-citricos-85w",
+    "the-north-face-borealis-mochila",
+    "sierra-caladora-black-decker-600w",
+    "vasos-desechables-premium-50u",
+    "omega-3-1000mg-180-perlas",
+    "aliexpress-buds"
+  ],
+  "dealOfDayId": "north-face-nuptse"
 }

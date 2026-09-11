@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T08:50:26.031Z",
+  "updatedAt": "2026-09-11T10:29:02.547Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -980,6 +980,11 @@
       {
         "date": "2026-09-06",
         "price": 412,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 404,
         "source": "amazon"
       }
     ],
@@ -2300,6 +2305,11 @@
         "date": "2026-09-09",
         "price": 99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
+        "price": 99,
+        "source": "amazon"
       }
     ],
     "tienda-campana-quechua": [
@@ -2427,6 +2437,11 @@
       },
       {
         "date": "2026-09-07",
+        "price": 74.37,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 74.37,
         "source": "amazon"
       }
@@ -5698,6 +5713,11 @@
       },
       {
         "date": "2026-09-10",
+        "price": 487.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-11",
         "price": 487.17,
         "source": "amazon"
       }

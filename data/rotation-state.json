@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-09-11",
-  "updatedAt": "2026-09-11T20:22:37.524Z",
+  "dayKey": "2026-09-12",
+  "updatedAt": "2026-09-12T02:45:19.716Z",
   "trendingIds": [
-    "altavoz-bluetooth-fiesta-40w",
-    "audio-technica-at2020usb-microfono",
     "bascula-equipaje-digital-50kg",
-    "gopro-hero12-black",
-    "bufanda-lana-merino",
-    "levi-s-501-original-vaquero",
-    "harry-potter-coleccion-7-libros",
-    "comida-hellofresh",
-    "sudadera-oversize-unisex",
-    "plancha-vapor-3000w-ceramica",
-    "bombillas-led-pack",
-    "bolsa-vacio-ropa-6u-bomba",
-    "cerave-rutina",
-    "escritorio-elevable-electrico-140cm",
-    "crocs-classic",
-    "sandwichera-grill-2000w",
-    "portatil-lenovo",
-    "etiquetas-identificacion-maleta-x8"
-  ],
-  "featuredIds": [
-    "roborock-qrevo-s-robot-aspirador",
     "sensor-inundacion-wifi-3-pack",
     "exprimidor-citricos-85w",
-    "portatil-lenovo",
+    "radiador-aceite-9-elementos",
     "sierra-caladora-black-decker-600w",
-    "organizador-cables-escritorio",
+    "altavoz-bluetooth-fiesta-40w",
     "lampara-pie-led-regulable",
-    "aliexpress-buds"
+    "aliexpress-buds",
+    "almohadilla-electrica-lumbar",
+    "picadora-electrica-500w",
+    "asics-gel-nimbus",
+    "tp-link-tapo-camara-2k-interior",
+    "pampers-premium",
+    "portatil-lenovo",
+    "gopro-hero12-black",
+    "silla-ergonomica-oficina-reposabrazos-4d",
+    "bascula-cocina-digital-5kg",
+    "cinta-correr-plegable"
   ],
-  "dealOfDayId": "altavoz-bluetooth-fiesta-40w"
+  "featuredIds": [
+    "silla-paseo-ligera",
+    "exprimidor-citricos-85w",
+    "aliexpress-buds",
+    "levi-s-501-original-vaquero",
+    "samsung-tv-oled",
+    "cerave-rutina",
+    "candado-tsa-maleta-4-digitos",
+    "purina-pro-plan-gato-3kg"
+  ],
+  "dealOfDayId": "bascula-equipaje-digital-50kg"
 }

@@ -1,58 +1,30 @@
 {
-  "updatedAt": "2026-09-12T02:42:50.901Z",
+  "updatedAt": "2026-09-12T08:32:02.146Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 404,
-      "originalPrice": 799,
-      "discount": 49,
+    "pala-padel-head": {
+      "price": 55.35,
+      "originalPrice": 79.99,
+      "discount": 31,
       "offers": {
         "amazon": {
-          "price": 404,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 55.35,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 37.45,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-s25": {
-      "price": 641.76,
-      "originalPrice": 909,
-      "discount": 29,
-      "offers": {
-        "amazon": {
-          "price": 641.76,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "monitor-27-gaming": {
-      "price": 289.99,
-      "originalPrice": 289.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 362.81,
-          "asin": "B09CD32DNH",
-          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "price": 179.17,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T10:59:00.070Z",
+  "updatedAt": "2026-09-13T15:30:38.790Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2066,6 +2066,11 @@
         "date": "2026-09-09",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-13",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -2817,6 +2822,11 @@
         "date": "2026-09-12",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-13",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -3355,6 +3365,11 @@
       },
       {
         "date": "2026-09-12",
+        "price": 289.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-13",
         "price": 289.99,
         "source": "amazon"
       }

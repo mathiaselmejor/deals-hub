@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-09-12",
-  "updatedAt": "2026-09-12T20:04:28.133Z",
+  "dayKey": "2026-09-13",
+  "updatedAt": "2026-09-13T02:43:39.929Z",
   "trendingIds": [
-    "exprimidor-citricos-85w",
-    "tp-link-tapo-camara-2k-interior",
-    "masajeador-cuello-shiatsu",
-    "portatil-lenovo",
-    "sierra-caladora-black-decker-600w",
-    "toalla-microfibra-playa-xl",
-    "roborock-qrevo-s-robot-aspirador",
-    "aliexpress-buds",
-    "bascula-equipaje-digital-50kg",
-    "soporte-movil-magnetico-ventilacion",
-    "cerave-rutina",
-    "kit-emergencia-carretera-65-piezas",
-    "pampers-premium",
-    "radiador-aceite-9-elementos",
-    "gopro-hero12-black",
-    "silla-ergonomica-oficina-reposabrazos-4d",
-    "north-face-nuptse",
-    "cinta-correr-plegable"
-  ],
-  "featuredIds": [
     "silla-paseo-ligera",
-    "masajeador-cuello-shiatsu",
-    "aliexpress-buds",
+    "baterias-lipo-cargador-balanceador",
+    "dyson-v15-detect-absolute",
     "set-skincare-coreano-5-pasos",
     "sabanas-microfibra-4-piezas",
-    "barra-sonido-samsung",
+    "pampers-premium",
     "chocolate-valor-surtido-500g",
-    "harry-potter-coleccion-7-libros"
+    "harry-potter-coleccion-7-libros",
+    "omega-3-1000mg-180-perlas",
+    "saco-dormir-bebe-invierno",
+    "gafas-natacion-anti-vaho-pack-2",
+    "bascula-cocina-digital-5kg",
+    "organizador-armario-12-cajones",
+    "silla-ergonomica-oficina-reposabrazos-4d",
+    "playmobil-city",
+    "perfume-armani",
+    "cable-usb-c-a-lightning-2m-mfi",
+    "bolsa-vacio-ropa-6u-bomba"
   ],
-  "dealOfDayId": "exprimidor-citricos-85w"
+  "featuredIds": [
+    "playmobil-city",
+    "pampers-premium",
+    "camara-seguridad",
+    "gopro-hero12-black",
+    "domestika-cursos",
+    "crocs-classic",
+    "bolsa-vacio-ropa-6u-bomba",
+    "termoventilador-ceramico-2000w"
+  ],
+  "dealOfDayId": "silla-paseo-ligera"
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T02:56:51.146Z",
+  "updatedAt": "2026-09-16T09:13:51.245Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1178,6 +1178,11 @@
         "date": "2026-09-15",
         "price": 70.24,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-16",
+        "price": 70.24,
+        "source": "amazon"
       }
     ],
     "teclado-logitech": [
@@ -1912,6 +1917,11 @@
       },
       {
         "date": "2026-09-14",
+        "price": 314.04,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-16",
         "price": 314.04,
         "source": "amazon"
       }
@@ -4375,6 +4385,11 @@
       },
       {
         "date": "2026-09-14",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-16",
         "price": 44.99,
         "source": "amazon"
       }

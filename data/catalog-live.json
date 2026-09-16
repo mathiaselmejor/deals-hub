@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-09-15T20:45:58.754Z",
+  "updatedAt": "2026-09-16T02:54:44.135Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 18.99,
-      "originalPrice": 31.99,
-      "discount": 41,
-      "offers": {
-        "amazon": {
-          "price": 18.99,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "lego-classic": {
-      "price": 42.99,
-      "originalPrice": 42.99,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 48.98,
-          "asin": "B00PY3EYQO",
-          "url": "https://www.amazon.es/dp/B00PY3EYQO",
+          "price": 68.34,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 15.99,
-      "originalPrice": 29.99,
-      "discount": 47,
+    "dyson-airwrap": {
+      "price": 453.72,
+      "originalPrice": 549,
+      "discount": 17,
       "offers": {
         "amazon": {
-          "price": 15.99,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 453.72,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
+    "nordvpn-sub": {
+      "price": 49.99,
+      "originalPrice": 49.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 113,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 49.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

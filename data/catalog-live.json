@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-09-16T09:11:55.196Z",
+  "updatedAt": "2026-09-16T10:41:23.777Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 70.24,
-      "originalPrice": 129.99,
-      "discount": 46,
-      "offers": {
-        "amazon": {
-          "price": 70.24,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "garmin-forerunner-265": {
-      "price": 314.04,
-      "originalPrice": 449,
-      "discount": 30,
-      "offers": {
-        "amazon": {
-          "price": 314.04,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "mochila-viaje-cabin": {
-      "price": 44.99,
-      "originalPrice": 44.99,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 57.77,
-          "asin": "B01M7UBL11",
-          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "price": 69.04,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 49.55,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "casio-a168": {
+      "price": 22.95,
+      "originalPrice": 22.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 36.01,
+          "asin": "B000LAKYW8",
+          "url": "https://www.amazon.es/dp/B000LAKYW8",
           "linkKind": "direct",
           "priceEstimated": false
         }

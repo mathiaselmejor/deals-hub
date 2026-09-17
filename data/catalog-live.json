@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-09-17T10:49:20.657Z",
+  "updatedAt": "2026-09-17T16:04:04.756Z",
   "engineVersion": 1,
   "products": {
-    "barbacoa-weber": {
-      "price": 74.99,
-      "originalPrice": 74.99,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 91,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "price": 37.74,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 49.55,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "casio-a168": {
+      "price": 22.95,
+      "originalPrice": 22.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 35.01,
+          "asin": "B000LAKYW8",
+          "url": "https://www.amazon.es/dp/B000LAKYW8",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:47:53.794Z",
+  "updatedAt": "2026-09-17T03:00:33.442Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3804,6 +3804,11 @@
         "date": "2026-09-13",
         "price": 171.84,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-17",
+        "price": 171.84,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -4944,6 +4949,11 @@
       },
       {
         "date": "2026-09-14",
+        "price": 11,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-17",
         "price": 11,
         "source": "amazon"
       }

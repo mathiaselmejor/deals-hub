@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T08:57:18.756Z",
+  "updatedAt": "2026-09-18T10:26:41.972Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2313,6 +2313,11 @@
         "date": "2026-09-15",
         "price": 58.27,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-18",
+        "price": 53.64,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -3502,6 +3507,11 @@
         "date": "2026-09-13",
         "price": 289.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-18",
+        "price": 289.99,
+        "source": "amazon"
       }
     ],
     "purificador-xiaomi": [
@@ -4450,6 +4460,11 @@
       },
       {
         "date": "2026-09-16",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-18",
         "price": 44.99,
         "source": "amazon"
       }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:13:55.498Z",
+  "updatedAt": "2026-09-19T19:56:58.830Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1045,6 +1045,11 @@
       {
         "date": "2026-09-14",
         "price": 404,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-19",
+        "price": 437,
         "source": "amazon"
       }
     ],
@@ -2338,6 +2343,11 @@
         "date": "2026-09-18",
         "price": 53.64,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-19",
+        "price": 53.64,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -2967,6 +2977,11 @@
     "nespresso-vertuo": [
       {
         "date": "2026-06-03",
+        "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-19",
         "price": 84.99,
         "source": "amazon"
       }
@@ -5237,6 +5252,11 @@
       {
         "date": "2026-09-15",
         "price": 15.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-19",
+        "price": 13.21,
         "source": "amazon"
       }
     ],

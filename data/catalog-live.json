@@ -1,58 +1,72 @@
 {
-  "updatedAt": "2026-09-19T15:12:00.925Z",
+  "updatedAt": "2026-09-19T19:54:54.614Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
+    "portatil-lenovo": {
+      "price": 437,
+      "originalPrice": 799,
+      "discount": 45,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 437,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "asics-gel-nimbus": {
-      "price": 62,
-      "originalPrice": 179.95,
-      "discount": 66,
+    "pala-padel-head": {
+      "price": 53.64,
+      "originalPrice": 79.99,
+      "discount": 33,
       "offers": {
         "amazon": {
-          "price": 62,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 53.64,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
+    "nespresso-vertuo": {
+      "price": 84.99,
+      "originalPrice": 84.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 354,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 131,
+          "asin": "B0FRS4CNYF",
+          "url": "https://www.amazon.es/dp/B0FRS4CNYF",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
-      "discount": 0,
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
       "offers": {
         "amazon": {
-          "price": 90.9,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

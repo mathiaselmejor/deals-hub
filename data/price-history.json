@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T09:13:20.139Z",
+  "updatedAt": "2026-09-20T10:29:35.797Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3572,6 +3572,11 @@
         "date": "2026-09-18",
         "price": 289.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-20",
+        "price": 289.99,
+        "source": "amazon"
       }
     ],
     "purificador-xiaomi": [
@@ -5000,6 +5005,11 @@
         "date": "2026-09-19",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-20",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -5089,6 +5099,11 @@
       },
       {
         "date": "2026-09-17",
+        "price": 10,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-20",
         "price": 10,
         "source": "amazon"
       }
@@ -6771,6 +6786,11 @@
       },
       {
         "date": "2026-09-15",
+        "price": 139.97,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-20",
         "price": 139.97,
         "source": "amazon"
       }

@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-09-20T15:16:35.911Z",
+  "updatedAt": "2026-09-20T20:10:02.621Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
+    "asics-gel-nimbus": {
+      "price": 62,
+      "originalPrice": 179.95,
+      "discount": 66,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 62,
+          "asin": "B0G2MMBLCB",
+          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "dyson-airwrap": {
-      "price": 371.07,
-      "originalPrice": 549,
-      "discount": 32,
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
+      "discount": 55,
       "offers": {
         "amazon": {
-          "price": 371.07,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "nordvpn-sub": {
+      "price": 29.99,
+      "originalPrice": 49.99,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "keychron-k2-pro-teclado-mecanico": {
-      "price": 107.42,
-      "originalPrice": 107.42,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 141,
-          "asin": "B0BZ8HPT5S",
-          "url": "https://www.amazon.es/dp/B0BZ8HPT5S",
+          "price": 29.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

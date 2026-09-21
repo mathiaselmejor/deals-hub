@@ -1,48 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:10:02.621Z",
+  "updatedAt": "2026-09-21T02:53:39.321Z",
   "engineVersion": 1,
-  "products": {
-    "asics-gel-nimbus": {
-      "price": 62,
-      "originalPrice": 179.95,
-      "discount": 66,
-      "offers": {
-        "amazon": {
-          "price": 62,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "crocs-classic": {
-      "price": 22.26,
-      "originalPrice": 49.99,
-      "discount": 55,
-      "offers": {
-        "amazon": {
-          "price": 22.26,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

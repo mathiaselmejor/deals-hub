@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-09-20",
-  "updatedAt": "2026-09-20T20:12:18.139Z",
+  "dayKey": "2026-09-21",
+  "updatedAt": "2026-09-21T02:55:34.153Z",
   "trendingIds": [
-    "silla-paseo-ligera",
-    "helices-repuesto-dji-mini-pack",
-    "perfume-armani",
-    "organizador-maletero-plegable",
-    "sandwichera-grill-2000w",
-    "base-carga-inalambrica-magsafe-15w",
-    "cama-perro-ortopedica",
-    "gopro-hero12-black",
-    "playmobil-city",
-    "crocs-classic",
-    "cafe-grano-especial-1kg",
-    "barra-sonido-samsung",
-    "tp-link-tapo-camara-2k-interior",
-    "neceser-viaje-colgante-organizador",
-    "linterna-led-coche-recargable",
-    "roborock-qrevo-s-robot-aspirador",
-    "salsa-trufa-negra-100ml",
-    "etiquetas-identificacion-maleta-x8"
-  ],
-  "featuredIds": [
     "domestika-cursos",
-    "cerave-rutina",
-    "set-pesas-kettlebell-8kg-12kg",
+    "barra-sonido-samsung",
+    "linterna-led-coche-recargable",
     "set-skincare-coreano-5-pasos",
-    "gafas-snorkel-mascara-panorramica",
+    "chocolate-valor-surtido-500g",
     "oppo-reno-12-f-5g",
     "silla-ergonomica-oficina-reposabrazos-4d",
-    "bombillas-led-pack"
+    "converse-chuck",
+    "north-face-nuptse",
+    "organizador-maletero-plegable",
+    "bombillas-led-pack",
+    "cama-perro-ortopedica",
+    "powerbank-magnetica-5000mah",
+    "aliexpress-buds",
+    "rodillera-voleibol-padel-pack-2",
+    "neceser-viaje-colgante-organizador",
+    "tabla-planchar-xl-con-soporte",
+    "silla-paseo-ligera"
   ],
-  "dealOfDayId": "silla-paseo-ligera"
+  "featuredIds": [
+    "almohada-cervical-viaje-memory-foam",
+    "pampers-premium",
+    "baterias-lipo-cargador-balanceador",
+    "harry-potter-coleccion-7-libros",
+    "radiador-aceite-9-elementos",
+    "altavoz-bluetooth-fiesta-40w",
+    "masajeador-cuello-shiatsu",
+    "vasos-desechables-premium-50u"
+  ],
+  "dealOfDayId": "domestika-cursos"
 }

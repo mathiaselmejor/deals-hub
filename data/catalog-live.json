@@ -1,44 +1,58 @@
 {
-  "updatedAt": "2026-09-21T09:47:39.070Z",
+  "updatedAt": "2026-09-21T11:44:54.757Z",
   "engineVersion": 1,
   "products": {
-    "pala-padel-head": {
-      "price": 53.64,
-      "originalPrice": 79.99,
-      "discount": 33,
-      "offers": {
-        "amazon": {
-          "price": 53.64,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 404.95,
-      "originalPrice": 487.17,
-      "discount": 17,
-      "offers": {
-        "amazon": {
-          "price": 404.95,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
+    "barbacoa-weber": {
+      "price": 74.99,
+      "originalPrice": 74.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 112,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 91,
+          "asin": "B002S2S9PQ",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nespresso-vertuo": {
+      "price": 84.99,
+      "originalPrice": 84.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 131,
+          "asin": "B0FRS4CNYF",
+          "url": "https://www.amazon.es/dp/B0FRS4CNYF",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 49.55,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 354,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

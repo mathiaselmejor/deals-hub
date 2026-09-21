@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-09-21T02:53:39.321Z",
+  "updatedAt": "2026-09-21T09:47:39.070Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "pala-padel-head": {
+      "price": 53.64,
+      "originalPrice": 79.99,
+      "discount": 33,
+      "offers": {
+        "amazon": {
+          "price": 53.64,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 404.95,
+      "originalPrice": 487.17,
+      "discount": 17,
+      "offers": {
+        "amazon": {
+          "price": 404.95,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "logitech-mx-master-3s": {
+      "price": 96.57,
+      "originalPrice": 96.57,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 112,
+          "asin": "B09HM94VDS",
+          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

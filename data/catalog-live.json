@@ -1,100 +1,30 @@
 {
-  "updatedAt": "2026-09-22T10:47:56.417Z",
+  "updatedAt": "2026-09-22T16:06:41.858Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
+    "dyson-airwrap": {
+      "price": 371.07,
+      "originalPrice": 549,
+      "discount": 32,
+      "offers": {
+        "amazon": {
+          "price": 371.07,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 129.99,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "portatil-lenovo": {
-      "price": 539,
-      "originalPrice": 799,
-      "discount": 33,
-      "offers": {
-        "amazon": {
-          "price": 539,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pelota-futbol-select": {
-      "price": 36.99,
-      "originalPrice": 36.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 66.59,
-          "asin": "B0DPRBPZ1R",
-          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "barbacoa-weber": {
-      "price": 74.99,
-      "originalPrice": 74.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 110,
-          "asin": "B002S2S9PQ",
-          "url": "https://www.amazon.es/dp/B002S2S9PQ",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "monitor-bebe": {
-      "price": 99.99,
-      "originalPrice": 99.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 203.9,
-          "asin": "B09R4SJFDY",
-          "url": "https://www.amazon.es/dp/B09R4SJFDY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "amazon-fire-hd-10": {
-      "price": 80,
-      "originalPrice": 159,
-      "discount": 50,
-      "offers": {
-        "amazon": {
-          "price": 80,
-          "asin": "B0GG8JRB27",
-          "url": "https://www.amazon.es/dp/B0GG8JRB27",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "kindle-paperwhite-16gb": {
-      "price": 150.82,
-      "originalPrice": 150.82,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 224.99,
-          "asin": "B0CFPWLGF2",
-          "url": "https://www.amazon.es/dp/B0CFPWLGF2",
+          "price": 178.51,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

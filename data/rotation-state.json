@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-09-21",
-  "updatedAt": "2026-09-21T21:36:45.708Z",
+  "dayKey": "2026-09-22",
+  "updatedAt": "2026-09-22T02:56:01.893Z",
   "trendingIds": [
-    "domestika-cursos",
-    "barra-sonido-samsung",
-    "organizador-armario-12-cajones",
-    "colchon-viscoelastico-135x190-medio",
-    "audio-technica-at2020usb-microfono",
-    "portatil-lenovo",
-    "amazon-fire-hd-10",
-    "bombillas-led-pack",
-    "plancha-vapor-3000w-ceramica",
-    "roborock-qrevo-s-robot-aspirador",
-    "escritorio-elevable-electrico-140cm",
-    "bascula-cocina-digital-5kg",
-    "alfombrilla-xxl-rgb",
-    "comida-hellofresh",
-    "ambientador-coche-difusor-premium",
-    "rodillera-voleibol-padel-pack-2",
-    "sandwichera-grill-2000w",
-    "silla-paseo-ligera"
-  ],
-  "featuredIds": [
     "pinata-rellenable-unicornio",
     "pampers-premium",
     "exprimidor-citricos-85w",
@@ -29,7 +9,27 @@
     "camara-seguridad",
     "gafas-snorkel-mascara-panorramica",
     "baterias-lipo-cargador-balanceador",
-    "vasos-desechables-premium-50u"
+    "vasos-desechables-premium-50u",
+    "aspirador-coche-12v-potente",
+    "sabanas-microfibra-4-piezas",
+    "la-roche-posay",
+    "the-north-face-borealis-mochila",
+    "monitor-lg-ultragear-27-165hz",
+    "guirnalda-led-fiesta-10m",
+    "aliexpress-buds",
+    "termoventilador-ceramico-2000w",
+    "silla-paseo-ligera",
+    "anillo-soporte-movil-magsafe"
   ],
-  "dealOfDayId": "domestika-cursos"
+  "featuredIds": [
+    "organizador-armario-12-cajones",
+    "pampers-premium",
+    "delonghi-dedica",
+    "helices-repuesto-dji-mini-pack",
+    "hot-wheels-pista-looping",
+    "cama-perro-ortopedica",
+    "perchas-terciopelo-50-unidades",
+    "levi-s-501-original-vaquero"
+  ],
+  "dealOfDayId": "pinata-rellenable-unicornio"
 }

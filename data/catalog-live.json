@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-09-21T21:34:50.561Z",
+  "updatedAt": "2026-09-22T02:54:05.470Z",
   "engineVersion": 1,
   "products": {
-    "nespresso-vertuo": {
-      "price": 84.99,
-      "originalPrice": 84.99,
-      "discount": 0,
+    "delonghi-dedica": {
+      "price": 114.88,
+      "originalPrice": 199,
+      "discount": 42,
       "offers": {
         "amazon": {
-          "price": 131,
-          "asin": "B0FRS4CNYF",
-          "url": "https://www.amazon.es/dp/B0FRS4CNYF",
+          "price": 114.88,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "crocs-classic": {
-      "price": 23.1,
-      "originalPrice": 49.99,
-      "discount": 54,
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 23.1,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 178.51,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

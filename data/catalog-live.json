@@ -1,58 +1,100 @@
 {
-  "updatedAt": "2026-09-22T09:11:56.317Z",
+  "updatedAt": "2026-09-22T10:47:56.417Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 37.93,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 129.99,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
+    "portatil-lenovo": {
+      "price": 539,
+      "originalPrice": 799,
+      "discount": 33,
       "offers": {
         "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "price": 539,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 112,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 66.59,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steelseries-arctis-nova-7": {
-      "price": 132.22,
-      "originalPrice": 172.52,
-      "discount": 23,
+    "barbacoa-weber": {
+      "price": 74.99,
+      "originalPrice": 74.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 132.22,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 110,
+          "asin": "B002S2S9PQ",
+          "url": "https://www.amazon.es/dp/B002S2S9PQ",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "monitor-bebe": {
+      "price": 99.99,
+      "originalPrice": 99.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 203.9,
+          "asin": "B09R4SJFDY",
+          "url": "https://www.amazon.es/dp/B09R4SJFDY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "amazon-fire-hd-10": {
+      "price": 80,
+      "originalPrice": 159,
+      "discount": 50,
+      "offers": {
+        "amazon": {
+          "price": 80,
+          "asin": "B0GG8JRB27",
+          "url": "https://www.amazon.es/dp/B0GG8JRB27",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "kindle-paperwhite-16gb": {
+      "price": 150.82,
+      "originalPrice": 150.82,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 224.99,
+          "asin": "B0CFPWLGF2",
+          "url": "https://www.amazon.es/dp/B0CFPWLGF2",
           "linkKind": "direct",
           "priceEstimated": false
         }

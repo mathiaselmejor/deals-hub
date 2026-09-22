@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T09:13:51.933Z",
+  "updatedAt": "2026-09-22T10:50:16.772Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -884,6 +884,11 @@
         "date": "2026-09-20",
         "price": 95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 95,
+        "source": "amazon"
       }
     ],
     "portatil-lenovo": [
@@ -1075,6 +1080,11 @@
       {
         "date": "2026-09-20",
         "price": 437,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 539,
         "source": "amazon"
       }
     ],
@@ -2221,6 +2231,11 @@
         "date": "2026-09-16",
         "price": 36.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 36.99,
+        "source": "amazon"
       }
     ],
     "pala-padel-head": [
@@ -2664,6 +2679,11 @@
         "date": "2026-09-21",
         "price": 74.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 74.99,
+        "source": "amazon"
       }
     ],
     "purina-pro-plan": [
@@ -2695,6 +2715,11 @@
     "monitor-bebe": [
       {
         "date": "2026-06-03",
+        "price": 99.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
         "price": 99.99,
         "source": "amazon"
       }
@@ -6354,11 +6379,21 @@
         "date": "2026-06-03",
         "price": 89,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 80,
+        "source": "amazon"
       }
     ],
     "kindle-paperwhite-16gb": [
       {
         "date": "2026-06-03",
+        "price": 150.82,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
         "price": 150.82,
         "source": "amazon"
       }

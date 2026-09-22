@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T02:56:01.893Z",
+  "updatedAt": "2026-09-22T09:13:51.933Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1673,6 +1673,11 @@
       },
       {
         "date": "2026-09-17",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
         "price": 24.95,
         "source": "amazon"
       }
@@ -5378,6 +5383,11 @@
         "date": "2026-09-20",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -6425,6 +6435,11 @@
         "date": "2026-09-21",
         "price": 96.57,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
+        "price": 96.57,
+        "source": "amazon"
       }
     ],
     "keychron-k2-pro-teclado-mecanico": [
@@ -7058,6 +7073,11 @@
       },
       {
         "date": "2026-09-18",
+        "price": 132.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-22",
         "price": 132.22,
         "source": "amazon"
       }

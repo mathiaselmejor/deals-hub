@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:56:44.212Z",
+  "updatedAt": "2026-09-23T09:14:48.532Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -180,6 +180,11 @@
       {
         "date": "2026-09-21",
         "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 183.73,
         "source": "amazon"
       }
     ],
@@ -376,6 +381,11 @@
       },
       {
         "date": "2026-09-21",
+        "price": 40.45,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
         "price": 40.45,
         "source": "amazon"
       }
@@ -1086,6 +1096,11 @@
         "date": "2026-09-22",
         "price": 539,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 445,
+        "source": "amazon"
       }
     ],
     "cosori-airfryer": [
@@ -1688,6 +1703,11 @@
       },
       {
         "date": "2026-09-22",
+        "price": 24.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
         "price": 24.95,
         "source": "amazon"
       }
@@ -2687,6 +2707,11 @@
       },
       {
         "date": "2026-09-22",
+        "price": 74.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
         "price": 74.99,
         "source": "amazon"
       }
@@ -4525,6 +4550,11 @@
         "date": "2026-08-28",
         "price": 559.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 559.99,
+        "source": "amazon"
       }
     ],
     "mochila-viaje-cabin": [
@@ -6299,6 +6329,11 @@
       {
         "date": "2026-09-21",
         "price": 404.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 412.4,
         "source": "amazon"
       }
     ],

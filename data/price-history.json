@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T10:42:41.151Z",
+  "updatedAt": "2026-09-23T16:01:38.235Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1426,7 +1426,7 @@
       },
       {
         "date": "2026-09-23",
-        "price": 46,
+        "price": 17,
         "source": "amazon"
       }
     ],
@@ -1438,7 +1438,7 @@
       },
       {
         "date": "2026-09-23",
-        "price": 31,
+        "price": 74,
         "source": "amazon"
       }
     ],
@@ -1456,6 +1456,11 @@
       {
         "date": "2026-09-09",
         "price": 55,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 26,
         "source": "amazon"
       }
     ],
@@ -1591,7 +1596,7 @@
       },
       {
         "date": "2026-09-23",
-        "price": 45,
+        "price": 20,
         "source": "amazon"
       }
     ],
@@ -2638,7 +2643,7 @@
       },
       {
         "date": "2026-09-23",
-        "price": 117,
+        "price": 98,
         "source": "amazon"
       }
     ],
@@ -2855,7 +2860,7 @@
       },
       {
         "date": "2026-09-23",
-        "price": 95,
+        "price": 94,
         "source": "amazon"
       }
     ],
@@ -4541,6 +4546,11 @@
         "date": "2026-09-17",
         "price": 22.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 22.95,
+        "source": "amazon"
       }
     ],
     "zalando-gift-card-style": [
@@ -6176,7 +6186,7 @@
       },
       {
         "date": "2026-09-23",
-        "price": 298,
+        "price": 299,
         "source": "amazon"
       }
     ],
@@ -6184,6 +6194,11 @@
       {
         "date": "2026-06-03",
         "price": 228,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-23",
+        "price": 302.71,
         "source": "amazon"
       }
     ],
@@ -8108,6 +8123,13 @@
       {
         "date": "2026-09-23",
         "price": 94.99,
+        "source": "amazon"
+      }
+    ],
+    "mancuernas-ajustables": [
+      {
+        "date": "2026-09-23",
+        "price": 69,
         "source": "amazon"
       }
     ]

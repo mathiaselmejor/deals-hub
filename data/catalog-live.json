@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-09-24T21:02:26.368Z",
+  "updatedAt": "2026-09-25T03:01:08.838Z",
   "engineVersion": 1,
   "products": {
-    "gopro-hero12-black": {
-      "price": 178,
-      "originalPrice": 378.67,
-      "discount": 53,
+    "garmin-forerunner-265": {
+      "price": 314.04,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 178,
-          "asin": "B0CF3VVTLG",
-          "url": "https://www.amazon.es/dp/B0CF3VVTLG",
+          "price": 314.04,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 178.51,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

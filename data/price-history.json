@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T03:03:07.206Z",
+  "updatedAt": "2026-09-25T09:32:16.149Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -386,6 +386,11 @@
       },
       {
         "date": "2026-09-23",
+        "price": 40.45,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-25",
         "price": 40.45,
         "source": "amazon"
       }
@@ -2824,6 +2829,11 @@
         "date": "2026-09-24",
         "price": 74.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 74.99,
+        "source": "amazon"
       }
     ],
     "purina-pro-plan": [
@@ -3235,6 +3245,11 @@
       },
       {
         "date": "2026-09-23",
+        "price": 32.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-25",
         "price": 32.95,
         "source": "amazon"
       }
@@ -6932,6 +6947,11 @@
         "date": "2026-09-24",
         "price": 107.42,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-25",
+        "price": 107.42,
+        "source": "amazon"
       }
     ],
     "razer-deathadder-v3": [
@@ -7553,6 +7573,11 @@
       },
       {
         "date": "2026-09-24",
+        "price": 132.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-25",
         "price": 132.22,
         "source": "amazon"
       }

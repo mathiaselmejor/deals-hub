@@ -1,29 +1,29 @@
 {
   "dayKey": "2026-09-25",
-  "updatedAt": "2026-09-25T03:03:07.206Z",
+  "updatedAt": "2026-09-25T09:32:16.148Z",
   "trendingIds": [
-    "dyson-airwrap",
-    "soporte-portatil-aluminio-ajustable",
-    "termometro-infrarrojos-sin-contacto",
+    "roborock-qrevo-s-robot-aspirador",
+    "cafe-grano-especial-1kg",
+    "amazon-echo-pop-altavoz-alexa",
     "mancuernas-ajustables",
-    "nike-air-force-1",
-    "perfume-armani",
-    "monitor-lg-ultragear-27-165hz",
-    "vasos-desechables-premium-50u",
-    "samsung-tv-oled",
-    "levi-s-501-original-vaquero",
-    "hot-wheels-track",
+    "barra-sonido-samsung",
     "sprinter-zapatillas",
-    "lego-classic",
-    "alfombrilla-xxl-rgb",
-    "helices-repuesto-dji-mini-pack",
-    "etiquetas-identificacion-maleta-x8",
+    "monitor-lg-ultragear-27-165hz",
+    "escalera-aluminio-3-peldanos-plegable",
+    "comida-hellofresh",
     "saco-dormir-bebe-invierno",
-    "bascula-equipaje-digital-50kg"
+    "resina-epoxi-transparente-1-5l-kit",
+    "pelota-futbol-select",
+    "asics-gel-nimbus",
+    "organizador-armario-12-cajones",
+    "lampara-pie-led-regulable",
+    "portatil-lenovo",
+    "helices-repuesto-dji-mini-pack",
+    "aspirador-coche-12v-potente"
   ],
   "featuredIds": [
     "audio-technica-at2020usb-microfono",
-    "nike-air-force-1",
+    "barra-sonido-samsung",
     "set-120-rotuladores-alcohol-dual-tip",
     "picadora-electrica-500w",
     "organizador-maletero-plegable",
@@ -31,5 +31,5 @@
     "the-north-face-borealis-mochila",
     "harry-potter-coleccion-7-libros"
   ],
-  "dealOfDayId": "dyson-airwrap"
+  "dealOfDayId": "roborock-qrevo-s-robot-aspirador"
 }

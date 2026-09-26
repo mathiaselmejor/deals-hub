@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:36:17.156Z",
+  "updatedAt": "2026-09-26T20:34:58.235Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1126,6 +1126,11 @@
         "date": "2026-09-23",
         "price": 445,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 445,
+        "source": "amazon"
       }
     ],
     "cosori-airfryer": [
@@ -1292,6 +1297,11 @@
       {
         "date": "2026-09-23",
         "price": 82.64,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-26",
+        "price": 70.24,
         "source": "amazon"
       }
     ],

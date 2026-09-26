@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-09-25",
-  "updatedAt": "2026-09-25T21:02:03.383Z",
+  "dayKey": "2026-09-26",
+  "updatedAt": "2026-09-26T03:07:00.704Z",
   "trendingIds": [
-    "bascula-equipaje-digital-50kg",
-    "cafe-grano-especial-1kg",
-    "set-pesas-kettlebell-8kg-12kg",
-    "mancuernas-ajustables",
-    "nike-air-force-1",
-    "the-north-face-borealis-mochila",
-    "asics-gel-nimbus",
-    "protector-pantalla-cristal-9h-pack-3",
-    "samsung-tv-oled",
-    "oximetro-pulso-dedo",
-    "hot-wheels-track",
-    "etiquetas-identificacion-maleta-x8",
-    "lego-classic",
-    "organizador-armario-12-cajones",
-    "lampara-pie-led-regulable",
-    "mochila-antirrobo-portatil-15-6",
-    "cosori-airfryer",
-    "aspirador-coche-12v-potente"
-  ],
-  "featuredIds": [
     "almohada-cervical-viaje-memory-foam",
-    "nike-air-force-1",
+    "barra-sonido-samsung",
     "set-120-rotuladores-alcohol-dual-tip",
     "soporte-movil-magnetico-ventilacion",
     "organizador-maletero-plegable",
     "mancuernas-ajustables",
     "kettlebell-16kg",
-    "harry-potter-coleccion-7-libros"
+    "harry-potter-coleccion-7-libros",
+    "base-carga-inalambrica-magsafe-15w",
+    "saco-dormir-bebe-invierno",
+    "toalla-microfibra-playa-xl",
+    "etiquetas-identificacion-maleta-x8",
+    "purina-pro-plan-gato-3kg",
+    "comida-hellofresh",
+    "nevera-playa-24l-isotermica",
+    "silla-paseo-ligera",
+    "termometro-infrarrojos-sin-contacto",
+    "asics-gel-nimbus"
   ],
-  "dealOfDayId": "bascula-equipaje-digital-50kg"
+  "featuredIds": [
+    "soporte-movil-magnetico-ventilacion",
+    "soporte-portatil-aluminio-ajustable",
+    "the-north-face-borealis-mochila",
+    "plancha-vapor-3000w-ceramica",
+    "helices-repuesto-dji-mini-pack",
+    "guirnalda-led-fiesta-10m",
+    "organizador-cables-escritorio",
+    "comida-hellofresh"
+  ],
+  "dealOfDayId": "almohada-cervical-viaje-memory-foam"
 }

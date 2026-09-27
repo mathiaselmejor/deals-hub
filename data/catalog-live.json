@@ -1,5 +1,62 @@
 {
-  "updatedAt": "2026-09-27T03:11:07.897Z",
+  "updatedAt": "2026-09-27T09:55:03.922Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "monitor-bebe": {
+      "price": 99.99,
+      "originalPrice": 99.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 108,
+          "asin": "B09R4SJFDY",
+          "url": "https://www.amazon.es/dp/B09R4SJFDY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 49.55,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "casio-a168": {
+      "price": 22.95,
+      "originalPrice": 22.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 35.01,
+          "asin": "B000LAKYW8",
+          "url": "https://www.amazon.es/dp/B000LAKYW8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 709.54,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

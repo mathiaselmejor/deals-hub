@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T03:13:08.476Z",
+  "updatedAt": "2026-09-27T09:57:03.218Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2927,6 +2927,11 @@
         "date": "2026-09-25",
         "price": 99.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 99.99,
+        "source": "amazon"
       }
     ],
     "silla-paseo-ligera": [
@@ -4121,6 +4126,11 @@
         "date": "2026-09-24",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -4651,6 +4661,11 @@
         "date": "2026-09-26",
         "price": 22.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-27",
+        "price": 22.95,
+        "source": "amazon"
       }
     ],
     "zalando-gift-card-style": [
@@ -4888,6 +4903,11 @@
       },
       {
         "date": "2026-09-23",
+        "price": 559.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-27",
         "price": 559.99,
         "source": "amazon"
       }

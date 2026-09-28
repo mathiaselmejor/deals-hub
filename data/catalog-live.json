@@ -1,30 +1,58 @@
 {
-  "updatedAt": "2026-09-28T12:40:13.739Z",
+  "updatedAt": "2026-09-28T22:51:46.947Z",
   "engineVersion": 1,
   "products": {
-    "xbox-series-x": {
-      "price": 449.99,
-      "originalPrice": 449.99,
-      "discount": 0,
+    "ninja-airfryer": {
+      "price": 147.93,
+      "originalPrice": 189.99,
+      "discount": 22,
       "offers": {
         "amazon": {
-          "price": 897.73,
-          "asin": "B08H75RTZ8",
-          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "price": 147.93,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "razer-deathadder-v3": {
-      "price": 74.86,
-      "originalPrice": 74.86,
+    "stanley-quencher": {
+      "price": 43.21,
+      "originalPrice": 46.99,
+      "discount": 8,
+      "offers": {
+        "amazon": {
+          "price": 43.21,
+          "asin": "B0CNTWY3VM",
+          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 22.26,
+      "originalPrice": 49.99,
+      "discount": 55,
+      "offers": {
+        "amazon": {
+          "price": 22.26,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 90.9,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 798.85,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
           "linkKind": "direct",
           "priceEstimated": false
         }

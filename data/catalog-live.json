@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:59:06.917Z",
+  "updatedAt": "2026-09-29T17:50:59.208Z",
   "engineVersion": 1,
   "products": {
     "pack-ropa-interior-hanes": {
@@ -11,6 +11,48 @@
           "price": 35.61,
           "asin": "B09FCCHNSG",
           "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 798.85,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "razer-deathadder-v3": {
+      "price": 74.86,
+      "originalPrice": 74.86,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 90.9,
+          "asin": "B09ZLV2531",
+          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 178.51,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

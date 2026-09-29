@@ -1,58 +1,16 @@
 {
-  "updatedAt": "2026-09-29T10:32:07.163Z",
+  "updatedAt": "2026-09-29T11:59:06.917Z",
   "engineVersion": 1,
   "products": {
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 166.36,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "mochila-viaje-cabin": {
-      "price": 44.99,
-      "originalPrice": 44.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 57.77,
-          "asin": "B01M7UBL11",
-          "url": "https://www.amazon.es/dp/B01M7UBL11",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 29.99,
-      "originalPrice": 49.99,
-      "discount": 40,
-      "offers": {
-        "amazon": {
-          "price": 29.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 112,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 35.61,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }

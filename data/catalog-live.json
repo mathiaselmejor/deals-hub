@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-09-30T11:46:23.802Z",
+  "updatedAt": "2026-09-30T17:26:55.703Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 147.93,
-      "originalPrice": 189.99,
-      "discount": 22,
+    "samsung-galaxy-buds3": {
+      "price": 152.75,
+      "originalPrice": 184.99,
+      "discount": 17,
       "offers": {
         "amazon": {
-          "price": 147.93,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "price": 152.75,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "portatil-lenovo": {
-      "price": 445,
-      "originalPrice": 799,
-      "discount": 44,
-      "offers": {
-        "amazon": {
-          "price": 445,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xbox-series-x": {
-      "price": 449.99,
-      "originalPrice": 449.99,
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 897.74,
-          "asin": "B08H75RTZ8",
-          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "price": 57.77,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
+      "offers": {
+        "amazon": {
+          "price": 27,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }

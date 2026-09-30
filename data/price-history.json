@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T11:48:22.470Z",
+  "updatedAt": "2026-09-30T17:29:00.619Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -4769,6 +4769,11 @@
         "date": "2026-09-29",
         "price": 152.75,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 152.75,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -5587,6 +5592,11 @@
         "date": "2026-09-29",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -5735,6 +5745,11 @@
       {
         "date": "2026-09-29",
         "price": 16,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-09-30",
+        "price": 24.99,
         "source": "amazon"
       }
     ],

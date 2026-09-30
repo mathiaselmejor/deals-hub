@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-09-29T21:45:55.373Z",
+  "updatedAt": "2026-09-30T03:34:46.830Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "portatil-lenovo": {
       "price": 445,
       "originalPrice": 799,
@@ -30,15 +16,15 @@
         }
       }
     },
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 44.55,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 49.55,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -58,29 +44,15 @@
         }
       }
     },
-    "motorola-edge-40-neo": {
-      "price": 302.71,
-      "originalPrice": 302.71,
+    "keychron-k2-pro-teclado-mecanico": {
+      "price": 107.42,
+      "originalPrice": 107.42,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 329,
-          "asin": "B0CF2QQWC2",
-          "url": "https://www.amazon.es/dp/B0CF2QQWC2",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "realme-12-pro-5g": {
-      "price": 330,
-      "originalPrice": 400.37,
-      "discount": 18,
-      "offers": {
-        "amazon": {
-          "price": 330,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 157,
+          "asin": "B0BZ8HPT5S",
+          "url": "https://www.amazon.es/dp/B0BZ8HPT5S",
           "linkKind": "direct",
           "priceEstimated": false
         }

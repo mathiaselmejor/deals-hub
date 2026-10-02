@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-02T11:44:34.906Z",
+  "updatedAt": "2026-10-02T17:16:30.327Z",
   "engineVersion": 1,
   "products": {
+    "ninja-airfryer": {
+      "price": 147.93,
+      "originalPrice": 189.99,
+      "discount": 22,
+      "offers": {
+        "amazon": {
+          "price": 147.93,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
     "stanley-quencher": {
       "price": 43.04,
       "originalPrice": 46.99,
@@ -16,15 +30,29 @@
         }
       }
     },
-    "samsung-galaxy-buds3": {
-      "price": 152.75,
-      "originalPrice": 184.99,
-      "discount": 17,
+    "nordvpn-sub": {
+      "price": 29.99,
+      "originalPrice": 49.99,
+      "discount": 40,
       "offers": {
         "amazon": {
-          "price": 152.75,
-          "asin": "B0G9BBMM6K",
-          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
+          "price": 29.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 354.55,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

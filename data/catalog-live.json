@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-10-04T11:40:49.357Z",
+  "updatedAt": "2026-10-04T16:18:43.508Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 354.55,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "xiaomi-pad-6": {
+      "price": 301,
+      "originalPrice": 399,
+      "discount": 25,
+      "offers": {
+        "amazon": {
+          "price": 301,
+          "asin": "B0DZT3YFQX",
+          "url": "https://www.amazon.es/dp/B0DZT3YFQX",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

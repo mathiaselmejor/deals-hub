@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-04T20:46:33.158Z",
+  "updatedAt": "2026-10-05T03:36:18.789Z",
   "engineVersion": 1,
   "products": {
-    "stanley-quencher": {
-      "price": 45.4,
-      "originalPrice": 46.99,
-      "discount": 3,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 45.4,
-          "asin": "B0CNTWY3VM",
-          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "price": 231.4,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }

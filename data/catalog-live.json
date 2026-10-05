@@ -1,58 +1,16 @@
 {
-  "updatedAt": "2026-10-05T11:18:44.900Z",
+  "updatedAt": "2026-10-05T13:20:59.286Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
+    "nordvpn-sub": {
+      "price": 49.99,
+      "originalPrice": 49.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "camara-seguridad": {
-      "price": 18.17,
-      "originalPrice": 31.99,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 18.17,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "xbox-series-x": {
-      "price": 449.99,
-      "originalPrice": 449.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 962.35,
-          "asin": "B08H75RTZ8",
-          "url": "https://www.amazon.es/dp/B08H75RTZ8",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 191.69,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 49.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

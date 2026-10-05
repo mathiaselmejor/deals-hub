@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-10-05T13:20:59.286Z",
+  "updatedAt": "2026-10-05T23:36:18.342Z",
   "engineVersion": 1,
   "products": {
-    "nordvpn-sub": {
-      "price": 49.99,
-      "originalPrice": 49.99,
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 49.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 191.69,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-tab-s9-fe": {
+      "price": 347,
+      "originalPrice": 487.17,
+      "discount": 29,
+      "offers": {
+        "amazon": {
+          "price": 347,
+          "asin": "B0F1DLNG74",
+          "url": "https://www.amazon.es/dp/B0F1DLNG74",
           "linkKind": "direct",
           "priceEstimated": false
         }

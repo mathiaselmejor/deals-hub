@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-10-05T23:36:18.342Z",
+  "updatedAt": "2026-10-06T04:24:16.043Z",
   "engineVersion": 1,
   "products": {
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
+    "mochila-viaje-cabin": {
+      "price": 44.99,
+      "originalPrice": 44.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 191.69,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 57.77,
+          "asin": "B01M7UBL11",
+          "url": "https://www.amazon.es/dp/B01M7UBL11",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "samsung-galaxy-tab-s9-fe": {
-      "price": 347,
-      "originalPrice": 487.17,
-      "discount": 29,
+    "realme-12-pro-5g": {
+      "price": 330,
+      "originalPrice": 400.37,
+      "discount": 18,
       "offers": {
         "amazon": {
-          "price": 347,
-          "asin": "B0F1DLNG74",
-          "url": "https://www.amazon.es/dp/B0F1DLNG74",
+          "price": 330,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T23:38:20.214Z",
+  "updatedAt": "2026-10-06T04:26:30.284Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -6202,6 +6202,11 @@
         "date": "2026-10-04",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-06",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -7842,6 +7847,11 @@
       },
       {
         "date": "2026-10-04",
+        "price": 330,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-06",
         "price": 330,
         "source": "amazon"
       }

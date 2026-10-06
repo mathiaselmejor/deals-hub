@@ -1,30 +1,44 @@
 {
-  "updatedAt": "2026-10-06T12:36:33.609Z",
+  "updatedAt": "2026-10-06T22:10:14.059Z",
   "engineVersion": 1,
   "products": {
-    "xbox-series-x": {
-      "price": 449.99,
-      "originalPrice": 449.99,
-      "discount": 0,
+    "ninja-airfryer": {
+      "price": 132,
+      "originalPrice": 189.99,
+      "discount": 31,
       "offers": {
         "amazon": {
-          "price": 918.43,
-          "asin": "B08H75RTZ8",
-          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "price": 132,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "razer-deathadder-v3": {
-      "price": 59,
-      "originalPrice": 74.86,
-      "discount": 21,
+    "garmin-forerunner-265": {
+      "price": 313.21,
+      "originalPrice": 449,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 59,
-          "asin": "B09ZLV2531",
-          "url": "https://www.amazon.es/dp/B09ZLV2531",
+          "price": 313.21,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-buds3": {
+      "price": 152.75,
+      "originalPrice": 184.99,
+      "discount": 17,
+      "offers": {
+        "amazon": {
+          "price": 152.75,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }

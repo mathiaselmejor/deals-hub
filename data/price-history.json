@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:16:29.805Z",
+  "updatedAt": "2026-10-08T12:41:12.920Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -230,6 +230,11 @@
       {
         "date": "2026-10-07",
         "price": 160,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 189.99,
         "source": "amazon"
       }
     ],
@@ -8935,6 +8940,11 @@
         "date": "2026-10-07",
         "price": 96.57,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 96.57,
+        "source": "amazon"
       }
     ],
     "keychron-k2-pro-teclado-mecanico": [
@@ -9208,6 +9218,11 @@
       {
         "date": "2026-10-07",
         "price": 71,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-08",
+        "price": 74.86,
         "source": "amazon"
       }
     ],

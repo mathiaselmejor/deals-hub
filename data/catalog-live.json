@@ -1,72 +1,44 @@
 {
-  "updatedAt": "2026-10-07T22:32:21.575Z",
+  "updatedAt": "2026-10-08T04:03:54.993Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 470,
-      "originalPrice": 799,
-      "discount": 41,
-      "offers": {
-        "amazon": {
-          "price": 470,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "mancuernas-ajustables": {
-      "price": 21.24,
-      "originalPrice": 199.99,
-      "discount": 89,
-      "offers": {
-        "amazon": {
-          "price": 21.24,
-          "asin": "B07BLVML5W",
-          "url": "https://www.amazon.es/dp/B07BLVML5W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "mochila-viaje-cabin": {
-      "price": 44.99,
-      "originalPrice": 44.99,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 57.77,
-          "asin": "B01M7UBL11",
-          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 139,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 383.84,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steelseries-arctis-nova-7": {
-      "price": 132.22,
-      "originalPrice": 172.52,
-      "discount": 23,
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 132.22,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 798.85,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
           "linkKind": "direct",
           "priceEstimated": false
         }

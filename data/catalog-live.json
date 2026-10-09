@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-10-09T12:26:24.033Z",
+  "updatedAt": "2026-10-09T22:08:05.272Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 18.17,
-      "originalPrice": 31.99,
-      "discount": 43,
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 18.17,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 49.53,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "realme-12-pro-5g": {
+      "price": 330,
+      "originalPrice": 400.37,
+      "discount": 18,
+      "offers": {
+        "amazon": {
+          "price": 330,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
           "linkKind": "direct",
           "priceEstimated": false
         }

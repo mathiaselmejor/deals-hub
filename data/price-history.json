@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T22:47:04.697Z",
+  "updatedAt": "2026-10-09T04:11:07.345Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -5544,6 +5544,11 @@
         "date": "2026-10-07",
         "price": 184.83,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-09",
+        "price": 152.75,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -8078,6 +8083,11 @@
         "date": "2026-10-07",
         "price": 354,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-09",
+        "price": 593,
+        "source": "amazon"
       }
     ],
     "motorola-edge-40-neo": [
@@ -8449,6 +8459,11 @@
       },
       {
         "date": "2026-10-04",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-09",
         "price": 281.02,
         "source": "amazon"
       }
@@ -8948,6 +8963,11 @@
       },
       {
         "date": "2026-10-08",
+        "price": 96.57,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-09",
         "price": 96.57,
         "source": "amazon"
       }
@@ -10619,6 +10639,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 21.24,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-09",
         "price": 21.24,
         "source": "amazon"
       }

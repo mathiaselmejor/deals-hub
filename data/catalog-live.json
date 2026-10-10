@@ -1,100 +1,86 @@
 {
-  "updatedAt": "2026-10-10T10:30:47.908Z",
+  "updatedAt": "2026-10-10T11:45:31.474Z",
   "engineVersion": 1,
   "products": {
-    "silla-paseo-ligera": {
-      "price": 84.99,
-      "originalPrice": 169,
-      "discount": 50,
+    "camara-seguridad": {
+      "price": 18.17,
+      "originalPrice": 31.99,
+      "discount": 43,
       "offers": {
         "amazon": {
-          "price": 84.99,
-          "asin": "B0DLWK3LKH",
-          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
+          "price": 18.17,
+          "asin": "B0DS6D837F",
+          "url": "https://www.amazon.es/dp/B0DS6D837F",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "delonghi-dedica": {
-      "price": 139,
-      "originalPrice": 199,
-      "discount": 30,
-      "offers": {
-        "amazon": {
-          "price": 139,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "theragun-mini": {
-      "price": 79.99,
+    "pala-padel-head": {
+      "price": 53.64,
       "originalPrice": 79.99,
+      "discount": 33,
+      "offers": {
+        "amazon": {
+          "price": 53.64,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "monitor-bebe": {
+      "price": 99.99,
+      "originalPrice": 99.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 196.37,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "price": 108,
+          "asin": "B09R4SJFDY",
+          "url": "https://www.amazon.es/dp/B09R4SJFDY",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "raton-logitech-g502": {
-      "price": 54.99,
-      "originalPrice": 54.99,
+    "dyson-airwrap": {
+      "price": 371.07,
+      "originalPrice": 549,
+      "discount": 32,
+      "offers": {
+        "amazon": {
+          "price": 371.07,
+          "asin": "B0FXXNWXV4",
+          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 70,
-          "asin": "B07W7L4RBX",
-          "url": "https://www.amazon.es/dp/B07W7L4RBX",
+          "price": 383.84,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "crocs-classic": {
-      "price": 27.95,
-      "originalPrice": 49.99,
-      "discount": 44,
+    "aliexpress-buds": {
+      "price": 16,
+      "originalPrice": 39.99,
+      "discount": 60,
       "offers": {
         "amazon": {
-          "price": 27.95,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "robot-cocina-moulinex": {
-      "price": 319,
-      "originalPrice": 319,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 561.25,
-          "asin": "B084ZP1H7Z",
-          "url": "https://www.amazon.es/dp/B084ZP1H7Z",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "offers": {
-        "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 16,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }

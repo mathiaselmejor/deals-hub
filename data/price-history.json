@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T22:10:06.682Z",
+  "updatedAt": "2026-10-10T03:56:25.953Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1587,6 +1587,11 @@
       {
         "date": "2026-10-07",
         "price": 66,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 70.24,
         "source": "amazon"
       }
     ],
@@ -6380,6 +6385,11 @@
         "date": "2026-10-08",
         "price": 559.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 559.99,
+        "source": "amazon"
       }
     ],
     "mochila-viaje-cabin": [
@@ -10556,6 +10566,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 449.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
         "price": 449.99,
         "source": "amazon"
       }

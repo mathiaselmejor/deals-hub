@@ -1,30 +1,44 @@
 {
-  "updatedAt": "2026-10-09T22:08:05.272Z",
+  "updatedAt": "2026-10-10T03:54:15.897Z",
   "engineVersion": 1,
   "products": {
-    "cafetera-moka": {
-      "price": 29.95,
-      "originalPrice": 29.95,
-      "discount": 0,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 49.53,
-          "asin": "B0DBHLTH1Q",
-          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "realme-12-pro-5g": {
-      "price": 330,
-      "originalPrice": 400.37,
-      "discount": 18,
+    "xbox-series-x": {
+      "price": 449.99,
+      "originalPrice": 449.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 330,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 919.51,
+          "asin": "B08H75RTZ8",
+          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steam-deck-oled": {
+      "price": 559.99,
+      "originalPrice": 559.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 715.96,
+          "asin": "B0CP2YVFD4",
+          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
           "linkKind": "direct",
           "priceEstimated": false
         }

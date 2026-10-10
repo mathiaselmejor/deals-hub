@@ -1,86 +1,58 @@
 {
-  "updatedAt": "2026-10-10T11:45:31.474Z",
+  "updatedAt": "2026-10-10T16:48:05.184Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 18.17,
-      "originalPrice": 31.99,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 18.17,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pala-padel-head": {
-      "price": 53.64,
-      "originalPrice": 79.99,
-      "discount": 33,
-      "offers": {
-        "amazon": {
-          "price": 53.64,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "monitor-bebe": {
-      "price": 99.99,
-      "originalPrice": 99.99,
+    "maleta-cabina": {
+      "price": 95,
+      "originalPrice": 95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 108,
-          "asin": "B09R4SJFDY",
-          "url": "https://www.amazon.es/dp/B09R4SJFDY",
+          "price": 107.43,
+          "asin": "B009SIVCNE",
+          "url": "https://www.amazon.es/dp/B009SIVCNE",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "dyson-airwrap": {
-      "price": 371.07,
-      "originalPrice": 549,
-      "discount": 32,
+    "portatil-lenovo": {
+      "price": 437,
+      "originalPrice": 799,
+      "discount": 45,
       "offers": {
         "amazon": {
-          "price": 371.07,
-          "asin": "B0FXXNWXV4",
-          "url": "https://www.amazon.es/dp/B0FXXNWXV4",
+          "price": 437,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "monitor-27-gaming": {
-      "price": 289.99,
-      "originalPrice": 289.99,
-      "discount": 0,
+    "garmin-forerunner-265": {
+      "price": 297.51,
+      "originalPrice": 449,
+      "discount": 34,
       "offers": {
         "amazon": {
-          "price": 383.84,
-          "asin": "B09CD32DNH",
-          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "price": 297.51,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aliexpress-buds": {
-      "price": 16,
-      "originalPrice": 39.99,
-      "discount": 60,
+    "realme-12-pro-5g": {
+      "price": 330,
+      "originalPrice": 400.37,
+      "discount": 18,
       "offers": {
         "amazon": {
-          "price": 16,
-          "asin": "B0DPXSW5PH",
-          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
+          "price": 330,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
           "linkKind": "direct",
           "priceEstimated": false
         }

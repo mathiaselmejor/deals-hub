@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T03:56:25.953Z",
+  "updatedAt": "2026-10-10T10:33:11.911Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3774,6 +3774,11 @@
         "date": "2026-10-07",
         "price": 80,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 84.99,
+        "source": "amazon"
       }
     ],
     "lego-classic": [
@@ -4447,6 +4452,11 @@
       {
         "date": "2026-10-09",
         "price": 114.88,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 139,
         "source": "amazon"
       }
     ],
@@ -5353,6 +5363,11 @@
         "date": "2026-10-07",
         "price": 79.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 79.99,
+        "source": "amazon"
       }
     ],
     "bascula-withings": [
@@ -5401,6 +5416,11 @@
       {
         "date": "2026-10-07",
         "price": 44,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 54.99,
         "source": "amazon"
       }
     ],
@@ -5882,6 +5902,11 @@
         "date": "2026-10-07",
         "price": 27.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 27.95,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -6285,6 +6310,11 @@
       {
         "date": "2026-09-29",
         "price": 289,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 319,
         "source": "amazon"
       }
     ],
@@ -6947,6 +6977,11 @@
       {
         "date": "2026-10-05",
         "price": 49.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-10",
+        "price": 39.99,
         "source": "amazon"
       }
     ],

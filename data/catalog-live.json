@@ -1,44 +1,100 @@
 {
-  "updatedAt": "2026-10-10T03:54:15.897Z",
+  "updatedAt": "2026-10-10T10:30:47.908Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 70.24,
-      "originalPrice": 129.99,
-      "discount": 46,
+    "silla-paseo-ligera": {
+      "price": 84.99,
+      "originalPrice": 169,
+      "discount": 50,
       "offers": {
         "amazon": {
-          "price": 70.24,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "price": 84.99,
+          "asin": "B0DLWK3LKH",
+          "url": "https://www.amazon.es/dp/B0DLWK3LKH",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "xbox-series-x": {
-      "price": 449.99,
-      "originalPrice": 449.99,
-      "discount": 0,
+    "delonghi-dedica": {
+      "price": 139,
+      "originalPrice": 199,
+      "discount": 30,
       "offers": {
         "amazon": {
-          "price": 919.51,
-          "asin": "B08H75RTZ8",
-          "url": "https://www.amazon.es/dp/B08H75RTZ8",
+          "price": 139,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steam-deck-oled": {
-      "price": 559.99,
-      "originalPrice": 559.99,
+    "theragun-mini": {
+      "price": 79.99,
+      "originalPrice": 79.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 715.96,
-          "asin": "B0CP2YVFD4",
-          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "price": 196.37,
+          "asin": "B0BMJKDBVR",
+          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "raton-logitech-g502": {
+      "price": 54.99,
+      "originalPrice": 54.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 70,
+          "asin": "B07W7L4RBX",
+          "url": "https://www.amazon.es/dp/B07W7L4RBX",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "crocs-classic": {
+      "price": 27.95,
+      "originalPrice": 49.99,
+      "discount": 44,
+      "offers": {
+        "amazon": {
+          "price": 27.95,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "robot-cocina-moulinex": {
+      "price": 319,
+      "originalPrice": 319,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 561.25,
+          "asin": "B084ZP1H7Z",
+          "url": "https://www.amazon.es/dp/B084ZP1H7Z",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nordvpn-sub": {
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "discount": 20,
+      "offers": {
+        "amazon": {
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
           "linkKind": "direct",
           "priceEstimated": false
         }

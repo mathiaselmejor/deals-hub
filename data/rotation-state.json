@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-10",
-  "updatedAt": "2026-10-10T21:03:38.088Z",
+  "dayKey": "2026-10-11",
+  "updatedAt": "2026-10-11T03:30:40.437Z",
   "trendingIds": [
-    "plancha-vapor-3000w-ceramica",
-    "asics-gel-nimbus",
-    "bolsa-vacio-ropa-6u-bomba",
-    "guirnalda-led-fiesta-10m",
-    "termoventilador-ceramico-2000w",
-    "audio-technica-at2020usb-microfono",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "cable-hdmi-2-1-3m-8k",
-    "transportin-homologado-iata",
-    "perfume-armani",
-    "cerave-rutina",
-    "base-carga-inalambrica-magsafe-15w",
-    "oximetro-pulso-dedo",
-    "levi-s-501-original-vaquero",
-    "organizador-cables-escritorio",
-    "the-north-face-borealis-mochila",
-    "harry-potter-coleccion-7-libros",
-    "comida-hellofresh"
-  ],
-  "featuredIds": [
-    "silla-paseo-ligera",
+    "resina-epoxi-transparente-1-5l-kit",
     "ambientador-coche-difusor-premium",
     "new-balance-574",
-    "plancha-vapor-3000w-ceramica",
+    "cable-usb-c-a-lightning-2m-mfi",
     "kettlebell-16kg",
     "silla-gaming",
     "tp-link-tapo-camara-2k-interior",
-    "adidas-samba"
+    "cerave-rutina",
+    "aliexpress-buds",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "adidas-samba",
+    "dyson-v15-detect-absolute",
+    "silla-paseo-ligera",
+    "protector-pantalla-cristal-9h-pack-3",
+    "salsa-trufa-negra-100ml",
+    "escritorio-elevable-electrico-140cm",
+    "powerbank-magnetica-5000mah",
+    "linterna-led-coche-recargable"
   ],
-  "dealOfDayId": "plancha-vapor-3000w-ceramica"
+  "featuredIds": [
+    "organizador-armario-12-cajones",
+    "base-carga-inalambrica-magsafe-15w",
+    "comida-hellofresh",
+    "asics-gel-nimbus",
+    "silla-ergonomica-oficina-reposabrazos-4d",
+    "barbacoa-weber",
+    "hot-wheels-track",
+    "almohada-cervical-viaje-memory-foam"
+  ],
+  "dealOfDayId": "resina-epoxi-transparente-1-5l-kit"
 }

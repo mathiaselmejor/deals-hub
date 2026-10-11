@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:44:32.061Z",
+  "updatedAt": "2026-10-11T11:59:59.694Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -478,6 +478,11 @@
         "date": "2026-10-10",
         "price": 45.4,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-11",
+        "price": 45.4,
+        "source": "amazon"
       }
     ],
     "cerave-rutina": [
@@ -946,6 +951,11 @@
       {
         "date": "2026-10-10",
         "price": 18.17,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-11",
+        "price": 24.79,
         "source": "amazon"
       }
     ],
@@ -5321,6 +5331,11 @@
         "date": "2026-10-09",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-11",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -7275,6 +7290,11 @@
         "date": "2026-10-07",
         "price": 21.09,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-11",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -9110,6 +9130,11 @@
         "date": "2026-10-09",
         "price": 96.57,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-11",
+        "price": 96.57,
+        "source": "amazon"
       }
     ],
     "keychron-k2-pro-teclado-mecanico": [
@@ -9938,6 +9963,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 132.22,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-11",
         "price": 132.22,
         "source": "amazon"
       }

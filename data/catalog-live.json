@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-10-11T03:28:34.864Z",
+  "updatedAt": "2026-10-11T10:42:31.075Z",
   "engineVersion": 1,
-  "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "theragun-mini": {
-      "price": 79.99,
-      "originalPrice": 79.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 190.55,
-          "asin": "B0BMJKDBVR",
-          "url": "https://www.amazon.es/dp/B0BMJKDBVR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

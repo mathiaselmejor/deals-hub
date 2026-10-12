@@ -1,72 +1,16 @@
 {
-  "updatedAt": "2026-10-12T11:47:30.111Z",
+  "updatedAt": "2026-10-12T14:10:36.686Z",
   "engineVersion": 1,
   "products": {
-    "camara-seguridad": {
-      "price": 18.17,
-      "originalPrice": 31.99,
-      "discount": 43,
+    "crocs-classic": {
+      "price": 23.1,
+      "originalPrice": 49.99,
+      "discount": 54,
       "offers": {
         "amazon": {
-          "price": 18.17,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "garmin-forerunner-265": {
-      "price": 293.39,
-      "originalPrice": 449,
-      "discount": 35,
-      "offers": {
-        "amazon": {
-          "price": 293.39,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "samsung-galaxy-s25": {
-      "price": 676.86,
-      "originalPrice": 909,
-      "discount": 26,
-      "offers": {
-        "amazon": {
-          "price": 676.86,
-          "asin": "B0DPXMJNV7",
-          "url": "https://www.amazon.es/dp/B0DPXMJNV7",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "realme-12-pro-5g": {
-      "price": 330,
-      "originalPrice": 400.37,
-      "discount": 18,
-      "offers": {
-        "amazon": {
-          "price": 330,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "logitech-mx-master-3s": {
-      "price": 96.57,
-      "originalPrice": 96.57,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 139,
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "price": 23.1,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }

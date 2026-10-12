@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T21:24:35.358Z",
+  "updatedAt": "2026-10-12T03:54:06.621Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -4533,6 +4533,11 @@
         "date": "2026-10-11",
         "price": 114.88,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-12",
+        "price": 114.88,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -6702,6 +6707,11 @@
         "date": "2026-10-10",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-12",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -8313,6 +8323,11 @@
       },
       {
         "date": "2026-10-04",
+        "price": 302.71,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-12",
         "price": 302.71,
         "source": "amazon"
       }

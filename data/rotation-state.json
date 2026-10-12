@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-11",
-  "updatedAt": "2026-10-11T21:24:35.358Z",
+  "dayKey": "2026-10-12",
+  "updatedAt": "2026-10-12T03:54:06.620Z",
   "trendingIds": [
-    "silla-paseo-ligera",
-    "gafas-natacion-anti-vaho-pack-2",
-    "new-balance-574",
-    "plancha-vapor-3000w-ceramica",
-    "sudadera-oversize-unisex",
-    "silla-gaming",
-    "ambientador-coche-difusor-premium",
-    "cerave-rutina",
-    "aliexpress-buds",
-    "comida-hellofresh",
-    "barbacoa-weber",
-    "samsung-tv-oled",
-    "resina-epoxi-transparente-1-5l-kit",
-    "globos-helio-kit-cumpleanos-50u",
-    "salsa-trufa-negra-100ml",
-    "crocs-classic",
-    "cable-hdmi-2-1-3m-8k",
-    "bolsa-vacio-ropa-6u-bomba"
-  ],
-  "featuredIds": [
     "sandwichera-grill-2000w",
     "set-pesas-kettlebell-8kg-12kg",
-    "dyson-v15-detect-absolute",
+    "nintendo-switch-oled",
     "playmobil-city",
     "silla-ergonomica-oficina-reposabrazos-4d",
-    "adidas-samba",
-    "hot-wheels-track",
-    "audio-technica-at2020usb-microfono"
+    "cerave-rutina",
+    "radiador-aceite-9-elementos",
+    "audio-technica-at2020usb-microfono",
+    "organizador-cables-escritorio",
+    "photobooth-accesorios-30-piezas",
+    "apple-watch-10",
+    "comida-hellofresh",
+    "termometro-infrarrojos-sin-contacto",
+    "sierra-caladora-black-decker-600w",
+    "globos-helio-kit-cumpleanos-50u",
+    "silla-gaming",
+    "cinta-correr-plegable",
+    "set-120-rotuladores-alcohol-dual-tip"
   ],
-  "dealOfDayId": "silla-paseo-ligera"
+  "featuredIds": [
+    "salsa-trufa-negra-100ml",
+    "sierra-caladora-black-decker-600w",
+    "hot-wheels-pista-looping",
+    "monitor-lg-ultragear-27-165hz",
+    "fire-tv-stick-4k",
+    "gafas-snorkel-mascara-panorramica",
+    "termometro-infrarrojos-sin-contacto",
+    "organizador-maletero-plegable"
+  ],
+  "dealOfDayId": "sandwichera-grill-2000w"
 }

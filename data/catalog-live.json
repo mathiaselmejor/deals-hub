@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-10-12T14:10:36.686Z",
+  "updatedAt": "2026-10-13T00:02:36.869Z",
   "engineVersion": 1,
   "products": {
-    "crocs-classic": {
-      "price": 23.1,
-      "originalPrice": 49.99,
-      "discount": 54,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 23.1,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 35.37,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pala-padel-head": {
+      "price": 53.64,
+      "originalPrice": 79.99,
+      "discount": 33,
+      "offers": {
+        "amazon": {
+          "price": 53.64,
+          "asin": "B0DNTTDKKB",
+          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
           "linkKind": "direct",
           "priceEstimated": false
         }

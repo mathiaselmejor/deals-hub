@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-10-13T22:11:46.373Z",
+  "updatedAt": "2026-10-14T03:09:25.303Z",
   "engineVersion": 1,
   "products": {
-    "crocs-classic": {
-      "price": 23.1,
-      "originalPrice": 49.99,
-      "discount": 54,
+    "ninja-airfryer": {
+      "price": 189.99,
+      "originalPrice": 189.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 23.1,
-          "asin": "B0BWHDDH6W",
-          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
+          "price": 208.26,
+          "asin": "B0CJVNGMFL",
+          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 387.6,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

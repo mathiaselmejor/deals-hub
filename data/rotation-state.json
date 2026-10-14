@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-13",
-  "updatedAt": "2026-10-13T22:13:43.096Z",
+  "dayKey": "2026-10-14",
+  "updatedAt": "2026-10-14T03:11:19.979Z",
   "trendingIds": [
-    "aceite-coco-virgen-500ml",
-    "sierra-caladora-black-decker-600w",
-    "vendas-kinesiologicas-6-rollos",
-    "asics-gel-nimbus",
-    "adidas-samba",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "amazon-echo-pop-altavoz-alexa",
-    "transportin-homologado-iata",
-    "plancha-vapor-3000w-ceramica",
-    "nintendo-switch-oled",
-    "vasos-desechables-premium-50u",
-    "gafas-natacion-anti-vaho-pack-2",
-    "pampers-premium",
-    "crocs-classic",
-    "gafas-snorkel-mascara-panorramica",
-    "airpods-4",
-    "lampara-pie-led-regulable",
-    "vestido-verano-midi-fluido"
-  ],
-  "featuredIds": [
     "philips-hue-starter",
-    "sierra-caladora-black-decker-600w",
+    "silla-gaming",
     "purificador-xiaomi",
     "radiador-aceite-9-elementos",
-    "vasos-desechables-premium-50u",
-    "termoventilador-ceramico-2000w",
+    "colchon-viscoelastico-135x190-medio",
+    "escalera-aluminio-3-peldanos-plegable",
     "toalla-microfibra-playa-xl",
-    "picadora-electrica-500w"
+    "chocolate-valor-surtido-500g",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "levi-s-501-original-vaquero",
+    "kettlebell-16kg",
+    "cinturon-cuero-genuino",
+    "aspirador-coche-12v-potente",
+    "base-carga-inalambrica-magsafe-15w",
+    "bascula-equipaje-digital-50kg",
+    "oximetro-pulso-dedo",
+    "sandwichera-grill-2000w",
+    "hot-wheels-pista-looping"
   ],
-  "dealOfDayId": "aceite-coco-virgen-500ml"
+  "featuredIds": [
+    "camara-seguridad",
+    "cafe-grano-especial-1kg",
+    "silla-gaming",
+    "asics-gel-nimbus",
+    "transportin-homologado-iata",
+    "aliexpress-buds",
+    "adidas-samba",
+    "nintendo-switch-oled"
+  ],
+  "dealOfDayId": "philips-hue-starter"
 }

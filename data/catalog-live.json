@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-10-15T16:08:24.847Z",
+  "updatedAt": "2026-10-15T20:50:27.336Z",
   "engineVersion": 1,
   "products": {
-    "mochila-viaje-cabin": {
-      "price": 44.99,
-      "originalPrice": 44.99,
+    "nike-tech-fleece": {
+      "price": 70,
+      "originalPrice": 70,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 46.21,
-          "asin": "B01M7UBL11",
-          "url": "https://www.amazon.es/dp/B01M7UBL11",
+          "price": 99,
+          "asin": "B0DNHSZG1Z",
+          "url": "https://www.amazon.es/dp/B0DNHSZG1Z",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "nothing-phone-2a": {
-      "price": 281.02,
-      "originalPrice": 281.02,
-      "discount": 0,
+    "crocs-classic": {
+      "price": 23.1,
+      "originalPrice": 49.99,
+      "discount": 54,
       "offers": {
         "amazon": {
-          "price": 354.55,
-          "asin": "B0GHNXX9WY",
-          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "price": 23.1,
+          "asin": "B0BWHDDH6W",
+          "url": "https://www.amazon.es/dp/B0BWHDDH6W",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 123.96,
-      "originalPrice": 139.97,
-      "discount": 11,
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
       "offers": {
         "amazon": {
-          "price": 123.96,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

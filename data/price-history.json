@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:45:11.182Z",
+  "updatedAt": "2026-10-15T16:10:34.535Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -6857,6 +6857,11 @@
         "date": "2026-10-12",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-15",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -8866,6 +8871,11 @@
         "date": "2026-10-14",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-15",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -10041,6 +10051,11 @@
       },
       {
         "date": "2026-10-14",
+        "price": 123.96,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-15",
         "price": 123.96,
         "source": "amazon"
       }

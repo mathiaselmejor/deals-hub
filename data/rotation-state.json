@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-14",
-  "updatedAt": "2026-10-14T21:14:35.887Z",
+  "dayKey": "2026-10-15",
+  "updatedAt": "2026-10-15T02:50:53.017Z",
   "trendingIds": [
-    "philips-hue-starter",
-    "crocs-classic",
-    "perfume-armani",
-    "purificador-xiaomi",
-    "set-skincare-coreano-5-pasos",
-    "levi-s-501-original-vaquero",
     "photobooth-accesorios-30-piezas",
-    "candado-tsa-maleta-4-digitos",
-    "escritorio-elevable-electrico-140cm",
-    "oximetro-pulso-dedo",
-    "sudadera-oversize-unisex",
-    "aceite-coco-virgen-500ml",
-    "bascula-equipaje-digital-50kg",
-    "soporte-movil-magnetico-ventilacion",
-    "nevera-playa-24l-isotermica",
-    "cinta-correr-plegable",
-    "powerbank-magnetica-5000mah",
-    "saco-dormir-bebe-invierno"
-  ],
-  "featuredIds": [
-    "toalla-microfibra-playa-xl",
-    "soporte-portatil-aluminio-ajustable",
-    "crocs-classic",
+    "cafe-grano-especial-1kg",
+    "silla-gaming",
     "playmobil-city",
-    "juguete-interactivo-perro-iq",
+    "aceite-coco-virgen-500ml",
     "aliexpress-buds",
     "barbacoa-weber",
-    "adidas-samba"
+    "adidas-samba",
+    "pinata-rellenable-unicornio",
+    "delonghi-dedica",
+    "base-carga-inalambrica-magsafe-15w",
+    "sabanas-microfibra-4-piezas",
+    "sierra-caladora-black-decker-600w",
+    "comida-hellofresh",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "cosori-airfryer",
+    "philips-hue-starter",
+    "sandwichera-grill-2000w"
   ],
-  "dealOfDayId": "philips-hue-starter"
+  "featuredIds": [
+    "sierra-caladora-black-decker-600w",
+    "playmobil-city",
+    "protector-solar-spf50-200ml-pack-x2",
+    "monitor-lg-ultragear-27-165hz",
+    "audio-technica-at2020usb-microfono",
+    "silla-paseo-ligera",
+    "etiquetas-identificacion-maleta-x8",
+    "nevera-playa-24l-isotermica"
+  ],
+  "dealOfDayId": "photobooth-accesorios-30-piezas"
 }

@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-15",
-  "updatedAt": "2026-10-15T20:52:24.130Z",
+  "dayKey": "2026-10-16",
+  "updatedAt": "2026-10-16T02:47:45.649Z",
   "trendingIds": [
-    "photobooth-accesorios-30-piezas",
-    "hot-wheels-pista-looping",
-    "crocs-classic",
-    "playmobil-city",
-    "aceite-coco-virgen-500ml",
-    "aliexpress-buds",
-    "adidas-samba",
-    "nintendo-switch-oled",
-    "helices-repuesto-dji-mini-pack",
-    "delonghi-dedica",
-    "soporte-portatil-aluminio-ajustable",
-    "sabanas-microfibra-4-piezas",
-    "resina-epoxi-transparente-1-5l-kit",
-    "escritorio-elevable-electrico-140cm",
-    "sierra-caladora-black-decker-600w",
-    "purificador-xiaomi",
-    "philips-hue-starter",
-    "organizador-armario-12-cajones"
-  ],
-  "featuredIds": [
     "resina-epoxi-transparente-1-5l-kit",
     "playmobil-city",
     "tabla-planchar-xl-con-soporte",
-    "fire-tv-stick-4k",
+    "monitor-lg-ultragear-27-165hz",
     "almohada-cervical-viaje-memory-foam",
     "perfume-armani",
     "etiquetas-identificacion-maleta-x8",
-    "bascula-cocina-digital-5kg"
+    "bascula-cocina-digital-5kg",
+    "almohada-cervical-memory-foam",
+    "bufanda-lana-merino",
+    "organizador-maletero-plegable",
+    "cafe-grano-especial-1kg",
+    "comida-hellofresh",
+    "samsung-tv-oled",
+    "protector-pantalla-cristal-9h-pack-3",
+    "rodillera-voleibol-padel-pack-2",
+    "asics-gel-nimbus",
+    "photobooth-accesorios-30-piezas"
   ],
-  "dealOfDayId": "photobooth-accesorios-30-piezas"
+  "featuredIds": [
+    "set-herramientas-jardin-8-piezas",
+    "kettlebell-16kg",
+    "philips-hue-starter",
+    "comida-hellofresh",
+    "powerbank-magnetica-5000mah",
+    "adidas-samba",
+    "gafas-natacion-anti-vaho-pack-2",
+    "sabanas-microfibra-4-piezas"
+  ],
+  "dealOfDayId": "resina-epoxi-transparente-1-5l-kit"
 }

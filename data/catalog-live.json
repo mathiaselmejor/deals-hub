@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-10-16T15:56:13.205Z",
+  "updatedAt": "2026-10-16T20:23:38.792Z",
   "engineVersion": 1,
   "products": {
-    "pala-padel-head": {
-      "price": 53.04,
-      "originalPrice": 79.99,
-      "discount": 34,
-      "offers": {
-        "amazon": {
-          "price": 53.04,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "elgato-wave-3-microfono-usb": {
       "price": 123.96,
       "originalPrice": 139.97,
@@ -39,6 +11,20 @@
           "price": 123.96,
           "asin": "B0BJL8SJ59",
           "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

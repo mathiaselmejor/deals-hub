@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:56:18.313Z",
+  "updatedAt": "2026-10-16T10:32:51.006Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1481,6 +1481,11 @@
         "date": "2026-10-14",
         "price": 461,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
+        "price": 461,
+        "source": "amazon"
       }
     ],
     "cosori-airfryer": [
@@ -2857,6 +2862,11 @@
       },
       {
         "date": "2026-10-14",
+        "price": 297.51,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
         "price": 297.51,
         "source": "amazon"
       }
@@ -5496,6 +5506,11 @@
         "date": "2026-10-15",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -5834,6 +5849,11 @@
         "date": "2026-10-14",
         "price": 152.75,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
+        "price": 184.99,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -5943,6 +5963,11 @@
       },
       {
         "date": "2026-10-14",
+        "price": 23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
         "price": 23,
         "source": "amazon"
       }
@@ -9806,6 +9831,11 @@
         "date": "2026-10-15",
         "price": 74.86,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
+        "price": 74.86,
+        "source": "amazon"
       }
     ],
     "elgato-wave-3-microfono-usb": [
@@ -11066,6 +11096,11 @@
       },
       {
         "date": "2026-10-15",
+        "price": 449.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-16",
         "price": 449.99,
         "source": "amazon"
       }

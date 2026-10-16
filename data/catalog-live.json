@@ -1,44 +1,58 @@
 {
-  "updatedAt": "2026-10-16T02:45:38.168Z",
+  "updatedAt": "2026-10-16T08:54:20.020Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 66.11,
-      "originalPrice": 129.99,
-      "discount": 49,
-      "offers": {
-        "amazon": {
-          "price": 66.11,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "ssd-samsung-990": {
-      "price": 94.99,
-      "originalPrice": 94.99,
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 235.45,
-          "asin": "B0BXX2PBXP",
-          "url": "https://www.amazon.es/dp/B0BXX2PBXP",
+          "price": 35.37,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "realme-12-pro-5g": {
-      "price": 341,
-      "originalPrice": 400.37,
-      "discount": 15,
+    "mochila-portatil": {
+      "price": 54.99,
+      "originalPrice": 54.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 341,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 62.04,
+          "asin": "B07KYSH6BS",
+          "url": "https://www.amazon.es/dp/B07KYSH6BS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

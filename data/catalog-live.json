@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-10-17T08:25:28.488Z",
+  "updatedAt": "2026-10-17T10:01:10.228Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 66.11,
-      "originalPrice": 129.99,
-      "discount": 49,
-      "offers": {
-        "amazon": {
-          "price": 66.11,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 32.59,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "cafetera-moka": {
       "price": 29.95,
       "originalPrice": 29.95,
@@ -44,15 +16,29 @@
         }
       }
     },
-    "elgato-wave-3-microfono-usb": {
-      "price": 123.96,
-      "originalPrice": 139.97,
-      "discount": 11,
+    "nordvpn-sub": {
+      "price": 39.99,
+      "originalPrice": 49.99,
+      "discount": 20,
       "offers": {
         "amazon": {
-          "price": 123.96,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
+          "price": 39.99,
+          "asin": "B0D7FFRHG5",
+          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
           "linkKind": "direct",
           "priceEstimated": false
         }

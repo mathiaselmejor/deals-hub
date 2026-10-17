@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:25:37.587Z",
+  "updatedAt": "2026-10-17T02:42:23.229Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -249,6 +249,11 @@
       },
       {
         "date": "2026-10-14",
+        "price": 189.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 189.99,
         "source": "amazon"
       }
@@ -503,6 +508,11 @@
         "date": "2026-10-13",
         "price": 40.45,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 40.45,
+        "source": "amazon"
       }
     ],
     "cerave-rutina": [
@@ -620,6 +630,11 @@
         "date": "2026-10-07",
         "price": 17,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 17,
+        "source": "amazon"
       }
     ],
     "airpods-4": [
@@ -672,6 +687,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 559,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 559,
         "source": "amazon"
       }
@@ -731,6 +751,11 @@
       },
       {
         "date": "2026-10-03",
+        "price": 25,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 25,
         "source": "amazon"
       }
@@ -987,6 +1012,11 @@
         "date": "2026-10-15",
         "price": 18.17,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 18.17,
+        "source": "amazon"
       }
     ],
     "maleta-cabina": [
@@ -1217,6 +1247,11 @@
       },
       {
         "date": "2026-10-14",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 95,
         "source": "amazon"
       }
@@ -1486,6 +1521,11 @@
         "date": "2026-10-16",
         "price": 461,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 461,
+        "source": "amazon"
       }
     ],
     "cosori-airfryer": [
@@ -1698,6 +1738,11 @@
         "date": "2026-10-16",
         "price": 66.11,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 66.11,
+        "source": "amazon"
       }
     ],
     "teclado-logitech": [
@@ -1745,6 +1790,11 @@
         "date": "2026-10-07",
         "price": 94.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 94.99,
+        "source": "amazon"
       }
     ],
     "ps5-slim": [
@@ -1780,6 +1830,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 399.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 399.99,
         "source": "amazon"
       }
@@ -1818,6 +1873,11 @@
       {
         "date": "2026-10-07",
         "price": 269,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 99,
         "source": "amazon"
       }
     ],
@@ -1938,6 +1998,11 @@
         "date": "2026-10-07",
         "price": 49,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 70,
+        "source": "amazon"
       }
     ],
     "adidas-samba": [
@@ -1969,6 +2034,11 @@
       {
         "date": "2026-10-07",
         "price": 34,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 29,
         "source": "amazon"
       }
     ],
@@ -2006,6 +2076,11 @@
       {
         "date": "2026-10-04",
         "price": 41,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 15,
         "source": "amazon"
       }
     ],
@@ -2410,6 +2485,11 @@
         "date": "2026-10-16",
         "price": 24.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 24.95,
+        "source": "amazon"
       }
     ],
     "asics-gel-nimbus": [
@@ -2626,6 +2706,11 @@
       {
         "date": "2026-10-07",
         "price": 62,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 34,
         "source": "amazon"
       }
     ],
@@ -2869,6 +2954,11 @@
         "date": "2026-10-16",
         "price": 297.51,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 297.51,
+        "source": "amazon"
       }
     ],
     "pelota-futbol-select": [
@@ -3105,6 +3195,11 @@
       {
         "date": "2026-10-04",
         "price": 27,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 20,
         "source": "amazon"
       }
     ],
@@ -3353,6 +3448,11 @@
         "date": "2026-10-16",
         "price": 53.04,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 53.04,
+        "source": "amazon"
       }
     ],
     "bici-estatica": [
@@ -3500,6 +3600,11 @@
         "date": "2026-10-07",
         "price": 127,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 99,
+        "source": "amazon"
       }
     ],
     "tienda-campana-quechua": [
@@ -3535,6 +3640,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 79.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 79.99,
         "source": "amazon"
       }
@@ -3756,6 +3866,11 @@
         "date": "2026-10-07",
         "price": 58,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 59.95,
+        "source": "amazon"
       }
     ],
     "cama-perro-ortopedica": [
@@ -3791,6 +3906,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 44.99,
         "source": "amazon"
       }
@@ -3892,6 +4012,11 @@
         "date": "2026-10-10",
         "price": 99.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 87,
+        "source": "amazon"
       }
     ],
     "silla-paseo-ligera": [
@@ -3958,6 +4083,11 @@
       {
         "date": "2026-10-10",
         "price": 84.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 99,
         "source": "amazon"
       }
     ],
@@ -4327,6 +4457,11 @@
         "date": "2026-10-14",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 32.95,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -4369,6 +4504,11 @@
         "date": "2026-10-07",
         "price": 71,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 65,
+        "source": "amazon"
       }
     ],
     "proteina-myprotein": [
@@ -4404,6 +4544,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 39.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 39.99,
         "source": "amazon"
       }
@@ -4653,6 +4798,11 @@
         "date": "2026-10-12",
         "price": 114.88,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 114.88,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -4664,6 +4814,11 @@
       {
         "date": "2026-09-23",
         "price": 723,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 809,
         "source": "amazon"
       }
     ],
@@ -4844,6 +4999,11 @@
         "date": "2026-10-12",
         "price": 676.86,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 676.86,
+        "source": "amazon"
       }
     ],
     "ipad-11-2024": [
@@ -4896,6 +5056,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 189,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 189,
         "source": "amazon"
       }
@@ -5100,6 +5265,11 @@
         "date": "2026-10-13",
         "price": 371.07,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 266,
+        "source": "amazon"
       }
     ],
     "monitor-27-gaming": [
@@ -5257,6 +5427,11 @@
         "date": "2026-10-14",
         "price": 289.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 289.99,
+        "source": "amazon"
       }
     ],
     "purificador-xiaomi": [
@@ -5293,6 +5468,11 @@
       {
         "date": "2026-10-07",
         "price": 99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 73,
         "source": "amazon"
       }
     ],
@@ -5516,6 +5696,11 @@
         "date": "2026-10-16",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -5644,6 +5829,11 @@
       {
         "date": "2026-10-04",
         "price": 69,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 66,
         "source": "amazon"
       }
     ],
@@ -5859,6 +6049,11 @@
         "date": "2026-10-16",
         "price": 184.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 184.99,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -5909,6 +6104,11 @@
       },
       {
         "date": "2026-10-16",
+        "price": 54.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 54.99,
         "source": "amazon"
       }
@@ -5973,6 +6173,11 @@
       },
       {
         "date": "2026-10-16",
+        "price": 23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 23,
         "source": "amazon"
       }
@@ -6222,6 +6427,11 @@
         "date": "2026-10-15",
         "price": 23.1,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 23.1,
+        "source": "amazon"
       }
     ],
     "converse-chuck": [
@@ -6268,6 +6478,11 @@
       {
         "date": "2026-10-07",
         "price": 57.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 52,
         "source": "amazon"
       }
     ],
@@ -6387,6 +6602,11 @@
         "date": "2026-10-07",
         "price": 26,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 18,
+        "source": "amazon"
       }
     ],
     "gopro-hero13": [
@@ -6431,6 +6651,11 @@
         "date": "2026-10-07",
         "price": 20.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 20.99,
+        "source": "amazon"
       }
     ],
     "perfume-armani": [
@@ -6467,6 +6692,11 @@
       {
         "date": "2026-10-07",
         "price": 45,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 61,
         "source": "amazon"
       }
     ],
@@ -6604,6 +6834,11 @@
         "date": "2026-10-07",
         "price": 619.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 568,
+        "source": "amazon"
       }
     ],
     "robot-cocina-moulinex": [
@@ -6630,6 +6865,11 @@
       {
         "date": "2026-10-10",
         "price": 319,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 289,
         "source": "amazon"
       }
     ],
@@ -6733,6 +6973,11 @@
       },
       {
         "date": "2026-10-10",
+        "price": 559.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 559.99,
         "source": "amazon"
       }
@@ -6917,6 +7162,11 @@
         "date": "2026-10-15",
         "price": 44.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 44.99,
+        "source": "amazon"
       }
     ],
     "shein-cupon-style": [
@@ -6952,6 +7202,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 19.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 19.95,
         "source": "amazon"
       }
@@ -7105,6 +7360,11 @@
       {
         "date": "2026-10-10",
         "price": 16,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 18,
         "source": "amazon"
       }
     ],
@@ -7316,6 +7576,11 @@
       },
       {
         "date": "2026-10-10",
+        "price": 39.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 39.99,
         "source": "amazon"
       }
@@ -7560,6 +7825,11 @@
         "date": "2026-10-16",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -7635,6 +7905,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 54.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 54.99,
         "source": "amazon"
       }
@@ -7714,6 +7989,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 24.99,
         "source": "amazon"
       }
@@ -7958,6 +8238,11 @@
         "date": "2026-10-16",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -8160,6 +8445,11 @@
         "date": "2026-10-07",
         "price": 219,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 141,
+        "source": "amazon"
       }
     ],
     "samsung-galaxy-a55-5g-128gb": [
@@ -8328,6 +8618,11 @@
       {
         "date": "2026-10-07",
         "price": 228,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 269,
         "source": "amazon"
       }
     ],
@@ -8518,6 +8813,11 @@
         "date": "2026-10-11",
         "price": 593,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 365,
+        "source": "amazon"
       }
     ],
     "motorola-edge-40-neo": [
@@ -8563,6 +8863,11 @@
       },
       {
         "date": "2026-10-14",
+        "price": 302.71,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 302.71,
         "source": "amazon"
       }
@@ -8620,6 +8925,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 324.41,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 324.41,
         "source": "amazon"
       }
@@ -8703,6 +9013,11 @@
       {
         "date": "2026-10-16",
         "price": 341,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 345,
         "source": "amazon"
       }
     ],
@@ -8944,6 +9259,11 @@
       },
       {
         "date": "2026-10-15",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 281.02,
         "source": "amazon"
       }
@@ -9190,6 +9510,11 @@
         "date": "2026-10-07",
         "price": 487.17,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 412,
+        "source": "amazon"
       }
     ],
     "lenovo-tab-p12": [
@@ -9297,6 +9622,11 @@
         "date": "2026-10-14",
         "price": 302.71,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 302.71,
+        "source": "amazon"
       }
     ],
     "amazon-fire-hd-10": [
@@ -9323,6 +9653,11 @@
       {
         "date": "2026-10-04",
         "price": 269,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 223,
         "source": "amazon"
       }
     ],
@@ -9475,6 +9810,11 @@
         "date": "2026-10-14",
         "price": 96.57,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 77,
+        "source": "amazon"
       }
     ],
     "keychron-k2-pro-teclado-mecanico": [
@@ -9556,6 +9896,11 @@
       {
         "date": "2026-10-07",
         "price": 79,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 29,
         "source": "amazon"
       }
     ],
@@ -9844,6 +10189,11 @@
       },
       {
         "date": "2026-10-16",
+        "price": 74.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 74.86,
         "source": "amazon"
       }
@@ -10138,6 +10488,11 @@
         "date": "2026-10-16",
         "price": 123.96,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 123.96,
+        "source": "amazon"
       }
     ],
     "steelseries-arctis-nova-7": [
@@ -10365,6 +10720,11 @@
         "date": "2026-10-16",
         "price": 131.4,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 131.4,
+        "source": "amazon"
       }
     ],
     "canon-eos-r50-kit-18-45mm": [
@@ -10402,6 +10762,11 @@
         "date": "2026-10-07",
         "price": 699,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 538,
+        "source": "amazon"
       }
     ],
     "sony-zv-e10-vlogging": [
@@ -10432,6 +10797,11 @@
       },
       {
         "date": "2026-10-04",
+        "price": 649.92,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 649.92,
         "source": "amazon"
       }
@@ -10465,6 +10835,11 @@
       {
         "date": "2026-10-07",
         "price": 563.12,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 449,
         "source": "amazon"
       }
     ],
@@ -11118,6 +11493,11 @@
         "date": "2026-10-16",
         "price": 449.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 449.99,
+        "source": "amazon"
       }
     ],
     "barra-sonido-samsung": [
@@ -11155,6 +11535,11 @@
         "date": "2026-10-07",
         "price": 299,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 247,
+        "source": "amazon"
       }
     ],
     "arenero-gatos-automatico": [
@@ -11177,6 +11562,11 @@
         "date": "2026-10-07",
         "price": 219,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 219,
+        "source": "amazon"
       }
     ],
     "ssd-samsung-990": [
@@ -11192,6 +11582,11 @@
       },
       {
         "date": "2026-10-16",
+        "price": 94.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 94.99,
         "source": "amazon"
       }
@@ -11241,6 +11636,11 @@
         "date": "2026-10-14",
         "price": 21.24,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
+        "price": 44,
+        "source": "amazon"
       }
     ],
     "piscina-hinchable": [
@@ -11256,6 +11656,11 @@
       },
       {
         "date": "2026-10-07",
+        "price": 85,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-17",
         "price": 85,
         "source": "amazon"
       }

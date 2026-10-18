@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-10-18T08:44:41.870Z",
+  "updatedAt": "2026-10-18T10:13:50.626Z",
   "engineVersion": 1,
   "products": {
-    "mancuernas-ajustables": {
-      "price": 21.24,
-      "originalPrice": 199.99,
-      "discount": 89,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 21.24,
-          "asin": "B07BLVML5W",
-          "url": "https://www.amazon.es/dp/B07BLVML5W",
+          "price": 68.22,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "converse-chuck": {
-      "price": 54,
-      "originalPrice": 57.99,
-      "discount": 7,
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 54,
-          "asin": "B0FDHX693D",
-          "url": "https://www.amazon.es/dp/B0FDHX693D",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "comida-hellofresh": {
-      "price": 20.28,
-      "originalPrice": 49.99,
-      "discount": 59,
-      "offers": {
-        "amazon": {
-          "price": 20.28,
-          "asin": "1784724653",
-          "url": "https://www.amazon.es/dp/1784724653",
+          "price": 387.56,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
           "linkKind": "direct",
           "priceEstimated": false
         }

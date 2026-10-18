@@ -1,58 +1,44 @@
 {
-  "updatedAt": "2026-10-18T15:14:25.390Z",
+  "updatedAt": "2026-10-18T19:57:32.106Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 461,
-      "originalPrice": 799,
-      "discount": 42,
+    "xbox-series-x": {
+      "price": 449.99,
+      "originalPrice": 449.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 461,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
+          "price": 917.85,
+          "asin": "B08H75RTZ8",
+          "url": "https://www.amazon.es/dp/B08H75RTZ8",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aspirador-coche": {
-      "price": 32.95,
-      "originalPrice": 32.95,
-      "discount": 0,
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 37.81,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 29.01,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "motorola-edge-40-neo": {
-      "price": 302.71,
-      "originalPrice": 302.71,
+    "logitech-c920-hd-pro-webcam": {
+      "price": 74.86,
+      "originalPrice": 74.86,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 329,
-          "asin": "B0CF2QQWC2",
-          "url": "https://www.amazon.es/dp/B0CF2QQWC2",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "oppo-reno-12-f-5g": {
-      "price": 324.41,
-      "originalPrice": 324.41,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 329,
-          "asin": "B0DDL1DMZ2",
-          "url": "https://www.amazon.es/dp/B0DDL1DMZ2",
+          "price": 79.21,
+          "asin": "B006H967FA",
+          "url": "https://www.amazon.es/dp/B006H967FA",
           "linkKind": "direct",
           "priceEstimated": false
         }

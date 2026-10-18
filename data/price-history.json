@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:16:27.813Z",
+  "updatedAt": "2026-10-18T19:59:27.957Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -7391,6 +7391,11 @@
         "date": "2026-10-17",
         "price": 18,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "nordvpn-sub": [
@@ -10236,6 +10241,11 @@
         "date": "2026-10-17",
         "price": 74.86,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
+        "price": 74.86,
+        "source": "amazon"
       }
     ],
     "elgato-wave-3-microfono-usb": [
@@ -11536,6 +11546,11 @@
       },
       {
         "date": "2026-10-17",
+        "price": 449.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
         "price": 449.99,
         "source": "amazon"
       }

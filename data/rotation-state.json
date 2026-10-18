@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-17",
-  "updatedAt": "2026-10-17T20:00:27.929Z",
+  "dayKey": "2026-10-18",
+  "updatedAt": "2026-10-18T02:40:51.180Z",
   "trendingIds": [
-    "saco-dormir-bebe-invierno",
-    "omega-3-1000mg-180-perlas",
     "philips-hue-starter",
-    "apple-watch-10",
-    "neceser-viaje-colgante-organizador",
-    "adidas-samba",
-    "tabla-planchar-xl-con-soporte",
-    "nintendo-switch-oled",
-    "oral-b-io9",
-    "termometro-infrarrojos-sin-contacto",
-    "barra-sonido-samsung",
-    "vasos-desechables-premium-50u",
-    "cafe-grano-especial-1kg",
-    "bolsa-vacio-ropa-6u-bomba",
-    "domestika-cursos",
-    "dyson-airwrap",
     "protector-solar-spf50-200ml-pack-x2",
-    "dyson-v15-detect-absolute"
-  ],
-  "featuredIds": [
-    "philips-hue-starter",
-    "tiras-reactivas-glucosa-x50",
     "candado-tsa-maleta-4-digitos",
     "organizador-cables-escritorio",
     "barra-sonido-samsung",
-    "termometro-infrarrojos-sin-contacto",
+    "toalla-microfibra-playa-xl",
     "sabanas-microfibra-4-piezas",
-    "portatil-lenovo"
+    "portatil-lenovo",
+    "oral-b-io9",
+    "chocolate-valor-surtido-500g",
+    "north-face-nuptse",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "bufanda-lana-merino",
+    "hot-wheels-track",
+    "nintendo-switch-oled",
+    "neceser-viaje-colgante-organizador",
+    "amazon-echo-pop-altavoz-alexa",
+    "radiador-aceite-9-elementos"
   ],
-  "dealOfDayId": "saco-dormir-bebe-invierno"
+  "featuredIds": [
+    "monitor-lg-ultragear-27-165hz",
+    "purificador-xiaomi",
+    "chocolate-valor-surtido-500g",
+    "set-pesas-kettlebell-8kg-12kg",
+    "bolsa-vacio-ropa-6u-bomba",
+    "anillo-soporte-movil-magsafe",
+    "levis-501",
+    "fire-tv-stick-4k"
+  ],
+  "dealOfDayId": "philips-hue-starter"
 }

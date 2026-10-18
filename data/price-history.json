@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T10:16:16.377Z",
+  "updatedAt": "2026-10-18T15:16:27.813Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1524,6 +1524,11 @@
       },
       {
         "date": "2026-10-17",
+        "price": 461,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
         "price": 461,
         "source": "amazon"
       }
@@ -4465,6 +4470,11 @@
       },
       {
         "date": "2026-10-17",
+        "price": 32.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
         "price": 32.95,
         "source": "amazon"
       }
@@ -8890,6 +8900,11 @@
         "date": "2026-10-17",
         "price": 302.71,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
+        "price": 302.71,
+        "source": "amazon"
       }
     ],
     "oppo-reno-12-f-5g": [
@@ -8950,6 +8965,11 @@
       },
       {
         "date": "2026-10-17",
+        "price": 324.41,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-18",
         "price": 324.41,
         "source": "amazon"
       }

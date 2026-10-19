@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-10-19T09:44:55.958Z",
+  "updatedAt": "2026-10-19T11:51:40.871Z",
   "engineVersion": 1,
-  "products": {
-    "camara-seguridad": {
-      "price": 18.17,
-      "originalPrice": 31.99,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 18.17,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "ipad-10-9-2024-64gb-wifi": {
-      "price": 411.22,
-      "originalPrice": 411.22,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 469,
-          "asin": "B0DZ75J2WS",
-          "url": "https://www.amazon.es/dp/B0DZ75J2WS",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

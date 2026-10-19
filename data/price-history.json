@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T11:53:42.635Z",
+  "updatedAt": "2026-10-19T18:13:30.471Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1257,6 +1257,11 @@
       },
       {
         "date": "2026-10-17",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-19",
         "price": 95,
         "source": "amazon"
       }
@@ -4032,6 +4037,11 @@
         "date": "2026-10-17",
         "price": 87,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-19",
+        "price": 94,
+        "source": "amazon"
       }
     ],
     "silla-paseo-ligera": [
@@ -5460,6 +5470,11 @@
       },
       {
         "date": "2026-10-18",
+        "price": 289.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-19",
         "price": 289.99,
         "source": "amazon"
       }

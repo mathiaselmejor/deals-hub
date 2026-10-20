@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T18:13:30.471Z",
+  "updatedAt": "2026-10-20T03:03:48.379Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -2239,6 +2239,11 @@
       },
       {
         "date": "2026-10-15",
+        "price": 70,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-20",
         "price": 70,
         "source": "amazon"
       }
@@ -8303,6 +8308,11 @@
         "date": "2026-10-17",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-20",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -10573,6 +10583,11 @@
         "date": "2026-10-17",
         "price": 123.96,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-20",
+        "price": 139.97,
+        "source": "amazon"
       }
     ],
     "steelseries-arctis-nova-7": [
@@ -11581,6 +11596,11 @@
       },
       {
         "date": "2026-10-18",
+        "price": 449.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-20",
         "price": 449.99,
         "source": "amazon"
       }

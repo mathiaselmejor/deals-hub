@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T10:50:50.643Z",
+  "updatedAt": "2026-10-20T16:14:04.064Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1027,6 +1027,11 @@
         "date": "2026-10-19",
         "price": 18.17,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-20",
+        "price": 18.17,
+        "source": "amazon"
       }
     ],
     "maleta-cabina": [
@@ -1267,6 +1272,11 @@
       },
       {
         "date": "2026-10-19",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-20",
         "price": 95,
         "source": "amazon"
       }

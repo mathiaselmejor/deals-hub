@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-20",
-  "updatedAt": "2026-10-20T21:10:53.224Z",
+  "dayKey": "2026-10-21",
+  "updatedAt": "2026-10-21T02:58:28.682Z",
   "trendingIds": [
-    "nintendo-switch-oled",
-    "delonghi-dedica",
-    "toalla-microfibra-playa-xl",
-    "oral-b-io9",
-    "tiras-reactivas-glucosa-x50",
-    "monitor-lg-ultragear-27-165hz",
-    "juguete-interactivo-perro-iq",
-    "roborock-qrevo-s-robot-aspirador",
-    "domestika-cursos",
-    "colchon-emma",
-    "pampers-premium",
-    "almohada-cervical-viaje-memory-foam",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "sabanas-microfibra-4-piezas",
-    "organizador-maletero-plegable",
-    "purina-pro-plan-gato-3kg",
-    "organizador-cables-escritorio",
-    "radiador-aceite-9-elementos"
-  ],
-  "featuredIds": [
     "sudadera-oversize-unisex",
     "transportin-homologado-iata",
     "playmobil-city",
     "sabanas-microfibra-4-piezas",
     "linterna-led-coche-recargable",
     "sierra-caladora-black-decker-600w",
-    "pampers-premium",
-    "gafas-snorkel-mascara-panorramica"
+    "colchon-viscoelastico-135x190-medio",
+    "gafas-snorkel-mascara-panorramica",
+    "nintendo-switch-oled",
+    "alfombrilla-xxl-rgb",
+    "amazon-echo-pop-altavoz-alexa",
+    "picadora-electrica-500w",
+    "levis-501",
+    "base-carga-inalambrica-magsafe-15w",
+    "radiador-aceite-9-elementos",
+    "cosori-airfryer",
+    "keychron-k2-pro-teclado-mecanico",
+    "oximetro-pulso-dedo"
   ],
-  "dealOfDayId": "nintendo-switch-oled"
+  "featuredIds": [
+    "oral-b-io9",
+    "the-north-face-borealis-mochila",
+    "sandwichera-grill-2000w",
+    "vasos-desechables-premium-50u",
+    "escalera-aluminio-3-peldanos-plegable",
+    "apple-watch-10",
+    "plancha-vapor-3000w-ceramica",
+    "dyson-v15-detect-absolute"
+  ],
+  "dealOfDayId": "sudadera-oversize-unisex"
 }

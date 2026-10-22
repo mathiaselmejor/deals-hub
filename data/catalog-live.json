@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:07:25.751Z",
+  "updatedAt": "2026-10-22T02:55:33.545Z",
   "engineVersion": 1,
-  "products": {
-    "delonghi-dedica": {
-      "price": 114.88,
-      "originalPrice": 199,
-      "discount": 42,
-      "offers": {
-        "amazon": {
-          "price": 114.88,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "elgato-wave-3-microfono-usb": {
-      "price": 139.97,
-      "originalPrice": 139.97,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 168.58,
-          "asin": "B0BJL8SJ59",
-          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

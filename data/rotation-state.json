@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-10-21",
-  "updatedAt": "2026-10-21T21:09:30.105Z",
+  "dayKey": "2026-10-22",
+  "updatedAt": "2026-10-22T02:57:36.611Z",
   "trendingIds": [
-    "sudadera-oversize-unisex",
-    "transportin-homologado-iata",
-    "playmobil-city",
-    "sabanas-microfibra-4-piezas",
-    "anillo-soporte-movil-magsafe",
-    "sierra-caladora-black-decker-600w",
-    "set-skincare-coreano-5-pasos",
-    "bascula-cocina-digital-5kg",
-    "nintendo-switch-oled",
-    "powerbank-magnetica-5000mah",
-    "termometro-infrarrojos-sin-contacto",
-    "chocolate-valor-surtido-500g",
-    "levis-501",
-    "soporte-movil-magnetico-ventilacion",
-    "cosori-airfryer",
-    "resina-epoxi-transparente-1-5l-kit",
-    "keychron-k2-pro-teclado-mecanico",
-    "bolsa-vacio-ropa-6u-bomba"
-  ],
-  "featuredIds": [
     "oral-b-io9",
     "the-north-face-borealis-mochila",
     "cable-hdmi-2-1-3m-8k",
@@ -29,7 +9,27 @@
     "levi-s-501-original-vaquero",
     "apple-watch-10",
     "gafas-snorkel-mascara-panorramica",
-    "dyson-v15-detect-absolute"
+    "dyson-v15-detect-absolute",
+    "new-balance-574",
+    "soporte-portatil-aluminio-ajustable",
+    "fire-tv-stick-4k",
+    "anillo-soporte-movil-magsafe",
+    "almohada-cervical-memory-foam",
+    "set-skincare-coreano-5-pasos",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "purina-pro-plan-gato-3kg",
+    "keychron-k2-pro-teclado-mecanico",
+    "sierra-caladora-black-decker-600w"
   ],
-  "dealOfDayId": "sudadera-oversize-unisex"
+  "featuredIds": [
+    "silla-ergonomica-oficina-reposabrazos-4d",
+    "the-north-face-borealis-mochila",
+    "camara-seguridad",
+    "monitor-lg-ultragear-27-165hz",
+    "levi-s-501-original-vaquero",
+    "levis-501",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "omega-3-1000mg-180-perlas"
+  ],
+  "dealOfDayId": "oral-b-io9"
 }

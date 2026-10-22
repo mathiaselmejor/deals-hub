@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-10-22T10:59:27.598Z",
+  "updatedAt": "2026-10-22T16:27:57.687Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "mancuernas-ajustables": {
+      "price": 24.99,
+      "originalPrice": 199.99,
+      "discount": 88,
+      "offers": {
+        "amazon": {
+          "price": 24.99,
+          "asin": "B07BLVML5W",
+          "url": "https://www.amazon.es/dp/B07BLVML5W",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

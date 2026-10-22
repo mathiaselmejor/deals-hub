@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:01:21.800Z",
+  "updatedAt": "2026-10-22T16:30:01.339Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -8363,6 +8363,11 @@
         "date": "2026-10-20",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-22",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -10885,6 +10890,11 @@
         "date": "2026-10-17",
         "price": 131.4,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-22",
+        "price": 131.4,
+        "source": "amazon"
       }
     ],
     "canon-eos-r50-kit-18-45mm": [
@@ -11815,6 +11825,11 @@
       {
         "date": "2026-10-18",
         "price": 21.24,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-22",
+        "price": 24.99,
         "source": "amazon"
       }
     ],

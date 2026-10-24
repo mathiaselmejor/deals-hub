@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-23",
-  "updatedAt": "2026-10-23T20:54:47.283Z",
+  "dayKey": "2026-10-24",
+  "updatedAt": "2026-10-24T02:57:51.142Z",
   "trendingIds": [
-    "etiquetas-identificacion-maleta-x8",
-    "cosori-airfryer",
-    "north-face-nuptse",
-    "adidas-samba",
-    "oximetro-pulso-dedo",
-    "levis-501",
-    "kettlebell-16kg",
-    "omega-3-1000mg-180-perlas",
-    "samsung-tv-oled",
-    "colchon-viscoelastico-135x190-medio",
-    "cinta-correr-plegable",
-    "vasos-desechables-premium-50u",
-    "asics-gel-nimbus",
-    "tp-link-tapo-camara-2k-interior",
-    "portatil-lenovo",
-    "dyson-v15-detect-absolute",
-    "camara-seguridad",
-    "barbacoa-weber"
-  ],
-  "featuredIds": [
     "organizador-armario-12-cajones",
     "hot-wheels-track",
     "helices-repuesto-dji-mini-pack",
     "oral-b-io9",
     "iphone-15-128gb",
     "colchon-emma",
-    "north-face-nuptse",
-    "purificador-xiaomi"
+    "portatil-lenovo",
+    "barbacoa-weber",
+    "escritorio-elevable-electrico-140cm",
+    "radiador-aceite-9-elementos",
+    "kettlebell-16kg",
+    "almohada-cervical-memory-foam",
+    "altavoz-bluetooth-fiesta-40w",
+    "protector-pantalla-cristal-9h-pack-3",
+    "levis-501",
+    "amazon-echo-pop-altavoz-alexa",
+    "playmobil-city",
+    "pampers-premium"
   ],
-  "dealOfDayId": "etiquetas-identificacion-maleta-x8"
+  "featuredIds": [
+    "sandwichera-grill-2000w",
+    "hot-wheels-track",
+    "new-balance-574",
+    "almohada-cervical-viaje-memory-foam",
+    "sudadera-oversize-unisex",
+    "picadora-electrica-500w",
+    "colchon-viscoelastico-135x190-medio",
+    "ambientador-coche-difusor-premium"
+  ],
+  "dealOfDayId": "organizador-armario-12-cajones"
 }

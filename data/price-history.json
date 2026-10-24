@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T10:09:21.038Z",
+  "updatedAt": "2026-10-24T15:16:49.111Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -4908,6 +4908,11 @@
         "date": "2026-10-23",
         "price": 114.88,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-24",
+        "price": 114.88,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -6173,6 +6178,11 @@
       {
         "date": "2026-10-17",
         "price": 184.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-24",
+        "price": 164.46,
         "source": "amazon"
       }
     ],

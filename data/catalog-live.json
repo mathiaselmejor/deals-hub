@@ -1,5 +1,90 @@
 {
-  "updatedAt": "2026-10-25T02:48:33.900Z",
+  "updatedAt": "2026-10-25T09:02:40.677Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 34.68,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "arnes-perro-ruffwear": {
+      "price": 24.99,
+      "originalPrice": 24.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 48.07,
+          "asin": "B0CLB6VL59",
+          "url": "https://www.amazon.es/dp/B0CLB6VL59",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-a55-5g-128gb": {
+      "price": 310,
+      "originalPrice": 324.41,
+      "discount": 4,
+      "offers": {
+        "amazon": {
+          "price": 310,
+          "asin": "B0CYLWTZD1",
+          "url": "https://www.amazon.es/dp/B0CYLWTZD1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "realme-12-pro-5g": {
+      "price": 319,
+      "originalPrice": 400.37,
+      "discount": 20,
+      "offers": {
+        "amazon": {
+          "price": 319,
+          "asin": "B0CTJ13KZR",
+          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 354.55,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T02:50:28.537Z",
+  "updatedAt": "2026-10-25T09:04:46.367Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -5826,6 +5826,11 @@
         "date": "2026-10-21",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-25",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -8171,6 +8176,11 @@
         "date": "2026-10-17",
         "price": 24.99,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-25",
+        "price": 24.99,
+        "source": "amazon"
       }
     ],
     "bombillas-led-pack": [
@@ -8671,6 +8681,11 @@
       {
         "date": "2026-10-07",
         "price": 321,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-25",
+        "price": 310,
         "source": "amazon"
       }
     ],
@@ -9224,6 +9239,11 @@
         "date": "2026-10-24",
         "price": 367,
         "source": "amazon"
+      },
+      {
+        "date": "2026-10-25",
+        "price": 319,
+        "source": "amazon"
       }
     ],
     "nothing-phone-2a": [
@@ -9469,6 +9489,11 @@
       },
       {
         "date": "2026-10-17",
+        "price": 281.02,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-25",
         "price": 281.02,
         "source": "amazon"
       }
@@ -10968,6 +10993,11 @@
       },
       {
         "date": "2026-10-22",
+        "price": 131.4,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-25",
         "price": 131.4,
         "source": "amazon"
       }

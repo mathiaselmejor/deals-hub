@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-10-26T12:05:55.251Z",
+  "updatedAt": "2026-10-26T22:11:35.262Z",
   "engineVersion": 1,
   "products": {
-    "ssd-samsung-990": {
-      "price": 94.99,
-      "originalPrice": 94.99,
+    "monitor-27-gaming": {
+      "price": 289.99,
+      "originalPrice": 289.99,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 180,
-          "asin": "B0BXX2PBXP",
-          "url": "https://www.amazon.es/dp/B0BXX2PBXP",
+          "price": 380.12,
+          "asin": "B09CD32DNH",
+          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
+      "offers": {
+        "amazon": {
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

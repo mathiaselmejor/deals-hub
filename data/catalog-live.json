@@ -1,30 +1,16 @@
 {
-  "updatedAt": "2026-10-25T20:17:08.219Z",
+  "updatedAt": "2026-10-26T02:46:54.049Z",
   "engineVersion": 1,
   "products": {
-    "realme-12-pro-5g": {
-      "price": 369,
-      "originalPrice": 400.37,
-      "discount": 8,
+    "garmin-forerunner-265": {
+      "price": 297.51,
+      "originalPrice": 449,
+      "discount": 34,
       "offers": {
         "amazon": {
-          "price": 369,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "steelseries-arctis-nova-7": {
-      "price": 131.4,
-      "originalPrice": 172.52,
-      "discount": 24,
-      "offers": {
-        "amazon": {
-          "price": 131.4,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 297.51,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }

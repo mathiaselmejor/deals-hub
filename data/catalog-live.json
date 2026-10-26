@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-26T02:46:54.049Z",
+  "updatedAt": "2026-10-26T09:56:39.204Z",
   "engineVersion": 1,
   "products": {
-    "garmin-forerunner-265": {
-      "price": 297.51,
-      "originalPrice": 449,
-      "discount": 34,
+    "steelseries-arctis-nova-7": {
+      "price": 131.4,
+      "originalPrice": 172.52,
+      "discount": 24,
       "offers": {
         "amazon": {
-          "price": 297.51,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 131.4,
+          "asin": "B0FS7L9CK4",
+          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
           "linkKind": "direct",
           "priceEstimated": false
         }

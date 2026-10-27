@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-10-26T22:11:35.262Z",
+  "updatedAt": "2026-10-27T03:20:55.883Z",
   "engineVersion": 1,
   "products": {
-    "monitor-27-gaming": {
-      "price": 289.99,
-      "originalPrice": 289.99,
-      "discount": 0,
+    "stanley-quencher": {
+      "price": 40.45,
+      "originalPrice": 46.99,
+      "discount": 14,
       "offers": {
         "amazon": {
-          "price": 380.12,
-          "asin": "B09CD32DNH",
-          "url": "https://www.amazon.es/dp/B09CD32DNH",
+          "price": 40.45,
+          "asin": "B0CNTWY3VM",
+          "url": "https://www.amazon.es/dp/B0CNTWY3VM",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "steelseries-arctis-nova-7": {
-      "price": 131.4,
-      "originalPrice": 172.52,
-      "discount": 24,
+    "samsung-galaxy-buds3": {
+      "price": 127.26,
+      "originalPrice": 184.99,
+      "discount": 31,
       "offers": {
         "amazon": {
-          "price": 131.4,
-          "asin": "B0FS7L9CK4",
-          "url": "https://www.amazon.es/dp/B0FS7L9CK4",
+          "price": 127.26,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }

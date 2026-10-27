@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:42:22.179Z",
+  "updatedAt": "2026-10-27T11:26:21.464Z",
   "engineVersion": 1,
   "products": {
     "cosori-airfryer": {
@@ -16,15 +16,15 @@
         }
       }
     },
-    "steam-deck-oled": {
-      "price": 559.99,
-      "originalPrice": 559.99,
+    "nothing-phone-2a": {
+      "price": 281.02,
+      "originalPrice": 281.02,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 798.85,
-          "asin": "B0CP2YVFD4",
-          "url": "https://www.amazon.es/dp/B0CP2YVFD4",
+          "price": 354.55,
+          "asin": "B0GHNXX9WY",
+          "url": "https://www.amazon.es/dp/B0GHNXX9WY",
           "linkKind": "direct",
           "priceEstimated": false
         }

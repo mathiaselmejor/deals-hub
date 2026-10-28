@@ -1,5 +1,20 @@
 {
-  "updatedAt": "2026-10-28T11:58:36.599Z",
+  "updatedAt": "2026-10-28T18:03:32.156Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "mochila-portatil": {
+      "price": 54.99,
+      "originalPrice": 54.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 63,
+          "asin": "B07KYSH6BS",
+          "url": "https://www.amazon.es/dp/B07KYSH6BS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

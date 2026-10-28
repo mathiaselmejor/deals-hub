@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-10-27",
-  "updatedAt": "2026-10-27T21:44:38.819Z",
+  "dayKey": "2026-10-28",
+  "updatedAt": "2026-10-28T03:38:43.785Z",
   "trendingIds": [
-    "lampara-pie-led-regulable",
-    "bombillas-led-pack",
-    "powerbank-magnetica-5000mah",
-    "tiras-reactivas-glucosa-x50",
-    "new-balance-574",
-    "razer-deathadder-v3",
-    "harry-potter-coleccion-7-libros",
-    "dyson-airwrap",
-    "sandwichera-grill-2000w",
-    "barbacoa-weber",
-    "pinata-rellenable-unicornio",
-    "sudadera-oversize-unisex",
-    "pampers-premium",
-    "iphone-15-128gb",
-    "roborock-qrevo-s-robot-aspirador",
-    "juguete-interactivo-perro-iq",
-    "set-skincare-coreano-5-pasos",
-    "candado-tsa-maleta-4-digitos"
-  ],
-  "featuredIds": [
     "comida-hellofresh",
-    "sabanas-microfibra-4-piezas",
+    "dyson-airwrap",
     "etiquetas-identificacion-maleta-x8",
     "set-pesas-kettlebell-8kg-12kg",
     "levis-501",
+    "radiador-aceite-9-elementos",
     "cosori-airfryer",
-    "razer-deathadder-v3",
-    "the-north-face-borealis-mochila"
+    "hot-wheels-track",
+    "cinturon-cuero-genuino",
+    "oximetro-pulso-dedo",
+    "set-skincare-coreano-5-pasos",
+    "transportin-homologado-iata",
+    "barbacoa-weber",
+    "mochila-antirrobo-portatil-15-6",
+    "helices-repuesto-dji-mini-pack",
+    "bascula-cocina-digital-5kg",
+    "photobooth-accesorios-30-piezas",
+    "sabanas-microfibra-4-piezas"
   ],
-  "dealOfDayId": "lampara-pie-led-regulable"
+  "featuredIds": [
+    "organizador-cables-escritorio",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "cafe-grano-especial-1kg",
+    "bolsa-vacio-ropa-6u-bomba",
+    "harry-potter-coleccion-7-libros",
+    "gafas-natacion-anti-vaho-pack-2",
+    "silla-gaming",
+    "etiquetas-identificacion-maleta-x8"
+  ],
+  "dealOfDayId": "comida-hellofresh"
 }

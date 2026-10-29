@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-28T18:03:32.156Z",
+  "updatedAt": "2026-10-29T03:57:22.546Z",
   "engineVersion": 1,
   "products": {
-    "mochila-portatil": {
-      "price": 54.99,
-      "originalPrice": 54.99,
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 63,
-          "asin": "B07KYSH6BS",
-          "url": "https://www.amazon.es/dp/B07KYSH6BS",
+          "price": 34.68,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
           "linkKind": "direct",
           "priceEstimated": false
         }

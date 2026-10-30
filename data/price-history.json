@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:01:16.984Z",
+  "updatedAt": "2026-10-30T17:55:29.231Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -5954,6 +5954,11 @@
       },
       {
         "date": "2026-10-29",
+        "price": 29.95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-10-30",
         "price": 29.95,
         "source": "amazon"
       }

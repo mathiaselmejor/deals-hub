@@ -1,16 +1,44 @@
 {
-  "updatedAt": "2026-10-29T22:19:46.646Z",
+  "updatedAt": "2026-10-30T03:58:59.509Z",
   "engineVersion": 1,
   "products": {
-    "delonghi-dedica": {
-      "price": 114.88,
-      "originalPrice": 199,
-      "discount": 42,
+    "cosori-airfryer": {
+      "price": 70.24,
+      "originalPrice": 129.99,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 114.88,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
+          "price": 70.24,
+          "asin": "B07N8N6C85",
+          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "pack-ropa-interior-hanes": {
+      "price": 24.95,
+      "originalPrice": 24.95,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 35.69,
+          "asin": "B09FCCHNSG",
+          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "garmin-forerunner-265": {
+      "price": 293,
+      "originalPrice": 449,
+      "discount": 35,
+      "offers": {
+        "amazon": {
+          "price": 293,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,44 +1,30 @@
 {
-  "updatedAt": "2026-10-30T03:58:59.509Z",
+  "updatedAt": "2026-10-30T10:46:14.146Z",
   "engineVersion": 1,
   "products": {
-    "cosori-airfryer": {
-      "price": 70.24,
-      "originalPrice": 129.99,
-      "discount": 46,
+    "north-face-nuptse": {
+      "price": 111,
+      "originalPrice": 329,
+      "discount": 66,
       "offers": {
         "amazon": {
-          "price": 70.24,
-          "asin": "B07N8N6C85",
-          "url": "https://www.amazon.es/dp/B07N8N6C85",
+          "price": 111,
+          "asin": "B0CNJJDJNY",
+          "url": "https://www.amazon.es/dp/B0CNJJDJNY",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "aspirador-coche": {
+      "price": 32.95,
+      "originalPrice": 32.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 35.69,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "garmin-forerunner-265": {
-      "price": 293,
-      "originalPrice": 449,
-      "discount": 35,
-      "offers": {
-        "amazon": {
-          "price": 293,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 40.83,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
           "linkKind": "direct",
           "priceEstimated": false
         }

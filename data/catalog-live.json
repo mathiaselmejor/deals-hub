@@ -1,44 +1,16 @@
 {
-  "updatedAt": "2026-10-31T20:53:11.844Z",
+  "updatedAt": "2026-11-01T03:51:46.470Z",
   "engineVersion": 1,
   "products": {
-    "pala-padel-head": {
-      "price": 53.4,
-      "originalPrice": 79.99,
-      "discount": 33,
+    "elgato-wave-3-microfono-usb": {
+      "price": 139.97,
+      "originalPrice": 139.97,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 53.4,
-          "asin": "B0DNTTDKKB",
-          "url": "https://www.amazon.es/dp/B0DNTTDKKB",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "monitor-bebe": {
-      "price": 94,
-      "originalPrice": 99.99,
-      "discount": 6,
-      "offers": {
-        "amazon": {
-          "price": 94,
-          "asin": "B09R4SJFDY",
-          "url": "https://www.amazon.es/dp/B09R4SJFDY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "nordvpn-sub": {
-      "price": 39.99,
-      "originalPrice": 49.99,
-      "discount": 20,
-      "offers": {
-        "amazon": {
-          "price": 39.99,
-          "asin": "B0D7FFRHG5",
-          "url": "https://www.amazon.es/dp/B0D7FFRHG5",
+          "price": 163.34,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

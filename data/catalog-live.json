@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T12:09:48.080Z",
+  "updatedAt": "2026-11-02T14:31:50.632Z",
   "engineVersion": 1,
   "products": {
     "stanley-quencher": {
@@ -11,6 +11,20 @@
           "price": 45.41,
           "asin": "B0CNTWY3VM",
           "url": "https://www.amazon.es/dp/B0CNTWY3VM",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "portatil-lenovo": {
+      "price": 461,
+      "originalPrice": 799,
+      "discount": 42,
+      "offers": {
+        "amazon": {
+          "price": 461,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }

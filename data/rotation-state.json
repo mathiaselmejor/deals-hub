@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-11-01",
-  "updatedAt": "2026-11-01T21:38:06.643Z",
+  "dayKey": "2026-11-02",
+  "updatedAt": "2026-11-02T03:57:41.976Z",
   "trendingIds": [
-    "comida-hellofresh",
-    "philips-hue-starter",
-    "oral-b-io9",
-    "cable-hdmi-2-1-3m-8k",
-    "purina-pro-plan-gato-3kg",
-    "hot-wheels-pista-looping",
-    "globos-helio-kit-cumpleanos-50u",
-    "vendas-kinesiologicas-6-rollos",
-    "keychron-k2-pro-teclado-mecanico",
-    "aceite-coco-virgen-500ml",
-    "juguete-interactivo-perro-iq",
-    "saco-dormir-bebe-invierno",
-    "termoventilador-ceramico-2000w",
-    "organizador-cables-escritorio",
-    "set-120-rotuladores-alcohol-dual-tip",
-    "sabanas-microfibra-4-piezas",
-    "samsung-tv-oled",
-    "neceser-viaje-colgante-organizador"
-  ],
-  "featuredIds": [
     "silla-gaming",
-    "organizador-armario-12-cajones",
-    "protector-pantalla-cristal-9h-pack-3",
-    "soporte-portatil-aluminio-ajustable",
+    "rodillera-voleibol-padel-pack-2",
+    "vasos-desechables-premium-50u",
+    "cafe-grano-especial-1kg",
     "the-north-face-borealis-mochila",
     "etiquetas-identificacion-maleta-x8",
     "garmin-forerunner-265",
-    "silla-paseo-ligera"
+    "silla-paseo-ligera",
+    "sandwichera-grill-2000w",
+    "monitor-lg-ultragear-27-165hz",
+    "purina-pro-plan-gato-3kg",
+    "bufanda-lana-merino",
+    "cinturon-cuero-genuino",
+    "barbacoa-weber",
+    "harry-potter-coleccion-7-libros",
+    "set-skincare-coreano-5-pasos",
+    "base-carga-inalambrica-magsafe-15w",
+    "aliexpress-buds"
   ],
-  "dealOfDayId": "comida-hellofresh"
+  "featuredIds": [
+    "nintendo-switch-oled",
+    "asics-gel-nimbus",
+    "domestika-cursos",
+    "levis-501",
+    "playmobil-city",
+    "silla-gaming",
+    "oral-b-io9",
+    "barbacoa-weber"
+  ],
+  "dealOfDayId": "silla-gaming"
 }

@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-04T11:57:33.749Z",
+  "updatedAt": "2026-11-04T13:39:04.739Z",
   "engineVersion": 1,
   "products": {
-    "maleta-cabina": {
-      "price": 95,
-      "originalPrice": 95,
-      "discount": 0,
+    "aliexpress-buds": {
+      "price": 24.99,
+      "originalPrice": 39.99,
+      "discount": 38,
       "offers": {
         "amazon": {
-          "price": 107.43,
-          "asin": "B009SIVCNE",
-          "url": "https://www.amazon.es/dp/B009SIVCNE",
+          "price": 37.41,
+          "asin": "B0DPXSW5PH",
+          "url": "https://www.amazon.es/dp/B0DPXSW5PH",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,27 +1,7 @@
 {
-  "dayKey": "2026-11-05",
-  "updatedAt": "2026-11-05T23:11:46.781Z",
+  "dayKey": "2026-11-06",
+  "updatedAt": "2026-11-06T04:45:52.772Z",
   "trendingIds": [
-    "escritorio-elevable-electrico-140cm",
-    "alfombrilla-xxl-rgb",
-    "toalla-microfibra-playa-xl",
-    "adidas-samba",
-    "crocs-classic",
-    "camara-seguridad",
-    "powerbank-magnetica-5000mah",
-    "playmobil-city",
-    "nordvpn-sub",
-    "bombillas-led-pack",
-    "nike-tech-fleece",
-    "zalando-gift-card-style",
-    "oral-b-io9",
-    "sandwichera-grill-2000w",
-    "barbacoa-weber",
-    "silla-paseo-ligera",
-    "samsung-tv-oled",
-    "pelota-futbol-select"
-  ],
-  "featuredIds": [
     "philips-hue-starter",
     "domestika-cursos",
     "ambientador-coche-difusor-premium",
@@ -29,7 +9,27 @@
     "termoventilador-ceramico-2000w",
     "cable-hdmi-2-1-3m-8k",
     "picadora-electrica-500w",
-    "pelota-futbol-select"
+    "oppo-reno-12-f-5g",
+    "kettlebell-16kg",
+    "sabanas-microfibra-4-piezas",
+    "termometro-infrarrojos-sin-contacto",
+    "helices-repuesto-dji-mini-pack",
+    "sierra-caladora-black-decker-600w",
+    "organizador-cables-escritorio",
+    "barbacoa-weber",
+    "cosori-airfryer",
+    "transportin-homologado-iata",
+    "bufanda-lana-merino"
   ],
-  "dealOfDayId": "escritorio-elevable-electrico-140cm"
+  "featuredIds": [
+    "bolsa-vacio-ropa-6u-bomba",
+    "globos-helio-kit-cumpleanos-50u",
+    "harry-potter-coleccion-7-libros",
+    "set-herramientas-jardin-8-piezas",
+    "camara-seguridad",
+    "linterna-led-coche-recargable",
+    "philips-hue-starter",
+    "escritorio-elevable-electrico-140cm"
+  ],
+  "dealOfDayId": "philips-hue-starter"
 }

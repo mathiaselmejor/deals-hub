@@ -1,16 +1,30 @@
 {
-  "updatedAt": "2026-11-06T22:37:52.815Z",
+  "updatedAt": "2026-11-07T04:11:59.249Z",
   "engineVersion": 1,
   "products": {
-    "iphone-15-128gb": {
-      "price": 416,
-      "originalPrice": 899,
-      "discount": 54,
+    "aspirador-coche": {
+      "price": 32.95,
+      "originalPrice": 32.95,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 416,
-          "asin": "B0CVJ23L79",
-          "url": "https://www.amazon.es/dp/B0CVJ23L79",
+          "price": 36.86,
+          "asin": "B017COMWTS",
+          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "samsung-galaxy-buds3": {
+      "price": 123.14,
+      "originalPrice": 184.99,
+      "discount": 33,
+      "offers": {
+        "amazon": {
+          "price": 123.14,
+          "asin": "B0G9BBMM6K",
+          "url": "https://www.amazon.es/dp/B0G9BBMM6K",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-11-07",
-  "updatedAt": "2026-11-07T21:21:55.883Z",
+  "dayKey": "2026-11-08",
+  "updatedAt": "2026-11-08T03:57:25.133Z",
   "trendingIds": [
-    "anillo-soporte-movil-magsafe",
-    "soporte-movil-magnetico-ventilacion",
-    "protector-solar-spf50-200ml-pack-x2",
-    "almohada-cervical-memory-foam",
-    "samsung-tv-oled",
-    "harry-potter-coleccion-7-libros",
-    "domestika-cursos",
-    "escritorio-elevable-electrico-140cm",
-    "aliexpress-buds",
-    "amazon-echo-pop-altavoz-alexa",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "zalando-gift-card-style",
-    "mancuernas-ajustables",
-    "escalera-aluminio-3-peldanos-plegable",
-    "portatil-lenovo",
-    "vendas-kinesiologicas-6-rollos",
-    "keychron-k2-pro-teclado-mecanico",
-    "almohada-cervical-viaje-memory-foam"
-  ],
-  "featuredIds": [
-    "levi-s-501-original-vaquero",
+    "delonghi-dedica",
     "comida-hellofresh",
-    "soporte-movil-magnetico-ventilacion",
+    "termoventilador-ceramico-2000w",
     "cosori-airfryer",
     "cafe-grano-especial-1kg",
     "raton-logitech-g502",
-    "oximetro-pulso-dedo",
-    "new-balance-574"
+    "escalera-aluminio-3-peldanos-plegable",
+    "new-balance-574",
+    "adidas-samba",
+    "cerave-rutina",
+    "purina-pro-plan-gato-3kg",
+    "plancha-vapor-3000w-ceramica",
+    "picadora-electrica-500w",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "saco-dormir-bebe-invierno",
+    "dyson-airwrap",
+    "keychron-k2-pro-teclado-mecanico",
+    "iphone-15-128gb"
   ],
-  "dealOfDayId": "anillo-soporte-movil-magsafe"
+  "featuredIds": [
+    "etiquetas-identificacion-maleta-x8",
+    "gafas-natacion-anti-vaho-pack-2",
+    "bolsa-vacio-ropa-6u-bomba",
+    "monitor-lg-ultragear-27-165hz",
+    "mancuernas-ajustables",
+    "altavoz-bluetooth-fiesta-40w",
+    "kettlebell-16kg",
+    "cerave-rutina"
+  ],
+  "dealOfDayId": "delonghi-dedica"
 }

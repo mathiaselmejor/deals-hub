@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:20:03.827Z",
+  "updatedAt": "2026-11-08T03:55:26.962Z",
   "engineVersion": 1,
-  "products": {
-    "portatil-lenovo": {
-      "price": 453,
-      "originalPrice": 799,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 453,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

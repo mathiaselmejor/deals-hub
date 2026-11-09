@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:11:54.216Z",
+  "updatedAt": "2026-11-09T12:43:07.649Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -1372,6 +1372,11 @@
       },
       {
         "date": "2026-11-06",
+        "price": 95,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-09",
         "price": 95,
         "source": "amazon"
       }
@@ -3258,6 +3263,11 @@
       {
         "date": "2026-11-04",
         "price": 262.39,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-09",
+        "price": 245.93,
         "source": "amazon"
       }
     ],
@@ -6664,6 +6674,11 @@
         "date": "2026-11-07",
         "price": 123.14,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-09",
+        "price": 184.99,
+        "source": "amazon"
       }
     ],
     "mochila-portatil": [
@@ -8114,6 +8129,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 24.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-09",
         "price": 24.99,
         "source": "amazon"
       }
@@ -9922,6 +9942,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 365,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-09",
         "price": 365,
         "source": "amazon"
       }
@@ -12598,6 +12623,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 230,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-09",
         "price": 230,
         "source": "amazon"
       }

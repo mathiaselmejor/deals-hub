@@ -1,30 +1,16 @@
 {
-  "updatedAt": "2026-11-10T01:04:06.306Z",
+  "updatedAt": "2026-11-10T12:20:59.549Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 189.99,
-      "originalPrice": 189.99,
+    "lenovo-tab-p12": {
+      "price": 302.71,
+      "originalPrice": 302.71,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 231.4,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "camara-seguridad": {
-      "price": 16.51,
-      "originalPrice": 31.99,
-      "discount": 48,
-      "offers": {
-        "amazon": {
-          "price": 16.51,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
+          "price": 354.55,
+          "asin": "B0DT4ZHQGQ",
+          "url": "https://www.amazon.es/dp/B0DT4ZHQGQ",
           "linkKind": "direct",
           "priceEstimated": false
         }

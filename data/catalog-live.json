@@ -1,5 +1,62 @@
 {
-  "updatedAt": "2026-11-11T23:56:50.726Z",
+  "updatedAt": "2026-11-12T05:48:40.769Z",
   "engineVersion": 1,
-  "products": {}
+  "products": {
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 75.21,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "ssd-samsung-990": {
+      "price": 94.99,
+      "originalPrice": 94.99,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 180.95,
+          "asin": "B0BXX2PBXP",
+          "url": "https://www.amazon.es/dp/B0BXX2PBXP",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "bombillas-led-pack": {
+      "price": 13.21,
+      "originalPrice": 29.99,
+      "discount": 56,
+      "offers": {
+        "amazon": {
+          "price": 13.21,
+          "asin": "B09ZBKRMG1",
+          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "logitech-mx-master-3s": {
+      "price": 96.57,
+      "originalPrice": 96.57,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 104,
+          "asin": "B09HM94VDS",
+          "url": "https://www.amazon.es/dp/B09HM94VDS",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    }
+  }
 }

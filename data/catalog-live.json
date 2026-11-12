@@ -1,30 +1,72 @@
 {
-  "updatedAt": "2026-11-12T12:24:35.970Z",
+  "updatedAt": "2026-11-12T14:29:34.282Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
+    "cafetera-moka": {
+      "price": 29.95,
+      "originalPrice": 29.95,
       "discount": 0,
       "offers": {
         "amazon": {
-          "price": 35.64,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 40.98,
+          "asin": "B0DBHLTH1Q",
+          "url": "https://www.amazon.es/dp/B0DBHLTH1Q",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "garmin-forerunner-265": {
-      "price": 245.86,
-      "originalPrice": 449,
-      "discount": 45,
+    "philips-hue-starter": {
+      "price": 23,
+      "originalPrice": 119.99,
+      "discount": 81,
       "offers": {
         "amazon": {
-          "price": 245.86,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
+          "price": 23,
+          "asin": "B099NQM99M",
+          "url": "https://www.amazon.es/dp/B099NQM99M",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "converse-chuck": {
+      "price": 54,
+      "originalPrice": 57.99,
+      "discount": 7,
+      "offers": {
+        "amazon": {
+          "price": 54,
+          "asin": "B0FDHX693D",
+          "url": "https://www.amazon.es/dp/B0FDHX693D",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "comida-hellofresh": {
+      "price": 20.28,
+      "originalPrice": 49.99,
+      "discount": 59,
+      "offers": {
+        "amazon": {
+          "price": 20.28,
+          "asin": "1784724653",
+          "url": "https://www.amazon.es/dp/1784724653",
+          "linkKind": "direct",
+          "priceEstimated": false
+        }
+      }
+    },
+    "logitech-mx-master-3s": {
+      "price": 96.57,
+      "originalPrice": 96.57,
+      "discount": 0,
+      "offers": {
+        "amazon": {
+          "price": 104,
+          "asin": "B09HM94VDS",
+          "url": "https://www.amazon.es/dp/B09HM94VDS",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:18:28.970Z",
+  "updatedAt": "2026-11-14T12:51:22.741Z",
   "engineVersion": 1,
-  "products": {
-    "monitor-bebe": {
-      "price": 96,
-      "originalPrice": 99.99,
-      "discount": 4,
-      "offers": {
-        "amazon": {
-          "price": 96,
-          "asin": "B09R4SJFDY",
-          "url": "https://www.amazon.es/dp/B09R4SJFDY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T14:33:54.814Z",
+  "updatedAt": "2026-11-17T01:28:48.658Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -3017,6 +3017,11 @@
         "date": "2026-11-04",
         "price": 58,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-17",
+        "price": 52,
+        "source": "amazon"
       }
     ],
     "garmin-forerunner-265": [
@@ -4952,6 +4957,11 @@
         "date": "2026-11-07",
         "price": 32.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-17",
+        "price": 30.24,
+        "source": "amazon"
       }
     ],
     "nespresso-vertuo": [
@@ -6883,6 +6893,11 @@
       },
       {
         "date": "2026-11-12",
+        "price": 23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-17",
         "price": 23,
         "source": "amazon"
       }
@@ -9198,6 +9213,11 @@
         "date": "2026-11-12",
         "price": 13.21,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-17",
+        "price": 13.21,
+        "source": "amazon"
       }
     ],
     "carrefour-robot": [
@@ -9797,6 +9817,11 @@
       {
         "date": "2026-11-06",
         "price": 416,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-17",
+        "price": 654,
         "source": "amazon"
       }
     ],

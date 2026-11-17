@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-11-17T12:57:04.115Z",
+  "updatedAt": "2026-11-17T15:22:29.808Z",
   "engineVersion": 1,
   "products": {
-    "portatil-lenovo": {
-      "price": 453,
-      "originalPrice": 799,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 453,
-          "asin": "B0G59NF4R4",
-          "url": "https://www.amazon.es/dp/B0G59NF4R4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "pelota-futbol-select": {
       "price": 36.99,
       "originalPrice": 36.99,
@@ -30,43 +16,15 @@
         }
       }
     },
-    "delonghi-dedica": {
-      "price": 108.26,
-      "originalPrice": 199,
-      "discount": 46,
+    "ssd-samsung-990": {
+      "price": 94.99,
+      "originalPrice": 94.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 108.26,
-          "asin": "B06WGTZ874",
-          "url": "https://www.amazon.es/dp/B06WGTZ874",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "bombillas-led-pack": {
-      "price": 13.21,
-      "originalPrice": 29.99,
-      "discount": 56,
-      "offers": {
-        "amazon": {
-          "price": 13.21,
-          "asin": "B09ZBKRMG1",
-          "url": "https://www.amazon.es/dp/B09ZBKRMG1",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "google-pixel-8a": {
-      "price": 329,
-      "originalPrice": 498.02,
-      "discount": 34,
-      "offers": {
-        "amazon": {
-          "price": 329,
-          "asin": "B0DSWFHTL2",
-          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
+          "price": 173,
+          "asin": "B0BXX2PBXP",
+          "url": "https://www.amazon.es/dp/B0BXX2PBXP",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-11-17T01:26:46.799Z",
+  "updatedAt": "2026-11-17T12:57:04.115Z",
   "engineVersion": 1,
   "products": {
-    "asics-gel-nimbus": {
-      "price": 52,
-      "originalPrice": 179.95,
-      "discount": 71,
+    "portatil-lenovo": {
+      "price": 453,
+      "originalPrice": 799,
+      "discount": 43,
       "offers": {
         "amazon": {
-          "price": 52,
-          "asin": "B0G2MMBLCB",
-          "url": "https://www.amazon.es/dp/B0G2MMBLCB",
+          "price": 453,
+          "asin": "B0G59NF4R4",
+          "url": "https://www.amazon.es/dp/B0G59NF4R4",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "aspirador-coche": {
-      "price": 30.24,
-      "originalPrice": 32.95,
-      "discount": 8,
+    "pelota-futbol-select": {
+      "price": 36.99,
+      "originalPrice": 36.99,
+      "discount": 0,
       "offers": {
         "amazon": {
-          "price": 30.24,
-          "asin": "B017COMWTS",
-          "url": "https://www.amazon.es/dp/B017COMWTS",
+          "price": 75.21,
+          "asin": "B0DPRBPZ1R",
+          "url": "https://www.amazon.es/dp/B0DPRBPZ1R",
           "linkKind": "direct",
           "priceEstimated": false
         }
       }
     },
-    "philips-hue-starter": {
-      "price": 23,
-      "originalPrice": 119.99,
-      "discount": 81,
+    "delonghi-dedica": {
+      "price": 108.26,
+      "originalPrice": 199,
+      "discount": 46,
       "offers": {
         "amazon": {
-          "price": 23,
-          "asin": "B099NQM99M",
-          "url": "https://www.amazon.es/dp/B099NQM99M",
+          "price": 108.26,
+          "asin": "B06WGTZ874",
+          "url": "https://www.amazon.es/dp/B06WGTZ874",
           "linkKind": "direct",
           "priceEstimated": false
         }
@@ -58,15 +58,15 @@
         }
       }
     },
-    "iphone-15-128gb": {
-      "price": 654,
-      "originalPrice": 899,
-      "discount": 27,
+    "google-pixel-8a": {
+      "price": 329,
+      "originalPrice": 498.02,
+      "discount": 34,
       "offers": {
         "amazon": {
-          "price": 654,
-          "asin": "B0CVJ23L79",
-          "url": "https://www.amazon.es/dp/B0CVJ23L79",
+          "price": 329,
+          "asin": "B0DSWFHTL2",
+          "url": "https://www.amazon.es/dp/B0DSWFHTL2",
           "linkKind": "direct",
           "priceEstimated": false
         }

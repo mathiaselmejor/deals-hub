@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T15:24:42.167Z",
+  "updatedAt": "2026-11-18T00:25:30.901Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -4492,6 +4492,11 @@
         "date": "2026-11-14",
         "price": 96,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 88,
+        "source": "amazon"
       }
     ],
     "silla-paseo-ligera": [
@@ -6366,6 +6371,11 @@
         "date": "2026-11-12",
         "price": 29.95,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 29.95,
+        "source": "amazon"
       }
     ],
     "theragun-mini": [
@@ -6913,6 +6923,11 @@
       },
       {
         "date": "2026-11-17",
+        "price": 23,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-18",
         "price": 23,
         "source": "amazon"
       }

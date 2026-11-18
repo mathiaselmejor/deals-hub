@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-11-17",
-  "updatedAt": "2026-11-17T15:24:42.167Z",
+  "dayKey": "2026-11-18",
+  "updatedAt": "2026-11-18T00:25:30.901Z",
   "trendingIds": [
-    "altavoz-bluetooth-fiesta-40w",
+    "pinata-rellenable-unicornio",
+    "mancuernas-ajustables",
+    "dyson-v15-detect-absolute",
+    "guirnalda-led-fiesta-10m",
     "sabanas-microfibra-4-piezas",
-    "samsung-tv-oled",
-    "sensor-inundacion-wifi-3-pack",
-    "monitor-lg-ultragear-27-165hz",
-    "cosori-airfryer",
+    "soporte-movil-magnetico-ventilacion",
+    "domestika-cursos",
+    "barbacoa-weber",
+    "roborock-qrevo-s-robot-aspirador",
+    "cable-hdmi-2-1-3m-8k",
+    "almohada-cervical-viaje-memory-foam",
+    "zalando-gift-card-style",
+    "airpods-4",
+    "set-120-rotuladores-alcohol-dual-tip",
+    "termoventilador-ceramico-2000w",
+    "bombillas-led-pack",
+    "playmobil-city",
+    "resina-epoxi-transparente-1-5l-kit"
+  ],
+  "featuredIds": [
+    "organizador-cables-escritorio",
+    "mancuernas-ajustables",
+    "the-north-face-borealis-mochila",
     "omega-3-1000mg-180-perlas",
     "playmobil-city",
     "anillo-soporte-movil-magsafe",
-    "pala-padel-head",
-    "silla-gaming",
-    "purina-pro-plan-gato-3kg",
-    "nike-tech-fleece",
-    "helices-repuesto-dji-mini-pack",
-    "gafas-natacion-anti-vaho-pack-2",
-    "levis-501",
-    "nintendo-switch-oled",
-    "barbacoa-weber"
+    "barbacoa-weber",
+    "termoventilador-ceramico-2000w"
   ],
-  "featuredIds": [
-    "helices-repuesto-dji-mini-pack",
-    "mancuernas-ajustables",
-    "nintendo-switch-oled",
-    "airpods-4",
-    "crocs-classic",
-    "audio-technica-at2020usb-microfono",
-    "domestika-cursos",
-    "fire-tv-stick-4k"
-  ],
-  "dealOfDayId": "altavoz-bluetooth-fiesta-40w"
+  "dealOfDayId": "pinata-rellenable-unicornio"
 }

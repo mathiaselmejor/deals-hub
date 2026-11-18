@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:59:34.949Z",
+  "updatedAt": "2026-11-18T23:49:51.502Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -7294,6 +7294,11 @@
         "date": "2026-11-13",
         "price": 54,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-18",
+        "price": 54,
+        "source": "amazon"
       }
     ],
     "casio-a168": [
@@ -8040,6 +8045,11 @@
       },
       {
         "date": "2026-11-04",
+        "price": 44.99,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-18",
         "price": 44.99,
         "source": "amazon"
       }
@@ -12828,6 +12838,11 @@
       },
       {
         "date": "2026-11-09",
+        "price": 230,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-18",
         "price": 230,
         "source": "amazon"
       }

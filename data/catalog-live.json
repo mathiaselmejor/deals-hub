@@ -1,35 +1,7 @@
 {
-  "updatedAt": "2026-11-19T12:41:06.070Z",
+  "updatedAt": "2026-11-19T15:03:53.365Z",
   "engineVersion": 1,
   "products": {
-    "ninja-airfryer": {
-      "price": 148.75,
-      "originalPrice": 189.99,
-      "discount": 22,
-      "offers": {
-        "amazon": {
-          "price": 148.75,
-          "asin": "B0CJVNGMFL",
-          "url": "https://www.amazon.es/dp/B0CJVNGMFL",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "camara-seguridad": {
-      "price": 18.17,
-      "originalPrice": 31.99,
-      "discount": 43,
-      "offers": {
-        "amazon": {
-          "price": 18.17,
-          "asin": "B0DS6D837F",
-          "url": "https://www.amazon.es/dp/B0DS6D837F",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "comida-hellofresh": {
       "price": 20.28,
       "originalPrice": 49.99,
@@ -44,15 +16,15 @@
         }
       }
     },
-    "realme-12-pro-5g": {
-      "price": 194,
-      "originalPrice": 400.37,
-      "discount": 52,
+    "elgato-wave-3-microfono-usb": {
+      "price": 126.36,
+      "originalPrice": 139.97,
+      "discount": 10,
       "offers": {
         "amazon": {
-          "price": 194,
-          "asin": "B0CTJ13KZR",
-          "url": "https://www.amazon.es/dp/B0CTJ13KZR",
+          "price": 126.36,
+          "asin": "B0BJL8SJ59",
+          "url": "https://www.amazon.es/dp/B0BJL8SJ59",
           "linkKind": "direct",
           "priceEstimated": false
         }

@@ -1,20 +1,5 @@
 {
-  "updatedAt": "2026-11-21T12:20:05.943Z",
+  "updatedAt": "2026-11-21T14:01:12.064Z",
   "engineVersion": 1,
-  "products": {
-    "garmin-forerunner-265": {
-      "price": 222,
-      "originalPrice": 449,
-      "discount": 51,
-      "offers": {
-        "amazon": {
-          "price": 222,
-          "asin": "B0BS1T9J4Y",
-          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-11-20",
-  "updatedAt": "2026-11-20T23:36:44.008Z",
+  "dayKey": "2026-11-21",
+  "updatedAt": "2026-11-21T05:15:20.465Z",
   "trendingIds": [
-    "pala-padel-head",
-    "fire-tv-stick-4k",
-    "cafe-grano-especial-1kg",
     "kettlebell-16kg",
-    "keychron-k2-pro-teclado-mecanico",
-    "playmobil-city",
-    "alfombrilla-xxl-rgb",
-    "vasos-desechables-premium-50u",
-    "guirnalda-led-fiesta-10m",
-    "chocolate-valor-surtido-500g",
-    "cable-usb-c-a-lightning-2m-mfi",
-    "nintendo-switch-oled",
-    "photobooth-accesorios-30-piezas",
-    "gafas-natacion-anti-vaho-pack-2",
-    "silla-ergonomica-oficina-reposabrazos-4d",
-    "realme-12-pro-5g",
-    "set-herramientas-jardin-8-piezas",
-    "soporte-movil-magnetico-ventilacion"
-  ],
-  "featuredIds": [
-    "kettlebell-16kg",
-    "globos-helio-kit-cumpleanos-50u",
-    "nintendo-switch-oled",
+    "levi-s-501-original-vaquero",
+    "dyson-v15-detect-absolute",
     "airpods-4",
     "hot-wheels-track",
     "playmobil-city",
     "set-120-rotuladores-alcohol-dual-tip",
-    "logitech-mx-master-3s"
+    "cafe-grano-especial-1kg",
+    "roborock-qrevo-s-robot-aspirador",
+    "nintendo-switch-oled",
+    "barra-sonido-samsung",
+    "garmin-forerunner-265",
+    "apple-watch-10",
+    "the-north-face-borealis-mochila",
+    "organizador-cables-escritorio",
+    "zalando-gift-card-style",
+    "raton-logitech-g502",
+    "escritorio-elevable-electrico-140cm"
   ],
-  "dealOfDayId": "pala-padel-head"
+  "featuredIds": [
+    "crocs-classic",
+    "comida-hellofresh",
+    "bascula-cocina-digital-5kg",
+    "pampers-premium",
+    "amazon-echo-pop-altavoz-alexa",
+    "powerbank-magnetica-5000mah",
+    "apple-watch-10",
+    "dyson-v15-detect-absolute"
+  ],
+  "dealOfDayId": "kettlebell-16kg"
 }

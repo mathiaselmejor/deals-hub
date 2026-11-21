@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-21T05:13:26.549Z",
+  "updatedAt": "2026-11-21T12:20:05.943Z",
   "engineVersion": 1,
   "products": {
-    "pack-ropa-interior-hanes": {
-      "price": 24.95,
-      "originalPrice": 24.95,
-      "discount": 0,
+    "garmin-forerunner-265": {
+      "price": 222,
+      "originalPrice": 449,
+      "discount": 51,
       "offers": {
         "amazon": {
-          "price": 37.08,
-          "asin": "B09FCCHNSG",
-          "url": "https://www.amazon.es/dp/B09FCCHNSG",
+          "price": 222,
+          "asin": "B0BS1T9J4Y",
+          "url": "https://www.amazon.es/dp/B0BS1T9J4Y",
           "linkKind": "direct",
           "priceEstimated": false
         }

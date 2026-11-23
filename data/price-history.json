@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:16:22.829Z",
+  "updatedAt": "2026-11-23T17:09:47.486Z",
   "products": {
     "ninja-airfryer": [
       {
@@ -5568,6 +5568,11 @@
         "date": "2026-11-20",
         "price": 105.87,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-23",
+        "price": 105.87,
+        "source": "amazon"
       }
     ],
     "samsung-tv-oled": [
@@ -5782,6 +5787,11 @@
       },
       {
         "date": "2026-11-20",
+        "price": 618.86,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-23",
         "price": 618.86,
         "source": "amazon"
       }
@@ -9135,6 +9145,11 @@
         "date": "2026-11-20",
         "price": 20.28,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-23",
+        "price": 20.28,
+        "source": "amazon"
       }
     ],
     "sprinter-zapatillas": [
@@ -10801,6 +10816,11 @@
         "date": "2026-11-20",
         "price": 281.02,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-23",
+        "price": 281.02,
+        "source": "amazon"
       }
     ],
     "ipad-10-9-2024-64gb-wifi": [
@@ -12435,6 +12455,11 @@
         "date": "2026-11-20",
         "price": 123.14,
         "source": "amazon"
+      },
+      {
+        "date": "2026-11-23",
+        "price": 123.14,
+        "source": "amazon"
       }
     ],
     "canon-eos-r50-kit-18-45mm": [
@@ -12527,6 +12552,11 @@
       },
       {
         "date": "2026-11-20",
+        "price": 509.55,
+        "source": "amazon"
+      },
+      {
+        "date": "2026-11-23",
         "price": 509.55,
         "source": "amazon"
       }

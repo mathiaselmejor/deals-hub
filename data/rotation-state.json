@@ -1,35 +1,35 @@
 {
-  "dayKey": "2026-11-22",
-  "updatedAt": "2026-11-22T23:08:11.154Z",
+  "dayKey": "2026-11-23",
+  "updatedAt": "2026-11-23T05:18:58.563Z",
   "trendingIds": [
-    "dyson-v15-detect-absolute",
-    "dyson-airwrap",
-    "aliexpress-buds",
-    "pampers-premium",
-    "termometro-infrarrojos-sin-contacto",
-    "alfombrilla-xxl-rgb",
-    "apple-watch-10",
-    "crocs-classic",
     "philips-hue-starter",
-    "vasos-desechables-premium-50u",
-    "realme-12-pro-5g",
-    "set-herramientas-jardin-8-piezas",
-    "playmobil-city",
-    "bolsa-vacio-ropa-6u-bomba",
-    "asics-gel-nimbus",
-    "barbacoa-weber",
-    "saco-dormir-bebe-invierno",
-    "harry-potter-coleccion-7-libros"
-  ],
-  "featuredIds": [
-    "barra-sonido-samsung",
-    "asics-gel-nimbus",
-    "globos-helio-kit-cumpleanos-50u",
+    "keychron-k2-pro-teclado-mecanico",
+    "oximetro-pulso-dedo",
+    "fire-tv-stick-4k",
     "cerave-rutina",
-    "colchon-emma",
     "north-face-nuptse",
     "cable-hdmi-2-1-3m-8k",
-    "escalera-aluminio-3-peldanos-plegable"
+    "levi-s-501-original-vaquero",
+    "bascula-withings",
+    "dyson-v15-detect-absolute",
+    "stanley-quencher",
+    "dji-osmo-pocket-3",
+    "protector-solar-spf50-200ml-pack-x2",
+    "almohada-cervical-viaje-memory-foam",
+    "almohada-cervical-memory-foam",
+    "delonghi-dedica",
+    "etiquetas-identificacion-maleta-x8",
+    "gafas-snorkel-mascara-panorramica"
   ],
-  "dealOfDayId": "dyson-v15-detect-absolute"
+  "featuredIds": [
+    "raton-logitech-g502",
+    "chocolate-valor-surtido-500g",
+    "philips-hue-starter",
+    "audio-technica-at2020usb-microfono",
+    "logitech-mx-master-3s",
+    "cinta-correr-plegable",
+    "fire-tv-stick-4k",
+    "lampara-pie-led-regulable"
+  ],
+  "dealOfDayId": "philips-hue-starter"
 }

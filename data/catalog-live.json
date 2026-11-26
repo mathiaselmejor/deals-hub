@@ -1,34 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:41:05.395Z",
+  "updatedAt": "2026-11-26T16:13:11.377Z",
   "engineVersion": 1,
-  "products": {
-    "monitor-bebe": {
-      "price": 72,
-      "originalPrice": 99.99,
-      "discount": 28,
-      "offers": {
-        "amazon": {
-          "price": 72,
-          "asin": "B09R4SJFDY",
-          "url": "https://www.amazon.es/dp/B09R4SJFDY",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "monitor-27-gaming": {
-      "price": 289.99,
-      "originalPrice": 289.99,
-      "discount": 0,
-      "offers": {
-        "amazon": {
-          "price": 319.83,
-          "asin": "B09CD32DNH",
-          "url": "https://www.amazon.es/dp/B09CD32DNH",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    }
-  }
+  "products": {}
 }

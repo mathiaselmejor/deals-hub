@@ -1,21 +1,7 @@
 {
-  "updatedAt": "2026-11-27T13:38:28.750Z",
+  "updatedAt": "2026-11-27T15:58:34.956Z",
   "engineVersion": 1,
   "products": {
-    "barra-sonido-samsung": {
-      "price": 119,
-      "originalPrice": 1199,
-      "discount": 90,
-      "offers": {
-        "amazon": {
-          "price": 119,
-          "asin": "B0F1D9PZ98",
-          "url": "https://www.amazon.es/dp/B0F1D9PZ98",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
     "steam-deck-oled": {
       "price": 559.99,
       "originalPrice": 559.99,
@@ -25,20 +11,6 @@
           "price": 1007,
           "asin": "B0CP2YVFD4",
           "url": "https://www.amazon.es/dp/B0CP2YVFD4",
-          "linkKind": "direct",
-          "priceEstimated": false
-        }
-      }
-    },
-    "sony-zv-e10-vlogging": {
-      "price": 509.09,
-      "originalPrice": 649.92,
-      "discount": 22,
-      "offers": {
-        "amazon": {
-          "price": 509.09,
-          "asin": "B0FLQ1MF47",
-          "url": "https://www.amazon.es/dp/B0FLQ1MF47",
           "linkKind": "direct",
           "priceEstimated": false
         }
